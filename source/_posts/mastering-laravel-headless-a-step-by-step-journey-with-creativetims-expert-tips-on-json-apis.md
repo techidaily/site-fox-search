@@ -1,7 +1,7 @@
 ---
 title: "Mastering Laravel Headless: A Step-by-Step Journey with @CreativeTim's Expert Tips on JSON APIs"
-date: 2024-09-18 12:53:54
-updated: 2024-09-20 10:44:33
+date: 2024-09-12T22:14:12.776Z
+updated: 2024-09-19T18:53:02.515Z
 tags:
   - product
 categories:
@@ -31,11 +31,17 @@ thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
