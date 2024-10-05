@@ -1,7 +1,7 @@
 ---
 title: "Localizing Your Java Application: Tips and Best Practices"
-date: 2024-09-27T05:49:02.459Z
-updated: 2024-09-30T03:00:54.948Z
+date: 2024-10-03T21:40:43.772Z
+updated: 2024-10-05T19:49:18.050Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ Table of Contents
 ## Java Product Localization
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General details
@@ -92,26 +92,32 @@ The localization of a Java Product implies the translation of the names of the E
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For any language, the name of the launcher and that of the configuration file may differ but without modifying the extension.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The default extensions (.exe and .ini) must be preserved.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Mac OS X Java Application localization
@@ -158,22 +164,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide/"><u>[New] 2024 Approved Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagrams-filter-system-free-at-your-fingertips/"><u>[Updated] Mastering Instagram's Filter System – Free, at Your Fingertips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-pixels-of-peaceful-bedtime-narratives/"><u>2024 Approved Pixels of Peaceful Bedtime Narratives</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-thrustmaster-t150-drivers-instantly-for-a-smooth-gaming-experience/"><u>Download Thrustmaster T150 Drivers Instantly for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-can-we-optimize-our-ebook-for-flawless-display-and-functionality-on-an-ipad-learn-with-flipbuildercom/"><u>How Can We Optimize Our eBook for Flawless Display and Functionality on an iPad? [Learn with FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-can-you-create-interactive-links-within-your-pdf-books-using-flipbook-software/"><u>How Can You Create Interactive Links Within Your PDF Books Using FlipBook Software?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-customize-background-images-in-flipbooks-with-easy-guide/"><u>How to Customize Background Images in FlipBooks with Easy Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-xs-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone XS with IMEI Code?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/improve-visibility-and-readability-of-online-flipbooks-with-our-guide-at-flipbuildercom/"><u>Improve Visibility & Readability of Online Flipbooks with Our Guide at FlipBuilder.com</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-v2-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic V2 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-gimbals-for-smooth-filming-experience/"><u>In 2024, Ultimate Gimbals for Smooth Filming Experience</u></a></li>
-<li><a href="https://fox-search.techidaily.com/is-it-possible-to-distribute-interactive-mobile-friendly-flipbooks-with-flipbuilder/"><u>Is It Possible to Distribute Interactive Mobile-Friendly Flipbooks with FlipBuilder?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/master-flippdf-for-mac-the-ultimate-tutorial-at-flipbuildercom-for-enhanced-document-management/"><u>Master FlipPDF for Mac: The Ultimate Tutorial at FlipBuilder.com for Enhanced Document Management</u></a></li>
-<li><a href="https://fox-search.techidaily.com/optimize-page-thickness-and-dimensions-in-control-flipping-books-before-uploading-to-flipbuilder/"><u>Optimize Page Thickness & Dimensions in Control Flipping Books Before Uploading to FlipBuilder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/seamlessly-update-book-cover-images-with-flipbuilder-a-comprehensive-guide/"><u>Seamlessly Update Book Cover Images with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-best-free-video-viewing-software-guide-top-16-for-2024/"><u>[Updated] Best Free Video Viewing Software Guide - Top 16 for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-step-by-step-approach-for-properly-placing-music-emojis-in-instagram/"><u>2024 Approved A Step-by-Step Approach for Properly Placing Music Emojis in Instagram</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-elite-drones-awaiting-purchase/"><u>2024 Approved Elite Drones Awaiting Purchase</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-macos-1015-pdf-utilities-alternatives-to-adobe-acrobat-software/"><u>Best macOS 10.15 PDF Utilities - Alternatives to Adobe Acrobat Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/boost-image-clarity-with-these-6-amazing-apps-for-blurry-photos-complimentary-and-subscription-services/"><u>Boost Image Clarity with These 6 Amazing Apps for Blurry Photos : Complimentary & Subscription Services</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-top-rated-registries-near-you-with-our-easy-locator-tool/"><u>Discover Top-Rated Registries Near You with Our Easy Locator Tool</u></a></li>
+<li><a href="https://fox-search.techidaily.com/download-free-malware-protection-discover-how-malwarefox-keeps-your-android-device-safe/"><u>Download Free Malware Protection: Discover How MalwareFox Keeps Your Android Device Safe</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/end-juxtaposing-siri-and-chatgpt-discerning-their-divergence/"><u>End Juxtaposing Siri & ChatGPT: Discerning Their Divergence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-wondershare-photo-story-platinum/"><u>In 2024, Wondershare Photo Story Platinum</u></a></li>
+<li><a href="https://fox-search.techidaily.com/introducing-the-new-features-in-our-latest-software-update/"><u>Introducing the New Features in Our Latest Software Update!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ound-editing-solutions-for-video-bloggers/"><u>Key Sound Editing Solutions for Video Bloggers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reconstructing-your-thoughts-a-review-of-the-best-tools-to-get-back-lost-notes-from-an-iphone/"><u>Reconstructing Your Thoughts: A Review of the Best Tools to Get Back Lost Notes From an iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/saving-money-without-sacrificing-quality-an-expert-take-on-144hz-and-40-inch-monoprices-gaming-marvel-at-a-steal-price/"><u>Saving Money without Sacrificing Quality: An Expert Take on 144Hz and 40-Inch Monoprice's Gaming Marvel at a Steal Price</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-f23-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo F23 5G Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/transform-flv-files-into-html5-format-with-our-advanced-video-converter-tool/"><u>Transform FLV Files Into HTML5 Format with Our Advanced Video Converter Tool</u></a></li>
 </ul></div>
 

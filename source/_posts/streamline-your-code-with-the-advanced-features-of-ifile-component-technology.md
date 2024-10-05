@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Code with the Advanced Features of iFile Component Technology
-date: 2024-09-26T03:05:22.086Z
-updated: 2024-09-30T01:28:08.439Z
+date: 2024-09-28T16:03:47.333Z
+updated: 2024-10-05T19:34:08.052Z
 tags:
   - user-guide
 categories:
@@ -111,26 +111,26 @@ Table of Contents
 
 The interface is desgined to get files from a project or to add new ones.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IFileComponent : IDispatch
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
 **Array<IFile> Files** \- Gets all the simple files from the project in an array. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -150,10 +150,17 @@ IFileComponent : IDispatch
 ![Ifilescomponent](https://cdn.advancedinstaller.com/img/powershell-automation/ifilescomponent.png "Ifilescomponent")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -165,19 +172,6 @@ IFileComponent : IDispatch
 [IFolder](https://tools.techidaily.com/advancedinstaller/products/)
 
 [IPredefinedFolders](https://tools.techidaily.com/advancedinstaller/products/)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -217,19 +211,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagrams-hottest-25-minds-in-the-digital-age/"><u>[New] 2024 Approved Instagram's Hottest 25 Minds in the Digital Age</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-quick-tip-find-your-youtube-comments-anytime-anywhere/"><u>[New] In 2024, Quick Tip Find Your YouTube Comments Anytime, Anywhere</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-spice-up-your-instagram-feed-incorporate-video-loops/"><u>[New] In 2024, Spice Up Your Instagram Feed Incorporate Video Loops</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-ranking-the-top-5-video-frame-capturers/"><u>[Updated] In 2024, Ranking the Top 5 Video Frame Capturers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unlocking-your-potential-in-free-youtube-transcription-techniques/"><u>[Updated] In 2024, Unlocking Your Potential in Free YouTube Transcription Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-screen-recording-software-compared-bandicam-vs-camtasia-for-2024/"><u>[Updated] Top Screen Recording Software Compared Bandicam Vs Camtasia for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/expert-tips-unleashing-your-potential-in-youtube-ads-for-2024/"><u>Expert Tips Unleashing Your Potential in YouTube Ads for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-can-we-optimize-our-ebook-for-flawless-display-and-functionality-on-an-ipad-learn-with-flipbuildercom/"><u>How Can We Optimize Our eBook for Flawless Display and Functionality on an iPad? [Learn with FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-can-you-create-interactive-links-within-your-pdf-books-using-flipbook-software/"><u>How Can You Create Interactive Links Within Your PDF Books Using FlipBook Software?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-customize-background-images-in-flipbooks-with-easy-guide/"><u>How to Customize Background Images in FlipBooks with Easy Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/improve-visibility-and-readability-of-online-flipbooks-with-our-guide-at-flipbuildercom/"><u>Improve Visibility & Readability of Online Flipbooks with Our Guide at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-search.techidaily.com/is-it-possible-to-distribute-interactive-mobile-friendly-flipbooks-with-flipbuilder/"><u>Is It Possible to Distribute Interactive Mobile-Friendly Flipbooks with FlipBuilder?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-to-galaxy-m14-5g-converter-convert-mov-files-for-galaxy-m14-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Galaxy M14 5G converter-convert .mov files for Galaxy M14 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-rog-phone-8-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from ROG Phone 8.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-handbook-for-proficient-periscope-use/"><u>[New] Comprehensive Handbook for Proficient Periscope Use</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pinnacle-7-action-shooter-games-for-2024/"><u>[Updated] Pinnacle 7 Action Shooter Games for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-macos-1015-pdf-utilities-alternatives-to-adobe-acrobat-software/"><u>Best macOS 10.15 PDF Utilities - Alternatives to Adobe Acrobat Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/boost-image-clarity-with-these-6-amazing-apps-for-blurry-photos-complimentary-and-subscription-services/"><u>Boost Image Clarity with These 6 Amazing Apps for Blurry Photos : Complimentary & Subscription Services</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-top-rated-registries-near-you-with-our-easy-locator-tool/"><u>Discover Top-Rated Registries Near You with Our Easy Locator Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-network-adaptor-glitches-in-windows-7-a-comprehensive-guide/"><u>Fixing Network Adaptor Glitches in Windows 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-smart-8-hd-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Smart 8 HD</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ideal-online-audio-equipment-top-7-picks-2023/"><u>In 2024, Ideal Online Audio Equipment Top 7 Picks 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-photographic-face-off-legend-sj6-vs-xiaomis-yi-kickstarter/"><u>In 2024, Ultimate Photographic Face-Off Legend SJ6 Vs. Xiaomi's Yi Kickstarter</u></a></li>
+<li><a href="https://fox-search.techidaily.com/introducing-the-new-features-in-our-latest-software-update/"><u>Introducing the New Features in Our Latest Software Update!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-flawless-operation-for-r9-drivers-in-w10/"><u>Restored Flawless Operation for R9 Drivers in W10</u></a></li>
+<li><a href="https://fox-search.techidaily.com/transform-flv-files-into-html5-format-with-our-advanced-video-converter-tool/"><u>Transform FLV Files Into HTML5 Format with Our Advanced Video Converter Tool</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Now: How the HUD Enhances Your Active Desktop Experience"
-date: 2024-09-28T00:21:45.350Z
-updated: 2024-09-30T03:51:09.534Z
+date: 2024-10-04T19:30:55.841Z
+updated: 2024-10-05T20:59:33.614Z
 tags:
   - product
 categories:
@@ -47,10 +47,10 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Introduction 
@@ -63,23 +63,9 @@ Action Tutorials
 
 ![Mirillis Action! - Active desktop recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_recording_mode.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Please note that Action! HUD appears in top right (default position) corner of your screen. This means that Action! is now connected to your Windows desktop and is ready to start desktop recording. 
 
 ![Mirillis Action! - HUD in active desktop mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Information displayed on Action! HUD
 
@@ -94,6 +80,13 @@ Action Tutorials
   
 ![](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_description.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Hotkeys
 
 To control Action! HUD you can use the following hotkeys:
@@ -104,33 +97,46 @@ To control Action! HUD you can use the following hotkeys:
 
 To change HUD startup position, please open Action! Settings, go to HUD tab and set 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  HUD status during desktop recording
 
  Press **"Start/stop recording"** button or **F9** hotkey to start Windows desktop recording. HUD status changes showing that Windows desktop recording is in progress. Press "Start/stop recording" button or F9 hotkey again to stop desktop recording.
 
 ![Mirillis Action! - exporting video recordings to YouTube - start export](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_video_recording_status.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When desktop recording is in progress press **SHIFT+F9** hotkey to pause recording, please note that HUD status changes showing PAUSE icon. Press "SHIFT+F9" hotkey again to resume desktop recording.
 
 ![Mirillis Action! - HUD showing desktop recording in progress](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_video_recording_paused.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For time limited desktop recordings HUD displays a progress bar. Enable **"Duration"** in Video capture tab settings to limit desktop recording to specific duration. 
 
 ![Mirillis Action! - desktop recording duration settings](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_video_recording_duration.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When desktop recording duration is enabled HUD displays a progress bar showing the progress of time limited desktop recording.
 
@@ -155,22 +161,20 @@ To change HUD startup position, please open Action! Settings, go to HUD tab and 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitsoundscape-audio-from-tweets/"><u>[New] 2024 Approved TwitSoundscape Audio From Tweets</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-unveiling-immersion-the-lg-360-virtual-reality-experience/"><u>[New] 2024 Approved Unveiling Immersion The LG 360 Virtual Reality Experience</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tailoring-trailer-music-to-evoke-emotion/"><u>[New] Tailoring Trailer Music to Evoke Emotion</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-15-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 15 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/cbs-news-video-downloads-available-in-multiple-file-types-for-easy-viewing-and-sharing/"><u>CBS News Video Downloads Available in Multiple File Types for Easy Viewing and Sharing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/complete-guide-to-downloading-plus7-series-and-movies-from-plus7-streaming-service/"><u>Complete Guide to Downloading PLUS7 Series and Movies From Plus7 Streaming Service</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-uniden-r3-radar-detector-assessment-durability-and-extended-reach/"><u>Comprehensive Uniden R3 Radar Detector Assessment: Durability & Extended Reach</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-all-inclusive-audio-content-from-podomatic-with-our-superior-media-extractor-tool/"><u>Download All-Inclusive Audio Content From PodOmatic with Our Superior Media Extractor Tool!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-hd-clip-video-files-in-high-quality-formats-mp4movavi-from-hclpix/"><u>Download HD Clip Video Files in High-Quality Formats (MP4/MOV/AVI) From Hclpix</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-high-quality-movies-and-tv-shows-in-various-codecs-from-tudou-using-a-convenient-downloader-tool/"><u>Download High-Quality Movies and TV Shows in Various Codecs From Tudou Using a Convenient Downloader Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-tal-episodes-as-mp3-two-effective-techniques/"><u>Download TAL Episodes as MP3: Two Effective Techniques</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-your-favorite-netflix-films-anytime-with-pcmac-compatible-app/"><u>Download Your Favorite Netflix Films Anytime with PC/Mac Compatible App</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-qcp-file-conversion-transform-your-qcp-audio-files-into-mp3-wav-wma-flac-and-aac-with-our-advanced-media-tool/"><u>Easy QCP File Conversion: Transform Your QCP Audio Files Into MP3, WAV, WMA, FLAC & AAC with Our Advanced Media Tool</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-gt-10-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix GT 10 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-issues-with-opening-discord-effective-solutions-and-tips/"><u>Overcoming Issues with Opening Discord: Effective Solutions & Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-streaming-solving-your-logitech-f710-driver-woes-in-windows-81011/"><u>Seamless Streaming: Solving Your Logitech F710 Driver Woes in Windows 8/10/11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-f04-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy F04 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-rated-5-backdrop-change-utilities-for-iphones-x78-for-2024/"><u>Best-Rated 5 Backdrop Change Utilities for iPhones X/7/8 for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-tutorial-on-how-to-make-a-screen-recording-with-screencast-o-matic-software/"><u>Easy Tutorial on How to Make a Screen Recording with Screencast-O-Matic Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expeditious-steps-for-reclaiming-deleted-reddit-content/"><u>Expeditious Steps for Reclaiming Deleted Reddit Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-s23-fe-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy S23 FE Phones? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-11-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 11 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-smart-8-hd-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Smart 8 HD Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/indoor-android-games-you-can-play-without-a-network/"><u>Indoor Android Games You Can Play Without a Network</u></a></li>
+<li><a href="https://fox-search.techidaily.com/installation-prerequisites-checklist-your-step-by-step-resource/"><u>Installation Prerequisites Checklist: Your Step-by-Step Resource</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quick-guide-temporary-file-handling-within-file-explorers-navigation-interface/"><u>Quick Guide: Temporary File Handling Within File Explorer’s Navigation Interface</u></a></li>
+<li><a href="https://fox-search.techidaily.com/seamless-itunes-format-converter-turn-any-video-into-itunes-ready-media-files/"><u>Seamless iTunes Format Converter: Turn Any Video Into iTunes Ready Media Files</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simple-and-straightforward-methods-for-converting-pdf-documents-to-powerpoint-slideshows-on-android-a-2nd-guide/"><u>Simple and Straightforward Methods for Converting PDF Documents to PowerPoint Slideshows on Android - A 2nD Guide!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/streamlining-media-files-from-xmltxt-to-srt-mastery-for-2024/"><u>Streamlining Media Files From XML/TXT to SRT Mastery for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-mobile-apps-for-flawless-haircutting-on-android-and-iphone/"><u>Top-Rated Mobile Apps for Flawless Haircutting on Android and iPhone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-audio-capture-problems-in-both-windows-and-macos-environments/"><u>Troubleshooting Audio Capture Problems in Both Windows and macOS Environments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/youtube-video-archiving-made-simple-for-2024/"><u>YouTube Video Archiving Made Simple for 2024</u></a></li>
 </ul></div>
 

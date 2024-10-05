@@ -1,7 +1,7 @@
 ---
 title: How to Modify Installation Details Using Edit MSIs - Quick Tutorial
-date: 2024-09-29T06:05:31.665Z
-updated: 2024-09-30T05:17:51.430Z
+date: 2024-10-03T20:20:58.271Z
+updated: 2024-10-05T16:29:47.986Z
 tags:
   - user-guide
 categories:
@@ -94,10 +94,10 @@ This dialog enables you to edit a field from the MSI summary information.
 ![Edit MSI Summary Information Field Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-msi-summary-information-field.png "Edit MSI Summary Information Field Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Field Details
@@ -111,46 +111,34 @@ The field name. This value cannot be changed.
 This field has [Advanced Installer PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Value Options
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use specific value
 
 Checking this option will enable the above **Value** field allowing you to edit it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use default value (generated at build)
 
 This option restores the default field value which is generated at build time.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not use this field
@@ -190,22 +178,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-cartoon-expressions-with-snapchats-fun-filter/"><u>[New] In 2024, Mastering Cartoon Expressions with Snapchat's Fun Filter</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-google-meets-grid-view-functionality-for-2024/"><u>[Updated] Mastering Google Meet's Grid View Functionality for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-8-ios-pencil-programs-perfected-for-ipados-for-2024/"><u>[Updated] Top 8 iOS Pencil Programs Perfected for iPadOS for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-10plus-top-free-subtitle-converter-websites/"><u>[Updated] Unlocking 10+ Top Free Subtitle Converter Websites</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-step-by-step-guide-convert-your-ebooks-into-audiobooks-mp3flac-using-macos-or-windows/"><u>1. Step-by-Step Guide: Convert Your Ebooks Into Audiobooks (MP3/FLAC) Using macOS or Windows</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-with-smart-tracking/"><u>Cookiebot-Driven Personalization: Enhancing User Experience with Smart Tracking</u></a></li>
-<li><a href="https://driver-install.techidaily.com/flawless-functionality-windows-11-and-new-acer-drivers/"><u>Flawless Functionality: Windows 11 & New Acer Drivers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-motorola-edge-2023-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Motorola Edge 2023 Phones? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-15-innovative-cost-free-photo-manipulation-software/"><u>In 2024, 15 Innovative, Cost-Free Photo Manipulation Software</u></a></li>
-<li><a href="https://fox-search.techidaily.com/learn-anywhere-save-your-educational-videos-as-high-quality-formats-for-offline-access/"><u>Learn Anywhere - Save Your Educational Videos as High-Quality Formats for Offline Access</u></a></li>
-<li><a href="https://fox-search.techidaily.com/multi-format-media-saver-download-and-convert-your-favorite-shows-easily-to-mp4-mp3-and-more/"><u>Multi-Format Media Saver - Download and Convert Your Favorite Shows Easily to MP4, MP3 & More</u></a></li>
-<li><a href="https://fox-search.techidaily.com/pathoma-video-converter-tool-convert-and-save-your-favorite-lectures-in-multiple-formats/"><u>Pathoma Video Converter Tool: Convert and Save Your Favorite Lectures in Multiple Formats</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/purchase-your-exclusive-iphone-compatible-super-eraser-today/"><u>Purchase Your Exclusive iPhone-Compatible Super Eraser Today</u></a></li>
-<li><a href="https://fox-search.techidaily.com/quick-guide-to-converting-myasiantv-streams-into-high-quality-mp4-format/"><u>Quick Guide to Converting MyasianTV Streams Into High-Quality MP4 Format</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-tutorial-for-downloading-and-saving-investopedia-videos-as-mp4-flv-or-other-file-types/"><u>Step-by-Step Tutorial for Downloading and Saving Investopedia Videos as MP4, FLV or Other File Types</u></a></li>
-<li><a href="https://fox-search.techidaily.com/stream-and-save-from-telecinco-ultimate-video-and-show-downloading-tool/"><u>Stream and Save From Telecinco: Ultimate Video & Show Downloading Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-obs-replacement-software-compared-best-mac-and-windows-options-by-allavsoft/"><u>Top OBS Replacement Software Compared: Best Mac & Windows Options by Allavsoft</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-asmr-knowledge-beyond-what-you-see/"><u>[New] 2024 Approved ASMR Knowledge Beyond What You See</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027447052-youtube/"><u>「Youtube映像のバックアップと保管 -ダウンロード手順入門」</u></a></li>
+<li><a href="https://fox-search.techidaily.com/download-free-malware-protection-discover-how-malwarefox-keeps-your-android-device-safe/"><u>Download Free Malware Protection: Discover How MalwareFox Keeps Your Android Device Safe</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-guide-uploading-your-android-videos-onto-a-windowsmac-computer/"><u>Easy Guide: Uploading Your Android Videos Onto a Windows/Mac Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuito-e-simples-aprenda-a-converter-videos-no-formato-3gp-para-webm-utilizando-a-ferramenta-on-line-do-movavi/"><u>Gratuito E Simples: Aprenda a Converter Vídeos No Formato 3GP Para WebM Utilizando a Ferramenta On-Line Do Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-12-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 12 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-yuva-2-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Yuva 2 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/installing-kodi-on-your-xbox-one-a-detailed-easy-to-follow-tutorial/"><u>Installing Kodi on Your Xbox One: A Detailed, Easy-to-Follow Tutorial</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/instant-transmission-tweets-as-vids-on-whatsapp-for-2024/"><u>Instant Transmission Tweets as Vids on WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/introducing-the-new-features-in-our-latest-software-update/"><u>Introducing the New Features in Our Latest Software Update!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-easy-how-to-installing-driver-updates-on-windows-versions-7-to-10/"><u>Quick and Easy How-To: Installing Driver Updates on Windows Versions 7 to 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/reimagining-your-message-innovative-video-concepts-for-2024/"><u>Reimagining Your Message Innovative Video Concepts for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-android-security-software-of-2019-aaa-editors-picks/"><u>Top-Rated Android Security Software of 2019: AAA Editors' Picks</u></a></li>
+<li><a href="https://fox-search.techidaily.com/transform-flv-files-into-html5-format-with-our-advanced-video-converter-tool/"><u>Transform FLV Files Into HTML5 Format with Our Advanced Video Converter Tool</u></a></li>
 </ul></div>
 

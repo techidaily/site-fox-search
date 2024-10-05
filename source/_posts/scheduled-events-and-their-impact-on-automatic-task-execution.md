@@ -1,7 +1,7 @@
 ---
 title: Scheduled Events and Their Impact on Automatic Task Execution
-date: 2024-09-26T16:43:32.570Z
-updated: 2024-09-29T21:51:22.374Z
+date: 2024-09-29T18:22:51.522Z
+updated: 2024-10-05T18:30:46.030Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ To schedule tasks **On an Event** add your custom query to the **Event query sub
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is [formatted](https://tools.techidaily.com/advancedinstaller/products/), so any conflicting special characters references must be escaped.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Example
@@ -142,18 +142,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-and-effective-strategies-for-vimeo-capture/"><u>[New] 2024 Approved Quick & Effective Strategies for Vimeo Capture</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-professional-capturer-snappy-windows-snap/"><u>[Updated] Professional Capturer Snappy Windows Snap</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-zero-price-green-screen-aids/"><u>[Updated] Zero-Price Green Screen Aids</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-bypassing-barriers-privately-share-youtube-video-via-google/"><u>2024 Approved Bypassing Barriers Privately Share YouTube Video via Google</u></a></li>
-<li><a href="https://fox-search.techidaily.com/get-premium-xxxbunker-adult-videos-converted-to-common-file-types-mp4-mov-avi-on-windows-and-macos/"><u>Get Premium Xxxbunker Adult Videos Converted to Common File Types (MP4, MOV, AVI) on Windows and macOS</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-download-and-change-your-youtube-video-into-mov-file-a-complete-tutorial-for-pcs-and-macbooks/"><u>How to Download and Change Your YouTube Video Into MOV File: A Complete Tutorial for PCs and MacBooks</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-easily-download-your-favorite-shows-a-guide-using-playedto/"><u>How to Easily Download Your Favorite Shows: A Guide Using Played.to</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-fix-video-grabber-not-working-top-replacement-tools/"><u>How to Fix 'Video Grabber Not Working': Top Replacement Tools</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-get-your-favorite-nowness-media-content-cross-platform-guide-for-mac-and-windows-users/"><u>How to Get Your Favorite NOWNESS Media Content: Cross-Platform Guide for Mac & Windows Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-interactive-learning-strategies-in-video-editing/"><u>In 2024, Interactive Learning Strategies in Video Editing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-mastery-in-media-download-from-facebook-platforms/"><u>In 2024, Mastery in Media Download From Facebook Platforms</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-immediately-reduce-high-cpu-usage-of-your-device-targeted-solutions-for-tackling-excessive-shell-induced-heat/"><u>[Fix] Immediately Reduce High CPU Usage of Your Device – Targeted Solutions for Tackling Excessive Shell-Induced Heat.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premium-video-capture-devices-for-windows-os/"><u>[New] In 2024, Premium Video Capture Devices for Windows OS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-expert-fb-video-sharing-tactics-for-desktop-and-handheld-devices-for-2024/"><u>[Updated] Expert FB Video Sharing Tactics for Desktop and Handheld Devices for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-property-details-of-registry-storage-settings/"><u>1. Property Details of Registry Storage Settings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-content-creation-in-todays-revenue-landscape/"><u>2024 Approved Content Creation in Today’s Revenue Landscape</u></a></li>
+<li><a href="https://fox-search.techidaily.com/engaging-photo-carousel-pages-on-the-web/"><u>Engaging Photo Carousel Pages on the Web</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-the-spectrum-of-methodical-structured-teaching-mst-models/"><u>Exploring the Spectrum of Methodical Structured Teaching (MST) Models</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-follower-verification-techniques-for-professionals-for-2024/"><u>Facebook Follower Verification Techniques for Professionals for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-garmin-virb-ultra-30-an-insider-look-at-an-adventure-staple/"><u>In 2024, Garmin VIRB Ultra 30 An Insider Look at an Adventure Staple</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-redmi-k70-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Redmi K70 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-imsm-file-enrollment-comprehensive-strategies-and-tips/"><u>Mastering IMSM File Enrollment: Comprehensive Strategies and Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Illustrative SQL Queries: A Comprehensive Guide"
-date: 2024-09-26T16:05:44.391Z
-updated: 2024-09-30T08:47:49.675Z
+date: 2024-09-30T18:04:30.145Z
+updated: 2024-10-05T19:37:39.323Z
 tags:
   - user-guide
 categories:
@@ -82,19 +82,6 @@ Table of Contents
 
 The SQL Query result sets can be either **generic** (multiple rows, multiple columns), **vertical** (multiple rows, 1 column) or **horizontal** (1 row, multiple columns).
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Generic example
 
 Assuming the following binding properties set for the SQL query:
@@ -109,6 +96,13 @@ Assuming the following binding properties set for the SQL query:
 | **ROW\_2** | VAL\_2A    | VAL\_2B    | VAL\_2C |
 | **ROW\_3** | VAL\_3A    | VAL\_3B    | VAL\_3C |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Results
 
 * any ListBox or ComboBox controls that have the associated property named COL\_A\_PROP will be populated withVAL\_1A, VAL\_2A,VAL\_3A.
@@ -119,10 +113,10 @@ Assuming the following binding properties set for the SQL query:
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Before deploying the new result set, the previous binding content will be cleared.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Vertical example
@@ -132,6 +126,13 @@ Assuming the following binding properties set for the SQL query:
 | **ROW\_1** | VAL\_1A |
 | **ROW\_2** | VAL\_2A |
 | **ROW\_3** | VAL\_3A |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Results
 
@@ -144,10 +145,10 @@ Assuming the following binding properties set for the SQL query:
 | **ROW\_1** | VAL\_1A    | VAL\_1B    | VAL\_1C |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Results
@@ -155,13 +156,6 @@ Assuming the following binding properties set for the SQL query:
 * properties COL\_A\_PROP,COL\_B\_PROP andCOL\_C\_PROP will be directly set toVAL\_1A, VAL\_1B and respectively VAL\_1C (first result set row).
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)An empty result set is a valid output.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -196,24 +190,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-transforming-patience-into-speed-with-apps/"><u>[Updated] Transforming Patience Into Speed with Apps</u></a></li>
-<li><a href="https://fox-search.techidaily.com/2-oracle-certification-study-guides-and-videocasts-download-tutorials-directly-from-oracle-university/"><u>2. Oracle Certification Study Guides & Videocasts: Download Tutorials Directly From Oracle University.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-steps-to-fade-audio-with-fl-studio/"><u>2024 Approved Steps to Fade Audio with FL Studio</u></a></li>
-<li><a href="https://fox-search.techidaily.com/bulk-download-of-adult-films-in-multiple-formats-mp4-avi-compatible-with-mac-and-windows/"><u>Bulk Download of Adult Films in Multiple Formats (MP4, AVI) - Compatible with Mac and Windows</u></a></li>
-<li><a href="https://fox-search.techidaily.com/bulk-download-convert-worldwide-newscasts-into-multiple-formats-mp4-wmv-avi-etc/"><u>Bulk Download: Convert Worldwide Newscasts Into Multiple Formats (MP4, WMV, AVI, Etc.)</u></a></li>
-<li><a href="https://fox-search.techidaily.com/cbs-news-video-downloads-available-in-multiple-file-types-for-easy-viewing-and-sharing/"><u>CBS News Video Downloads Available in Multiple File Types for Easy Viewing and Sharing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/complete-guide-to-downloading-plus7-series-and-movies-from-plus7-streaming-service/"><u>Complete Guide to Downloading PLUS7 Series and Movies From Plus7 Streaming Service</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-the-strength-of-minuscules-with-a-review-on-apples-ipad-mini/"><u>Discovering the Strength of Minuscules with a Review on Apple's iPad Mini</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-all-inclusive-audio-content-from-podomatic-with-our-superior-media-extractor-tool/"><u>Download All-Inclusive Audio Content From PodOmatic with Our Superior Media Extractor Tool!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-hd-clip-video-files-in-high-quality-formats-mp4movavi-from-hclpix/"><u>Download HD Clip Video Files in High-Quality Formats (MP4/MOV/AVI) From Hclpix</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-high-quality-movies-and-tv-shows-in-various-codecs-from-tudou-using-a-convenient-downloader-tool/"><u>Download High-Quality Movies and TV Shows in Various Codecs From Tudou Using a Convenient Downloader Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-tal-episodes-as-mp3-two-effective-techniques/"><u>Download TAL Episodes as MP3: Two Effective Techniques</u></a></li>
-<li><a href="https://driver-install.techidaily.com/end-win-errors-with-updated-hp-printer-drivers/"><u>End Win Errors with Updated HP Printer Drivers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-deciphering-ffmpegs-audio-conversion-quirks/"><u>In 2024, Deciphering FFmpeg's Audio Conversion Quirks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-m14-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy M14 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quip-kernel-memomaker-suite-for-2024/"><u>Quip Kernel MemoMaker Suite for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/simplify-your-experience-with-windows-10s-file-explorer-expert-advice/"><u>Simplify Your Experience with Windows 10'S File Explorer - Expert Advice</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-unlocking-your-kindle-paperwhite/"><u>Step-by-Step Guide: Unlocking Your Kindle Paperwhite</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-11f-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-high-end-camcorders-for-impeccable-4k-quality-top-18/"><u>[Updated] High-End Camcorders for Impeccable 4K Quality (Top 18)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-tips-for-optimal-screen-recording-with-showmore/"><u>2024 Approved Essential Tips for Optimal Screen Recording With ShowMore</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726029017426-dvd-r/"><u>初心者向け DVD-R 一度きり書き取り拒否解除ガイド</u></a></li>
+<li><a href="https://fox-search.techidaily.com/customize-virtual-machine-settings-for-optimized-performance/"><u>Customize Virtual Machine Settings for Optimized Performance</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-and-effective-ways-to-transform-vimeo-content-into-high-quality-mp3-files/"><u>Easy and Effective Ways to Transform Vimeo Content Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effortless-chromebook-video-capture-a-beginners-guide-to-quick-and-easy-recording/"><u>Effortless Chromebook Video Capture: A Beginner's Guide to Quick and Easy Recording</u></a></li>
+<li><a href="https://fox-search.techidaily.com/embark-on-your-digital-journey-with-msix-enhanced-product-selection-conversations/"><u>Embark on Your Digital Journey with MSIX-Enhanced Product Selection Conversations</u></a></li>
+<li><a href="https://fox-search.techidaily.com/enhancing-productivity-with-the-versatile-notepad-feature/"><u>Enhancing Productivity with the Versatile Notepad Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-magix-acid-pros-successors-in-vector-editing/"><u>In 2024, Magix ACID Pro's Successors in Vector Editing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-quiet-curator-of-online-chronicles/"><u>In 2024, Quiet Curator of Online Chronicles</u></a></li>
+<li><a href="https://fox-search.techidaily.com/introducing-apowersofts-latest-screen-capture-software-professional-edition-v10/"><u>Introducing Apowersoft's Latest Screen Capture Software: Professional Edition V1.0</u></a></li>
+<li><a href="https://fox-search.techidaily.com/key-characteristics-of-premium-service-offerings/"><u>Key Characteristics of Premium Service Offerings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logitechs-comeback-resurrected-remote-device/"><u>Logitech's Comeback: Resurrected Remote Device</u></a></li>
+<li><a href="https://win11.techidaily.com/sleight-of-keyboard-how-to-make-keys-unseen/"><u>Sleight of Keyboard: How to Make Keys Unseen</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/step-up-your-pc-game-upgrading-from-windows-11-home/"><u>Step-Up Your PC Game: Upgrading From Windows 11 Home</u></a></li>
 </ul></div>
 

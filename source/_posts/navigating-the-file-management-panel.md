@@ -1,7 +1,7 @@
 ---
 title: Navigating the File Management Panel
-date: 2024-09-27T20:07:04.224Z
-updated: 2024-09-29T23:35:42.599Z
+date: 2024-09-29T19:51:33.946Z
+updated: 2024-10-05T21:02:54.385Z
 tags:
   - user-guide
 categories:
@@ -97,32 +97,25 @@ Table of Contents
 ![File Operations Tab](https://cdn.advancedinstaller.com/img/dialog/file-operations.png "File Operations Tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overwrite behavior
 
 Specify the file's overwrite behavior.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Overwrite only if the existing file is older
 
 When this option is selected, if the file on the target machine is older then the one included in the package, it will be overwritten.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Always overwrite existing file
@@ -130,10 +123,10 @@ When this option is selected, if the file on the target machine is older then th
 If this option is enabled, the file from your package is overwritten and any similar file already present on the target computer. Usually, this can be used when performing a downgrade (install a file older than the one already installed) or for non-versioned files which don't overwrite the existing files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not overwrite existing file
@@ -141,6 +134,13 @@ If this option is enabled, the file from your package is overwritten and any sim
 **Condition** when the file is preserved. To find out how to use this option in an upgrade scenario, you can follow the [Prevent Repair or Uninstall](https://tools.techidaily.com/advancedinstaller/products/) article.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)These options are also available for multiple editing of file properties.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -175,19 +175,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-hyper-clear-playtime-best-ultra-hd-hdmi-21-gaming-screens/"><u>[New] Hyper-Clear Playtime Best Ultra HD (HDMI 2.1) Gaming Screens</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-request-info-on-obtaining-full-shared-content-on-messengers/"><u>[New] Request Info on Obtaining Full Shared Content on Messengers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-chroma-shift-4k-vistas-unveiled-by-blade-technology/"><u>[Updated] The Chroma Shift 4K Vistas Unveiled by Blade Technology</u></a></li>
-<li><a href="https://fox-search.techidaily.com/act-now-experience-the-thrill-of-temporal-adjustments/"><u>Act Now: Experience the Thrill of Temporal Adjustments</u></a></li>
-<li><a href="https://fox-search.techidaily.com/advanced-argon-pro-the-ultimate-premium-react-framework-and-ui-kit-by-creative-tim-powering-bootstrap-4-applications/"><u>Advanced Argon Pro: The Ultimate Premium REACT Framework & UI Kit by Creative Tim, Powering Bootstrap 4 Applications</u></a></li>
-<li><a href="https://fox-search.techidaily.com/advanced-bootstrap-navbar-features-enhanced-with-custom-icons-a-modern-twist-on-classic-menus/"><u>Advanced Bootstrap NavBar Features Enhanced with Custom Icons – A Modern Twist on Classic Menus</u></a></li>
-<li><a href="https://fox-search.techidaily.com/answer-the-new-concentration-will-remain-at-5-as-both-solute-and-solvent-volumes-have-been-doubled-proportionally/"><u>Answer: The New Concentration Will Remain at 5%, as Both Solute and Solvent Volumes Have Been Doubled Proportionally.</u></a></li>
-<li><a href="https://fox-search.techidaily.com/boost-productivity-now-how-the-hud-enhances-your-active-desktop-experience/"><u>Boost Productivity Now: How the HUD Enhances Your Active Desktop Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-the-latest-zebra-printer-drivers-for-windows-pcs-how-to-guide/"><u>Find & Install the Latest Zebra Printer Drivers for Windows PCs - How to Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-xs-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone XS and Android Phones</u></a></li>
-<li><a href="https://win-great.techidaily.com/resolving-unspecified-error-during-recording-in-obs-a-comprehensive-guide/"><u>Resolving 'Unspecified Error During Recording' In OBS - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resolving-the-dreaded-critical-error-102-in-your-actions/"><u>Resolving the Dreaded Critical Error #102 in Your Actions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-pick-the-omnicharge-omni-20-reviewed-portable-power-solutions-for-all-your-devices/"><u>Top Pick: The Omnicharge Omni 20 Reviewed – Portable Power Solutions for All Your Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-invisible-spectator-of-fb-tales/"><u>[New] In 2024, Invisible Spectator of FB Tales</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-effectiveness-of-instagrams-selfie-authenticity-feature/"><u>[New] The Effectiveness of Instagram's Selfie Authenticity Feature</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unlock-the-potential-of-iphone-cinematography-top-8-strategies-for-2024/"><u>[New] Unlock the Potential of iPhone Cinematography Top 8 Strategies for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-essential-view-total-to-secure-income-for-2024/"><u>[Updated] YouTube's Essential View Total to Secure Income for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-guide-uploading-your-android-videos-onto-a-windowsmac-computer/"><u>Easy Guide: Uploading Your Android Videos Onto a Windows/Mac Computer</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effortless-professional-grade-sound-capture-with-ubuntus-top-audio-recording-tool/"><u>Effortless Professional-Grade Sound Capture with Ubuntu's Top Audio Recording Tool</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-audio-sensations-sony-style/"><u>Enhanced Audio Sensations, Sony Style</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-your-avatar-adventure-solving-pandoras-frontier-launch-hiccups-quickly-and-easily/"><u>Fixing Your Avatar Adventure: Solving Pandora's Frontier Launch Hiccups Quickly & Easily</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-modify-installation-details-using-edit-msis-quick-tutorial/"><u>How to Modify Installation Details Using Edit MSIs - Quick Tutorial</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simple-steps-to-make-your-own-editable-pdfs-adobe-free-solutions/"><u>Simple Steps to Make Your Own Editable PDFs - Adobe-Free Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/streamlined-environment-configurator-interactive-selection-tool/"><u>Streamlined Environment Configurator: Interactive Selection Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/telecharger-gratuitement-des-logiciels-video-pour-windows-x-ripper-dvd-et-convertisseur-gratuit-en-un-seul-emplacement/"><u>Télécharger Gratuitement Des Logiciels Vidéo Pour Windows X : Ripper DVD Et Convertisseur Gratuit en Un Seul Emplacement</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-methods-for-adding-captions-automatically-to-your-videos-at-no-cost/"><u>Top Methods for Adding Captions Automatically to Your Videos at No Cost</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-successfully-unlocking-a-zte-device/"><u>Top Strategies for Successfully Unlocking a ZTE Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-android-security-software-of-2019-aaa-editors-picks/"><u>Top-Rated Android Security Software of 2019: AAA Editors' Picks</u></a></li>
 </ul></div>
 

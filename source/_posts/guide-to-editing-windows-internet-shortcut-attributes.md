@@ -1,7 +1,7 @@
 ---
 title: Guide to Editing Windows Internet Shortcut Attributes
-date: 2024-09-24T07:06:19.836Z
-updated: 2024-09-30T02:55:30.488Z
+date: 2024-09-28T21:22:13.900Z
+updated: 2024-10-05T21:38:27.503Z
 tags:
   - user-guide
 categories:
@@ -92,10 +92,10 @@ Table of Contents
 ![Internet Shortcut Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/internet-shortcut-properties.png "Internet Shortcut Properties Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -105,16 +105,10 @@ Table of Contents
 * Component - The component whose installation will trigger the shortcut's creation.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Paths
@@ -169,17 +163,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-innovating-the-open-a-podcasters-playbook/"><u>[New] In 2024, Innovating the Open A Podcaster's Playbook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-closer-look-ffmpeg-for-pristine-audio-extraction/"><u>2024 Approved A Closer Look FFmpeg for Pristine Audio Extraction</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-online-resources-for-free-audio-clips-and-sound-editing-tools/"><u>Best Online Resources for FREE Audio Clips & Sound Editing Tools</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/gratuito-conversor-de-video-para-formatos-flv-e-aac-online-movavi/"><u>Gratuito Conversor De Vídeo Para Formatos .FLV E AAC Online - Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/improve-avi-video-quality-while-downsizing-discover-the-power-of-avi-video-resizer/"><u>Improve AVI Video Quality While Downsizing - Discover the Power of AVI Video Resizer</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-the-vault-of-online-videos-via-facebook/"><u>In 2024, Unlocking the Vault of Online Videos via Facebook</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-se-2020-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone SE (2020)? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/master-flippdf-for-mac-the-ultimate-tutorial-at-flipbuildercom-for-enhanced-document-management/"><u>Master FlipPDF for Mac: The Ultimate Tutorial at FlipBuilder.com for Enhanced Document Management</u></a></li>
-<li><a href="https://fox-search.techidaily.com/optimize-page-thickness-and-dimensions-in-control-flipping-books-before-uploading-to-flipbuilder/"><u>Optimize Page Thickness & Dimensions in Control Flipping Books Before Uploading to FlipBuilder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/privacy-meets-innovation-connect-securely-through-duckduckgos-ai-powered-chat-options-featuring-gpt-technology/"><u>Privacy Meets Innovation: Connect Securely Through DuckDuckGo's AI-Powered Chat Options, Featuring GPT Technology</u></a></li>
-<li><a href="https://fox-search.techidaily.com/seamlessly-update-book-cover-images-with-flipbuilder-a-comprehensive-guide/"><u>Seamlessly Update Book Cover Images with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/transform-your-text-documents-into-interactive-flipbooks-with-easy-graphics-insertion-discover-how-with-flipbuilder/"><u>Transform Your Text Documents Into Interactive Flipbooks with Easy Graphics Insertion: Discover How with FlipBuilder</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-effective-strategies-for-mastering-slug-line-formats-for-2024/"><u>[New] Effective Strategies for Mastering Slug Line Formats for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-buddies-games-top-metagame-escapades/"><u>2024 Approved Best Buddies Games Top Metagame Escapades</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-eliminating-backlogged-videos-from-your-youtube-history/"><u>2024 Approved Eliminating Backlogged Videos From Your YouTube History</u></a></li>
+<li><a href="https://fox-search.techidaily.com/adaptable-personalization-techniques-for-windows/"><u>Adaptable Personalization Techniques for Windows</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effortless-guide-how-to-transfer-blu-ray-movies-onto-an-ipad-device/"><u>Effortless Guide: How to Transfer Blu-Ray Movies Onto an iPad Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-locate-and-modify-file-search-attributes/"><u>How to Locate and Modify File Search Attributes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-sony-xperia-5-v-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Sony Xperia 5 V? Fixed | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-bbc-iplayer-using-pcs-or-macs/"><u>Step-by-Step Guide: Recording Your Favorite Shows From BBC iPlayer Using PCs or Macs</u></a></li>
 </ul></div>
 

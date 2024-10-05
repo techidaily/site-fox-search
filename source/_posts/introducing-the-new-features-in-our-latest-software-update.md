@@ -1,7 +1,7 @@
 ---
 title: Introducing the New Features in Our Latest Software Update!
-date: 2024-09-23T02:10:01.179Z
-updated: 2024-09-30T07:15:19.695Z
+date: 2024-09-29T19:52:03.276Z
+updated: 2024-10-05T18:05:55.491Z
 tags:
   - user-guide
 categories:
@@ -124,10 +124,10 @@ Table of Contents
 ## IUpdateReleaseNotes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -135,16 +135,10 @@ Table of Contents
 IUpdateReleaseNotes : IDispatch
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -152,10 +146,16 @@ IUpdateReleaseNotes : IDispatch
 This interface is meant to specify what's new in this update: added features, enhancements and fixed bugs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -169,10 +169,10 @@ This interface is meant to specify what's new in this update: added features, en
 **String BugsFixed** \- Gets or sets the issues that were fixed in this update. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -214,20 +214,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-discover-the-safest-video-call-options-for-your-smartphone-or-tablet/"><u>[New] 2024 Approved Discover the Safest Video Call Options for Your Smartphone or Tablet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-premier-paint-shop-pro-tricks/"><u>[New] 2024 Approved Premier Paint Shop Pro Tricks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-best-hd-visual-recorders-available-for-2024/"><u>[New] Best HD Visual Recorders Available for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-deep-dive-into-youtube-view-counts-and-more/"><u>[Updated] 2024 Approved A Deep Dive Into YouTube View Counts and More</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/enhance-your-nintendo-entertainment-system-classics-with-these-game-adding-hacks/"><u>Enhance Your Nintendo Entertainment System Classics With These Game-Adding Hacks</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhance-your-study-experience-mastering-full-screen-flash-effects-for-technical-guides-with-flipbuilders-innovative-tools/"><u>Enhance Your Study Experience: Mastering Full-Screen Flash Effects for Technical Guides with FlipBuilder's Innovative Tools</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exploring-additional-navigational-controls-for-flip-book-interfaces-on-flipbuildercom/"><u>Exploring Additional Navigational Controls for Flip Book Interfaces on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-add-music-tracks-in-your-flipbook-creation-a-guide-on-sound-integration-with-flipbuilder/"><u>How to Add Music Tracks in Your FlipBook Creation: A Guide on Sound Integration with FlipBuilder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-add-your-brands-logo-as-a-watermark-in-every-page-of-your-digital-brochure-with-flipbuilder/"><u>How to Add Your Brand's Logo as a Watermark in Every Page of Your Digital Brochure with FlipBuilder</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-zte-blade-a73-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast ZTE Blade A73 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12t-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12T Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-the-latest-nvidia-geforce-rtx-2070-drivers-on-windows-operating-systems-10-8-and-7/"><u>Install the Latest NVIDIA GeForce RTX 2070 Drivers on Windows Operating Systems: 10, 8 & 7</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-multimedia-conversion-how-to-turn-your-ppts-into-engaging-page-turning-flash-animations-using-flipbuilder/"><u>Mastering Multimedia Conversion: How to Turn Your PPTs Into Engaging Page-Turning Flash Animations Using FlipBuilder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ready-to-enhance-your-browsing-experience-uninstall-flipbuilder-toolbar-now/"><u>Ready to Enhance Your Browsing Experience? Uninstall FlipBuilder Toolbar Now!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-creating-flipbooks-from-pdfs-and-incorporating-watermarks-using-flipbuilder/"><u>Step-by-Step Guide: Creating Flipbooks From PDFs and Incorporating Watermarks Using FlipBuilder</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-take-control-how-to-involve-yourself-in-a-friends-live-on-tiktok-for-2024/"><u>[Updated] Take Control How to Involve Yourself in a Friend's Live on TikTok for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-selection-of-virtual-gaming-essentials/"><u>2024 Approved Premiere Selection of Virtual Gaming Essentials</u></a></li>
+<li><a href="https://solve-news.techidaily.com/access-premium-jazz-playlists-for-free-discover-4-spectacular-online-jazz-resources/"><u>Access Premium Jazz Playlists for Free – Discover 4 Spectacular Online Jazz Resources</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/index-of-videography-gadgets-by-type-for-2024/"><u>Index of Videography Gadgets by Type for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/innovative-insights-master-your-strategy-with-iadvinst-project/"><u>Innovative Insights: Master Your Strategy with iAdvinst Project</u></a></li>
+<li><a href="https://fox-search.techidaily.com/protect-yourself-from-facebook-messenger-threats-essential-safety-tips/"><u>Protect Yourself From Facebook Messenger Threats: Essential Safety Tips</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simple-ways-to-copy-videos-onto-your-iphone-without-using-itunes/"><u>Simple Ways to Copy Videos Onto Your iPhone Without Using iTunes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/thrifty-pc-recording-utilities-for-2024/"><u>Thrifty PC Recording Utilities for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-steps-for-syncing-your-device-when-iphone-phone-manager-fails-to-connect-with-itunes-121-update/"><u>Troubleshooting Steps for Syncing Your Device When iPhone Phone Manager Fails to Connect with iTunes 12.1 Update</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-mkv-file-extension-a-comprehensive-guide/"><u>Understanding the MKV File Extension: A Comprehensive Guide</u></a></li>
 </ul></div>
 

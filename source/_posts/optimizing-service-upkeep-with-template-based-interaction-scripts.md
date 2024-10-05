@@ -1,7 +1,7 @@
 ---
 title: Optimizing Service Upkeep with Template-Based Interaction Scripts
-date: 2024-09-27T16:02:35.269Z
-updated: 2024-09-29T17:29:08.984Z
+date: 2024-10-02T19:28:01.271Z
+updated: 2024-10-05T21:43:14.390Z
 tags:
   - user-guide
 categories:
@@ -81,6 +81,13 @@ Table of Contents
 
 The dialogs defined here can appear only during the maintenance process (repair, modify or uninstall mode).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Maintenance Preparing Dialog (PrepareDlg)
 
  This dialog is briefly displayed at the beginning of the maintenance process until searches and path resolution actions are performed. 
@@ -92,10 +99,10 @@ The first dialog displayed during maintenance. It is used to inform the user abo
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is recommended to remove this dialog to reduce installation steps. Also, users usually skip this dialog without reading.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Modify, Repair or Remove Dialog (MaintenanceTypeDlg)
@@ -113,10 +120,10 @@ The user is notified that the configuration steps are complete and the repair pr
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Remove this dialog if it has no purpose other than to summarize the previous choices and begin installation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ready to Remove Dialog (VerifyRemoveDlg)
@@ -126,23 +133,29 @@ The user is notified that the configuration steps are complete and the uninstall
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Remove this dialog if it has no purpose other than to summarize the previous choices and begin installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Customize Dialog (CustomizeDlg)
 
 This dialog appears only if a "Modify" operation was selected in the "Modify, Repair or Remove" dialog. In this dialog, you can select to add or remove features from the application.  
  In the bottom left part of the dialog, the \[Disk Usage \] button will open the Disk Space Requirements Dialog. This dialog is useful in determining the amount of space available on disk and needed by the application.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ready to Install Dialog (VerifyReadyDlg)
 
@@ -151,15 +164,22 @@ The user is notified that the configuration steps are complete and the selected 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Remove this dialog if it has no purpose other than to summarize the previous choices and begin installation.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installation Progress Dialog (ProgressDlg)
 
 The dialog containing the progress bar that shows the evolution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Installation Complete Dialog (ExitDialog)
 
@@ -170,13 +190,6 @@ The dialog displayed at the end of maintenance.
 The dialog asks the user to confirm the file associations' creation. The available options allow the user to create all or none of the file associations. 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If you want to be able to select which file associations to register, you should use the “FileAssociationsDlg” dialog.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### File Associations Dialog (FileAssociationsDlg)
 
@@ -205,10 +218,10 @@ You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is recommended to exclude this dialog in order to reduce the installation steps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Configure Dialog(ConfigDlg)
@@ -218,13 +231,6 @@ Uses the [Tab control](https://tools.techidaily.com/advancedinstaller/products/)
 By using this dialog you will reduce the number of steps required for the installation because configuration pages will not be displayed in sequence, instead the user will choose which tab pages to visit.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Adding this dialog will automatically enable the Enhanced User Interface. You can read more about it in the [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) article.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -259,24 +265,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-designing-text-in-3d-space-ps/"><u>[New] Expert Tips for Designing Text in 3D Space PS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-videotwit-hatcher-harvest-tweets-visuals-for-ios-devices-for-2024/"><u>[New] VideoTwit Hatcher Harvest Tweets' Visuals for iOS Devices for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/adding-faithful-functions-to-windows-ui-tools/"><u>Adding Faithful Functions to Windows' UI Tools</u></a></li>
-<li><a href="https://fox-search.techidaily.com/build-tailored-user-manuals-with-advanced-template-tech-discover-how-at-flipbuildercom/"><u>Build Tailored User Manuals with Advanced Template Tech - Discover How at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-search.techidaily.com/can-you-find-a-detailed-step-by-step-tutorial-on-the-use-of-flipbuildercom/"><u>Can You Find a Detailed Step-by-Step Tutorial on the Use of FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/create-and-execute-an-exe-file-from-your-customized-flipbook-on-flipbuilder/"><u>Create and Execute an EXE File From Your Customized Flipbook on FlipBuilder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/create-flipbook-and-customize-pages-with-flip-builder-transform-your-documents-into-interactive-booklet-format/"><u>Create Flipbook & Customize Pages with Flip Builder - Transform Your Documents Into Interactive Booklet Format</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-methods-for-annotating-pdf-documents-with-flipbuilder/"><u>Effective Methods for Annotating PDF Documents with FlipBuilder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-navigation-enhancements-what-buttons-work-best-with-flipbook-creation-at-flipbuildercom/"><u>Effective Navigation Enhancements: What Buttons Work Best with FlipBook Creation at FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-strategies-for-naming-your-flipbook-projects-insights-from-flipbuilder/"><u>Effective Strategies for Naming Your Flipbook Projects: Insights From FlipBuilder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhancing-your-ebook-interactivity-mastering-hyperlink-insertion-for-text-and-images-on-flipbuilder/"><u>Enhancing Your eBook Interactivity: Mastering Hyperlink Insertion for Text and Images on FlipBuilder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exploring-different-flipbook-styles-creating-them-effortlessly-with-flip-pdf-for-your-mac/"><u>Exploring Different Flipbook Styles: Creating Them Effortlessly with Flip PDF for Your Mac</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-meizu-21-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Meizu 21 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-1-v-phone-without-pin-by-drfone-android/"><u>How to Unlock Sony Xperia 1 V Phone without PIN</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gratuitous-sound-solutions-years-best-lut-downloads/"><u>In 2024, Gratuitous Sound Solutions - Year's Best LUT Downloads</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-samsung-galaxy-f04-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Samsung Galaxy F04 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-dramatic-structuring-zone/"><u>[New] Premier Dramatic Structuring Zone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-optimizing-your-viewing-experience-a-step-by-step-guide-to-adjusting-video-quality/"><u>1. Optimizing Your Viewing Experience: A Step-by-Step Guide to Adjusting Video Quality</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-heres-how-you-can-ace-the-tiktok-photo-editing-hacks/"><u>2024 Approved Here’s How You Can Ace the TikTok Photo Editing Hacks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/captivate-viewers-earn-accolades-tips-for-staff-picks-on-vimeo/"><u>Captivate Viewers, Earn Accolades Tips for Staff Picks on Vimeo</u></a></li>
+<li><a href="https://win-bits.techidaily.com/debunking-top-misconceptions-how-windows-users-mistake-macos-insights-from-zdnet/"><u>Debunking Top Misconceptions: How Windows Users Mistake MacOS, Insights From ZDNet</u></a></li>
+<li><a href="https://fox-search.techidaily.com/diy-digital-invitations-the-ultimate-online-card-creation-toolkit-and-comprehensive-step-by-step-tutorial/"><u>DIY Digital Invitations: The Ultimate Online Card Creation Toolkit & Comprehensive Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effortless-pc-task-management-with-best-non-microsoft-schedulers/"><u>Effortless PC Task Management with Best Non-Microsoft Schedulers</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-commits-5-million-in-support-of-pandemic-efforts/"><u>Facebook Commits $5 Million in Support of Pandemic Efforts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/future-proofing-your-estate-understanding-legacy-decisions/"><u>Future-Proofing Your Estate: Understanding Legacy Decisions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-warzones-ignored-gpu-in-windows-11-setup/"><u>How to Fix Warzone's Ignored GPU in Windows 11 Setup</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-channel-prodigy-skyrocketing-with-content-innovation/"><u>In 2024, Channel Prodigy Skyrocketing with Content Innovation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-getting-started-with-action-cams-latest-2023-insights/"><u>In 2024, Getting Started with Action Cams – Latest 2023 Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-edge-40-neo-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Edge 40 Neo Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Creative Tim's Nuxt and Larvel Integration: Mastering the Argon Admin Template"
-date: 2024-09-22T19:43:48.092Z
-updated: 2024-09-30T05:52:34.379Z
+date: 2024-09-29T16:00:00.451Z
+updated: 2024-10-05T19:35:26.216Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,18 +54,22 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-search.techidaily.com/1-unlocking-flipbuilder-access-a-step-by-step-guide-to-retrieving-your-enterprise-license-code/"><u>1) Unlocking FlipBuilder Access: A Step-by-Step Guide to Retrieving Your Enterprise License Code</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-from-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>2024 Approved From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
-<li><a href="https://fox-search.techidaily.com/adding-multiple-image-types-to-your-personalized-flipbook-with-flipbuilder-a-step-by-step-guide/"><u>Adding Multiple Image Types to Your Personalized FlipBook with FlipBuilder – A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/checking-for-book-covers-are-they-featured-in-flipbooks-from-flipbuildercom/"><u>Checking for Book Covers - Are They Featured in FlipBooks From FlipBuilder.com?</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/comprehensive-security-covers-explored-and-compared/"><u>Comprehensive Security Covers Explored and Compared</u></a></li>
-<li><a href="https://fox-search.techidaily.com/diy-photo-collections-transformed-into-beautiful-photo-books-unveiling-simple-techniques-using-flipbuildercom/"><u>DIY Photo Collections Transformed Into Beautiful Photo Books – Unveiling Simple Techniques Using FlipBuilder.com</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhance-your-study-experience-mastering-full-screen-flash-effects-for-technical-guides-with-flipbuilders-innovative-tools/"><u>Enhance Your Study Experience: Mastering Full-Screen Flash Effects for Technical Guides with FlipBuilder's Innovative Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-lenovo-ideapad-320-a-synthesis-of-elegance-mobility-and-traditional-keyboard-excellence-by-lenovo/"><u>Exploring the Lenovo IdeaPad 320: A Synthesis of Elegance, Mobility & Traditional Keyboard Excellence by Lenovo</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/o-safely-extract-youtube-audio-a-study-of-3-techniques-for-2024/"><u>How to Safely Extract YouTube Audio A Study of 3 Techniques for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-turn-off-the-iphone-15-pro-and-pro-max/"><u>How to Turn Off the iPhone 15 Pro and Pro Max</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209759214-keyboard-malfunction-heres-how-to-get-your-numbers-working-again/"><u>Keyboard Malfunction? Here's How to Get Your Numbers Working Again!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-restoring-functionality-on-tiktok/"><u>Troubleshooting Steps for Restoring Functionality on TikTok</u></a></li>
+<li><a href="https://facebook.techidaily.com/hashed-hay-a-novel-animal-pet-naming-trend/"><u>'Hashed Hay': A Novel Animal Pet Naming Trend</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-21-vegas-pro-insights-an-expert-breakdown-for-2024/"><u>[Updated] '21 Vegas Pro Insights – An Expert Breakdown for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-home-cinemas-elite-the-ultimate-blu-ray-guide/"><u>[Updated] Home Cinema's Elite The Ultimate Blu-Ray Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sparks-endgame-dji-mavic-air-challenges-its-successor/"><u>[Updated] Spark's Endgame DJI Mavic Air Challenges Its Successor</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-property-details-of-registry-storage-settings/"><u>1. Property Details of Registry Storage Settings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-sustainable-traffic-growth-ethical-video-marketing-tips/"><u>2024 Approved Sustainable Traffic Growth Ethical Video Marketing Tips</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-7-iphoneipad-pdf-readers-in-2020-vision-modify-and-additional-features-for-mobile-documents/"><u>Best 7 iPhone/iPad PDF Readers in 2020: Vision, Modify & Additional Features for Mobile Documents</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-15-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 15 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effortless-professional-grade-sound-capture-with-ubuntus-top-audio-recording-tool/"><u>Effortless Professional-Grade Sound Capture with Ubuntu's Top Audio Recording Tool</u></a></li>
+<li><a href="https://fox-search.techidaily.com/enhance-your-workflow-with-advanced-navigation-tabs/"><u>Enhance Your Workflow with Advanced Navigation Tabs</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-the-spectrum-of-methodical-structured-teaching-mst-models/"><u>Exploring the Spectrum of Methodical Structured Teaching (MST) Models</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-6-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 6 Plus without Apple ID?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-modify-installation-details-using-edit-msis-quick-tutorial/"><u>How to Modify Installation Details Using Edit MSIs - Quick Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-sony-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Sony</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-imsm-file-enrollment-comprehensive-strategies-and-tips/"><u>Mastering IMSM File Enrollment: Comprehensive Strategies and Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/streamlined-environment-configurator-interactive-selection-tool/"><u>Streamlined Environment Configurator: Interactive Selection Tool</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Manage and Use Environment Variables in Your Application
-date: 2024-09-23T23:30:13.089Z
-updated: 2024-09-29T21:52:34.836Z
+date: 2024-09-28T16:41:17.891Z
+updated: 2024-10-05T22:08:56.366Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ Table of Contents
 ## IEnvironmentVariable
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,16 +120,10 @@ Table of Contents
 IEnvironmentVariable : IDispatch
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -137,10 +131,10 @@ IEnvironmentVariable : IDispatch
 This interface is meant to edit environment variable operation
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +157,16 @@ This interface is meant to edit environment variable operation
  **ICompoent Component** \- Gets or sets the component which will contain the environment variable. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,20 +208,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-photography-perks-fast-and-fun-edits-using-windows-paint-app/"><u>[New] In 2024, Photography Perks Fast & Fun Edits Using Windows Paint App</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cinematiccapture-easy-screen-recorder-for-win11-pcs-for-2024/"><u>[Updated] CinematicCapture Easy Screen Recorder for Win11 PCs for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-free-guide-to-accessing-youtube-video-texts/"><u>[Updated] In 2024, The Ultimate FREE Guide to Accessing YouTube Video Texts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-unlocking-flipbuilder-access-a-step-by-step-guide-to-retrieving-your-enterprise-license-code/"><u>1) Unlocking FlipBuilder Access: A Step-by-Step Guide to Retrieving Your Enterprise License Code</u></a></li>
-<li><a href="https://fox-search.techidaily.com/adding-multiple-image-types-to-your-personalized-flipbook-with-flipbuilder-a-step-by-step-guide/"><u>Adding Multiple Image Types to Your Personalized FlipBook with FlipBuilder – A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-poco-f5-pro-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Poco F5 Pro 5G?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-top-ranking-material-design-toolkit-with-more-than-78-projects-by-creative-tim-ideal-for-developers-and-designers/"><u>Discover Top-Ranking Material Design Toolkit with More than 78 Projects by Creative Tim, Ideal for Developers & Designers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/embracing-tomorrow-the-power-of-verizons-next-generation-5g-technology/"><u>Embracing Tomorrow: The Power of Verizon's Next-Generation 5G Technology</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhanced-material-dashboard-pro-with-laravel-integration-expertly-crafted-by-creative-tim-and-updivision/"><u>Enhanced Material Dashboard Pro with Laravel Integration - Expertly Crafted by Creative Tim and UPDIVISION</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-endless-loop-why-wont-my-computer-turn-off-in-windows-10/"><u>Fixing the Endless Loop: Why Won't My Computer Turn Off in Windows 10?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-x-flip-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo X Flip Unlock Without Password</u></a></li>
-<li><a href="https://fox-search.techidaily.com/react-material-dashboard-template-built-with-laravel-a-creative-tim-and-updivision-collaboration/"><u>React Material Dashboard Template Built with Laravel - A Creative Tim and Updivision Collaboration</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/savespace-pros-review-summary-for-2024/"><u>SaveSpace Pros Review Summary for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ultimate-guide-over-78-free-material-design-assets-and-codes-from-creative-tim/"><u>Ultimate Guide: Over 78 Free Material Design Assets and Codes From Creative Tim</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/vlc-video-cutter-for-mac-preserve-quality-while-trimming-for-2024/"><u>VLC Video Cutter for Mac Preserve Quality While Trimming for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-pc-editing-skills-for-compelling-youtube-videos/"><u>[New] In 2024, Essential PC Editing Skills for Compelling YouTube Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-simplify-cross-platform-sharing-convert-spotify-lists-to-youtube-seamlessly-for-2024/"><u>[Updated] Simplify Cross-Platform Sharing Convert Spotify Lists to YouTube Seamlessly for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-optimize-your-workflow-enhance-managing-temporary-files-with-ease/"><u>1. Optimize Your Workflow: Enhance Managing Temporary Files with Ease</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-screen-recording-software-for-capturing-gameplay-in-world-of-tanks/"><u>Best Screen Recording Software for Capturing Gameplay in World of Tanks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-srt-translation-leaders-a-select-8-guide/"><u>Free SRT Translation Leaders A Select 8 Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-success-the-leading-25-tagging-tactics-for-2024/"><u>Instagram Success The Leading 25 Tagging Tactics for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/legal-summons-issued-against-individuals-involved-in-email-phishing-scheme-targeting-minors/"><u>Legal Summons Issued Against Individuals Involved in Email Phishing Scheme Targeting Minors</u></a></li>
+<li><a href="https://fox-search.techidaily.com/modify-properties-panel-a-comprehensive-guide/"><u>Modify Properties Panel: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-tutorial-for-connecting-iphone-1213-to-your-tv-screen/"><u>Step-by-Step Tutorial for Connecting iPhone 12/13 to Your TV Screen</u></a></li>
+<li><a href="https://fox-search.techidaily.com/the-ultimate-guide-digitally-authenticating-exe-msi-and-msp-files-for-enhanced-security/"><u>The Ultimate Guide: Digitally Authenticating EXE, MSI & MSP Files for Enhanced Security</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-most-recent-generic-bluetooth-adapter-driver-optimized-for-windows-operating-systems/"><u>Update to the Most Recent Generic Bluetooth Adapter Driver – Optimized for Windows Operating Systems</u></a></li>
 </ul></div>
 

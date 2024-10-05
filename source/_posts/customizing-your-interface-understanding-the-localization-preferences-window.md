@@ -1,7 +1,7 @@
 ---
 title: "Customizing Your Interface: Understanding the Localization Preferences Window"
-date: 2024-09-27T00:41:42.152Z
-updated: 2024-09-30T05:29:26.019Z
+date: 2024-09-29T19:10:09.215Z
+updated: 2024-10-05T21:17:58.626Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ Table of Contents
 Translating every single localizable string is seldom necessary as many strings have language-independent values which should be used as such in all packages. This is why Advanced Installer allows you to specify which project parts you want to translate. You can do that at the high-level, for entire project segments or low level, for individual project elements.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Coarse granularity
@@ -94,10 +94,10 @@ Translating every single localizable string is seldom necessary as many strings 
  At this level, you can select entire project segments to translate. Just click on the check-box next to it to switch the translation of a project segment on and off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fine granularity
@@ -105,10 +105,10 @@ Translating every single localizable string is seldom necessary as many strings 
  Advanced Installer also allows you to specify the translation options for each localizable project element in the [Localization Dialog](https://tools.techidaily.com/advancedinstaller/products/). The fine granularity setting will take precedence over the coarse granularity option when deciding if a localizable element should be translated or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,24 +149,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-fix-full-screen-error-in-obs-for-2024/"><u>[New] How to Fix Full Screen Error in OBS for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nveiling-false-numbers-the-risks-of-manipulated-youtube-viewership/"><u>[New] Unveiling False Numbers The Risks of Manipulated YouTube Viewership</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-synergy-wearable-helps-open-mac-gadgets/"><u>[Updated] Seamless Synergy Wearable Helps Open Mac Gadgets</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-video-twist-guide-from-portrait-to-panoramic-on-instagram-for-2024/"><u>[Updated] The Ultimate Video Twist Guide From Portrait to Panoramic on Instagram for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-unlocking-flipbuilder-access-a-step-by-step-guide-to-retrieving-your-enterprise-license-code/"><u>1) Unlocking FlipBuilder Access: A Step-by-Step Guide to Retrieving Your Enterprise License Code</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-camon-30-pro-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/adding-multiple-image-types-to-your-personalized-flipbook-with-flipbuilder-a-step-by-step-guide/"><u>Adding Multiple Image Types to Your Personalized FlipBook with FlipBuilder – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cant-launch-your-pc-into-windows-10-mode-here-are-quick-repair-tips/"><u>Can't Launch Your PC Into Windows 10 Mode? Here Are Quick Repair Tips</u></a></li>
-<li><a href="https://fox-search.techidaily.com/checking-for-book-covers-are-they-featured-in-flipbooks-from-flipbuildercom/"><u>Checking for Book Covers - Are They Featured in FlipBooks From FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/diy-photo-collections-transformed-into-beautiful-photo-books-unveiling-simple-techniques-using-flipbuildercom/"><u>DIY Photo Collections Transformed Into Beautiful Photo Books – Unveiling Simple Techniques Using FlipBuilder.com</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhance-your-study-experience-mastering-full-screen-flash-effects-for-technical-guides-with-flipbuilders-innovative-tools/"><u>Enhance Your Study Experience: Mastering Full-Screen Flash Effects for Technical Guides with FlipBuilder's Innovative Tools</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhanced-material-dashboard-pro-with-laravel-integration-expertly-crafted-by-creative-tim-and-updivision/"><u>Enhanced Material Dashboard Pro with Laravel Integration - Expertly Crafted by Creative Tim and UPDIVISION</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exploring-additional-navigational-controls-for-flip-book-interfaces-on-flipbuildercom/"><u>Exploring Additional Navigational Controls for Flip Book Interfaces on FlipBuilder.com</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/migracion-sin-costo-de-archivos-wav-a-flv-usando-la-plataforma-de-movavi-en-linea/"><u>Migración Sin Costo De Archivos WAV a FLV Usando La Plataforma De Movavi en Línea</u></a></li>
-<li><a href="https://fox-search.techidaily.com/react-material-dashboard-template-built-with-laravel-a-creative-tim-and-updivision-collaboration/"><u>React Material Dashboard Template Built with Laravel - A Creative Tim and Updivision Collaboration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-design-with-chatgpts-enhanced-persona-methods/"><u>Revolutionize Design with ChatGPT's Enhanced Persona Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-funny-iphone-and-ipad-jokes-to-surprise-your-friends/"><u>Top Funny iPhone & iPad Jokes to Surprise Your Friends</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ultimate-guide-over-78-free-material-design-assets-and-codes-from-creative-tim/"><u>Ultimate Guide: Over 78 Free Material Design Assets and Codes From Creative Tim</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-streaming-success-latest-updates-on-earnings-guidelines/"><u>[New] In 2024, Streaming Success Latest Updates on Earnings Guidelines</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-level-scripting-solutions-in-ae/"><u>[New] Pro-Level Scripting Solutions in AE</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-handbook-for-proficient-periscope-use/"><u>[Updated] Comprehensive Handbook for Proficient Periscope Use</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-streamlined-application-creation-with-thinapp-solutions/"><u>1. Streamlined Application Creation with ThinApp Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/can-you-trust-inexpensive-ssl-providers/"><u>Can You Trust Inexpensive SSL Providers?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/convert-asf-files-to-mp4-quickly-with-these-free-online-solutions/"><u>Convert ASF Files to MP4 Quickly with These Free Online Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-prime-property-listings-by-cab-properties-your-key-to-smart-investing/"><u>Discover Prime Property Listings by CAB Properties - Your Key to Smart Investing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a15-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A15 4G Phones with/without a PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-guide-to-reverse-image-searching-on-instagram/"><u>In 2024, Step-by-Step Guide to Reverse Image Searching on Instagram</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-newest-intel-hd-graphics-driver-version-for-enhanced-experience-and-stability/"><u>Install the Newest Intel HD Graphics Driver Version for Enhanced Experience & Stability</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-document-management-within-windows-explorers-file-system/"><u>Mastering Document Management Within Windows Explorer's File System</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-reverting-your-iphone-x-to-a-previous-backup/"><u>Step-by-Step Guide: Reverting Your iPhone X to a Previous Backup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-zero-30-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Zero 30 5G Device</u></a></li>
 </ul></div>
 

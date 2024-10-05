@@ -1,7 +1,7 @@
 ---
 title: Mastering Document Management Within Windows Explorer's File System
-date: 2024-09-23T07:10:08.771Z
-updated: 2024-09-30T01:02:05.296Z
+date: 2024-10-01T17:29:56.143Z
+updated: 2024-10-05T21:30:15.102Z
 tags:
   - user-guide
 categories:
@@ -90,13 +90,6 @@ Table of Contents
 
 ## File Operations in the Files And Folders Page
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a file removal operation
 
 ![New File Removal](https://cdn.advancedinstaller.com/img/gfx/file-removal.png "New File Removal") Use the \[New File Operation \] toolbar button to select the “File Removal” menu or use the “New File Operation > File Removal” list context menu item. To change the removal properties use the [File Removal Dialog](https://tools.techidaily.com/advancedinstaller/products/). 
@@ -106,39 +99,46 @@ Table of Contents
 ![New File Removal](https://cdn.advancedinstaller.com/img/gfx/file-duplicate.png "New File Removal") Use the \[New File Operation \] toolbar button to select the “File Duplication” menu or use the “New File Operation > File Duplication” list context menu item. To change the duplication properties use the [File Duplication Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a file copy/move operation
 
 ![New File Removal](https://cdn.advancedinstaller.com/img/gfx/file-copy.png "New File Removal") Use the \[New File Operation \] toolbar button to select the “File Copy/Move” menu or use the “New File Operation > File Copy/Move” list context menu item. To change the copy/move properties use the [File Copy/Move Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a file download operation
 
 ![New File Removal](https://cdn.advancedinstaller.com/img/gfx/file-download.png "New File Removal") Use the \[New File Operation \] toolbar button to select the “File Download” menu or use the “New File Operation > File Download” list context menu item. To change the download properties use the [File Download Dialog](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Creating an extract archive operation
 
 ![New Extract Archive](https://cdn.advancedinstaller.com/img/gfx/extract-archive.png "New Extract Archive") Use the \[New File Operation \] toolbar button to select the “Extract Archive” menu or use the “New File Operation > Extract Archive” list context menu item. To change the extract properties use the [Extract Archive Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
-![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)To download and extract archive files at install time, configure a[File Download](https://tools.techidaily.com/advancedinstaller/products/) operation then add a new [Extract Archive](https://tools.techidaily.com/advancedinstaller/products/) operation.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)To download and extract archive files at install time, configure a[File Download](https://tools.techidaily.com/advancedinstaller/products/) operation then add a new [Extract Archive](https://tools.techidaily.com/advancedinstaller/products/) operation.
 
 ## Topics
 
@@ -186,21 +186,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-laughter-in-the-clouds-iphone/"><u>[New] In 2024, Laughter in the Clouds (iPhone)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-dissecting-gopro-video-quality-max-360-meets-hero-11/"><u>[Updated] In 2024, Dissecting GoPro Video Quality Max 360 Meets Hero 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-windowgrabber-3d-top-choice-for-2024/"><u>[Updated] WindowGrabber 3D - Top Choice for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-seamless-social-streams-link-instagram-and-facebook/"><u>2024 Approved Seamless Social Streams Link Instagram & Facebook</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-high-quality-movies-and-tv-shows-in-various-codecs-from-tudou-using-a-convenient-downloader-tool/"><u>Download High-Quality Movies and TV Shows in Various Codecs From Tudou Using a Convenient Downloader Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-tal-episodes-as-mp3-two-effective-techniques/"><u>Download TAL Episodes as MP3: Two Effective Techniques</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-your-favorite-netflix-films-anytime-with-pcmac-compatible-app/"><u>Download Your Favorite Netflix Films Anytime with PC/Mac Compatible App</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-qcp-file-conversion-transform-your-qcp-audio-files-into-mp3-wav-wma-flac-and-aac-with-our-advanced-media-tool/"><u>Easy QCP File Conversion: Transform Your QCP Audio Files Into MP3, WAV, WMA, FLAC & AAC with Our Advanced Media Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/get-movies-trailer-clips-on-demand-from-movieclips-complimentary-access/"><u>Get Movies Trailer Clips on Demand From Movieclips – Complimentary Access!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/get-premium-xxxbunker-adult-videos-converted-to-common-file-types-mp4-mov-avi-on-windows-and-macos/"><u>Get Premium Xxxbunker Adult Videos Converted to Common File Types (MP4, MOV, AVI) on Windows and macOS</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-download-and-change-your-youtube-video-into-mov-file-a-complete-tutorial-for-pcs-and-macbooks/"><u>How to Download and Change Your YouTube Video Into MOV File: A Complete Tutorial for PCs and MacBooks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y17s-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y17s to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-huawei-p60-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Huawei P60</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-t2x-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo T2x 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-by-toms-electronics-review-site/"><u>The Ultimate Guide by Tom's Electronics Review Site</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-a-guide-to-microsofts-student-pricing-benefits/"><u>Unlocking the Secrets: A Guide to Microsoft's Student Pricing Benefits</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-essential-phone-knowledge-for-expanded-gear-vr-experiences/"><u>[New] In 2024, Essential Phone Knowledge for Expanded Gear VR Experiences</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-channel-transformation-unleash-potential-with-tubebuddy/"><u>2024 Approved Channel Transformation Unleash Potential with TubeBuddy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-thorough-examination-hero4-black-performance/"><u>2024 Approved Thorough Examination Hero4 Black Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-chatbot-software-for-conversing-and-scrutinizing-documents-a-guide-to-6-applications/"><u>Best Chatbot Software for Conversing and Scrutinizing Documents: A Guide to 6 Applications</u></a></li>
+<li><a href="https://fox-search.techidaily.com/customize-journey-options-quickly-through-pathway-configuration-panel/"><u>Customize Journey Options Quickly Through Pathway Configuration Panel</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-guide-to-mastering-your-apps-schedule-configuration/"><u>Easy Guide to Mastering Your App's Schedule Configuration</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-access-creative-banners-for-video-makers-at-zero-price/"><u>In 2024, Access Creative Banners for Video Makers at Zero Price</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-gt-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme GT 5 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/navigate-through-product-versions-with-our-efficient-search-tips/"><u>Navigate Through Product Versions with Our Efficient Search Tips</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quick-tips-how-to-restore-accidentally-erased-images-from-an-android-smartphone/"><u>Quick Tips: How to Restore Accidentally Erased Images From an Android Smartphone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simple-steps-to-flip-and-rotate-your-pdf-documents/"><u>Simple Steps to Flip and Rotate Your PDF Documents</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nokia-c12-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nokia C12 FRP</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-definitive-guide-to-adding-closed-captions-in-vimeo-footage/"><u>The Definitive Guide to Adding Closed Captions in Vimeo Footage</u></a></li>
 </ul></div>
 

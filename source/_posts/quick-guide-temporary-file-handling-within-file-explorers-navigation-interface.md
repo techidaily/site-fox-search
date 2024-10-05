@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Temporary File Handling Within File Explorer’s Navigation Interface"
-date: 2024-09-25T23:29:00.716Z
-updated: 2024-09-30T02:15:30.396Z
+date: 2024-10-04T19:09:36.529Z
+updated: 2024-10-05T18:56:36.112Z
 tags:
   - user-guide
 categories:
@@ -98,18 +98,36 @@ In order to easily recognize them they have the following icon: ![Temporary File
 
 ![Add Temporary Files](https://cdn.advancedinstaller.com/img/toolbar/temp-files-add.png "Add Temporary Files")Use the \[Add Temporary Files \] toolbar button, the “Add Temporary Files...” tree/list context menu item. You can add more than one file at a time. If a file with the same name already exists in the target directory, the file to be added is skipped.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)To add an **entire folder** with all its files as temporary, see [Folder Operations in the Files and Folders Page - VSIX Project](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting temporary file properties
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the \[Properties... \] toolbar button, the “Properties...” list context menu item, press the Enter key while a temporary file is selected in the “Files” panel or double click on a file. The [Edit Temporary File Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit the temporary file properties.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Renaming temporary files
+
+Use the “Rename” context menu item or press the F2 key.
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
@@ -118,31 +136,13 @@ In order to easily recognize them they have the following icon: ![Temporary File
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-### Renaming temporary files
-
-Use the “Rename” context menu item or press the F2 key.
-
 ### Moving temporary files to a different folder
 
 Select the items to be moved then drag and drop them to the target folder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing temporary files
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree/list context menu item, or press the Delete key while a temporary file is selected. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -182,17 +182,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-streamyrecorder-your-simple-screen-recorder-for-windows-11/"><u>[New] StreamyRecorder Your Simple Screen Recorder for Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-efficient-methods-for-video-to-dvd-conversion-in-macos/"><u>[Updated] Efficient Methods for Video-to-DVD Conversion in MacOS</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-free-compact-button-rich-templates-available-now-on-flipbuildercom/"><u>1. Free Compact Button-Rich Templates Available Now on FlipBuilder.com</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-24-hour-film-size-gb-measurement-guide/"><u>2024 Approved 24-Hour Film Size GB Measurement Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/bluetooth-enabled-universal-typewriter-by-moko-folds-for-on-the-go-typing/"><u>Bluetooth-Enabled Universal Typewriter by MoKo - Folds for On-the-Go Typing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/build-tailored-user-manuals-with-advanced-template-tech-discover-how-at-flipbuildercom/"><u>Build Tailored User Manuals with Advanced Template Tech - Discover How at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-search.techidaily.com/can-you-find-a-detailed-step-by-step-tutorial-on-the-use-of-flipbuildercom/"><u>Can You Find a Detailed Step-by-Step Tutorial on the Use of FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/create-and-execute-an-exe-file-from-your-customized-flipbook-on-flipbuilder/"><u>Create and Execute an EXE File From Your Customized Flipbook on FlipBuilder</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/get-to-know-the-powerful-apple-m4-cpu-unveiling-date-and-in-depth-look-at-hardware-specs/"><u>Get to Know the Powerful Apple M4 CPU: Unveiling Date & In-Depth Look at Hardware Specs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715859810258-in-2024-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators/"><u>In 2024, Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-analysis-of-apowersoft-free-edition-making-an-informed-decision-on-your-video-editing-tool/"><u>In-Depth Analysis of Apowersoft Free Edition: Making an Informed Decision on Your Video Editing Tool</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/video-recording-made-easy-on-macbooks-camera-for-2024/"><u>Video Recording Made Easy on MacBook's Camera for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-avoiding-camera-induced-image-disruption/"><u>[New] Avoiding Camera-Induced Image Disruption</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gigglegif-genius/"><u>[New] GiggleGif Genius</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-methods-for-jpegpng-to-pdf-file-migration/"><u>[Updated] IPhone Methods for JPEG/PNG to PDF File Migration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bybs-leading-quality-e430-led-swing-arm-light-examined-an-in-depth-review/"><u>BYB's Leading Quality E430 LED Swing Arm Light Examined: An In-Depth Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tech-support-resolving-the-issue-when-your-echo-device-appears-disconnected/"><u>DIY Tech Support: Resolving the Issue When Your Echo Device Appears Disconnected</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-and-secure-online-sign-up-system-including-document-submission/"><u>Easy and Secure Online Sign-Up System Including Document Submission</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-techniques-for-reducing-bmp-file-size-without-losing-quality/"><u>Effective Techniques for Reducing BMP File Size Without Losing Quality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-magic-6-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor Magic 6 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/optimizing-service-upkeep-with-template-based-interaction-scripts/"><u>Optimizing Service Upkeep with Template-Based Interaction Scripts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/streamline-your-code-with-the-advanced-features-of-ifile-component-technology/"><u>Streamline Your Code with the Advanced Features of iFile Component Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-chromebook-flip-c302ca-great-performance-at-an-unbeatable-price/"><u>The Ultimate Guide to the Asus Chromebook Flip C302CA: Great Performance at an Unbeatable Price</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-desktop-and-mobile-background-eraser-applications-of-2022/"><u>Top-Rated Desktop & Mobile Background Eraser Applications of 2022</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/valorants-finest-voice-modder-accessible-at-no-cost/"><u>Valorant's Finest Voice Modder – Accessible at No Cost</u></a></li>
 </ul></div>
 

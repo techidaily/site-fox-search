@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Workflow with Advanced Navigation Tabs
-date: 2024-09-23T20:11:53.375Z
-updated: 2024-09-29T21:16:45.569Z
+date: 2024-09-29T21:00:21.338Z
+updated: 2024-10-05T17:36:51.646Z
 tags:
   - user-guide
 categories:
@@ -78,6 +78,13 @@ This page allows you to specify actions for your upgrade package.
 
 ![Upgrade Action](https://cdn.advancedinstaller.com/img/dialog/upgrade-action.png "Upgrade Action")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Upgrade Action
 
 ### Find and remove products
@@ -95,19 +102,19 @@ The products will only be detected, but not removed. The detected products will 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If you are using an EXE bootstrapper which contains the installation files and you only want to remove some features, you need to use the "Do not delete extracted MSI and CAB files" option in the[Builds](https://tools.techidaily.com/advancedinstaller/products/) page's [Configuration Settings Tab](https://tools.techidaily.com/advancedinstaller/products/) tab. Also, you should add the**ProductVersion** property to the "Extraction Location" field on the same tab.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can also use the \[... \] button to select a feature from your project.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Result Property
@@ -117,10 +124,10 @@ In this field, you can specify the property that will contain the Product Codes 
 ## Options
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enable Migrate Features action
@@ -128,13 +135,6 @@ In this field, you can specify the property that will contain the Product Codes 
 The Migrate Feature action is used during upgrading and when installing a new application overwriting a related application. Migrate Feature reads the feature states in the existing application and then sets these feature states in the pending installation. The method is only useful when the new feature tree has not greatly changed from the original. 
 
 This option also applies to the features that are specified in the "Upgrade Features" field.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Continue installation upon failure to remove a product
 
@@ -173,22 +173,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-chromebooks-to-the-rescue-mastering-webcam-recordings/"><u>[New] In 2024, Chromebooks to the Rescue Mastering Webcam Recordings</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-live-engagement-on-fb-how-to-get-started-for-2024/"><u>[New] Live Engagement on FB How to Get Started for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-air-and-pro-on-m1-compare-contrast-and-choose-wisely/"><u>[Updated] Air & Pro on M1 Compare, Contrast, and Choose Wisely</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-to-write-a-script-for-a-youtube-video-in-2024/"><u>[Updated] How to Write a Script for a YouTube Video, In 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-miniature-music-menus-actors-in-audio-world/"><u>[Updated] In 2024, Miniature Music Menus Actors in Audio World</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professional-film-techniques-for-drones/"><u>[Updated] Professional Film Techniques for Drones</u></a></li>
-<li><a href="https://fox-search.techidaily.com/2-oracle-certification-study-guides-and-videocasts-download-tutorials-directly-from-oracle-university/"><u>2. Oracle Certification Study Guides & Videocasts: Download Tutorials Directly From Oracle University.</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-premium-video-collaboration-software-guides/"><u>2024 Approved Premium Video Collaboration Software Guides</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-lifecycle-of-windows-movie-maker-releases/"><u>2024 Approved Unraveling the Lifecycle of Windows Movie Maker Releases</u></a></li>
-<li><a href="https://fox-search.techidaily.com/bulk-download-of-adult-films-in-multiple-formats-mp4-avi-compatible-with-mac-and-windows/"><u>Bulk Download of Adult Films in Multiple Formats (MP4, AVI) - Compatible with Mac and Windows</u></a></li>
-<li><a href="https://fox-search.techidaily.com/bulk-download-convert-worldwide-newscasts-into-multiple-formats-mp4-wmv-avi-etc/"><u>Bulk Download: Convert Worldwide Newscasts Into Multiple Formats (MP4, WMV, AVI, Etc.)</u></a></li>
-<li><a href="https://fox-search.techidaily.com/cbs-news-video-downloads-available-in-multiple-file-types-for-easy-viewing-and-sharing/"><u>CBS News Video Downloads Available in Multiple File Types for Easy Viewing and Sharing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-marketers-manual-for-recognizing-fabricated-supporters/"><u>In 2024, A Marketer’s Manual for Recognizing Fabricated Supporters</u></a></li>
-<li><a href="https://fox-search.techidaily.com/seamlessly-update-book-cover-images-with-flipbuilder-a-comprehensive-guide/"><u>Seamlessly Update Book Cover Images with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/transform-your-text-documents-into-interactive-flipbooks-with-easy-graphics-insertion-discover-how-with-flipbuilder/"><u>Transform Your Text Documents Into Interactive Flipbooks with Easy Graphics Insertion: Discover How with FlipBuilder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/update-guide-for-flipbuilder-how-to-install-the-most-recent-version/"><u>Update Guide for FlipBuilder: How to Install the Most Recent Version</u></a></li>
-<li><a href="https://fox-search.techidaily.com/viewing-flipbooks-in-hd-clarity-discover-how-at-flipbuilder/"><u>Viewing Flipbooks in HD Clarity - Discover How at FlipBuilder!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ragnors-rebirth-warriors-alliance-for-2024/"><u>[Updated] Ragnor's Rebirth Warriors Alliance for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-networking-on-linkedin/"><u>2024 Approved Navigating Networking on LinkedIn</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-instagram-edge-strategic-use-of-descriptive-texts-in-videos/"><u>2024 Approved The Instagram Edge Strategic Use of Descriptive Texts in Videos</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-zero-cost-malware-scrubbers-comprehensive-guide-to-keeping-your-devices-clean-with-malwarefox-and-others/"><u>Best Zero-Cost Malware Scrubbers : Comprehensive Guide to Keeping Your Devices Clean with MalwareFox and Others</u></a></li>
+<li><a href="https://games-able.techidaily.com/discontinued-games-beyond-your-psp-network/"><u>Discontinued Games: Beyond Your PSP Network</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-word-meanings-and-definitions-in-the-comprehensive-dictionary-hub/"><u>Exploring Word Meanings & Definitions in the Comprehensive Dictionary Hub</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-manage-and-use-environment-variables-in-your-application/"><u>How to Manage and Use Environment Variables in Your Application</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcpx-jump-cut-mastery-elevate-your-video-editing-skills/"><u>New In 2024, FCPX Jump Cut Mastery Elevate Your Video Editing Skills</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tweak-system-configurations-using-the-ini-editing-tool/"><u>Tweak System Configurations Using the Ini Editing Tool</u></a></li>
+<li><a href="https://fox-search.techidaily.com/unlocking-the-secrets-of-high-quality-lossless-music-the-flac-format-explained/"><u>Unlocking the Secrets of High-Quality Lossless Music: The FLAC Format Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/whats-new-in-rainbow-six-siege-explore-the-2024-update-features/"><u>What’s New in Rainbow Six Siege? Explore the 2024 Update Features!</u></a></li>
 </ul></div>
 

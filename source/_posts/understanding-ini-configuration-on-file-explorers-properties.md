@@ -1,7 +1,7 @@
 ---
 title: Understanding INI Configuration on File Explorer's Properties
-date: 2024-09-23T11:46:22.556Z
-updated: 2024-09-30T10:28:27.746Z
+date: 2024-10-02T16:08:49.482Z
+updated: 2024-10-05T21:18:09.586Z
 tags:
   - user-guide
 categories:
@@ -94,38 +94,38 @@ When adding an INI file to your package you have two options:
 
 An INI file will always use the **encoding of an MSI**, set in [Configuration Settings Tab](https://tools.techidaily.com/advancedinstaller/products/) under _Database Code Page_ section. From this tab it can be changed to**UTF-8** if needed and thus, making both the MSI and INI files to use this encoding.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating new INI files
 
 ![New INI File](https://cdn.advancedinstaller.com/img/toolbar/ini-new.png "New INI File")Use the \[New INI File \] toolbar button or the “New INI File” tree/list context menu item. The filenames should have valid filename specific ASCII characters only. The [INI File Editor - Edit INI File Dialog](https://tools.techidaily.com/advancedinstaller/products/) allows you to add, remove and change INI sections and keys. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an existing INI file
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” list context menu item, press theEnter key while an INI file is selected in the “Files” panel or double click on an INI file.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)INI files can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Name
 * Key
@@ -134,10 +134,10 @@ An INI file will always use the **encoding of an MSI**, set in [Configuration Se
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -180,24 +180,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-out-of-obscurity-reversing-tiktoks-stealth-ban/"><u>[New] 2024 Approved Out of Obscurity Reversing TikTok's Stealth Ban</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-video-dimensions-what-you-need-to-know/"><u>[Updated] In 2024, Twitter's Video Dimensions What You Need to Know</u></a></li>
-<li><a href="https://fox-search.techidaily.com/act-now-experience-the-thrill-of-temporal-adjustments/"><u>Act Now: Experience the Thrill of Temporal Adjustments</u></a></li>
-<li><a href="https://fox-search.techidaily.com/complete-guide-to-downloading-pad-man-movie-and-trailers-in-various-formats/"><u>Complete Guide to Downloading 'Pad Man' Movie & Trailers in Various Formats</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-the-best-keekr-video-player-software-for-your-mac-or-catalina-now-available-for-free/"><u>Discover the Best Keekr Video Player Software for Your Mac or Catalina, Now Available for Free!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-music-from-tunein-directly-easy-mp3-and-wav-extraction-with-tunein-downloader/"><u>Download Music From TuneIn Directly - Easy MP3 and WAV Extraction with TuneIn Downloader</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-video-transfer-convert-and-save-your-favorite-ign-videos-as-mp4-or-avi-on-pc-and-mac/"><u>Effortless Video Transfer: Convert and Save Your Favorite IGN Videos as MP4 or AVI on PC & Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-sound-on-your-mic-while-playing-counter-strike-global-offensive/"><u>Expert Tips to Restore Sound on Your Mic While Playing Counter-Strike Global Offensive</u></a></li>
-<li><a href="https://fox-search.techidaily.com/get-your-favorite-content-from-telecinco-expert-guide-to-video-downloads/"><u>Get Your Favorite Content From Telecinco: Expert Guide to Video Downloads</u></a></li>
-<li><a href="https://fox-search.techidaily.com/get-your-media-playback-organized-with-mac-compatible-atube-catcher-alternatives-install-and-start-streaming-today/"><u>Get Your Media Playback Organized with Mac-Compatible aTube Catcher Alternatives – Install and Start Streaming Today!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-series-breakdown-what-sets-apart-gpt-4-from-its-turbocharged-cousins-gpt-4turbo-and-gpt-4o/"><u>GPT Series Breakdown: What Sets Apart GPT-4 From Its Turbocharged Cousins GPT-4Turbo & GPT-4o</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-save-and-watch-top-firstpost-content-as-mp4-wmv-mov-or-avi-files/"><u>How to Save and Watch Top FirstPost Content as MP4, WMV, MOV or AVI Files</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-15-plus-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 15 Plus Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-start-off-right-top-gear-for-aspiring-gopro-users/"><u>In 2024, Start Off Right Top Gear for Aspiring GoPro Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-bypass-tools-to-bypass-lock-screen-infinix-note-30-5g-by-drfone-android-unlock-android-unlock/"><u>Infinix Bypass Tools to Bypass Lock Screen(Infinix Note 30 5G)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/recording-webinars-on-a-budget-friendly-platform-for-2024/"><u>Recording Webinars on a Budget-Friendly Platform for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/say-goodbye-to-silent-messages-how-to-troubleshoot-and-restore-sounds-on-iphones-18-fixes-inside/"><u>Say Goodbye to Silent Messages: How To Troubleshoot and Restore Sounds on iPhones (18 Fixes Inside)</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-mastering-the-art-of-downloading-mlb-footage-featuring-famous-pitchers-slider-techniques/"><u>Step-by-Step Guide: Mastering the Art of Downloading MLB Footage Featuring Famous Pitchers' Slider Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-ai-chatbots-why-are-they-capturing-everyones-interest/"><u>Unveiling AI Chatbots: Why Are They Capturing Everyone's Interest?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-rediscovering-eliminated-reddit-discussions-efficiently-for-2024/"><u>[New] Rediscovering Eliminated Reddit Discussions Efficiently for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-what-makes-vegaspro-2019-stand-out-an-examination/"><u>[Updated] 2024 Approved What Makes VegasPro 2019 Stand Out? An Examination</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-for-customizing-and-downloading-spiritual-audio/"><u>2024 Approved Step by Step for Customizing and Downloading Spiritual Audio</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-proart-pa32ucxr-mini-led-monitor-evaluation-exceptional-color-fidelity-for-professional-creatives/"><u>Asus ProArt PA32UCXR Mini LED Monitor Evaluation: Exceptional Color Fidelity for Professional Creatives</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-the-latest-additions-in-itunes-version-121/"><u>Discover the Latest Additions in iTunes Version 12.1</u></a></li>
+<li><a href="https://fox-search.techidaily.com/efficient-strategies-for-uploading-big-files-via-whatsapp/"><u>Efficient Strategies for Uploading Big Files via WhatsApp</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphic-hardware-not-suitable-for-current-overwatch-version/"><u>Graphic Hardware Not Suitable for Current Overwatch Version</u></a></li>
+<li><a href="https://fox-search.techidaily.com/innovative-techniques-to-seamlessly-copy-audio-files-from-your-ipad-to-a-desktop-computer/"><u>Innovative Techniques to Seamlessly Copy Audio Files From Your iPad to a Desktop Computer</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mp4-to-m4v-conversion-guide-for-pc-and-mac-users/"><u>MP4 to M4V Conversion Guide for PC and Mac Users</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-retrieve-accidentally-deleted-images-from-your-ipad/"><u>Step-by-Step Guide: Retrieve Accidentally Deleted Images From Your iPad</u></a></li>
+<li><a href="https://fox-search.techidaily.com/strategies-and-features-in-addressing-customer-service-mishaps/"><u>Strategies and Features in Addressing Customer Service Mishaps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-roadmap-to-streamlined-cloud-gaming-via-xbox-game-pass-ultimate/"><u>The Insider's Roadmap to Streamlined Cloud Gaming via Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-when-your-steelseries-arctis-9x-mic-stops-working/"><u>The Ultimate Fix for When Your SteelSeries Arctis 9X Mic Stops Working</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ultimate-guide-how-to-seamlessly-sync-pictures-from-googles-pixel-3-phone-with-your-laptop-or-desktop/"><u>Ultimate Guide: How to Seamlessly Sync Pictures From Google's Pixel 3 Phone with Your Laptop or Desktop</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-instance-attributes-panel-a-guide/"><u>Understanding the Instance Attributes Panel: A Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-12-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 12 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

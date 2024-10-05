@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Instance Attributes Panel: A Guide"
-date: 2024-09-23T05:35:17.838Z
-updated: 2024-09-30T12:51:41.936Z
+date: 2024-10-04T18:57:10.877Z
+updated: 2024-10-05T19:18:02.301Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,10 @@ Table of Contents
 ![Instance properties tab](https://cdn.advancedinstaller.com/img/ui/instance-properties-tab.png "Instance properties tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Product Code
@@ -89,10 +89,10 @@ Table of Contents
 The **ProductCode** property is mandatory and it's added automatically when the instance is created. You can use\[Generate \] button to generate a new GUID.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional Properties
@@ -100,16 +100,16 @@ The **ProductCode** property is mandatory and it's added automatically when the 
 You can set additional properties for the selected instance. An example would be to set the **ProductName** property to a different value so the instances will be easily distinguished in the Control Panel->Add or Remove Programs applet. Use the \[New... \], \[Edit... \] and \[Remove \] buttons to select them.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -150,24 +150,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-tailored-titling-techniques-for-impactful-youtube-channels/"><u>[New] In 2024, Tailored Titling Techniques for Impactful YouTube Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-to-embrace-or-not-the-itop-screen-recorder-dilemran/"><u>[New] In 2024, To Embrace or Not The ITop Screen Recorder Dilemran</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-step-by-step-guide-convert-your-ebooks-into-audiobooks-mp3flac-using-macos-or-windows/"><u>1. Step-by-Step Guide: Convert Your Ebooks Into Audiobooks (MP3/FLAC) Using macOS or Windows</u></a></li>
-<li><a href="https://fox-search.techidaily.com/catchtunez-pro-effortless-cross-platform-tool-for-fetching-music-and-video-from-youtube-on-pcs-and-macs/"><u>CatchTunez Pro: Effortless Cross-Platform Tool for Fetching Music and Video From YouTube on PCs and Macs</u></a></li>
-<li><a href="https://fox-search.techidaily.com/complete-guide-to-downloading-pad-man-movie-and-trailers-in-various-formats/"><u>Complete Guide to Downloading 'Pad Man' Movie & Trailers in Various Formats</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-the-best-keekr-video-player-software-for-your-mac-or-catalina-now-available-for-free/"><u>Discover the Best Keekr Video Player Software for Your Mac or Catalina, Now Available for Free!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-music-from-tunein-directly-easy-mp3-and-wav-extraction-with-tunein-downloader/"><u>Download Music From TuneIn Directly - Easy MP3 and WAV Extraction with TuneIn Downloader</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-video-transfer-convert-and-save-your-favorite-ign-videos-as-mp4-or-avi-on-pc-and-mac/"><u>Effortless Video Transfer: Convert and Save Your Favorite IGN Videos as MP4 or AVI on PC & Mac</u></a></li>
-<li><a href="https://fox-search.techidaily.com/get-your-favorite-content-from-telecinco-expert-guide-to-video-downloads/"><u>Get Your Favorite Content From Telecinco: Expert Guide to Video Downloads</u></a></li>
-<li><a href="https://fox-search.techidaily.com/get-your-media-playback-organized-with-mac-compatible-atube-catcher-alternatives-install-and-start-streaming-today/"><u>Get Your Media Playback Organized with Mac-Compatible aTube Catcher Alternatives – Install and Start Streaming Today!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a24-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A24 Phone without Google Account?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-video-requirement-aspect-ratio/"><u>In 2024, Twitter Video Requirement - Aspect Ratio</u></a></li>
-<li><a href="https://win-dash.techidaily.com/intels-serial-interface-driver-free-download-and-quick-install-steps/"><u>Intel's Serial Interface Driver: Free Download and Quick Install Steps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-kids-the-ultimate-guide-to-kid-friendly-snacks-2017s-best-app/"><u>Mondly Kids: The Ultimate Guide to Kid-Friendly Snacks, 2017'S Best App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigate-disneyplus-for-a-complete-star-wars-viewing-journey-step-by-step/"><u>Navigate Disney+ for a Complete Star Wars Viewing Journey - Step by Step</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-obs-replacement-software-compared-best-mac-and-windows-options-by-allavsoft/"><u>Top OBS Replacement Software Compared: Best Mac & Windows Options by Allavsoft</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011080943-troubleshooting-steps-for-persistent-crashes-in-necromunda-hired-gun-pc-gaming-woes-solved/"><u>Troubleshooting Steps for Persistent Crashes in Necromunda: Hired Gun - PC Gaming Woes Solved!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-printer-malfunction-during-win7-restart-from-sleep/"><u>USB Printer Malfunction During Win7 Restart From Sleep</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-dissecting-the-livestream-battlefield-twitch-vs-youtube/"><u>[Updated] 2024 Approved Dissecting the Livestream Battlefield Twitch vs YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-finding-premium-photography-without-spending/"><u>[Updated] Finding Premium Photography Without Spending</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-youtube-content-with-text-overlays/"><u>[Updated] In 2024, Enhancing YouTube Content with Text Overlays</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-guide-to-modern-mojave-dwellings/"><u>[Updated] In 2024, Ultimate Guide to Modern Mojave Dwellings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-secrets-of-youtube-shorts-success/"><u>[Updated] Unveiling the Secrets of YouTube Shorts Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-through-the-chatter-debunking-nine-biggies-of-ai-dialogue/"><u>Cut Through the Chatter: Debunking Nine Biggies of AI Dialogue</u></a></li>
+<li><a href="https://fox-search.techidaily.com/efficient-file-handling-mastering-ifile-component-usage/"><u>Efficient File Handling: Mastering iFile Component Usage</u></a></li>
+<li><a href="https://fox-search.techidaily.com/innovative-techniques-to-seamlessly-copy-audio-files-from-your-ipad-to-a-desktop-computer/"><u>Innovative Techniques to Seamlessly Copy Audio Files From Your iPad to a Desktop Computer</u></a></li>
+<li><a href="https://fox-search.techidaily.com/intuitive-file-search-tool-find-documents-faster/"><u>Intuitive File Search Tool - Find Documents Faster</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-taking-snaps-a-mac-users-handbook/"><u>Mastering the Art of Taking Snaps: A Mac User's Handbook</u></a></li>
+<li><a href="https://fox-search.techidaily.com/personalized-property-settings-tailor-your-experience/"><u>Personalized Property Settings: Tailor Your Experience</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-the-power-of-transitions-in-final-cut-pro-3-expert-methods/"><u>Updated Unleash the Power of Transitions in Final Cut Pro 3 Expert Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/vlogging-vs-micro-video-which-outperforms-for-2024-youtubes-shorts-or-tiktoks/"><u>Vlogging Vs. Micro-Video Which Outperforms for 2024 YouTubes Shorts or TikToks?</u></a></li>
 </ul></div>
 

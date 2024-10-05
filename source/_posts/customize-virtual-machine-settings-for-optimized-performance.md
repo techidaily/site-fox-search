@@ -1,7 +1,7 @@
 ---
 title: Customize Virtual Machine Settings for Optimized Performance
-date: 2024-09-25T08:58:45.718Z
-updated: 2024-09-30T09:34:03.218Z
+date: 2024-10-03T17:58:16.838Z
+updated: 2024-10-05T18:41:31.047Z
 tags:
   - user-guide
 categories:
@@ -61,10 +61,10 @@ This page allows you to create and configure the profiles that will be used for 
 ![VM Profile Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-vm-profile-dlg.png "VM Profile Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new server connection
@@ -75,15 +75,22 @@ For **Other Servers** options there is a_Certificate_ field in which you must sp
 
 You can follow the [Repackaging an installation in Oracle VM VirtualBox](https://tools.techidaily.com/advancedinstaller/products/) article to find how to setup the server.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new profile
 
 Use the “New” context menu option or press the+ key while **localhost** or another custom defined server connection is selected in the left pane.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Duplicating a profile
@@ -91,22 +98,15 @@ Use the “New” context menu option or press the+ key while **localhost** or a
 Use the “Duplicate” context menu option or press the\* key while an existing profile is selected. This option comes in handy when you want to create a profile very similar to exiting one. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting a profile as active
 
 Use the “Set as active” context menu option. The profile that is **active** (current) is the one that will be used for the VM installation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Deleting a profile
 
@@ -152,16 +152,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-creating-captivating-tiktok-outro-sequences-for-2024/"><u>[New] Creating Captivating TikTok Outro Sequences for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/advanced-argon-pro-the-ultimate-premium-react-framework-and-ui-kit-by-creative-tim-powering-bootstrap-4-applications/"><u>Advanced Argon Pro: The Ultimate Premium REACT Framework & UI Kit by Creative Tim, Powering Bootstrap 4 Applications</u></a></li>
-<li><a href="https://fox-search.techidaily.com/advanced-bootstrap-navbar-features-enhanced-with-custom-icons-a-modern-twist-on-classic-menus/"><u>Advanced Bootstrap NavBar Features Enhanced with Custom Icons – A Modern Twist on Classic Menus</u></a></li>
-<li><a href="https://fox-search.techidaily.com/answer-the-new-concentration-will-remain-at-5-as-both-solute-and-solvent-volumes-have-been-doubled-proportionally/"><u>Answer: The New Concentration Will Remain at 5%, as Both Solute and Solvent Volumes Have Been Doubled Proportionally.</u></a></li>
-<li><a href="https://fox-search.techidaily.com/creative-tims-bootstrap-4-complemented-by-argon-a-cost-free-open-source-ui-kit/"><u>Creative Tim's Bootstrap 4 Complemented by Argon: A Cost-Free, Open-Source UI Kit</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-website-analytics-through-cookiebot-solutions/"><u>Enhanced Website Analytics Through Cookiebot Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-c53-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme C53 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-gripping-phrase-generator-device/"><u>In 2024, Gripping Phrase Generator Device</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/is-sleep-hibernate-or-shutdown-best-for-your-windows-computer/"><u>Is Sleep, Hibernate, or Shutdown Best for Your Windows Computer?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revamped-planet-continually-encounters-frost-insights-and-solutions/"><u>Revamped Planet Continually Encounters Frost: Insights & Solutions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-guide-to-the-top-5-windows-snipper-tools-for-2024/"><u>[New] Essential Guide to The Top 5 Windows Snipper Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-understanding-ars-capabilities-and-limits/"><u>[Updated] 2024 Approved Understanding AR's Capabilities and Limits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/advanced-tips-for-capturing-gaming-moments-in-overwatch-for-2024/"><u>Advanced Tips for Capturing Gaming Moments in Overwatch for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/alternate-methods-for-capturing-screenshots-in-windows-10-games/"><u>Alternate Methods for Capturing Screenshots in Windows 10 Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/brief-guide-to-obscured-faces-on-piscart-platforms/"><u>Brief Guide to Obscured Faces on PiscArt Platforms</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comprehensive-guide-for-automotive-enthusiasts-and-drivers/"><u>Comprehensive Guide for Automotive Enthusiasts and Drivers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-steps-for-soft-and-hard-resets-of-your-iphone-a-complete-tutorial/"><u>Comprehensive Steps for Soft and Hard Resets of Your iPhone: A Complete Tutorial</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/die-aktuellen-top-hits-kostenloses-streaming-mit-bester-leistung-hd-hevc-videoplayer-im-jahr-2022/"><u>Die Aktuellen Top-Hits: Kostenloses Streaming Mit Bester Leistung - HD HEVC Videoplayer Im Jahr 2022</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-guide-how-to-conduct-an-i-reg-entry-version-search/"><u>Easy Guide: How to Conduct an I-Reg Entry Version Search</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-use-of-ixmlfileinstall-for-streamlined-system-configuration/"><u>Effective Use of IXMLFileInstall for Streamlined System Configuration</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy XCover 7?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/illustrative-sql-queries-a-comprehensive-guide/"><u>Illustrative SQL Queries: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-ensuring-profit-tracking-on-your-channel/"><u>In 2024, Ensuring Profit Tracking on Your Channel</u></a></li>
+<li><a href="https://fox-search.techidaily.com/locate-your-running-microsoft-office-products-step-by-step-tips/"><u>Locate Your Running Microsoft Office Products: Step-by-Step Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Installation Prerequisites Checklist: Your Step-by-Step Resource"
-date: 2024-09-29T10:55:22.115Z
-updated: 2024-09-30T04:42:33.673Z
+date: 2024-10-04T21:48:13.911Z
+updated: 2024-10-05T19:19:46.728Z
 tags:
   - user-guide
 categories:
@@ -88,10 +88,10 @@ This view allows you to include existing installers in your package, to enable W
 All setup files used by a prerequisite can be bundled with your package or placed online and accessed through a URL. During install, if the prerequisite is not found it will be automatically installed.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ![Prerequisites](https://cdn.advancedinstaller.com/img/toolbar/prerequisites.png "Prerequisites") Prerequisites
@@ -104,25 +104,18 @@ Select **Packages** tree item to display the [Frameworks and Runtimes](https://t
 
 To make sure that the target machines can run your installation package, you can include Windows Installer as a prerequisite. Windows Installer predefined prerequisites use special setup file locations. When building your project, the prerequisite installation package is downloaded automatically. If the download fails or you cancel it, an error message will be displayed and the build process is aborted.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding bundled prerequisite software
 
 ![New package prereq](https://cdn.advancedinstaller.com/img/toolbar/new-package-prereq.png "New package prereq") Use the\[New Executable Package \] toolbar button, “New Executable Package ” context menu item or Insert key. You will be prompted to pick the executable prerequisite setup files.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![New wi package](https://cdn.advancedinstaller.com/img/toolbar/new-wi-package.png "New wi package") Use the\[New Windows Installer Package \] toolbar button or “New Windows Installer Package” context menu item. You will be prompted to pick the .msi prerequisite setup files.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding downloadable prerequisite software
 
@@ -134,16 +127,22 @@ All .msi prerequisites are added as Chained prerequisites by default.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Chained packages require **Windows Installer 4.5** or higher. For older Windows Installer versions they are ignored.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Specify which builds will contain a prerequisite package
 
 If multiple builds were created in [Builds](https://tools.techidaily.com/advancedinstaller/products/) page, you can specify which build should contain the prerequisite in the the prerequisite's [Builds](https://tools.techidaily.com/advancedinstaller/products/) tab.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding a prerequisite from repository
 
@@ -157,13 +156,6 @@ Select the prerequisite you want to export and use the “Move To Repository” 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can read more about the prerequisites repository in this [article](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Editing a prerequisite
 
 When selecting a prerequisite, its properties pane will be displayed. In this pane you can configure all available package settings.
@@ -176,17 +168,31 @@ When selecting a prerequisite, its properties pane will be displayed. In this pa
 
 The order in which the prerequisites are displayed is the order in which they will be installed on the target machine. The \[Move Up \] context menu item orShift + Up keys will move a package up. The \[Move Down \] context menu item or Shift + Down keys will move it down.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ![Windows features](https://cdn.advancedinstaller.com/img/toolbar/windows-features.png "Windows features") Windows Features
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding a Windows Features bundle
 
 ![New windows features bundle](https://cdn.advancedinstaller.com/img/toolbar/new-windows-features-bundle.png "New windows features bundle") Use the \[Windows Feature bundle \] toolbar button or “New Windows Feature bundle” context menu item. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a Windows Features bundle
@@ -201,29 +207,35 @@ When selecting a Windows Features bundle, its properties pane will be displayed.
 
 ![Windows server roles](https://cdn.advancedinstaller.com/img/toolbar/windows-server-roles.png "Windows server roles") Roles selected in this view only apply when running the package on a Windows Server. They will be ignored on any other OS type.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is available for Enterprise or above project types.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding a Windows Server Role
 
 ![New windows server role](https://cdn.advancedinstaller.com/img/toolbar/new-windows-server-role.png "New windows server role") Select**Windows Server Roles** tree item, then check the roles you want to include in your package. The roles are grouped by the earliest supported version of the target server OS.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Editing a Windows Server Role
 
 When selecting a Windows Server Role, its properties pane will be displayed. In this [Windows Server Roles](https://tools.techidaily.com/advancedinstaller/products/) pane you can configure all available settings.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Removing a Windows Server Role
 
@@ -283,18 +295,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/levate-video-production-the-audio-edition-on-youtube-for-2024/"><u>[New] Elevate Video Production The Audio Edition on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elite-10-sound-enhancers-across-os-platforms/"><u>[New] In 2024, Elite 10 Sound Enhancers Across OS Platforms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-sizzling-tweetstorms-americas-favorites/"><u>[Updated] In 2024, Sizzling Tweetstorms America's Favorites</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-11-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme 11 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/is-it-possible-to-distribute-interactive-mobile-friendly-flipbooks-with-flipbuilder/"><u>Is It Possible to Distribute Interactive Mobile-Friendly Flipbooks with FlipBuilder?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/master-flippdf-for-mac-the-ultimate-tutorial-at-flipbuildercom-for-enhanced-document-management/"><u>Master FlipPDF for Mac: The Ultimate Tutorial at FlipBuilder.com for Enhanced Document Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-spreadsheet-techniques-to-change-series-names-in-excel/"><u>Mastering Your Spreadsheet: Techniques to Change Series Names in Excel</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-audio-innovations-8-cutting-edge-cartoon-soundtracks-now-available-for-download/"><u>New In 2024, Audio Innovations 8 Cutting-Edge Cartoon Soundtracks Now Available for Download</u></a></li>
-<li><a href="https://fox-search.techidaily.com/optimize-page-thickness-and-dimensions-in-control-flipping-books-before-uploading-to-flipbuilder/"><u>Optimize Page Thickness & Dimensions in Control Flipping Books Before Uploading to FlipBuilder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/seamlessly-update-book-cover-images-with-flipbuilder-a-comprehensive-guide/"><u>Seamlessly Update Book Cover Images with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/transform-your-text-documents-into-interactive-flipbooks-with-easy-graphics-insertion-discover-how-with-flipbuilder/"><u>Transform Your Text Documents Into Interactive Flipbooks with Easy Graphics Insertion: Discover How with FlipBuilder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/update-guide-for-flipbuilder-how-to-install-the-most-recent-version/"><u>Update Guide for FlipBuilder: How to Install the Most Recent Version</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-last-to-first-deconstructing-your-video-watch-list-for-2024/"><u>[New] From Last to First Deconstructing Your Video Watch List for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-decoding-youtubes-intricate-view-count-mechanics/"><u>[New] In 2024, Decoding YouTube's Intricate View Count Mechanics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-content-size-on-igtv-top-5-expert-tips-to-consider-for-2024/"><u>[New] Navigating Content Size on IGTV Top 5 Expert Tips to Consider for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-exclusive-insight-into-low-cost-footage-websites/"><u>[Updated] 2024 Approved Exclusive Insight Into Low-Cost Footage Websites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715701073453-best-free-android-capture-app-zero-ads/"><u>Best Free Android Capture App, Zero Ads!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-the-latest-additions-in-itunes-version-121/"><u>Discover the Latest Additions in iTunes Version 12.1</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/filefixers-experts-evaluation-for-2024/"><u>FileFixers Experts Evaluation for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/high-performance-computing-redefined-in-depth-analysis-of-the-hp-omen-obelisk/"><u>High-Performance Computing Redefined: In-Depth Analysis of the HP Omen Obelisk</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-a-to-z-guide-for-delivering-captivating-streams-using-zoom-and-youtube/"><u>In 2024, The A-to-Z Guide for Delivering Captivating Streams Using Zoom & YouTube</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-retrieve-accidentally-deleted-images-from-your-ipad/"><u>Step-by-Step Guide: Retrieve Accidentally Deleted Images From Your iPad</u></a></li>
+<li><a href="https://fox-search.techidaily.com/the-ultimate-top-6-ios-audio-recording-tools-for-your-mobile-device/"><u>The Ultimate Top 6 iOS Audio Recording Tools for Your Mobile Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ultimate-guide-how-to-seamlessly-sync-pictures-from-googles-pixel-3-phone-with-your-laptop-or-desktop/"><u>Ultimate Guide: How to Seamlessly Sync Pictures From Google's Pixel 3 Phone with Your Laptop or Desktop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Intuitive File Search Tool - Find Documents Faster
-date: 2024-09-27T20:48:44.110Z
-updated: 2024-09-30T11:38:18.360Z
+date: 2024-09-28T16:57:33.823Z
+updated: 2024-10-05T18:25:25.047Z
 tags:
   - user-guide
 categories:
@@ -125,26 +125,26 @@ Table of Contents
 ## IFileSearch
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IFileSearch: IAppSearch
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview
 
 This interface is meant to edit search options for a file
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -161,10 +161,10 @@ This interface is meant to edit search options for a file
 **uint MaxSize** \- Gets or sets maximum file size in bytes. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -181,10 +181,10 @@ $compLoc.GUID = "{c4c29405-23d0-4347-8fa4-ee23c83e4cc3}"
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -226,18 +226,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-premium-microphone-selection-for-your-podcast/"><u>[Updated] 2024 Approved The Premium Microphone Selection for Your Podcast</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-10-free-web-conferencing-software-for-online-meeting-with-screen-sharing/"><u>2024 Approved 10 Free Web Conferencing Software for Online Meeting (with Screen Sharing)</u></a></li>
-<li><a href="https://fox-search.techidaily.com/act-now-experience-the-thrill-of-temporal-adjustments/"><u>Act Now: Experience the Thrill of Temporal Adjustments</u></a></li>
-<li><a href="https://fox-search.techidaily.com/advanced-argon-pro-the-ultimate-premium-react-framework-and-ui-kit-by-creative-tim-powering-bootstrap-4-applications/"><u>Advanced Argon Pro: The Ultimate Premium REACT Framework & UI Kit by Creative Tim, Powering Bootstrap 4 Applications</u></a></li>
-<li><a href="https://fox-search.techidaily.com/boost-productivity-now-how-the-hud-enhances-your-active-desktop-experience/"><u>Boost Productivity Now: How the HUD Enhances Your Active Desktop Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-google-pixel-7a-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Google Pixel 7a Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-save-and-watch-top-firstpost-content-as-mp4-wmv-mov-or-avi-files/"><u>How to Save and Watch Top FirstPost Content as MP4, WMV, MOV or AVI Files</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-streamlining-image-processes-with-polarrs-compreeved-tools/"><u>In 2024, Streamlining Image Processes with Polarr's Compreeved Tools</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resolving-the-dreaded-critical-error-102-in-your-actions/"><u>Resolving the Dreaded Critical Error #102 in Your Actions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-mastering-the-art-of-downloading-mlb-footage-featuring-famous-pitchers-slider-techniques/"><u>Step-by-Step Guide: Mastering the Art of Downloading MLB Footage Featuring Famous Pitchers' Slider Techniques</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-rated-4k-video-conversion-software-2023s-best-picks/"><u>Updated 2024 Approved Top-Rated 4K Video Conversion Software 2023S Best Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207172245-usb-peripherals-failure-in-windows-7-heres-how-you-can-repair-them/"><u>USB Peripherals Failure in Windows 7? Here's How You Can Repair Them</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1726027727327-youtubepc/"><u>YouTube投稿のためのPCゲーム録画テクニック</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/treamline-your-strategy-with-aspect-ratio-mastery-on-youtube/"><u>[New] Streamline Your Strategy with Aspect Ratio Mastery on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-pinnacle-10-sound-superchargers-pc-mac-and-phones/"><u>[Updated] 2024 Approved Pinnacle 10 Sound Superchargers PC, Mac & Phones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-dare-to-differentiate-using-square-videos-for-social-media-standout-for-2024/"><u>[Updated] Dare to Differentiate Using Square Videos for Social Media Standout for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-expertise-in-ease-simplifying-complex-snapchat-filters-for-2024/"><u>[Updated] Expertise in Ease Simplifying Complex Snapchat Filters for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-create-unique-ringtone-experiences-on-iphone/"><u>2024 Approved How to Create Unique Ringtone Experiences on iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/connect-with-creativity-discover-digital-artistry-at-digiarty/"><u>Connect with Creativity: Discover Digital Artistry at DigiArty</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-the-latest-additions-in-itunes-version-121/"><u>Discover the Latest Additions in iTunes Version 12.1</u></a></li>
+<li><a href="https://fox-search.techidaily.com/efficient-strategies-for-uploading-big-files-via-whatsapp/"><u>Efficient Strategies for Uploading Big Files via WhatsApp</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-successfully-transfer-film-clips-to-a-samsung-galaxy-note-3-device/"><u>How to Successfully Transfer Film Clips to a Samsung Galaxy Note 3 Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mp4-to-m4v-conversion-guide-for-pc-and-mac-users/"><u>MP4 to M4V Conversion Guide for PC and Mac Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/quickly-restore-charging-functionality-to-your-laptop-expert-tips-inside/"><u>Quickly Restore Charging Functionality to Your Laptop: Expert Tips Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/redefine-your-chatting-experience-stay-anonymous-and-connect-using-duckduckgos-latest-ai-chat-features-powered-by-chatgpt/"><u>Redefine Your Chatting Experience: Stay Anonymous and Connect Using DuckDuckGo's Latest AI Chat Features Powered by ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-problem-solving-a-comprehensive-step-by-step-guide/"><u>Squad Mic Problem Solving: A Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-retrieve-accidentally-deleted-images-from-your-ipad/"><u>Step-by-Step Guide: Retrieve Accidentally Deleted Images From Your iPad</u></a></li>
+<li><a href="https://fox-search.techidaily.com/strategies-and-features-in-addressing-customer-service-mishaps/"><u>Strategies and Features in Addressing Customer Service Mishaps</u></a></li>
+<li><a href="https://fox-search.techidaily.com/the-ultimate-top-6-ios-audio-recording-tools-for-your-mobile-device/"><u>The Ultimate Top 6 iOS Audio Recording Tools for Your Mobile Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ultimate-guide-how-to-seamlessly-sync-pictures-from-googles-pixel-3-phone-with-your-laptop-or-desktop/"><u>Ultimate Guide: How to Seamlessly Sync Pictures From Google's Pixel 3 Phone with Your Laptop or Desktop</u></a></li>
 </ul></div>
 

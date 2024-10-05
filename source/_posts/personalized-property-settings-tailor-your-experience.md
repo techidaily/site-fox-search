@@ -1,7 +1,7 @@
 ---
 title: "Personalized Property Settings: Tailor Your Experience"
-date: 2024-09-28T20:35:04.005Z
-updated: 2024-09-30T00:50:18.949Z
+date: 2024-09-28T16:12:45.748Z
+updated: 2024-10-05T21:42:51.905Z
 tags:
   - user-guide
 categories:
@@ -103,16 +103,24 @@ This view allows you to set IIS properties, such as attributes and collection it
 
 ![Custom properties](https://cdn.advancedinstaller.com/img/ui/custom-properties.png "Custom properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a new property
 
 Use the \[New \] button or the “New” context menu item to add a new property, be that an attribute value or collection item.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Editing a property
+
+Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected.
+
+### Increase the execution priority
+
+Use the \[Up \] button, the “Up” context menu item or press the Page Up key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
@@ -121,47 +129,27 @@ Use the \[New \] button or the “New” context menu item to add a new property
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-### Editing a property
-
-Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### Increase the execution priority
-
-Use the \[Up \] button, the “Up” context menu item or press the Page Up key while an element from the list control is selected.
-
 ### Decrease the execution priority
 
 Use the \[Down \] button, the “Down” context menu item or press the Page Down key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a property
 
 Use the \[Remove \] button, the “Remove” context menu item or press theDelete key while an element from the list control is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -203,20 +191,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-captivating-images-with-intentional-leading-lines-iphone/"><u>[New] Captivating Images with Intentional Leading Lines (iPhone)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-go-green-for-effective-ctas-via-subscription-for-2024/"><u>[New] Go Green for Effective CTAs via Subscription for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-lens-based-enlightenment-guide-to-editing-brilliance-for-2024/"><u>[New] Lens-Based Enlightenment Guide to Editing Brilliance for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-every-dribble-ncaa-mens-basketball-radio-coverage-from-start-to-finish/"><u>Experience Every Dribble: NCAA Men's Basketball Radio Coverage From Start to Finish</u></a></li>
-<li><a href="https://fox-search.techidaily.com/explore-the-new-creatively-inspired-no-cost-vuetify-dashboard-templates-for-vuejs-applications/"><u>Explore the New Creatively-Inspired, No-Cost Vuetify Dashboard Templates for VueJS Applications</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-bugs-glitches-and-high-price-tag-of-the-microsoft-surface-duo/"><u>Exploring the Bugs, Glitches, and High Price Tag of the Microsoft Surface Duo</u></a></li>
-<li><a href="https://fox-search.techidaily.com/free-aspnet-design-assets-and-starter-kits-from-creative-tim-get-inspired/"><u>Free ASP.NET Design Assets & Starter Kits From Creative Tim - Get Inspired!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/free-bootstrap-ready-design-kit-from-impact-by-creative-tim-enhance-your-web-projects-now/"><u>Free Bootstrap-Ready Design Kit From Impact by Creative Tim – Enhance Your Web Projects Now!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/free-essential-administrative-tool-the-react-and-material-ui-integrated-argon-dashboard-by-creative-tim/"><u>Free Essential Administrative Tool: The React & Material-UI Integrated Argon Dashboard by Creative Tim</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-laravel-headless-a-step-by-step-journey-with-creativetims-expert-tips-on-json-apis/"><u>Mastering Laravel Headless: A Step-by-Step Journey with @CreativeTim's Expert Tips on JSON APIs</u></a></li>
-<li><a href="https://fox-search.techidaily.com/nextjs-and-figma-seamlessly-combined-with-horizon-ai-by-creative-tim-cutting-edge-web-development-tools/"><u>NextJS & Figma Seamlessly Combined with Horizon AI by Creative Tim – Cutting-Edge Web Development Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-itel-a60-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Itel A60</u></a></li>
-<li><a href="https://win-blog.techidaily.com/seamless-action-gaming-addressing-hlalyx-tech-snags-for-crystal-clear-play-on-pc/"><u>Seamless Action Gaming: Addressing HL:Alyx Tech Snags for Crystal Clear Play on PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/straightforward-guide-to-flipper-sound-manipulation-on-windows-os-for-2024/"><u>Straightforward Guide to Flipper Sound Manipulation on Windows OS for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-dvd-authoring-pack/"><u>オンラインで簡単にWinX DVD Authoring Packを手に入れる: ステップバイステップガイド</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-forge-business-identity-no-cost-customizable-logo-templates-available/"><u>[Updated] Forge Business Identity No-Cost Customizable Logo Templates Available</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/10-best-yoga-youtube-channels-to-follow-keep-fit-for-2024/"><u>10 Best Yoga YouTube Channels to Follow - Keep Fit for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-full-spectrum-review-of-obs-screen-recording/"><u>2024 Approved The Full Spectrum Review of OBS Screen Recording</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-guide-streaming-your-iphone-12-or-iphone-13-display-onto-a-television/"><u>Easy Guide: Streaming Your iPhone 12 or iPhone 13 Display Onto a Television</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-strategies-for-moving-music-files-to-your-samsung-galaxy-note-2/"><u>Effective Strategies for Moving Music Files to Your Samsung Galaxy Note 2</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/c-in-fun-the-best-comedy-centric-concepts-for-shorter-videos-for-2024/"><u>Frolic in Fun The Best Comedy-Centric Concepts for Shorter Videos for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/guide-to-editing-windows-internet-shortcut-attributes/"><u>Guide to Editing Windows Internet Shortcut Attributes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-customize-java-vm-settings-via-the-configuration-dialog/"><u>How to Customize Java VM Settings via the Configuration Dialog</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-captivating-visuals-for-digital-stagecraft/"><u>In 2024, Captivating Visuals for Digital Stagecraft</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four of Online Networking: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-response-from-monitor-post-update/"><u>No Response From Monitor Post Update</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/perfecting-the-science-of-converting-speech-to-text-with-google-for-2024/"><u>Perfecting the Science of Converting Speech to Text with Google for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-bbc-iplayer-using-pcs-or-macs/"><u>Step-by-Step Guide: Recording Your Favorite Shows From BBC iPlayer Using PCs or Macs</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-undoing-ransomware-attacks-and-retrieving-your-files/"><u>Step-by-Step Guide: Undoing Ransomware Attacks & Retrieving Your Files</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-no-cost-audio-capture-tools-available-on-windows-8-platforms/"><u>Top No-Cost Audio Capture Tools Available on Windows 8 Platforms</u></a></li>
 </ul></div>
 
