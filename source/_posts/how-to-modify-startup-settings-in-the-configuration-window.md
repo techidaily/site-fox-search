@@ -1,7 +1,7 @@
 ---
 title: How to Modify Startup Settings in the Configuration Window
-date: 2024-09-29T17:49:49.145Z
-updated: 2024-10-05T22:19:32.764Z
+date: 2024-10-05T06:18:30.141Z
+updated: 2024-10-10T19:43:48.674Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,10 @@ This dialog allows you to specify a custom launch condition based on an installe
 ![Edit Launch Condition Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-launch-condition.png "Edit Launch Condition Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -88,10 +88,16 @@ This dialog allows you to specify a custom launch condition based on an installe
 Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/). If the condition is True, the installation will run, if not then a message with the launch condition description is showed and the installation is aborted.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -99,10 +105,10 @@ Edit this field using [Smart Condition Edit Control](https://tools.techidaily.co
 Specify a description for the launch condition. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this string.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Builds
@@ -112,10 +118,10 @@ In this section, you can specify the project builds that should contain this lau
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Builds" options won't appear listed unless the project contains multiple builds defined in the [Builds Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -151,22 +157,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enablingdisabling-youtube-video-comments/"><u>[New] 2024 Approved Enabling/Disabling YouTube Video Comments</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-complete-guide-to-video-studios-focusing-on-xvideo-for-2024/"><u>[Updated] Complete Guide to Video Studios Focusing on XVideo for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-filmmakers-handbook-to-superior-voice-overseeing-for-2024/"><u>[Updated] The Filmmaker's Handbook to Superior Voice Overseeing for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-strategists-handbook-for-youtube-ad-profitability-for-2024/"><u>[Updated] The Strategist's Handbook for YouTube Ad Profitability for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-optimizing-your-viewing-experience-a-step-by-step-guide-to-adjusting-video-quality/"><u>1. Optimizing Your Viewing Experience: A Step-by-Step Guide to Adjusting Video Quality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-leading-mac-gif-editor/"><u>2024 Approved Leading Mac GIF Editor</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-7-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://fox-search.techidaily.com/boost-image-clarity-with-these-6-amazing-apps-for-blurry-photos-complimentary-and-subscription-services/"><u>Boost Image Clarity with These 6 Amazing Apps for Blurry Photos : Complimentary & Subscription Services</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-top-rated-registries-near-you-with-our-easy-locator-tool/"><u>Discover Top-Rated Registries Near You with Our Easy Locator Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/diy-digital-invitations-the-ultimate-online-card-creation-toolkit-and-comprehensive-step-by-step-tutorial/"><u>DIY Digital Invitations: The Ultimate Online Card Creation Toolkit & Comprehensive Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-pc-task-management-with-best-non-microsoft-schedulers/"><u>Effortless PC Task Management with Best Non-Microsoft Schedulers</u></a></li>
-<li><a href="https://fox-search.techidaily.com/future-proofing-your-estate-understanding-legacy-decisions/"><u>Future-Proofing Your Estate: Understanding Legacy Decisions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-m6-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco M6 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-mobile-editing-how-the-latest-updates-to-final-cut-pro-on-ipad-transform-my-filmmaking-experience-insights/"><u>Revolutionizing Mobile Editing: How the Latest Updates to Final Cut Pro on iPad Transform My Filmmaking Experience - Insights</u></a></li>
-<li><a href="https://fox-search.techidaily.com/tweak-system-configurations-using-the-ini-editing-tool/"><u>Tweak System Configurations Using the Ini Editing Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-ini-configuration-on-file-explorers-properties/"><u>Understanding INI Configuration on File Explorer's Properties</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-infinix-hot-30-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Hot 30 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhancing-youtube-popularity-editing-and-optimizing-content-metadata-for-2024/"><u>[New] Enhancing YouTube Popularity Editing & Optimizing Content Metadata for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-guide-clearing-up-youtube-watchlater-stored-list-for-2024/"><u>[Updated] Guide Clearing Up YouTube Watchlater Stored List for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unleashing-ultimate-vision-the-2024-blu-ray-guide/"><u>[Updated] Unleashing Ultimate Vision The 2024 Blu-Ray Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-vigorous-voice-examination-iteration-no-8/"><u>2024 Approved Vigorous Voice Examination - Iteration No. 8</u></a></li>
+<li><a href="https://fox-search.techidaily.com/efficient-file-handling-mastering-ifile-component-usage/"><u>Efficient File Handling: Mastering iFile Component Usage</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-11-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus 11 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-pc-gpus-for-high-res-editing/"><u>In 2024, Premium PC GPUs for High-Res Editing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/intuitive-file-search-tool-find-documents-faster/"><u>Intuitive File Search Tool - Find Documents Faster</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-taking-snaps-a-mac-users-handbook/"><u>Mastering the Art of Taking Snaps: A Mac User's Handbook</u></a></li>
+<li><a href="https://fox-search.techidaily.com/personalized-property-settings-tailor-your-experience/"><u>Personalized Property Settings: Tailor Your Experience</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-ranking-software-solutions-for-effortlessly-eliminating-objects-from-images/"><u>Top-Ranking Software Solutions for Effortlessly Eliminating Objects From Images</u></a></li>
 </ul></div>
 

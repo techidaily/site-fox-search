@@ -1,7 +1,7 @@
 ---
 title: "Modify Properties Panel: A Comprehensive Guide"
-date: 2024-10-04T19:58:40.498Z
-updated: 2024-10-05T20:09:34.687Z
+date: 2024-10-09T00:10:30.847Z
+updated: 2024-10-10T21:51:27.097Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 ![ODBC Attribute Dialog](https://cdn.advancedinstaller.com/img/dialog/odbc-attribute.png "ODBC Attribute Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -91,10 +91,10 @@ Table of Contents
  The attribute's name.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -102,10 +102,10 @@ Table of Contents
  The attribute's value. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) for ODBC data sources and ODBC drivers and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### OK
@@ -113,10 +113,10 @@ Table of Contents
  Saves the attribute's name and value.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cancel
@@ -156,18 +156,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-critical-evaluation-of-ustream-with-equivalents/"><u>[New] A Critical Evaluation of Ustream with Equivalents</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-speedy-windows-file-review-strategies/"><u>[New] In 2024, Speedy Windows File Review Strategies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1716069560578-updated-2024-approved-screen-savvy-secure-your-captures-chromebooks-top-4-techniques/"><u>[Updated] 2024 Approved Screen Savvy Secure Your Captures - Chromebook's Top 4 Techniques!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-superior-methods-for-silent-video-production-for-2024/"><u>[Updated] Superior Methods for Silent Video Production for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-itel-a60-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-choice-java-environment-interface-selecting-the-ideal-jre-version/"><u>Best Choice Java Environment Interface: Selecting the Ideal JRE Version</u></a></li>
-<li><a href="https://fox-search.techidaily.com/genuine-testimonials-and-evaluations-of-malwarefox-anti-malware-suite-by-paid-users/"><u>Genuine Testimonials and Evaluations of MalwareFox Anti-Malware Suite by Paid Users</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-successfully-transfer-film-clips-to-a-samsung-galaxy-note-3-device/"><u>How to Successfully Transfer Film Clips to a Samsung Galaxy Note 3 Device</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-sticker-cleansing-for-videos/"><u>In 2024, Professional Sticker Cleansing for Videos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-70-lite-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Honor 70 Lite 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-installation-a-guide-to-using-advanced-installer-techniques/"><u>Mastering the Art of Installation: A Guide to Using Advanced Installer Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-home-security-an-insightful-look-at-the-ring-doorbell-plus/"><u>Maximizing Home Security: An Insightful Look at the Ring Doorbell Plus</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamlining-your-email-experience-how-to-eliminate-every-message-from-gmail-instantly/"><u>Streamlining Your Email Experience: How to Eliminate Every Message From Gmail Instantly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-full-potential-of-tiktok-with-zoom-video-sharing/"><u>[New] Unlocking the Full Potential of TikTok with Zoom Video Sharing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-deciding-between-obs-and-streamlabs-for-live-broadcasting/"><u>[Updated] Deciding Between OBS and Streamlabs for Live Broadcasting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-stepwise-guide-for-broadcasting-google-meet-on-youtube/"><u>2024 Approved Stepwise Guide for Broadcasting Google Meet on YouTube</u></a></li>
+<li><a href="https://fox-search.techidaily.com/fast-and-easy-methods-to-reduce-file-size-of-mpeg-videos/"><u>Fast and Easy Methods to Reduce File Size of MPEG Videos</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ifunbox-overview-in-depth-analysis-with-preferred-replacements/"><u>IFUNBOX Overview: In-Depth Analysis with Preferred Replacements</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-ai-driven-shooting-modes-in-todays-cameras/"><u>In 2024, Exploring the AI-Driven Shooting Modes in Today's Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spearheading-progress-identifying-the-prime-5-ai-tools-for-creativity/"><u>Spearheading Progress: Identifying the Prime 5 AI Tools for Creativity</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-tutorial-setting-up-your-gaming-channel-on-twitch/"><u>Step-by-Step Tutorial: Setting Up Your Gaming Channel on Twitch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-conundrum-explained-navigating-through-the-intricacies-of-ai-goal-harmonization/"><u>The Conundrum Explained: Navigating Through the Intricacies of AI Goal Harmonization</u></a></li>
+<li><a href="https://fox-search.techidaily.com/the-ultimate-trick-for-recovering-lost-messages-from-your-ios-device/"><u>The Ultimate Trick for Recovering Lost Messages From Your iOS Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-cybersecurity-roles-a-guide-to-identifying-white-black-gray-and-other-categories-of-hackers/"><u>Understanding Cybersecurity Roles: A Guide to Identifying White, Black, Gray, and Other Categories of Hackers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Installation Prerequisites Checklist: Your Step-by-Step Resource"
-date: 2024-10-04T21:48:13.911Z
-updated: 2024-10-05T19:19:46.728Z
+date: 2024-10-06T02:59:58.876Z
+updated: 2024-10-11T03:06:22.206Z
 tags:
   - user-guide
 categories:
@@ -87,14 +87,14 @@ This view allows you to include existing installers in your package, to enable W
 
 All setup files used by a prerequisite can be bundled with your package or placed online and accessed through a URL. During install, if the prerequisite is not found it will be automatically installed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ![Prerequisites](https://cdn.advancedinstaller.com/img/toolbar/prerequisites.png "Prerequisites") Prerequisites
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding predefined prerequisites
 
@@ -108,18 +108,25 @@ To make sure that the target machines can run your installation package, you can
 
 ![New package prereq](https://cdn.advancedinstaller.com/img/toolbar/new-package-prereq.png "New package prereq") Use the\[New Executable Package \] toolbar button, “New Executable Package ” context menu item or Insert key. You will be prompted to pick the executable prerequisite setup files.
 
-![New wi package](https://cdn.advancedinstaller.com/img/toolbar/new-wi-package.png "New wi package") Use the\[New Windows Installer Package \] toolbar button or “New Windows Installer Package” context menu item. You will be prompted to pick the .msi prerequisite setup files.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![New wi package](https://cdn.advancedinstaller.com/img/toolbar/new-wi-package.png "New wi package") Use the\[New Windows Installer Package \] toolbar button or “New Windows Installer Package” context menu item. You will be prompted to pick the .msi prerequisite setup files.
 
 ### Adding downloadable prerequisite software
 
 ![New url prereq](https://cdn.advancedinstaller.com/img/toolbar/new-url-prereq.png "New url prereq") Use the\[URL Prerequisite \] toolbar button or “New URL Prerequisite” context menu item to add the download URL of the prerequisite. This type of prerequisite is created with default settings, so you need to configure it manually.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding chained packages
 
@@ -130,19 +137,6 @@ All .msi prerequisites are added as Chained prerequisites by default.
 ### Specify which builds will contain a prerequisite package
 
 If multiple builds were created in [Builds](https://tools.techidaily.com/advancedinstaller/products/) page, you can specify which build should contain the prerequisite in the the prerequisite's [Builds](https://tools.techidaily.com/advancedinstaller/products/) tab.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adding a prerequisite from repository
 
@@ -156,9 +150,30 @@ Select the prerequisite you want to export and use the “Move To Repository” 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can read more about the prerequisites repository in this [article](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Editing a prerequisite
 
 When selecting a prerequisite, its properties pane will be displayed. In this pane you can configure all available package settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing prerequisites
 
@@ -168,20 +183,13 @@ When selecting a prerequisite, its properties pane will be displayed. In this pa
 
 The order in which the prerequisites are displayed is the order in which they will be installed on the target machine. The \[Move Up \] context menu item orShift + Up keys will move a package up. The \[Move Down \] context menu item or Shift + Down keys will move it down.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ![Windows features](https://cdn.advancedinstaller.com/img/toolbar/windows-features.png "Windows features") Windows Features
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a Windows Features bundle
@@ -189,10 +197,10 @@ The order in which the prerequisites are displayed is the order in which they wi
 ![New windows features bundle](https://cdn.advancedinstaller.com/img/toolbar/new-windows-features-bundle.png "New windows features bundle") Use the \[Windows Feature bundle \] toolbar button or “New Windows Feature bundle” context menu item. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a Windows Features bundle
@@ -209,29 +217,9 @@ When selecting a Windows Features bundle, its properties pane will be displayed.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is available for Enterprise or above project types.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a Windows Server Role
 
 ![New windows server role](https://cdn.advancedinstaller.com/img/toolbar/new-windows-server-role.png "New windows server role") Select**Windows Server Roles** tree item, then check the roles you want to include in your package. The roles are grouped by the earliest supported version of the target server OS.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Editing a Windows Server Role
 
@@ -295,17 +283,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rom-last-to-first-deconstructing-your-video-watch-list-for-2024/"><u>[New] From Last to First Deconstructing Your Video Watch List for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-decoding-youtubes-intricate-view-count-mechanics/"><u>[New] In 2024, Decoding YouTube's Intricate View Count Mechanics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-content-size-on-igtv-top-5-expert-tips-to-consider-for-2024/"><u>[New] Navigating Content Size on IGTV Top 5 Expert Tips to Consider for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-exclusive-insight-into-low-cost-footage-websites/"><u>[Updated] 2024 Approved Exclusive Insight Into Low-Cost Footage Websites</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715701073453-best-free-android-capture-app-zero-ads/"><u>Best Free Android Capture App, Zero Ads!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-the-latest-additions-in-itunes-version-121/"><u>Discover the Latest Additions in iTunes Version 12.1</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/filefixers-experts-evaluation-for-2024/"><u>FileFixers Experts Evaluation for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/high-performance-computing-redefined-in-depth-analysis-of-the-hp-omen-obelisk/"><u>High-Performance Computing Redefined: In-Depth Analysis of the HP Omen Obelisk</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-a-to-z-guide-for-delivering-captivating-streams-using-zoom-and-youtube/"><u>In 2024, The A-to-Z Guide for Delivering Captivating Streams Using Zoom & YouTube</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-retrieve-accidentally-deleted-images-from-your-ipad/"><u>Step-by-Step Guide: Retrieve Accidentally Deleted Images From Your iPad</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-ultimate-top-6-ios-audio-recording-tools-for-your-mobile-device/"><u>The Ultimate Top 6 iOS Audio Recording Tools for Your Mobile Device</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ultimate-guide-how-to-seamlessly-sync-pictures-from-googles-pixel-3-phone-with-your-laptop-or-desktop/"><u>Ultimate Guide: How to Seamlessly Sync Pictures From Google's Pixel 3 Phone with Your Laptop or Desktop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-30-pro-windows-10-mastery-hacks/"><u>[New] Top 30 Pro Windows 10 Mastery Hacks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-spectacular-20-anime-openers-hits/"><u>[Updated] Spectacular 20 Anime Openers' Hits</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/alternate-methods-for-capturing-screenshots-in-windows-10-games/"><u>Alternate Methods for Capturing Screenshots in Windows 10 Games</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comprehensive-guide-for-automotive-enthusiasts-and-drivers/"><u>Comprehensive Guide for Automotive Enthusiasts and Drivers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dominance-in-video-landscape-mirrorless-vs-dslr-cameras-for-2024/"><u>Dominance in Video Landscape Mirrorless vs DSLR Cameras for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-guide-how-to-conduct-an-i-reg-entry-version-search/"><u>Easy Guide: How to Conduct an I-Reg Entry Version Search</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-use-of-ixmlfileinstall-for-streamlined-system-configuration/"><u>Effective Use of IXMLFileInstall for Streamlined System Configuration</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-nord-n30-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-x50-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor X50 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/insights-unveiled-it-takes-two-now-available/"><u>Insights Unveiled: 'It Takes Two' Now Available</u></a></li>
+<li><a href="https://fox-search.techidaily.com/locate-your-running-microsoft-office-products-step-by-step-tips/"><u>Locate Your Running Microsoft Office Products: Step-by-Step Tips</u></a></li>
+<li><a href="https://fox-search.techidaily.com/the-ultimate-selection-of-addition-utility-apps-for-smartphones-ios-and-android-edition-2022/"><u>The Ultimate Selection of Addition Utility Apps for Smartphones - iOS and Android Edition, 2022</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-honor-magic-6-lite-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Honor Magic 6 Lite password or pattern lock</u></a></li>
 </ul></div>
 

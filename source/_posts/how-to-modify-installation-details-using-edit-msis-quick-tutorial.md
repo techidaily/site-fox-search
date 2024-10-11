@@ -1,7 +1,7 @@
 ---
 title: How to Modify Installation Details Using Edit MSIs - Quick Tutorial
-date: 2024-10-03T20:20:58.271Z
-updated: 2024-10-05T16:29:47.986Z
+date: 2024-10-07T04:07:22.580Z
+updated: 2024-10-11T04:37:06.645Z
 tags:
   - user-guide
 categories:
@@ -93,14 +93,14 @@ This dialog enables you to edit a field from the MSI summary information.
 
 ![Edit MSI Summary Information Field Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-msi-summary-information-field.png "Edit MSI Summary Information Field Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Field Details
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Name
 
@@ -111,35 +111,35 @@ The field name. This value cannot be changed.
 This field has [Advanced Installer PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Value Options
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use specific value
 
 Checking this option will enable the above **Value** field allowing you to edit it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use default value (generated at build)
 
 This option restores the default field value which is generated at build time.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Do not use this field
 
@@ -178,19 +178,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-asmr-knowledge-beyond-what-you-see/"><u>[New] 2024 Approved ASMR Knowledge Beyond What You See</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726027447052-youtube/"><u>「Youtube映像のバックアップと保管 -ダウンロード手順入門」</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-free-malware-protection-discover-how-malwarefox-keeps-your-android-device-safe/"><u>Download Free Malware Protection: Discover How MalwareFox Keeps Your Android Device Safe</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-guide-uploading-your-android-videos-onto-a-windowsmac-computer/"><u>Easy Guide: Uploading Your Android Videos Onto a Windows/Mac Computer</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratuito-e-simples-aprenda-a-converter-videos-no-formato-3gp-para-webm-utilizando-a-ferramenta-on-line-do-movavi/"><u>Gratuito E Simples: Aprenda a Converter Vídeos No Formato 3GP Para WebM Utilizando a Ferramenta On-Line Do Movavi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-12-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 12 Pro Max If Youve Tried Everything</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-yuva-2-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Yuva 2 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/installing-kodi-on-your-xbox-one-a-detailed-easy-to-follow-tutorial/"><u>Installing Kodi on Your Xbox One: A Detailed, Easy-to-Follow Tutorial</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/instant-transmission-tweets-as-vids-on-whatsapp-for-2024/"><u>Instant Transmission Tweets as Vids on WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/introducing-the-new-features-in-our-latest-software-update/"><u>Introducing the New Features in Our Latest Software Update!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-and-easy-how-to-installing-driver-updates-on-windows-versions-7-to-10/"><u>Quick and Easy How-To: Installing Driver Updates on Windows Versions 7 to 10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/reimagining-your-message-innovative-video-concepts-for-2024/"><u>Reimagining Your Message Innovative Video Concepts for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-rated-android-security-software-of-2019-aaa-editors-picks/"><u>Top-Rated Android Security Software of 2019: AAA Editors' Picks</u></a></li>
-<li><a href="https://fox-search.techidaily.com/transform-flv-files-into-html5-format-with-our-advanced-video-converter-tool/"><u>Transform FLV Files Into HTML5 Format with Our Advanced Video Converter Tool</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphone-xs-identity-verification-face-id-repair/"><u>[Updated] Mastering iPhone X's Identity Verification Face ID Repair</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-mosaics-unveiled-a-journey-to-brighter-spaces/"><u>[Updated] Photo Mosaics Unveiled A Journey to Brighter Spaces</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-choice-java-environment-interface-selecting-the-ideal-jre-version/"><u>Best Choice Java Environment Interface: Selecting the Ideal JRE Version</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-70-lite-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor 70 Lite 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/genuine-testimonials-and-evaluations-of-malwarefox-anti-malware-suite-by-paid-users/"><u>Genuine Testimonials and Evaluations of MalwareFox Anti-Malware Suite by Paid Users</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-successfully-transfer-film-clips-to-a-samsung-galaxy-note-3-device/"><u>How to Successfully Transfer Film Clips to a Samsung Galaxy Note 3 Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-htc-u23-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track HTC U23 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-best-10-ae-text-setups/"><u>In 2024, Expert Tips Best 10 AE Text Setups</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-how-to-farewell-your-instagram-presence-permanently/"><u>In 2024, How to Farewell Your Instagram Presence Permanently</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-tecno-pova-6-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Tecno Pova 6 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-installation-a-guide-to-using-advanced-installer-techniques/"><u>Mastering the Art of Installation: A Guide to Using Advanced Installer Techniques</u></a></li>
+<li><a href="https://fox-search.techidaily.com/navigating-the-file-management-panel/"><u>Navigating the File Management Panel</u></a></li>
+<li><a href="https://fox-search.techidaily.com/the-ultimate-top-6-ios-audio-recording-tools-for-your-mobile-device/"><u>The Ultimate Top 6 iOS Audio Recording Tools for Your Mobile Device</u></a></li>
 </ul></div>
 

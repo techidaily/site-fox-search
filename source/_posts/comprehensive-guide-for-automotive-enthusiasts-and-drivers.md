@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide for Automotive Enthusiasts and Drivers
-date: 2024-10-02T19:21:26.755Z
-updated: 2024-10-05T17:43:22.316Z
+date: 2024-10-08T21:45:05.465Z
+updated: 2024-10-11T04:07:44.991Z
 tags:
   - user-guide
 categories:
@@ -81,22 +81,28 @@ On this page you can set up the installation of drivers. To install a driver:
 * Add the driver's files to the project in the [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/) page.
 * Add the INF file.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding a driver
 
 ![Add Driver](https://cdn.advancedinstaller.com/img/toolbar/inf-add.png "Add Driver")Select a driver's INF file and add it to the list of drivers by using the \[Add Driver \] toolbar button, selecting the “Add” context menu option or by pressing the Ins key while the left pane is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a driver
@@ -107,32 +113,26 @@ On this page you can set up the installation of drivers. To install a driver:
 
 To change the order in which the drivers are installed use the “Move Up” or “Move Down” context menu options or, alternatively, use the Page Up or Page Down key while the element is selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Notes
 
 Advanced Installer uses Windows Driver Install Frameworks (DIFx), version 2.1, to install the drivers. The necessary libraries for DIFx come with the Microsoft Windows Driver Kit. If they aren't installed on your machine Advanced Installer will try to download them when you build the first package that installs drivers.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)This framework is designed for installing Software First Install drivers **only**.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 These drivers usually come with your application, e.g. an anti-virus filter for the network adapter. It is **not recommended** to use it for installing Hardware First Install type drivers, e.g. a driver for your sound card.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -173,22 +173,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-creating-square-instagram-video-tutorial-using-imovie/"><u>[Updated] Creating Square Instagram Video Tutorial Using iMovie</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-video-grabbers-for-windows-10-users-for-2024/"><u>[Updated] Essential Video Grabbers for Windows 10 Users for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-impressive-display-innovations-top-10-mac-displays-of-the-year/"><u>[Updated] Impressive Display Innovations - Top 10 Mac Displays of the Year</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-art-of-muting-background-sounds-in-skype-for-2024/"><u>[Updated] The Art of Muting Background Sounds in Skype for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-optimizing-your-viewing-experience-a-step-by-step-guide-to-adjusting-video-quality/"><u>1. Optimizing Your Viewing Experience: A Step-by-Step Guide to Adjusting Video Quality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-quick-steps-to-become-a-9gag-meme-genius/"><u>2024 Approved Quick Steps to Become a 9GAG Meme Genius</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apex-design-hub-audit-for-2024/"><u>Apex Design Hub Audit for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-macos-1015-pdf-utilities-alternatives-to-adobe-acrobat-software/"><u>Best macOS 10.15 PDF Utilities - Alternatives to Adobe Acrobat Software</u></a></li>
-<li><a href="https://fox-search.techidaily.com/boost-image-clarity-with-these-6-amazing-apps-for-blurry-photos-complimentary-and-subscription-services/"><u>Boost Image Clarity with These 6 Amazing Apps for Blurry Photos : Complimentary & Subscription Services</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-top-rated-registries-near-you-with-our-easy-locator-tool/"><u>Discover Top-Rated Registries Near You with Our Easy Locator Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-pc-task-management-with-best-non-microsoft-schedulers/"><u>Effortless PC Task Management with Best Non-Microsoft Schedulers</u></a></li>
-<li><a href="https://fox-search.techidaily.com/future-proofing-your-estate-understanding-legacy-decisions/"><u>Future-Proofing Your Estate: Understanding Legacy Decisions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/introducing-the-new-features-in-our-latest-software-update/"><u>Introducing the New Features in Our Latest Software Update!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-the-art-of-retrieving-your-parked-vehicle-a-step-by-step-guide-using-google-maps/"><u>Master the Art of Retrieving Your Parked Vehicle: A Step-by-Step Guide Using Google Maps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-brightness-to-lenovos-invisible-display/"><u>Restoring Brightness to Lenovo’s Invisible Display</u></a></li>
-<li><a href="https://fox-search.techidaily.com/transform-flv-files-into-html5-format-with-our-advanced-video-converter-tool/"><u>Transform FLV Files Into HTML5 Format with Our Advanced Video Converter Tool</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-harnessing-the-power-of-zooms-video-features-on-youtube-platform/"><u>[New] In 2024, Harnessing the Power of Zoom's Video Features on YouTube Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pioneers-charting-extended-realms-course/"><u>[Updated] Pioneers Charting Extended Realms' Course</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-seamless-screen-mirroring-transferring-your-oneplus-7-display-to-a-windows-or-mac-computer/"><u>1. Seamless Screen Mirroring: Transferring Your OnePlus 7 Display to a Windows or Mac Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-accuracy-audit-a-vll-driven-review/"><u>2024 Approved Accuracy Audit A VLL-Driven Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-tips-for-incorporating-songs-in-your-fb-story/"><u>2024 Approved Tips for Incorporating Songs in Your FB Story</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adaptive-wellness-tools-select-8-gpt-integrations/"><u>Adaptive Wellness Tools: Select 8 GPT Integrations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-small-businesses-harnessing-genai-for-employee-development-zdnet/"><u>Comprehensive Guide for Singaporean Small Businesses: Harnessing GenAI for Employee Development | ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-cinematic-splendor-in-4k-lgs-digital-cinema-31mu97-b/"><u>Discovering Cinematic Splendor in 4K LG's Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-and-secure-online-sign-up-system-including-document-submission/"><u>Easy and Secure Online Sign-Up System Including Document Submission</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-effortlessly-convertopen-heic-files-on-macos-without-cost/"><u>How to Effortlessly Convert/Open HEIC Files on macOS Without Cost</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-gt-neo-5-se-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme GT Neo 5 SE Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/navigating-the-manage-relationships-interface-insights-into-the-dependency-tab-features/"><u>Navigating the Manage Relationships Interface: Insights Into the Dependency Tab Features</u></a></li>
+<li><a href="https://fox-search.techidaily.com/secure-your-loved-ones-with-the-latest-in-ipatch-upgrades-for-families/"><u>Secure Your Loved Ones with the Latest in IPatch Upgrades for Families</u></a></li>
+<li><a href="https://fox-search.techidaily.com/streamline-your-code-with-the-advanced-features-of-ifile-component-technology/"><u>Streamline Your Code with the Advanced Features of iFile Component Technology</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-desktop-and-mobile-background-eraser-applications-of-2022/"><u>Top-Rated Desktop & Mobile Background Eraser Applications of 2022</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unbrand-your-videos-removing-filmora-watermark-made-easy-for-2024/"><u>Unbrand Your Videos Removing Filmora Watermark Made Easy for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-internet-shortcut-settings-window/"><u>Understanding the Internet Shortcut Settings Window</u></a></li>
 </ul></div>
 

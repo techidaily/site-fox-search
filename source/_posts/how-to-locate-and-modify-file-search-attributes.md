@@ -1,7 +1,7 @@
 ---
 title: How to Locate and Modify File Search Attributes
-date: 2024-10-01T18:00:25.175Z
-updated: 2024-10-05T19:09:19.302Z
+date: 2024-10-03T23:31:57.193Z
+updated: 2024-10-10T19:26:04.233Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 ![File search properties](https://cdn.advancedinstaller.com/img/ui/file-search-properties.png "File search properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -95,10 +95,17 @@ You can use the \[... \] button to select a file to search.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You cannot use properties in this field because the path in which the file is searched is specified by the location of the search.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Languages
@@ -113,29 +120,22 @@ You can use the \[... \] button to select a file to search.
 
  Minimum and maximum size in bytes for the file. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Minimum modification
 
  The minimum modification date and time for the file.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Maximum modification
 
  The maximum modification date and time for the file.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * FileName
 * MinVersion
@@ -181,22 +181,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube/"><u>[New] 2024 Approved Essential Thumbnail Strategies for Amplifying Viewership on YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-beating-the-curve-adapting-to-new-facebook-content-rules/"><u>[Updated] Beating the Curve Adapting to New Facebook Content Rules</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/access-private-yourlust-archive-securely-download-hd-sex-videos-as-mp4movavi/"><u>Access Private YourLust Archive - Securely Download HD Sex Videos as MP4/MOV/AVI</u></a></li>
-<li><a href="https://fox-search.techidaily.com/customize-virtual-machine-settings-for-optimized-performance/"><u>Customize Virtual Machine Settings for Optimized Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decision-time-unpacking-the-distinctions-between-ipad-pro-m4-and-macbook-air-m3/"><u>Decision Time: Unpacking the Distinctions Between iPad Pro M4 and MacBook Air M3</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-and-effective-ways-to-transform-vimeo-content-into-high-quality-mp3-files/"><u>Easy and Effective Ways to Transform Vimeo Content Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-chromebook-video-capture-a-beginners-guide-to-quick-and-easy-recording/"><u>Effortless Chromebook Video Capture: A Beginner's Guide to Quick and Easy Recording</u></a></li>
-<li><a href="https://fox-search.techidaily.com/embark-on-your-digital-journey-with-msix-enhanced-product-selection-conversations/"><u>Embark on Your Digital Journey with MSIX-Enhanced Product Selection Conversations</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhancing-productivity-with-the-versatile-notepad-feature/"><u>Enhancing Productivity with the Versatile Notepad Feature</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus Passcode without Computer?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lg-flat-screen-tv-insights/"><u>In 2024, LG Flat-Screen TV Insights</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/luts-as-the-key-to-vivid-film-colors/"><u>Luts as the Key to Vivid Film Colors</u></a></li>
-<li><a href="https://fox-search.techidaily.com/quick-and-effective-methods-to-strip-watermarks-off-reels-videos-2021-edition/"><u>Quick and Effective Methods to Strip Watermarks Off Reel's Videos - 2021 Edition</u></a></li>
-<li><a href="https://fox-search.techidaily.com/scheduled-events-and-their-impact-on-automatic-task-execution/"><u>Scheduled Events and Their Impact on Automatic Task Execution</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-instagram-follower-dilemrancy-guide/"><u>The Instagram Follower Dilemrancy Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-strategies-and-best-practices-for-an-irresistible-tinder-photo/"><u>Top Strategies & Best Practices for an Irresistible Tinder Photo</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-how-to-brighten-a-video-on-android-step-by-step-explained/"><u>[New] 2024 Approved How To Brighten A Video On Android – Step By Step Explained</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-secure-mobile-messaging-made-simple-with-these-10-best-free-chat-services-on-iphoneandroid/"><u>[New] In 2024, Secure Mobile Messaging Made Simple with These 10 Best Free Chat Services on iPhone/Android</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-seamless-screen-mirroring-transferring-your-oneplus-7-display-to-a-windows-or-mac-computer/"><u>1. Seamless Screen Mirroring: Transferring Your OnePlus 7 Display to a Windows or Mac Computer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/10-exceptional-cost-saving-passport-portrait-maker-applications/"><u>10 Exceptional, Cost-Saving Passport Portrait Maker Applications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-thermaltake-massive-tm-desktop-chiller-great-functions-hefty-cost-included/"><u>Comprehensive Review of the Thermaltake Massive TM Desktop Chiller: Great Functions, Hefty Cost Included</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comprehensive-troubleshooting-fixing-issues-with-iphone-7-plus-and-iphone/"><u>Comprehensive Troubleshooting: Fixing Issues with iPhone 7 Plus and iPhone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-effortlessly-convertopen-heic-files-on-macos-without-cost/"><u>How to Effortlessly Convert/Open HEIC Files on macOS Without Cost</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-honor-play-8t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Honor Play 8T to iPad | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/navigating-the-manage-relationships-interface-insights-into-the-dependency-tab-features/"><u>Navigating the Manage Relationships Interface: Insights Into the Dependency Tab Features</u></a></li>
+<li><a href="https://fox-search.techidaily.com/secure-your-loved-ones-with-the-latest-in-ipatch-upgrades-for-families/"><u>Secure Your Loved Ones with the Latest in IPatch Upgrades for Families</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-sound-problem-in-minutes/"><u>Solve Your PC's Sound Problem in Minutes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-streaming-your-iphone-screen-to-a-mi-tv/"><u>Step-by-Step Guide: Streaming Your iPhone Screen to a Mi TV</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-finger-accessories-the-ultimate-guide-to-the-hottest-non-ring-options/"><u>Top Rated Finger Accessories: The Ultimate Guide to the Hottest Non-Ring Options</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-desktop-and-mobile-background-eraser-applications-of-2022/"><u>Top-Rated Desktop & Mobile Background Eraser Applications of 2022</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-audio-capture-problems-in-both-windows-and-macos-environments/"><u>Troubleshooting Audio Capture Problems in Both Windows and macOS Environments</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-internet-shortcut-settings-window/"><u>Understanding the Internet Shortcut Settings Window</u></a></li>
 </ul></div>
 

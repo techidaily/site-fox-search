@@ -1,7 +1,7 @@
 ---
 title: "Enhancing User Experience: Mastering the 'Settings Adjustment Panel'"
-date: 2024-10-02T20:18:13.235Z
-updated: 2024-10-05T19:54:15.587Z
+date: 2024-10-06T06:49:37.424Z
+updated: 2024-10-10T22:18:18.032Z
 tags:
   - user-guide
 categories:
@@ -98,10 +98,16 @@ Table of Contents
 * 4\. [Predefined conditions](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Expression
@@ -110,23 +116,9 @@ This field contains the resulted conditional statement and can also be edited us
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the condition is invalid, you will be prompted with an error message that will indicate the error's beginning.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Insert Operand
 
 This section allows you to insert operands in the statement.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.1 Property
 
@@ -135,13 +127,6 @@ Insert reference to an installer property which is already created in your packa
 **Example**: MY\_PROP
 
 This condition will be true only if the property MY\_PROP contains a value. If the property is empty the condition is not fulfilled.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.2 Environment Variables
 
@@ -175,6 +160,13 @@ Insert reference to the installed state of a component (for example if a compone
 
 This condition will be true only if the correspondent component was installed. For example you have a custom action which unregister a certain DLL file with the attached component. If the component wasn't installed the custom action will not run during uninstall, otherwise the custom action will be executed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.6 Feature Action
 
 Insert reference to the action state of a feature (for example if a feature will be installed or not).
@@ -184,10 +176,10 @@ Insert reference to the action state of a feature (for example if a feature will
 Test if the correspondent feature will be reinstalled on the machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.7 Feature State
@@ -199,10 +191,10 @@ Insert reference to the installed state of a feature (for example if a feature i
 This condition will be true only if the feature is already installed on the machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.8 Constant
@@ -251,6 +243,13 @@ In this section you can insert operators in the conditional statement. Use the \
 * <= - TRUE if left value is less than or equal to right value.
 * \~<= - TRUE if left value is less than or equal to right value. The comparison is case insensitive.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.3 Sub-String/Bitwise Operators
 
 Substring operators can occur between two string values.
@@ -271,6 +270,13 @@ Bitwise operators can be used between two integer values.
 ## 4\. Predefined conditions
 
 This section is described in the [Predefined Conditions](https://tools.techidaily.com/advancedinstaller/products/) article.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -314,17 +320,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-step-by-step-guide-to-youtube-image-branding-for-2024/"><u>[New] A Step-by-Step Guide to YouTube Image Branding for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-behind-the-scenes-changing-video-pace-in-social-media/"><u>[Updated] 2024 Approved Behind the Scenes Changing Video Pace in Social Media</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-cutting-edge-recording-nintendo-switch-edition/"><u>2024 Approved Cutting-Edge Recording Nintendo Switch Edition</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-note-12t-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi Note 12T Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/all-about-the-apple-vision-pro-a-comprehensive-breakdown-of-costs-specs-and-real-world-performance-on-zdnet/"><u>All About the Apple Vision Pro: A Comprehensive Breakdown of Costs, Specs & Real-World Performance on ZDNET</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-7-iphoneipad-pdf-readers-in-2020-vision-modify-and-additional-features-for-mobile-documents/"><u>Best 7 iPhone/iPad PDF Readers in 2020: Vision, Modify & Additional Features for Mobile Documents</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-professional-grade-sound-capture-with-ubuntus-top-audio-recording-tool/"><u>Effortless Professional-Grade Sound Capture with Ubuntu's Top Audio Recording Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhance-your-workflow-with-advanced-navigation-tabs/"><u>Enhance Your Workflow with Advanced Navigation Tabs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensuring-reliability-in-electronics-a-deep-dive-into-how-we-evaluate-power-supply-units-toms-guide-to-tech/"><u>Ensuring Reliability in Electronics: A Deep Dive Into How We Evaluate Power Supply Units - Tom's Guide to Tech</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-x-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone X without Password</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-imsm-file-enrollment-comprehensive-strategies-and-tips/"><u>Mastering IMSM File Enrollment: Comprehensive Strategies and Tips</u></a></li>
-<li><a href="https://fox-search.techidaily.com/streamlined-environment-configurator-interactive-selection-tool/"><u>Streamlined Environment Configurator: Interactive Selection Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-many-viewers-to-target-for-a-youtube-earning-journey-in-2024/"><u>[New] How Many Viewers to Target for a YouTube Earning Journey, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-video-wonders-your-must-see-list/"><u>[New] In 2024, Facebook Video Wonders - Your Must-See List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-how-much-does-youtube-pay-for-1-million-views/"><u>[New] In 2024, How Much Does YouTube Pay for 1 Million Views</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-overcoming-common-pitfalls-in-job-interviews/"><u>[Updated] In 2024, Overcoming Common Pitfalls in Job Interviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-peering-behind-recordcasts-curtain-for-2024/"><u>[Updated] Peering Behind RecordCast's Curtain for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streamline-your-income-youtubes-new-rules/"><u>[Updated] Streamline Your Income YouTube's New Rules</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-clearcut-technique-for-backdrop-free-imagery/"><u>2024 Approved The Ultimate Clearcut Technique for Backdrop-Free Imagery</u></a></li>
+<li><a href="https://fox-search.techidaily.com/efficient-file-handling-mastering-ifile-component-usage/"><u>Efficient File Handling: Mastering iFile Component Usage</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-poco-x6-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Poco X6 Phone When You Forget the Password</u></a></li>
+<li><a href="https://fox-search.techidaily.com/innovative-techniques-to-seamlessly-copy-audio-files-from-your-ipad-to-a-desktop-computer/"><u>Innovative Techniques to Seamlessly Copy Audio Files From Your iPad to a Desktop Computer</u></a></li>
+<li><a href="https://fox-search.techidaily.com/intuitive-file-search-tool-find-documents-faster/"><u>Intuitive File Search Tool - Find Documents Faster</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/learn-the-insider-tricks-of-screening-instagram-stories-for-2024/"><u>Learn the Insider Tricks of Screening Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-taking-snaps-a-mac-users-handbook/"><u>Mastering the Art of Taking Snaps: A Mac User's Handbook</u></a></li>
+<li><a href="https://fox-search.techidaily.com/personalized-property-settings-tailor-your-experience/"><u>Personalized Property Settings: Tailor Your Experience</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-ranked-pdf-page-flipping-apps-of-2020-find-the-simplest-way-to-navigate-your-documents/"><u>Top-Ranked PDF Page Flipping Apps of 2020: Find the Simplest Way to Navigate Your Documents</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-ranking-software-solutions-for-effortlessly-eliminating-objects-from-images/"><u>Top-Ranking Software Solutions for Effortlessly Eliminating Objects From Images</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-instance-attributes-panel-a-guide/"><u>Understanding the Instance Attributes Panel: A Guide</u></a></li>
 </ul></div>
 

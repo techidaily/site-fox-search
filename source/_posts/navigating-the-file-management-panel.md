@@ -1,7 +1,7 @@
 ---
 title: Navigating the File Management Panel
-date: 2024-09-29T19:51:33.946Z
-updated: 2024-10-05T21:02:54.385Z
+date: 2024-10-08T04:01:16.953Z
+updated: 2024-10-10T16:27:39.445Z
 tags:
   - user-guide
 categories:
@@ -97,36 +97,42 @@ Table of Contents
 ![File Operations Tab](https://cdn.advancedinstaller.com/img/dialog/file-operations.png "File Operations Tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overwrite behavior
 
 Specify the file's overwrite behavior.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Overwrite only if the existing file is older
 
 When this option is selected, if the file on the target machine is older then the one included in the package, it will be overwritten.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Always overwrite existing file
 
 If this option is enabled, the file from your package is overwritten and any similar file already present on the target computer. Usually, this can be used when performing a downgrade (install a file older than the one already installed) or for non-versioned files which don't overwrite the existing files.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not overwrite existing file
@@ -136,10 +142,10 @@ If this option is enabled, the file from your package is overwritten and any sim
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)These options are also available for multiple editing of file properties.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -175,21 +181,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-invisible-spectator-of-fb-tales/"><u>[New] In 2024, Invisible Spectator of FB Tales</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-effectiveness-of-instagrams-selfie-authenticity-feature/"><u>[New] The Effectiveness of Instagram's Selfie Authenticity Feature</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unlock-the-potential-of-iphone-cinematography-top-8-strategies-for-2024/"><u>[New] Unlock the Potential of iPhone Cinematography Top 8 Strategies for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-essential-view-total-to-secure-income-for-2024/"><u>[Updated] YouTube's Essential View Total to Secure Income for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-guide-uploading-your-android-videos-onto-a-windowsmac-computer/"><u>Easy Guide: Uploading Your Android Videos Onto a Windows/Mac Computer</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-professional-grade-sound-capture-with-ubuntus-top-audio-recording-tool/"><u>Effortless Professional-Grade Sound Capture with Ubuntu's Top Audio Recording Tool</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhanced-audio-sensations-sony-style/"><u>Enhanced Audio Sensations, Sony Style</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-your-avatar-adventure-solving-pandoras-frontier-launch-hiccups-quickly-and-easily/"><u>Fixing Your Avatar Adventure: Solving Pandora's Frontier Launch Hiccups Quickly & Easily</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-modify-installation-details-using-edit-msis-quick-tutorial/"><u>How to Modify Installation Details Using Edit MSIs - Quick Tutorial</u></a></li>
-<li><a href="https://fox-search.techidaily.com/simple-steps-to-make-your-own-editable-pdfs-adobe-free-solutions/"><u>Simple Steps to Make Your Own Editable PDFs - Adobe-Free Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/streamlined-environment-configurator-interactive-selection-tool/"><u>Streamlined Environment Configurator: Interactive Selection Tool</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/telecharger-gratuitement-des-logiciels-video-pour-windows-x-ripper-dvd-et-convertisseur-gratuit-en-un-seul-emplacement/"><u>Télécharger Gratuitement Des Logiciels Vidéo Pour Windows X : Ripper DVD Et Convertisseur Gratuit en Un Seul Emplacement</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-methods-for-adding-captions-automatically-to-your-videos-at-no-cost/"><u>Top Methods for Adding Captions Automatically to Your Videos at No Cost</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-strategies-for-successfully-unlocking-a-zte-device/"><u>Top Strategies for Successfully Unlocking a ZTE Device</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-rated-android-security-software-of-2019-aaa-editors-picks/"><u>Top-Rated Android Security Software of 2019: AAA Editors' Picks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-streamlining-video-submissions-from-imovie-to-vimeo/"><u>[New] 2024 Approved Streamlining Video Submissions From iMovie to Vimeo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-mobile-media-best-phones-reviewed/"><u>[New] Mastering Mobile Media Best Phones Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tubebuddy-the-key-to-youtube-dominance/"><u>[Updated] TubeBuddy The Key to YouTube Dominance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-the-latest-additions-in-itunes-version-121/"><u>Discover the Latest Additions in iTunes Version 12.1</u></a></li>
+<li><a href="https://fox-search.techidaily.com/genuine-testimonials-and-evaluations-of-malwarefox-anti-malware-suite-by-paid-users/"><u>Genuine Testimonials and Evaluations of MalwareFox Anti-Malware Suite by Paid Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-fidelity-windows-playlists-for-2024/"><u>High-Fidelity Windows Playlists for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-retrieve-accidentally-deleted-images-from-your-ipad/"><u>Step-by-Step Guide: Retrieve Accidentally Deleted Images From Your iPad</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ultimate-guide-how-to-seamlessly-sync-pictures-from-googles-pixel-3-phone-with-your-laptop-or-desktop/"><u>Ultimate Guide: How to Seamlessly Sync Pictures From Google's Pixel 3 Phone with Your Laptop or Desktop</u></a></li>
 </ul></div>
 

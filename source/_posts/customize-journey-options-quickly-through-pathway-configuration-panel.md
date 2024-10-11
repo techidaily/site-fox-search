@@ -1,7 +1,7 @@
 ---
 title: Customize Journey Options Quickly Through Pathway Configuration Panel
-date: 2024-10-03T20:25:19.371Z
-updated: 2024-10-05T16:42:49.372Z
+date: 2024-10-07T03:30:28.104Z
+updated: 2024-10-10T21:01:50.126Z
 tags:
   - user-guide
 categories:
@@ -78,16 +78,10 @@ This dialog enables you to create or update a path variable.
 ![Edit Path Variable](https://cdn.advancedinstaller.com/img/dialog/edit-path-var.png "Edit Path Variable")  
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -95,10 +89,10 @@ This dialog enables you to create or update a path variable.
 The path variable's unique identifier.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -114,10 +108,10 @@ A path variable's value can contain reference to:
 * Registry entry
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Values per Builds
@@ -125,10 +119,10 @@ A path variable's value can contain reference to:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This section is only available for [Project Path Variables](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Specify a different source path per each build usingChange... hyperlink button.
@@ -166,17 +160,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-essential-steps-in-logging-youtube-live-content/"><u>[New] In 2024, Essential Steps in Logging YouTube Live Content</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-excellence-optimal-software-use-and-no-software-strategies-for-vimeo-for-2024/"><u>[New] Step-by-Step Excellence Optimal Software Use & No-Software Strategies for Vimeo for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-complete-cheat-sheet-for-negative-snap-playback/"><u>2024 Approved The Complete Cheat Sheet for Negative Snap Playback</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-the-ultimate-list-of-2020s-top-7-music-visualization-tools-to-enhance-your-playlist-viewing/"><u>Discover the Ultimate List of 2020'S Top 7 Music Visualization Tools to Enhance Your Playlist Viewing!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/enhance-pc-listening-experience-install-x-recorder/"><u>Enhance PC Listening Experience - Install X-Recorder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exploring-word-meanings-and-definitions-in-the-comprehensive-dictionary-hub/"><u>Exploring Word Meanings & Definitions in the Comprehensive Dictionary Hub</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-manage-and-use-environment-variables-in-your-application/"><u>How to Manage and Use Environment Variables in Your Application</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-13-mini-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-filmmakers-pathway-youtube-trailer-creation-with-filmora/"><u>In 2024, Filmmaker's Pathway YouTube Trailer Creation with Filmora</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-list-of-adobe-premiere-pro-shortcuts-for-beginners-and-pros/"><u>New 2024 Approved The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-strategies-for-recovering-your-contacts-using-icloud/"><u>Top Strategies for Recovering Your Contacts Using iCloud</u></a></li>
-<li><a href="https://fox-search.techidaily.com/unlocking-the-secrets-of-high-quality-lossless-music-the-flac-format-explained/"><u>Unlocking the Secrets of High-Quality Lossless Music: The FLAC Format Explained</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-assembling-an-original-identification-alphanumeric/"><u>[New] In 2024, Assembling an Original Identification Alphanumeric</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-latest-pulse-of-facebooks-evolution/"><u>[New] In 2024, Latest Pulse of Facebook's Evolution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-seizing-photographic-segments-from-videos-in-windows-11/"><u>[New] Seizing Photographic Segments From Videos in Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-end-screen-how-to-add-end-screen-to-video-on-vimeo/"><u>[New] Vimeo End Screen How to Add End Screen to Video on Vimeo?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-windows-10-basic-guide-to-audio-recording/"><u>[New] Windows 10 Basic Guide to Audio Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-capture-simplicity-with-cybernetic-tools-for-2024/"><u>[Updated] Screen Capture Simplicity with Cybernetic Tools for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-channel-up-the-essential-guide-to-computer-and-mobile-video-upload/"><u>2024 Approved Channel Up The Essential Guide to Computer & Mobile Video Upload</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bring-back-sharpness-the-ultimate-choice-for-restoring-images/"><u>Bring Back Sharpness The Ultimate Choice for Restoring Images</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nubia-red-magic-8s-proplus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nubia Red Magic 8S Pro+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-prime-video-destinations-the-ultimate-youtube-substitutes/"><u>Discover Prime Video Destinations: The Ultimate YouTube Substitutes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-tutorial-on-how-to-make-a-screen-recording-with-screencast-o-matic-software/"><u>Easy Tutorial on How to Make a Screen Recording with Screencast-O-Matic Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-past-the-resident-evil-village-wont-open-glitch-fixed/"><u>How to Get Past the 'Resident Evil Village Won't Open' Glitch - Fixed!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/installation-prerequisites-checklist-your-step-by-step-resource/"><u>Installation Prerequisites Checklist: Your Step-by-Step Resource</u></a></li>
+<li><a href="https://fox-search.techidaily.com/limpieza-eficiente-de-ventanas-11-deshacerse-del-adware-y-pop-ups-con-herramientas-profesionales-de-malwarefox/"><u>Limpieza Eficiente De Ventanas 11: Deshacerse Del Adware Y Pop-Ups Con Herramientas Profesionales De MalwareFox</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quick-guide-temporary-file-handling-within-file-explorers-navigation-interface/"><u>Quick Guide: Temporary File Handling Within File Explorer’s Navigation Interface</u></a></li>
+<li><a href="https://fox-search.techidaily.com/seamless-itunes-format-converter-turn-any-video-into-itunes-ready-media-files/"><u>Seamless iTunes Format Converter: Turn Any Video Into iTunes Ready Media Files</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simple-and-straightforward-methods-for-converting-pdf-documents-to-powerpoint-slideshows-on-android-a-2nd-guide/"><u>Simple and Straightforward Methods for Converting PDF Documents to PowerPoint Slideshows on Android - A 2nD Guide!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-mobile-apps-for-flawless-haircutting-on-android-and-iphone/"><u>Top-Rated Mobile Apps for Flawless Haircutting on Android and iPhone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-ixml-file-format-a-comprehensive-guide/"><u>Understanding iXML File Format: A Comprehensive Guide</u></a></li>
 </ul></div>
 

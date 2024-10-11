@@ -1,7 +1,7 @@
 ---
 title: "Personalized Property Settings: Tailor Your Experience"
-date: 2024-09-28T16:12:45.748Z
-updated: 2024-10-05T21:42:51.905Z
+date: 2024-10-08T17:35:23.229Z
+updated: 2024-10-10T20:31:41.157Z
 tags:
   - user-guide
 categories:
@@ -108,25 +108,32 @@ This view allows you to set IIS properties, such as attributes and collection it
 Use the \[New \] button or the “New” context menu item to add a new property, be that an attribute value or collection item.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a property
 
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Increase the execution priority
 
 Use the \[Up \] button, the “Up” context menu item or press the Page Up key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Decrease the execution priority
@@ -134,22 +141,21 @@ Use the \[Up \] button, the “Up” context menu item or press the Page Up key 
 Use the \[Down \] button, the “Down” context menu item or press the Page Down key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a property
 
 Use the \[Remove \] button, the “Remove” context menu item or press theDelete key while an element from the list control is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -191,20 +197,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-forge-business-identity-no-cost-customizable-logo-templates-available/"><u>[Updated] Forge Business Identity No-Cost Customizable Logo Templates Available</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/10-best-yoga-youtube-channels-to-follow-keep-fit-for-2024/"><u>10 Best Yoga YouTube Channels to Follow - Keep Fit for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-full-spectrum-review-of-obs-screen-recording/"><u>2024 Approved The Full Spectrum Review of OBS Screen Recording</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-guide-streaming-your-iphone-12-or-iphone-13-display-onto-a-television/"><u>Easy Guide: Streaming Your iPhone 12 or iPhone 13 Display Onto a Television</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-strategies-for-moving-music-files-to-your-samsung-galaxy-note-2/"><u>Effective Strategies for Moving Music Files to Your Samsung Galaxy Note 2</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/c-in-fun-the-best-comedy-centric-concepts-for-shorter-videos-for-2024/"><u>Frolic in Fun The Best Comedy-Centric Concepts for Shorter Videos for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guide-to-editing-windows-internet-shortcut-attributes/"><u>Guide to Editing Windows Internet Shortcut Attributes</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-customize-java-vm-settings-via-the-configuration-dialog/"><u>How to Customize Java VM Settings via the Configuration Dialog</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-captivating-visuals-for-digital-stagecraft/"><u>In 2024, Captivating Visuals for Digital Stagecraft</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four of Online Networking: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/no-response-from-monitor-post-update/"><u>No Response From Monitor Post Update</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/perfecting-the-science-of-converting-speech-to-text-with-google-for-2024/"><u>Perfecting the Science of Converting Speech to Text with Google for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-bbc-iplayer-using-pcs-or-macs/"><u>Step-by-Step Guide: Recording Your Favorite Shows From BBC iPlayer Using PCs or Macs</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-undoing-ransomware-attacks-and-retrieving-your-files/"><u>Step-by-Step Guide: Undoing Ransomware Attacks & Retrieving Your Files</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-no-cost-audio-capture-tools-available-on-windows-8-platforms/"><u>Top No-Cost Audio Capture Tools Available on Windows 8 Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-iphone-cams-with-these-hacks/"><u>[New] Master iPhone Cams with These Hacks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-photo-and-video-size-adjustment-guide-for-2024/"><u>[Updated] Instagram Photo and Video Size Adjustment Guide for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comprehensive-guide-the-best-mac-pdf-printers-of-2020-ranked-and-reviews/"><u>Comprehensive Guide: The Best Mac PDF Printers of 2020 Ranked and Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-1068-troubleshooting-for-windows-users-quick-fixes-inside/"><u>Error 1068 Troubleshooting for Windows Users - Quick Fixes Inside!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ifunbox-overview-in-depth-analysis-with-preferred-replacements/"><u>IFUNBOX Overview: In-Depth Analysis with Preferred Replacements</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 7 to Android | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-find-x7-ultras-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo Find X7 Ultras Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quicksave-streamlined-shortcuts-for-efficient-workflow-management/"><u>QuickSave: Streamlined Shortcuts for Efficient Workflow Management</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remocao-perfeita-de-textos-em-imagens-melhores-metodos-livres-online-mostrados/"><u>Remoção Perfeita De Textos Em Imagens - Melhores Métodos Livres Online Mostrados!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-sending-a-steam-gift-card-with-ease/"><u>Step-by-Step Guide: Sending a Steam Gift Card with Ease</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-tutorial-setting-up-your-gaming-channel-on-twitch/"><u>Step-by-Step Tutorial: Setting Up Your Gaming Channel on Twitch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-hidden-dangers-in-assuming-artificaminds-around-us-navigating-ai-recognition-pitfalls/"><u>The Hidden Dangers in Assuming Artificaminds Around Us - Navigating AI Recognition Pitfalls</u></a></li>
+<li><a href="https://fox-search.techidaily.com/the-ultimate-trick-for-recovering-lost-messages-from-your-ios-device/"><u>The Ultimate Trick for Recovering Lost Messages From Your iOS Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-cybersecurity-roles-a-guide-to-identifying-white-black-gray-and-other-categories-of-hackers/"><u>Understanding Cybersecurity Roles: A Guide to Identifying White, Black, Gray, and Other Categories of Hackers</u></a></li>
 </ul></div>
 

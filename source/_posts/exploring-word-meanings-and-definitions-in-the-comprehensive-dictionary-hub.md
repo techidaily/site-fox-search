@@ -1,7 +1,7 @@
 ---
 title: Exploring Word Meanings & Definitions in the Comprehensive Dictionary Hub
-date: 2024-10-04T16:42:32.229Z
-updated: 2024-10-05T17:07:35.194Z
+date: 2024-10-03T19:46:23.077Z
+updated: 2024-10-11T01:57:56.798Z
 tags:
   - user-guide
 categories:
@@ -81,25 +81,19 @@ The Dictionaries page allows you to manage, create and register translation dict
 * Custom (user added)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dictionaries
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Managing
@@ -111,10 +105,10 @@ Strings are searched by their localization identifiers in the dictionaries in a 
 You can add a custom dictionary by using the\[Add... \] button or you can remove it by using the\[Remove \] button.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating and Registering
@@ -131,16 +125,10 @@ This is the best way to translate packages into a new (unregistered) language:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)A dictionary file can contain more than one language. When importing, only the languages that are **not registered** are taken into consideration. The languages already registered are ignored. Also ignored are the "start" languages - they are marked to be ignored when the dictionary is generated.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Format
@@ -182,19 +170,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-choices-in-high-definition-screen-capture/"><u>[New] Ultimate Choices in High Definition Screen Capture</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-toolwiz-scrutiny-expert-analysis-on-mobile-photo-tools/"><u>[Updated] Toolwiz Scrutiny Expert Analysis on Mobile Photo Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-transform-your-food-blog-into-an-engaging-mukbang-show/"><u>2024 Approved Transform Your Food Blog Into an Engaging Mukbang Show</u></a></li>
-<li><a href="https://fox-search.techidaily.com/adjusting-property-settings-in-edit-feature-panel/"><u>Adjusting Property Settings in Edit Feature Panel</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-guide-streaming-your-iphone-12-or-iphone-13-display-onto-a-television/"><u>Easy Guide: Streaming Your iPhone 12 or iPhone 13 Display Onto a Television</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-customize-java-vm-settings-via-the-configuration-dialog/"><u>How to Customize Java VM Settings via the Configuration Dialog</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-se-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone SE and iPad</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-successfully-install-llama-2-on-your-machine/"><u>How to Successfully Install Llama 2 on Your Machine</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-switchs-connectivity-upgrade-worth-the-dollar/"><u>Is Switch's Connectivity Upgrade Worth the Dollar?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-undoing-ransomware-attacks-and-retrieving-your-files/"><u>Step-by-Step Guide: Undoing Ransomware Attacks & Retrieving Your Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-windows-11s-search-bar-efficacy/"><u>Streamline Windows 11'S Search Bar Efficacy</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-no-cost-audio-capture-tools-available-on-windows-8-platforms/"><u>Top No-Cost Audio Capture Tools Available on Windows 8 Platforms</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-fixed-how-to-stop-hyper-scape-from-crashing-on-pcs/"><u>Troubleshooting Fixed: How to Stop Hyper Scape From Crashing on PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-detailed-breakdown-complete-test-of-gecata-tracker/"><u>[New] In 2024, Detailed Breakdown Complete Test of Gecata Tracker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tiktokplusinstagram-social-media-fusion-guide/"><u>2024 Approved TikTok+Instagram Social Media Fusion Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-most-protective-aqua-resistant-mobile-covers-your-perfect-guide/"><u>2024'S Most Protective Aqua-Resistant Mobile Covers - Your Perfect Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-prime-video-destinations-the-ultimate-youtube-substitutes/"><u>Discover Prime Video Destinations: The Ultimate YouTube Substitutes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-best-online-junctions-providing-free-high-end-vector-artworks-and-graphics/"><u>In 2024, Best Online Junctions Providing Free, High-End Vector Artworks & Graphics</u></a></li>
+<li><a href="https://fox-search.techidaily.com/installation-prerequisites-checklist-your-step-by-step-resource/"><u>Installation Prerequisites Checklist: Your Step-by-Step Resource</u></a></li>
+<li><a href="https://fox-search.techidaily.com/limpieza-eficiente-de-ventanas-11-deshacerse-del-adware-y-pop-ups-con-herramientas-profesionales-de-malwarefox/"><u>Limpieza Eficiente De Ventanas 11: Deshacerse Del Adware Y Pop-Ups Con Herramientas Profesionales De MalwareFox</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-lenovo-thinkphone-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Lenovo ThinkPhone Phone Now with These Tips</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-ixml-file-format-a-comprehensive-guide/"><u>Understanding iXML File Format: A Comprehensive Guide</u></a></li>
 </ul></div>
 

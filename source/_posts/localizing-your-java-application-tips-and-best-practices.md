@@ -1,7 +1,7 @@
 ---
 title: "Localizing Your Java Application: Tips and Best Practices"
-date: 2024-10-03T21:40:43.772Z
-updated: 2024-10-05T19:49:18.050Z
+date: 2024-10-07T21:08:48.258Z
+updated: 2024-10-11T05:57:00.515Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ Table of Contents
 ## Java Product Localization
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General details
@@ -92,32 +92,26 @@ The localization of a Java Product implies the translation of the names of the E
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For any language, the name of the launcher and that of the configuration file may differ but without modifying the extension.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The default extensions (.exe and .ini) must be preserved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Mac OS X Java Application localization
@@ -164,20 +158,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-best-free-video-viewing-software-guide-top-16-for-2024/"><u>[Updated] Best Free Video Viewing Software Guide - Top 16 for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-step-by-step-approach-for-properly-placing-music-emojis-in-instagram/"><u>2024 Approved A Step-by-Step Approach for Properly Placing Music Emojis in Instagram</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-elite-drones-awaiting-purchase/"><u>2024 Approved Elite Drones Awaiting Purchase</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-macos-1015-pdf-utilities-alternatives-to-adobe-acrobat-software/"><u>Best macOS 10.15 PDF Utilities - Alternatives to Adobe Acrobat Software</u></a></li>
-<li><a href="https://fox-search.techidaily.com/boost-image-clarity-with-these-6-amazing-apps-for-blurry-photos-complimentary-and-subscription-services/"><u>Boost Image Clarity with These 6 Amazing Apps for Blurry Photos : Complimentary & Subscription Services</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-top-rated-registries-near-you-with-our-easy-locator-tool/"><u>Discover Top-Rated Registries Near You with Our Easy Locator Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-free-malware-protection-discover-how-malwarefox-keeps-your-android-device-safe/"><u>Download Free Malware Protection: Discover How MalwareFox Keeps Your Android Device Safe</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/end-juxtaposing-siri-and-chatgpt-discerning-their-divergence/"><u>End Juxtaposing Siri & ChatGPT: Discerning Their Divergence</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-wondershare-photo-story-platinum/"><u>In 2024, Wondershare Photo Story Platinum</u></a></li>
-<li><a href="https://fox-search.techidaily.com/introducing-the-new-features-in-our-latest-software-update/"><u>Introducing the New Features in Our Latest Software Update!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ound-editing-solutions-for-video-bloggers/"><u>Key Sound Editing Solutions for Video Bloggers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/reconstructing-your-thoughts-a-review-of-the-best-tools-to-get-back-lost-notes-from-an-iphone/"><u>Reconstructing Your Thoughts: A Review of the Best Tools to Get Back Lost Notes From an iPhone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/saving-money-without-sacrificing-quality-an-expert-take-on-144hz-and-40-inch-monoprices-gaming-marvel-at-a-steal-price/"><u>Saving Money without Sacrificing Quality: An Expert Take on 144Hz and 40-Inch Monoprice's Gaming Marvel at a Steal Price</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-f23-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo F23 5G Device</u></a></li>
-<li><a href="https://fox-search.techidaily.com/transform-flv-files-into-html5-format-with-our-advanced-video-converter-tool/"><u>Transform FLV Files Into HTML5 Format with Our Advanced Video Converter Tool</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/0-best-youtube-makeup-artists-you-must-have-heard/"><u>[New] 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-this-video-will-get-you-100000-views-on-youtube/"><u>[New] This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoid-blur-and-clarity-issues-zooming-techniques-with-videoleap/"><u>[Updated] Avoid Blur and Clarity Issues Zooming Techniques with Videoleap</u></a></li>
+<li><a href="https://fox-search.techidaily.com/adaptable-personalization-techniques-for-windows/"><u>Adaptable Personalization Techniques for Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-nvidia-1080-graphics-card-drivers-on-windows-11-simple-steps/"><u>Download NVIDIA 1080 Graphics Card Drivers on Windows 11 - Simple Steps</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effortless-guide-how-to-transfer-blu-ray-movies-onto-an-ipad-device/"><u>Effortless Guide: How to Transfer Blu-Ray Movies Onto an iPad Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-locate-and-modify-file-search-attributes/"><u>How to Locate and Modify File Search Attributes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-modify-startup-settings-in-the-configuration-window/"><u>How to Modify Startup Settings in the Configuration Window</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-building-a-custom-google-cardboard-for-immersive-experience/"><u>In 2024, Building a Custom Google Cardboard for Immersive Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://fox-search.techidaily.com/navigating-the-file-management-panel/"><u>Navigating the File Management Panel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-tsa-guidelines-for-wearable-tech-is-your-smart-ring-clear-for-flight/"><u>Navigating TSA Guidelines for Wearable Tech: Is Your Smart Ring Clear for Flight?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/safely-removing-fractureiser-malware-from-minecraft-secure-mod-installation-guide/"><u>Safely Removing Fractureiser Malware From Minecraft: Secure Mod Installation Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-bbc-iplayer-using-pcs-or-macs/"><u>Step-by-Step Guide: Recording Your Favorite Shows From BBC iPlayer Using PCs or Macs</u></a></li>
 </ul></div>
 

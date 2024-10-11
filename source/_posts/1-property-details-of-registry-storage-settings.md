@@ -1,7 +1,7 @@
 ---
 title: 1. Property Details of Registry Storage Settings
-date: 2024-10-03T16:18:08.712Z
-updated: 2024-10-05T18:10:21.594Z
+date: 2024-10-05T08:11:51.460Z
+updated: 2024-10-11T07:47:57.496Z
 tags:
   - user-guide
 categories:
@@ -81,16 +81,16 @@ Table of Contents
 
  The Registry Hive Root. Can be one of "Classes Root", "Current User", "Local Machine" or "Users". 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key and Name
 
  The path to the registry location. Use the\[... \] button to browse the registry and select a key and value using the [Registry Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/). Also, you can insert reference to a file, folder or property using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Type
 
@@ -119,22 +119,15 @@ Table of Contents
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When retrieving the raw value of a registry entry you will get these results:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * for string entries, the searches property will contain the registry entry's actual value
 * for binary entries, the searches property will contain the registry entry's value preceded by the "#x" characters (for example "#xValue")
 * for dword entries, the searches property will contain the registry entry's value preceded by the "#" character (for example "#Value")
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Search the 64-bit portion of the registry
@@ -142,6 +135,13 @@ Table of Contents
  Check this if you want to search in the 64-bit registry section. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Root
 * Key
@@ -151,10 +151,10 @@ Table of Contents
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -190,19 +190,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-essential-8-platforms-for-private-screenings-for-2024/"><u>[New] Essential 8 Platforms for Private Screenings for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-bridging-content-gap-youtube-videos-to-instagram/"><u>[New] In 2024, Bridging Content Gap YouTube Videos to Instagram</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-4-ways-to-record-sims-4-gameplay-for-2024/"><u>[Updated] 4 Ways to Record Sims 4 Gameplay for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-from-camera-lens-to-screen-your-step-by-step-guide-to-gopro-video-mastery/"><u>[Updated] From Camera Lens to Screen Your Step-by-Step Guide to GoPro Video Mastery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-vega-64-driver-downloads-latest-version-compatible-with-windows-os-fixed/"><u>AMD Radeon Vega 64 Driver Downloads: Latest Version Compatible with Windows OS - FIXED</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-communication-techniques-within-the-add-protocol-network/"><u>Effective Communication Techniques Within the Add Protocol Network</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-linksys-ea9500-a-deep-dive-into-next-gen-network-performance/"><u>Exploring the Linksys EA9500: A Deep Dive Into Next-Gen Network Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-for-persistent-diablo-3-game-crashes-resolved/"><u>Fixes for Persistent Diablo 3 Game Crashes - Resolved</u></a></li>
-<li><a href="https://win-top.techidaily.com/free-online-swf-to-mp4-video-converter-easy-and-reliable-conversion-with-movavi/"><u>Free Online SWF to MP4 Video Converter - Easy & Reliable Conversion with Movavi</u></a></li>
-<li><a href="https://fox-search.techidaily.com/introducing-apowersofts-latest-screen-capture-software-professional-edition-v10/"><u>Introducing Apowersoft's Latest Screen Capture Software: Professional Edition V1.0</u></a></li>
-<li><a href="https://fox-search.techidaily.com/key-characteristics-of-premium-service-offerings/"><u>Key Characteristics of Premium Service Offerings</u></a></li>
-<li><a href="https://fox-search.techidaily.com/legal-summons-issued-against-individuals-involved-in-email-phishing-scheme-targeting-minors/"><u>Legal Summons Issued Against Individuals Involved in Email Phishing Scheme Targeting Minors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-toms-hardware-guide-expert-hardware-evaluation-and-advice/"><u>The Tom's Hardware Guide: Expert Hardware Evaluation & Advice</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-ultimate-guide-digitally-authenticating-exe-msi-and-msp-files-for-enhanced-security/"><u>The Ultimate Guide: Digitally Authenticating EXE, MSI & MSP Files for Enhanced Security</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-cut-the-clutter-advanced-techniques-with-youtube-studio-editor/"><u>[New] In 2024, Cut the Clutter Advanced Techniques with YouTube Studio Editor</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-streamlining-gaming-sessions-without-microsofts-intervention/"><u>[New] In 2024, Streamlining Gaming Sessions Without Microsoft's Intervention</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-drone-titans-for-industrial-lifting-challenges/"><u>[Updated] Drone Titans for Industrial Lifting Challenges</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-prime-video-destinations-the-ultimate-youtube-substitutes/"><u>Discover Prime Video Destinations: The Ultimate YouTube Substitutes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-guide-to-mastering-your-apps-schedule-configuration/"><u>Easy Guide to Mastering Your App's Schedule Configuration</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-c22-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia C22 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-x50-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor X50 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/limpieza-eficiente-de-ventanas-11-deshacerse-del-adware-y-pop-ups-con-herramientas-profesionales-de-malwarefox/"><u>Limpieza Eficiente De Ventanas 11: Deshacerse Del Adware Y Pop-Ups Con Herramientas Profesionales De MalwareFox</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/y-letters-on-screen-bounce-with-ease-and-style/"><u>Lively Letters on Screen Bounce with Ease and Style</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/skyline-your-contents-search-trajectory-key-youtube-seo-tips-1-11-for-2024/"><u>Skyline Your Content's Search Trajectory Key YouTube SEO Tips (1-11) for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-ixml-file-format-a-comprehensive-guide/"><u>Understanding iXML File Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
 </ul></div>
 

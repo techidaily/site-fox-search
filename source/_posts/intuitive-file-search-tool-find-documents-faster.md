@@ -1,7 +1,7 @@
 ---
 title: Intuitive File Search Tool - Find Documents Faster
-date: 2024-09-28T16:57:33.823Z
-updated: 2024-10-05T18:25:25.047Z
+date: 2024-10-09T03:28:21.236Z
+updated: 2024-10-10T23:04:50.229Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## IFileSearch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,15 +136,22 @@ Table of Contents
 IFileSearch: IAppSearch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit search options for a file
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -161,10 +168,10 @@ This interface is meant to edit search options for a file
 **uint MaxSize** \- Gets or sets maximum file size in bytes. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -179,13 +186,6 @@ $compLoc = $newFileSearch.$newFileSearch.AddComponentLocator()
 $compLoc.GUID = "{c4c29405-23d0-4347-8fa4-ee23c83e4cc3}"
 
 Copy
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -226,22 +226,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/treamline-your-strategy-with-aspect-ratio-mastery-on-youtube/"><u>[New] Streamline Your Strategy with Aspect Ratio Mastery on YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-pinnacle-10-sound-superchargers-pc-mac-and-phones/"><u>[Updated] 2024 Approved Pinnacle 10 Sound Superchargers PC, Mac & Phones</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-dare-to-differentiate-using-square-videos-for-social-media-standout-for-2024/"><u>[Updated] Dare to Differentiate Using Square Videos for Social Media Standout for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-expertise-in-ease-simplifying-complex-snapchat-filters-for-2024/"><u>[Updated] Expertise in Ease Simplifying Complex Snapchat Filters for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-create-unique-ringtone-experiences-on-iphone/"><u>2024 Approved How to Create Unique Ringtone Experiences on iPhone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/connect-with-creativity-discover-digital-artistry-at-digiarty/"><u>Connect with Creativity: Discover Digital Artistry at DigiArty</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-the-latest-additions-in-itunes-version-121/"><u>Discover the Latest Additions in iTunes Version 12.1</u></a></li>
-<li><a href="https://fox-search.techidaily.com/efficient-strategies-for-uploading-big-files-via-whatsapp/"><u>Efficient Strategies for Uploading Big Files via WhatsApp</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-successfully-transfer-film-clips-to-a-samsung-galaxy-note-3-device/"><u>How to Successfully Transfer Film Clips to a Samsung Galaxy Note 3 Device</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mp4-to-m4v-conversion-guide-for-pc-and-mac-users/"><u>MP4 to M4V Conversion Guide for PC and Mac Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/quickly-restore-charging-functionality-to-your-laptop-expert-tips-inside/"><u>Quickly Restore Charging Functionality to Your Laptop: Expert Tips Inside!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/redefine-your-chatting-experience-stay-anonymous-and-connect-using-duckduckgos-latest-ai-chat-features-powered-by-chatgpt/"><u>Redefine Your Chatting Experience: Stay Anonymous and Connect Using DuckDuckGo's Latest AI Chat Features Powered by ChatGPT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/squad-mic-problem-solving-a-comprehensive-step-by-step-guide/"><u>Squad Mic Problem Solving: A Comprehensive Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-retrieve-accidentally-deleted-images-from-your-ipad/"><u>Step-by-Step Guide: Retrieve Accidentally Deleted Images From Your iPad</u></a></li>
-<li><a href="https://fox-search.techidaily.com/strategies-and-features-in-addressing-customer-service-mishaps/"><u>Strategies and Features in Addressing Customer Service Mishaps</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-ultimate-top-6-ios-audio-recording-tools-for-your-mobile-device/"><u>The Ultimate Top 6 iOS Audio Recording Tools for Your Mobile Device</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ultimate-guide-how-to-seamlessly-sync-pictures-from-googles-pixel-3-phone-with-your-laptop-or-desktop/"><u>Ultimate Guide: How to Seamlessly Sync Pictures From Google's Pixel 3 Phone with Your Laptop or Desktop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-wizardry-techniques-for-massive-reach-for-2024/"><u>[New] Instagram Video Wizardry Techniques for Massive Reach for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/alternate-methods-for-capturing-screenshots-in-windows-10-games/"><u>Alternate Methods for Capturing Screenshots in Windows 10 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/double-trouble-delight-top-15-two-player-phone-games/"><u>Double Trouble Delight: Top 15 Two-Player Phone Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easily-combine-identical-personal-photographs-with-your-iphone-or-mac-software/"><u>Easily Combine Identical Personal Photographs With Your iPhone or Mac Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-use-of-ixmlfileinstall-for-streamlined-system-configuration/"><u>Effective Use of IXMLFileInstall for Streamlined System Configuration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-global-dialogue-with-chatgpts-translation-features/"><u>Enhancing Global Dialogue with ChatGPT's Translation Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-and-latest-version-canon-pixma-ts3322-printer-drivers/"><u>Free Download & Latest Version - Canon PIXMA TS3322 Printer Drivers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/illustrative-sql-queries-a-comprehensive-guide/"><u>Illustrative SQL Queries: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Smart 8 HD</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-speech-clarity-achieved-by-googles-advanced-conversion/"><u>In 2024, Speech Clarity Achieved by Google's Advanced Conversion</u></a></li>
+<li><a href="https://fox-search.techidaily.com/locate-your-running-microsoft-office-products-step-by-step-tips/"><u>Locate Your Running Microsoft Office Products: Step-by-Step Tips</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maximizing-device-availability-preparing-your-apple-gadget-for-the-ios-8-upgrade-by-cleaning-space/"><u>Maximizing Device Availability: Preparing Your Apple Gadget for the iOS 8 Upgrade by Cleaning Space</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simple-methods-to-stream-several-videos-together-effortlessly/"><u>Simple Methods to Stream Several Videos Together Effortlessly</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simple-ways-to-copy-videos-onto-your-iphone-without-using-itunes/"><u>Simple Ways to Copy Videos Onto Your iPhone Without Using iTunes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-techniques-for-chatgpts-persistent-memory-lapses/"><u>Troubleshooting Techniques for ChatGPT's Persistent Memory Lapses</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-mkv-file-extension-a-comprehensive-guide/"><u>Understanding the MKV File Extension: A Comprehensive Guide</u></a></li>
 </ul></div>
 

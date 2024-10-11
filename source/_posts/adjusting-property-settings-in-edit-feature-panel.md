@@ -1,7 +1,7 @@
 ---
 title: Adjusting Property Settings in Edit Feature Panel
-date: 2024-10-03T20:46:54.313Z
-updated: 2024-10-05T22:20:04.000Z
+date: 2024-10-05T22:29:39.034Z
+updated: 2024-10-11T04:02:05.683Z
 tags:
   - user-guide
 categories:
@@ -82,19 +82,19 @@ Table of Contents
 ![Edit multiple features](https://cdn.advancedinstaller.com/img/dialog/edit-feature-properties.png "Edit multiple features")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature Tree
@@ -106,10 +106,10 @@ There are three options for the initial display of a feature:
 * Display Expanded - the feature will be displayed expanded in the features tree.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Installation behavior
@@ -128,10 +128,16 @@ You can select one of the following install behavior for the feature base on a c
  You can set the install level based on a condition in the [Conditional Levels Dialog](https://tools.techidaily.com/advancedinstaller/products/). Use the\[Conditional install level \] link to edit conditional install levels.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Attributes
@@ -181,20 +187,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-transitioning-from-imovie-editing-suite-to-youtube-showcase/"><u>[New] 2024 Approved Transitioning From iMovie Editing Suite to YouTube Showcase</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-high-fps-impacts-slow-motion-movie-quality/"><u>[New] How High FPS Impacts Slow Motion Movie Quality</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-live-from-the-cloud-effective-dji-drone-broadcasting-tips/"><u>[Updated] 2024 Approved Live From the Cloud Effective DJI Drone Broadcasting Tips</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-crafting-stories-the-ultimate-youtube-channel-list-for-2024/"><u>[Updated] Crafting Stories - The Ultimate YouTube Channel List for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-silent-voices-in-the-social-media-arena-ig-live-edition/"><u>[Updated] Silent Voices in the Social Media Arena - IG Live Edition</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-guide-streaming-your-iphone-12-or-iphone-13-display-onto-a-television/"><u>Easy Guide: Streaming Your iPhone 12 or iPhone 13 Display Onto a Television</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-strategies-for-moving-music-files-to-your-samsung-galaxy-note-2/"><u>Effective Strategies for Moving Music Files to Your Samsung Galaxy Note 2</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guide-to-editing-windows-internet-shortcut-attributes/"><u>Guide to Editing Windows Internet Shortcut Attributes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-sending-epub-files-directly-to-your-kindle-device-via-send-to-kindle-app/"><u>Guide: Sending EPUB Files Directly to Your Kindle Device via Send to Kindle App</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-customize-java-vm-settings-via-the-configuration-dialog/"><u>How to Customize Java VM Settings via the Configuration Dialog</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/navigating-through-time-with-historical-fb-features-device-guide-for-2024/"><u>Navigating Through Time with Historical FB Features Device Guide for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-bbc-iplayer-using-pcs-or-macs/"><u>Step-by-Step Guide: Recording Your Favorite Shows From BBC iPlayer Using PCs or Macs</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-undoing-ransomware-attacks-and-retrieving-your-files/"><u>Step-by-Step Guide: Undoing Ransomware Attacks & Retrieving Your Files</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-no-cost-audio-capture-tools-available-on-windows-8-platforms/"><u>Top No-Cost Audio Capture Tools Available on Windows 8 Platforms</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-web-exploration-with-microsofts-split-screen-functionality-for-2024/"><u>Transform Your Web Exploration with Microsoft's Split Screen Functionality for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-youtube-intros-with-imovie-techniques/"><u>[Updated] 2024 Approved Mastering YouTube Intros with iMovie Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-straightforward-guide-switch-video-direction-in-vlc/"><u>[Updated] 2024 Approved Straightforward Guide Switch Video Direction in VLC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-add-youtube-melodies-in-imovie-without-hurdles-for-2024/"><u>[Updated] Add YouTube Melodies in iMovie Without Hurdles for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-breaking-down-youtube-short-barriers-for-2024/"><u>[Updated] Breaking Down YouTube Short Barriers for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-prime-video-destinations-the-ultimate-youtube-substitutes/"><u>Discover Prime Video Destinations: The Ultimate YouTube Substitutes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-guide-to-mastering-your-apps-schedule-configuration/"><u>Easy Guide to Mastering Your App's Schedule Configuration</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-tutorial-on-how-to-make-a-screen-recording-with-screencast-o-matic-software/"><u>Easy Tutorial on How to Make a Screen Recording with Screencast-O-Matic Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>Elevate Views, Not Video Length Expert Guide to YT Desc Templates</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-accessibility-on-iphones-the-ultimate-guide-to-visual-impairment-friendly-functions/"><u>Enhancing Accessibility on iPhones: The Ultimate Guide to Visual Impairment-Friendly Functions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>In 2024, Upgrade Your View Enabling YouTube's High-Quality AV1 Option</u></a></li>
+<li><a href="https://fox-search.techidaily.com/installation-prerequisites-checklist-your-step-by-step-resource/"><u>Installation Prerequisites Checklist: Your Step-by-Step Resource</u></a></li>
+<li><a href="https://fox-search.techidaily.com/limpieza-eficiente-de-ventanas-11-deshacerse-del-adware-y-pop-ups-con-herramientas-profesionales-de-malwarefox/"><u>Limpieza Eficiente De Ventanas 11: Deshacerse Del Adware Y Pop-Ups Con Herramientas Profesionales De MalwareFox</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/mastering-the-art-of-squaring-your-content-tips-for-optimizing-videos-on-instagram/"><u>Mastering the Art of Squaring Your Content: Tips for Optimizing Videos on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/precision-in-online-viewing-a-zoomers-handbook-for-2024/"><u>Precision in Online Viewing A Zoomer's Handbook for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quick-guide-temporary-file-handling-within-file-explorers-navigation-interface/"><u>Quick Guide: Temporary File Handling Within File Explorer’s Navigation Interface</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simple-and-straightforward-methods-for-converting-pdf-documents-to-powerpoint-slideshows-on-android-a-2nd-guide/"><u>Simple and Straightforward Methods for Converting PDF Documents to PowerPoint Slideshows on Android - A 2nD Guide!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tomorrows-evaluation-creative-pathways/"><u>Tomorrow’s Evaluation Creative Pathways</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-mobile-apps-for-flawless-haircutting-on-android-and-iphone/"><u>Top-Rated Mobile Apps for Flawless Haircutting on Android and iPhone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-ixml-file-format-a-comprehensive-guide/"><u>Understanding iXML File Format: A Comprehensive Guide</u></a></li>
 </ul></div>
 

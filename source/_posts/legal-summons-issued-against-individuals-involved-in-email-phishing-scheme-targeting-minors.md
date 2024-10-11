@@ -1,7 +1,7 @@
 ---
 title: Legal Summons Issued Against Individuals Involved in Email Phishing Scheme Targeting Minors
-date: 2024-10-01T20:06:35.354Z
-updated: 2024-10-05T17:23:34.003Z
+date: 2024-10-04T17:02:19.371Z
+updated: 2024-10-11T05:31:35.617Z
 tags:
   - product
   - antivirus
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 2. **What to do?** Ignore and delete the message. Do not reply or download any file attachment.
 3. **How to stay safe?** You are good just by not taking any action. However, it is recommended to scan your device using powerful antivirus program. We recommend [TotalAV](https://tools.techidaily.com/malwarefox/products/) which has Identity Protection and Webshield.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Summon to Court for Pedophilia Email?
 
 “Summon to Court for Pedophilia” refers to fake government emails that look like court summonses. These emails say that the person receiving them is being accused of paedophilia. 
@@ -44,16 +37,17 @@ The “Summon To Court For Pedophilia” emails are a scam. In addition, the [Fr
 ![](https://www.malwarefox.com/wp-content/uploads/2023/01/summon-to-court-for-pedophilia-email-scam.webp "summon-to-court-for-pedophilia-email-scam")
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does Summon to Court for Pedophilia Email Scam Work?
@@ -68,6 +62,13 @@ The first goal of this email is to get the people who get it to start talking to
 
 This is similar to [GeekSquad Email Scam](https://tools.techidaily.com/malwarefox/products/) or [Apple ID Phishing scam](https://tools.techidaily.com/malwarefox/products/) which creates fictional situation to make their victim pay money to cyber criminals.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Threat Analysis
 
 | **Name**                | Summon To Court For Pedophilia                                                                                                                                                                                                                  |
@@ -80,19 +81,6 @@ This is similar to [GeekSquad Email Scam](https://tools.techidaily.com/malwarefo
 | **Damage**              | Loss of confidential private data, financial loss, and identity theft.                                                                                                                                                                          |
 | **Solution**            | Ignore the email and delete any attachments if you have downloaded. If you want to make sure that there was no malicious activity - [Download MalwareFox](https://tools.techidaily.com/malwarefox/products/) to detect all possible Malware infections. |
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to avoid Summon to Court Email Scam?
 
 If you got an email from “Law Enforcement/Police Officer” with a court summons and you think it’s a scam, you’ve already done half the work.
@@ -104,10 +92,10 @@ Block the sender if you share your computer with someone else so they don’t fa
 To sum up, the best way to avoid the Summon to Court for Pedophilia scam email is to ignore it and block the sender.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to do if you became victim of this Scam?
@@ -135,24 +123,20 @@ If you have made any payments disguised as fine, inform your Bank / PayPal or Cr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-streams-optimal-webm-converters-ranked/"><u>[New] 2024 Approved YouTube Streams Optimal WebM Converters Ranked</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-iphone-podcast-downloading-essentials-a-complete-walkthrough/"><u>[New] IPhone Podcast Downloading Essentials A Complete Walkthrough</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-picks-of-the-year-premium-google-cardboard-vr-gaming/"><u>[Updated] Picks of the Year Premium Google Cardboard VR Gaming</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-what-are-facebook-reels-and-how-to-make/"><u>[Updated] What Are Facebook Reels and How to Make</u></a></li>
-<li><a href="https://fox-search.techidaily.com/comprehensive-troubleshooting-fixing-issues-with-iphone-7-plus-and-iphone/"><u>Comprehensive Troubleshooting: Fixing Issues with iPhone 7 Plus and iPhone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-tutorial-on-how-to-make-a-screen-recording-with-screencast-o-matic-software/"><u>Easy Tutorial on How to Make a Screen Recording with Screencast-O-Matic Software</u></a></li>
-<li><a href="https://fox-links.techidaily.com/exposing-effective-promotions/"><u>Exposing Effective Promotions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exquisite-edits-selecting-superior-framing-software/"><u>Exquisite Edits Selecting Superior Framing Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-spark-go-2024-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Spark Go (2024) Lock Screen Password?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-zero-30-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Zero 30 5G FRP</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-groundbreaking-gradients-adobes-best-lut-choices-to-boost-your-lightroom-work/"><u>In 2024, Groundbreaking Gradients Adobe's Best LUT Choices to Boost Your LightRoom Work</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 11</u></a></li>
-<li><a href="https://fox-search.techidaily.com/quick-guide-temporary-file-handling-within-file-explorers-navigation-interface/"><u>Quick Guide: Temporary File Handling Within File Explorer’s Navigation Interface</u></a></li>
-<li><a href="https://fox-search.techidaily.com/seamless-itunes-format-converter-turn-any-video-into-itunes-ready-media-files/"><u>Seamless iTunes Format Converter: Turn Any Video Into iTunes Ready Media Files</u></a></li>
-<li><a href="https://fox-search.techidaily.com/secure-your-loved-ones-with-the-latest-in-ipatch-upgrades-for-families/"><u>Secure Your Loved Ones with the Latest in IPatch Upgrades for Families</u></a></li>
-<li><a href="https://fox-search.techidaily.com/simple-and-straightforward-methods-for-converting-pdf-documents-to-powerpoint-slideshows-on-android-a-2nd-guide/"><u>Simple and Straightforward Methods for Converting PDF Documents to PowerPoint Slideshows on Android - A 2nD Guide!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-streaming-your-iphone-screen-to-a-mi-tv/"><u>Step-by-Step Guide: Streaming Your iPhone Screen to a Mi TV</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-rated-mobile-apps-for-flawless-haircutting-on-android-and-iphone/"><u>Top-Rated Mobile Apps for Flawless Haircutting on Android and iPhone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-audio-capture-problems-in-both-windows-and-macos-environments/"><u>Troubleshooting Audio Capture Problems in Both Windows and macOS Environments</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ideal-mac-tools-to-record-your-workscreen/"><u>[Updated] 2024 Approved Ideal Mac Tools to Record Your Workscreen</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-enhancing-youtube-experience-with-a-structured-watch-later-plan/"><u>[Updated] Enhancing YouTube Experience with a Structured Watch Later Plan</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-streamlined-application-creation-with-thinapp-solutions/"><u>1. Streamlined Application Creation with ThinApp Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-your-creative-potential-with-windows-11-movie-maker/"><u>2024 Approved Unlock Your Creative Potential with Windows 11 Movie Maker</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/4-effective-ways-to-snip-screens-on-chromebook/"><u>4 Effective Ways to Snip Screens On Chromebook</u></a></li>
+<li><a href="https://fox-search.techidaily.com/convert-asf-files-to-mp4-quickly-with-these-free-online-solutions/"><u>Convert ASF Files to MP4 Quickly with These Free Online Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/customizing-your-interface-understanding-the-localization-preferences-window/"><u>Customizing Your Interface: Understanding the Localization Preferences Window</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-prime-property-listings-by-cab-properties-your-key-to-smart-investing/"><u>Discover Prime Property Listings by CAB Properties - Your Key to Smart Investing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/efficient-file-handling-techniques-on-the-file-explorer-interface/"><u>Efficient File Handling Techniques on the File Explorer Interface</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-14-textual-movement-illustrations/"><u>In 2024, Masterful 14 Textual Movement Illustrations</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-and-timely-data-purging-made-easy-stellar-file-eraser-5-windows-scheduled-cleanup-tool/"><u>Secure and Timely Data Purging Made Easy - Stellar File Eraser 5 Windows Scheduled Cleanup Tool</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-converting-and-managing-heic-files-in-windows-environment/"><u>Step-by-Step Guide: Converting and Managing HEIC Files in Windows Environment</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-5-ultimate-trojan-eliminators-proven-techniques-and-latest-updates/"><u>Top 5 Ultimate Trojan Eliminators: Proven Techniques & Latest Updates</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality/"><u>Updated In 2024, Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality</u></a></li>
 </ul></div>
 

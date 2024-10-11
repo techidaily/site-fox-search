@@ -1,7 +1,7 @@
 ---
 title: Understanding the Internet Shortcut Settings Window
-date: 2024-09-29T16:10:55.935Z
-updated: 2024-10-05T17:34:30.791Z
+date: 2024-10-05T03:15:06.124Z
+updated: 2024-10-11T03:01:53.147Z
 tags:
   - user-guide
 categories:
@@ -92,10 +92,10 @@ Table of Contents
 ![Internet Shortcut Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/internet-shortcut-properties.png "Internet Shortcut Properties Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -105,10 +105,10 @@ Table of Contents
 * Component - The component whose installation will trigger the shortcut's creation.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Paths
@@ -118,10 +118,10 @@ Table of Contents
 * Working Directory - Represents the location set as the current folder for the browser, before opening the URL.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display
@@ -163,18 +163,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-video-earnings-explored-in-depth-look-at-dm-and-yo/"><u>[Updated] In 2024, Video Earnings Explored In-Depth Look at Dm & Yo</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-v30t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme V30T via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/comprehensive-guide-on-macro-virus-infections-and-effective-eradication-techniques/"><u>Comprehensive Guide on Macro Virus Infections & Effective Eradication Techniques</u></a></li>
-<li><a href="https://fox-search.techidaily.com/convert-videos-free-how-to-change-file-to-flv-format-without-cost/"><u>Convert Videos Free: How to Change File to FLV Format without Cost</u></a></li>
-<li><a href="https://fox-search.techidaily.com/creating-an-engaging-book-trailer-a-step-by-step-guide-for-effective-promotion/"><u>Creating an Engaging Book Trailer: A Step-by-Step Guide for Effective Promotion</u></a></li>
-<li><a href="https://win11.techidaily.com/experience-refined-creativity-with-microsofts-latest-paint-features/"><u>Experience Refined Creativity with Microsoft's Latest Paint Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-removing-subtitles-on-your-amazon-prime-shows-and-movies/"><u>Guide to Removing Subtitles on Your Amazon Prime Shows and Movies</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-record-your-conversations-on-whatsapp-compatible-solutions-for-iosandroid-devices/"><u>How to Record Your Conversations on WhatsApp: Compatible Solutions for iOS/Android Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-redmi-note-12-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Redmi Note 12 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-document-management-within-windows-explorers-file-system/"><u>Mastering Document Management Within Windows Explorer's File System</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-broadcasting-cod-mobile-in-action-a-guide-for-pc-gamers/"><u>Mastering the Art of Broadcasting COD: Mobile in Action - A Guide for PC Gamers</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v16-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.6 File</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-xs-max-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone XS Max Before the Plan Expires</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhancing-engagement-top-20-best-practices-for-video-ads-on-facebook/"><u>[New] 2024 Approved Enhancing Engagement Top 20 Best Practices for Video Ads on Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-redefine-video-communication-with-your-webcam/"><u>[New] 2024 Approved Redefine Video Communication with Your Webcam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essentials-checklist-for-evaluating-vidma-recorder/"><u>[New] Essentials Checklist for Evaluating Vidma Recorder</u></a></li>
+<li><a href="https://fox-search.techidaily.com/adaptable-personalization-techniques-for-windows/"><u>Adaptable Personalization Techniques for Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-submerge-an-iphone-13-in-water-without-damage/"><u>Can You Submerge an iPhone 13 in Water without Damage?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-locate-and-modify-file-search-attributes/"><u>How to Locate and Modify File Search Attributes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-modify-startup-settings-in-the-configuration-window/"><u>How to Modify Startup Settings in the Configuration Window</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/riconverti-video-ts-in-mov-via-web-gratuito-utilizzando-leditor-di-movavi-nessun-costo-per-la-modifica/"><u>Riconverti Video TS in MOV via Web Gratuito Utilizzando L'editor Di Movavi - Nessun Costo per La Modifica</u></a></li>
+<li><a href="https://fox-search.techidaily.com/safely-removing-fractureiser-malware-from-minecraft-secure-mod-installation-guide/"><u>Safely Removing Fractureiser Malware From Minecraft: Secure Mod Installation Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-on-casting-your-ipad-screen-with-amazon-firestick/"><u>Step-by-Step Guide on Casting Your iPad Screen with Amazon Firestick</u></a></li>
 </ul></div>
 

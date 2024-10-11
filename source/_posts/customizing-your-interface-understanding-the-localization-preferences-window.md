@@ -1,7 +1,7 @@
 ---
 title: "Customizing Your Interface: Understanding the Localization Preferences Window"
-date: 2024-09-29T19:10:09.215Z
-updated: 2024-10-05T21:17:58.626Z
+date: 2024-10-08T03:00:16.203Z
+updated: 2024-10-10T18:53:51.695Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ Table of Contents
 Translating every single localizable string is seldom necessary as many strings have language-independent values which should be used as such in all packages. This is why Advanced Installer allows you to specify which project parts you want to translate. You can do that at the high-level, for entire project segments or low level, for individual project elements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Coarse granularity
@@ -94,10 +94,10 @@ Translating every single localizable string is seldom necessary as many strings 
  At this level, you can select entire project segments to translate. Just click on the check-box next to it to switch the translation of a project segment on and off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fine granularity
@@ -105,10 +105,10 @@ Translating every single localizable string is seldom necessary as many strings 
  Advanced Installer also allows you to specify the translation options for each localizable project element in the [Localization Dialog](https://tools.techidaily.com/advancedinstaller/products/). The fine granularity setting will take precedence over the coarse granularity option when deciding if a localizable element should be translated or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,19 +149,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-streaming-success-latest-updates-on-earnings-guidelines/"><u>[New] In 2024, Streaming Success Latest Updates on Earnings Guidelines</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pro-level-scripting-solutions-in-ae/"><u>[New] Pro-Level Scripting Solutions in AE</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-handbook-for-proficient-periscope-use/"><u>[Updated] Comprehensive Handbook for Proficient Periscope Use</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-streamlined-application-creation-with-thinapp-solutions/"><u>1. Streamlined Application Creation with ThinApp Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/can-you-trust-inexpensive-ssl-providers/"><u>Can You Trust Inexpensive SSL Providers?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/convert-asf-files-to-mp4-quickly-with-these-free-online-solutions/"><u>Convert ASF Files to MP4 Quickly with These Free Online Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-prime-property-listings-by-cab-properties-your-key-to-smart-investing/"><u>Discover Prime Property Listings by CAB Properties - Your Key to Smart Investing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a15-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A15 4G Phones with/without a PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-guide-to-reverse-image-searching-on-instagram/"><u>In 2024, Step-by-Step Guide to Reverse Image Searching on Instagram</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-newest-intel-hd-graphics-driver-version-for-enhanced-experience-and-stability/"><u>Install the Newest Intel HD Graphics Driver Version for Enhanced Experience & Stability</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-document-management-within-windows-explorers-file-system/"><u>Mastering Document Management Within Windows Explorer's File System</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-reverting-your-iphone-x-to-a-previous-backup/"><u>Step-by-Step Guide: Reverting Your iPhone X to a Previous Backup</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-zero-30-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Zero 30 5G Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bring-back-windows-photo-viewer-steps-in-win-11-edition/"><u>[New] Bring Back Windows Photo Viewer Steps in Win 11 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-explore-the-world-through-ultra-hd-with-leading-mirrorless-cams/"><u>[New] In 2024, Explore the World Through Ultra-HD with Leading Mirrorless Cams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-how-to-shoot-vertical-panorama-photos-with-your-mobile-phone/"><u>[Updated] 2024 Approved How to Shoot Vertical Panorama Photos with Your Mobile Phone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-methods-for-archiving-youtube-real-time-broadcasts/"><u>[Updated] Prime Methods for Archiving YouTube Real-Time Broadcasts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-optimize-your-workflow-enhance-managing-temporary-files-with-ease/"><u>1. Optimize Your Workflow: Enhance Managing Temporary Files with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-discover-the-top-4k-youtube-converters-for-quality-video-downloads/"><u>2024 Approved Discover the Top 4K YouTube Converters for Quality Video Downloads</u></a></li>
+<li><a href="https://fox-search.techidaily.com/adjusting-property-settings-in-edit-feature-panel/"><u>Adjusting Property Settings in Edit Feature Panel</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-screen-recording-software-for-capturing-gameplay-in-world-of-tanks/"><u>Best Screen Recording Software for Capturing Gameplay in World of Tanks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-setup-asus-usb-bt400-driver/"><u>Easy Setup: Asus USB-BT400 Driver</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-apple-vision-pro-should-it-be-your-next-purchase/"><u>Evaluating Apple Vision Pro: Should It Be Your Next Purchase?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/modify-properties-panel-a-comprehensive-guide/"><u>Modify Properties Panel: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gamers-struggle-with-genshin-impact-crashes-lets-resolve-them-now/"><u>PC Gamers Struggle with Genshin Impact Crashes? Let's Resolve Them Now</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-undoing-ransomware-attacks-and-retrieving-your-files/"><u>Step-by-Step Guide: Undoing Ransomware Attacks & Retrieving Your Files</u></a></li>
 </ul></div>
 
