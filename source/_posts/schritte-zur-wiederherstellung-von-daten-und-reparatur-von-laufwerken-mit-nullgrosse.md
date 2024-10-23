@@ -1,7 +1,7 @@
 ---
 title: Schritte Zur Wiederherstellung Von Daten Und Reparatur Von Laufwerken Mit Nullgröße
-date: 2024-10-12T16:57:08.783Z
-updated: 2024-10-16T19:53:35.205Z
+date: 2024-10-20T05:52:12.827Z
+updated: 2024-10-22T22:04:31.988Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72c9734029cc19974bbea9ac3.jpg
@@ -44,16 +44,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -79,15 +73,22 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -106,13 +107,6 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -165,16 +159,10 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -237,6 +225,13 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -256,13 +251,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
@@ -285,10 +273,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -306,24 +294,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-earnings-via-sponsored-youtube-videos/"><u>[New] 2024 Approved Mastering Earnings via Sponsored YouTube Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-radiant-registering-and-unregistering-rites/"><u>[New] In 2024, Radiant Registering and Unregistering Rites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-spotlight-on-zdsoft-screen-capture-for-pros/"><u>[Updated] Spotlight on ZDSoft Screen Capture for Pros</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-como-duplicar-archivos-entre-dos-dispositivos-de-almacenamiento-en-red-synology-tecnicas-sencillas/"><u>1. Cómo Duplicar Archivos Entre Dos Dispositivos De Almacenamiento en Red Synology: Técnicas Sencillas</u></a></li>
-<li><a href="https://fox-search.techidaily.com/hddtop3/"><u>過去のデータを回復するための外部HDD修復ツールTOP3: 使い勝手が素晴らしい！</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728461986039-ssd/"><u>无需麻烦地在SSD上安装操作系统及使其可以正常运行：具体指南</u></a></li>
-<li><a href="https://video-capture.techidaily.com/6ieq5zyo44gr5yuv55s744o76zplusz5aow44ov44kh44kk44or44ks44kv44oq44od44kv44gx44gm6kaw6ig05yplusv6io95yyw/"><u>自在に動画・音声ファイルをクリックして視聴可能化</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-deep-dive-into-previewed-fb-interactions-necessity-or-risk/"><u>A Deep Dive Into Previewed FB Interactions Necessity or Risk?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/arcade-affordability-bar-reviews/"><u>ARCADE AFFORDABILITY BAR Reviews</u></a></li>
-<li><a href="https://fox-search.techidaily.com/frei-verfugbare-software-zur-besten-datensynchronisation-externer-hdds-und-ssds/"><u>Frei Verfügbare Software Zur Besten Datensynchronisation Externer HDDs Und SSDs</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guida-rapida-alla-migrazione-dei-dati-con-software-samsung-per-windows-11-scarica-il-tuo-file-di-installazione/"><u>Guida Rapida Alla Migrazione Dei Dati Con Software Samsung per Windows 11: Scarica Il Tuo File Di Installazione</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-screen-and-camera-capturing-made-simple-understanding-vimeo-record/"><u>In 2024, Screen & Camera Capturing Made Simple Understanding Vimeo Record</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Poco M6 Pro 4G</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-what-is-youtube-tag-and-how-to-find-great-tags-for-your-videos/"><u>In 2024, What Is YouTube Tag and How to Find Great Tags For Your Videos?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mistral-ais-le-chat-reviewed-how-it-stacks-up-against-chatgpt-in-real-world-usage/"><u>Mistral AI's Le Chat Reviewed: How It Stacks Up Against ChatGPT in Real World Usage</u></a></li>
-<li><a href="https://fox-search.techidaily.com/optimale-verwaltung-mit-google-drive-automatisierte-ordner-synchonisation-auf-lokaler-ebene-lerne-drei-methoden-kennen/"><u>Optimale Verwaltung Mit Google Drive: Automatisierte Ordner-Synchonisation Auf Lokaler Ebene – Lerne Drei Methoden Kennen!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/problemlos-fehlende-daten-wiederherstellen-tipps-und-tricks-fur-windows-11-nutzer/"><u>Problemlos Fehlende Daten Wiederherstellen: Tipps Und Tricks Für Windows 11-Nutzer</u></a></li>
-<li><a href="https://fox-search.techidaily.com/rsync-made-easy-cost-free-methods-for-aligning-two-hard-drives/"><u>Rsync Made Easy: Cost-Free Methods for Aligning Two Hard Drives</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728495466817-windows-10-0xc000000e/"><u>Windows 10のエラー 0xC000000Eを解消する方法</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-thriving-as-a-novice-youtuber-sidestep-these-8-crucial-pitfalls/"><u>[Updated] 2024 Approved Thriving as a Novice YouTuber? Sidestep These 8 Crucial Pitfalls</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-discovering-2024s-best-science-youtubers-for-knowledge-boost/"><u>[Updated] Discovering 2024'S Best Science Youtubers for Knowledge Boost</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubers-unite-with-these-17-top-tier-lights/"><u>[Updated] Youtubers Unite with These 17 Top-Tier Lights</u></a></li>
+<li><a href="https://fox-search.techidaily.com/xcopy3/"><u>「XCOPYでディレクトリ作成失敗」対策：3つの有効な修正手法</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-skillset-how-to-execute-screen-recording-on-mac/"><u>2024 Approved Essential Skillset How to Execute Screen Recording on Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-methods-to-resolve-non-pairing-between-apple-watch-and-latest-iphones-models-13-14-and-15-solutions/"><u>Effective Methods to Resolve Non-Pairing Between Apple Watch and Latest iPhones: Models 13, 14, and 15 Solutions!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/fehlerbehebung-fur-srttrailtxt-probleme-auf-windows-10-systemen-losungsansatze/"><u>Fehlerbehebung Für SrtTrail.txt Probleme Auf Windows 10 Systemen - Lösungsansätze</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-12-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 12 Pro?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/leistungsverbesserung-auf-dem-mac-effektive-losungen-abseits-von-robocopy/"><u>Leistungsverbesserung Auf Dem Mac: Effektive Lösungen Abseits Von Robocopy</u></a></li>
+<li><a href="https://fox-search.techidaily.com/resolving-the-issue-of-google-drive-absence-in-file-explorer-a-comprehensive-fix/"><u>Resolving the Issue of Google Drive Absence in File Explorer - A Comprehensive Fix</u></a></li>
+<li><a href="https://fox-search.techidaily.com/spotify-playlist-resurrection-an-experts-comprehve-to-retrieving-deleted-lists/"><u>Spotify Playlist Resurrection: An Expert's Comprehve to Retrieving Deleted Lists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-shaping-images-with-photoshop-curves-for-2024/"><u>Tips for Shaping Images with Photoshop Curves for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999595450-warframe-performance-tuned-bid-farewell-to-frustrating-game-freezes/"><u>Warframe Performance Tuned - Bid Farewell to Frustrating Game Freezes!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/wiederherstellung-ihrer-dateien-schritt-fur-schritt-anleitung-nach-der-installation-von-windows-11/"><u>Wiederherstellung Ihrer Dateien: Schritt-Für-Schritt-Anleitung Nach Der Installation Von Windows 11</u></a></li>
+<li><a href="https://fox-search.techidaily.com/windows-11-fat32-formatierung-unmoglichkeit/"><u>Windows 11 - FAT32 Formatierung Unmöglichkeit</u></a></li>
+<li><a href="https://fox-search.techidaily.com/luchshaya-besplatnaya-utilita-dlya-avtomatizacii-sinhronizacii-fajlov-na-vneshnij-zhyostkij-disk/"><u>Лучшая Бесплатная Утилита Для Автоматизации Синхронизации Файлов На Внешний Жёсткий Диск</u></a></li>
 </ul></div>
 
