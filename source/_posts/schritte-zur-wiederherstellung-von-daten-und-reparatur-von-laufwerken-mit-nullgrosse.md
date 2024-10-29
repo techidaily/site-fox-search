@@ -1,7 +1,7 @@
 ---
 title: Schritte Zur Wiederherstellung Von Daten Und Reparatur Von Laufwerken Mit Nullgröße
-date: 2024-10-20T05:52:12.827Z
-updated: 2024-10-22T22:04:31.988Z
+date: 2024-10-27T19:31:27.786Z
+updated: 2024-10-28T19:04:07.963Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72c9734029cc19974bbea9ac3.jpg
@@ -44,10 +44,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -73,10 +73,10 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
@@ -84,10 +84,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -144,6 +144,13 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -157,13 +164,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -211,6 +211,13 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -224,13 +231,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -273,10 +273,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -294,24 +294,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-thriving-as-a-novice-youtuber-sidestep-these-8-crucial-pitfalls/"><u>[Updated] 2024 Approved Thriving as a Novice YouTuber? Sidestep These 8 Crucial Pitfalls</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-discovering-2024s-best-science-youtubers-for-knowledge-boost/"><u>[Updated] Discovering 2024'S Best Science Youtubers for Knowledge Boost</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtubers-unite-with-these-17-top-tier-lights/"><u>[Updated] Youtubers Unite with These 17 Top-Tier Lights</u></a></li>
-<li><a href="https://fox-search.techidaily.com/xcopy3/"><u>「XCOPYでディレクトリ作成失敗」対策：3つの有効な修正手法</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-skillset-how-to-execute-screen-recording-on-mac/"><u>2024 Approved Essential Skillset How to Execute Screen Recording on Mac</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-methods-to-resolve-non-pairing-between-apple-watch-and-latest-iphones-models-13-14-and-15-solutions/"><u>Effective Methods to Resolve Non-Pairing Between Apple Watch and Latest iPhones: Models 13, 14, and 15 Solutions!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/fehlerbehebung-fur-srttrailtxt-probleme-auf-windows-10-systemen-losungsansatze/"><u>Fehlerbehebung Für SrtTrail.txt Probleme Auf Windows 10 Systemen - Lösungsansätze</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-12-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 12 Pro?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/leistungsverbesserung-auf-dem-mac-effektive-losungen-abseits-von-robocopy/"><u>Leistungsverbesserung Auf Dem Mac: Effektive Lösungen Abseits Von Robocopy</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resolving-the-issue-of-google-drive-absence-in-file-explorer-a-comprehensive-fix/"><u>Resolving the Issue of Google Drive Absence in File Explorer - A Comprehensive Fix</u></a></li>
-<li><a href="https://fox-search.techidaily.com/spotify-playlist-resurrection-an-experts-comprehve-to-retrieving-deleted-lists/"><u>Spotify Playlist Resurrection: An Expert's Comprehve to Retrieving Deleted Lists</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-for-shaping-images-with-photoshop-curves-for-2024/"><u>Tips for Shaping Images with Photoshop Curves for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999595450-warframe-performance-tuned-bid-farewell-to-frustrating-game-freezes/"><u>Warframe Performance Tuned - Bid Farewell to Frustrating Game Freezes!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/wiederherstellung-ihrer-dateien-schritt-fur-schritt-anleitung-nach-der-installation-von-windows-11/"><u>Wiederherstellung Ihrer Dateien: Schritt-Für-Schritt-Anleitung Nach Der Installation Von Windows 11</u></a></li>
-<li><a href="https://fox-search.techidaily.com/windows-11-fat32-formatierung-unmoglichkeit/"><u>Windows 11 - FAT32 Formatierung Unmöglichkeit</u></a></li>
-<li><a href="https://fox-search.techidaily.com/luchshaya-besplatnaya-utilita-dlya-avtomatizacii-sinhronizacii-fajlov-na-vneshnij-zhyostkij-disk/"><u>Лучшая Бесплатная Утилита Для Автоматизации Синхронизации Файлов На Внешний Жёсткий Диск</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-3-pro-level-plans-to-preserve-precise-gaming-moments/"><u>[New] 2024 Approved 3 Pro-Level Plans to Preserve Precise Gaming Moments</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-free-and-easy-fb-link-collection-services-for-2024/"><u>[New] Free and Easy FB Link Collection Services for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastery-in-motion-steam-switch-controller-techniques-for-2024/"><u>[New] Mastery in Motion Steam Switch Controller Techniques for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capture-the-moment-an-examination-of-camstudio/"><u>[Updated] In 2024, Capture the Moment An Examination of CamStudio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-youtubes-thumbnail-impact-on-traffic/"><u>[Updated] In 2024, Decoding YouTube's Thumbnail Impact on Traffic</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-laugh-ledger-the-ultimate-list-of-hilarious-tweet-threads-for-2024/"><u>[Updated] Laugh Ledger The Ultimate List of Hilarious Tweet Threads for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-lava-blaze-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Lava Blaze Pro 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/descubre-el-software-de-sincronizacion-de-carpetas-mas-eficiente-para-windows-11-gratis-opcion/"><u>Descubre El Software De Sincronización De Carpetas Más Eficiente Para Windows 11: Gratis Opción</u></a></li>
+<li><a href="https://fox-search.techidaily.com/dokonany-tutorial-tworzenie-diskow-ratunkowych-dla-windows-11-i-winodwolej/"><u>Dokonany Tutorial: Tworzenie Disków Ratunkowych Dla Windows 11 I Winodwolej</u></a></li>
+<li><a href="https://fox-search.techidaily.com/guia-paso-a-paso-para-rescatar-tu-diario-de-chats-en-wechat-como-recuperar-mensajes-viejos-o-borrados/"><u>Guía Paso a Paso Para Rescatar Tu Diario De Chats en WeChat: Cómo Recuperar Mensajes Viejos O Borrados</u></a></li>
+<li><a href="https://fox-search.techidaily.com/guia-practica-para-clonar-una-unidad-ssd-msata-con-facilidad-en-5-fases-clave/"><u>Guía Práctica Para Clonar Una Unidad SSD mSATA Con Facilidad en 5 Fases Clave</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-depth-evaluation-of-the-newly-launched-google-pixel-6/"><u>In-Depth Evaluation of the Newly Launched Google Pixel 6</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photoshop-alternatives-on-android/"><u>Photoshop Alternatives on Android</u></a></li>
+<li><a href="https://fox-search.techidaily.com/recuperation-de-fichiers-supprimes-par-robocopy-mir-deux-methodes-efficaces/"><u>Récupération De Fichiers Supprimés Par Robocopy /MIR : Deux Méthodes Efficaces</u></a></li>
+<li><a href="https://fox-search.techidaily.com/seamless-data-protection-with-aomei-backupper-expert-level-ease-of-use-and-universal-restoration-for-all-windows-systems/"><u>Seamless Data Protection with AOMEI Backupper - Expert-Level Ease of Use and Universal Restoration for All Windows Systems</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-downloading-yupptv-content-and-south-asian-shows-for-offline-viewing/"><u>Step-by-Step Guide: Downloading YuppTV Content & South Asian Shows for Offline Viewing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-removing-unwanted-shortcut-icons-from-your-computer-desktop/"><u>Step-by-Step Guide: Removing Unwanted Shortcut Icons From Your Computer Desktop</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tutorial-lanjutan-pemeliharaan-dan-restorasi-data-interaksi-aplikasi-wechat/"><u>Tutorial Lanjutan: Pemeliharaan Dan Restorasi Data Interaksi Aplikasi WeChat</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728488328564-win10/"><u>Win10磁盘分区恢复技巧：专家解说最好选项列表</u></a></li>
 </ul></div>
 
