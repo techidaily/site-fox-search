@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques for Eliminating Flicker From Your HP Notebook's Screen on Windows 11 Systems
-date: 2024-10-28T18:14:39.264Z
-updated: 2024-11-03T16:33:09.110Z
+date: 2024-11-09T18:58:51.242Z
+updated: 2024-11-12T16:58:24.437Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f49064e3845b52b4ea1d0a9fa3cd.png
@@ -35,13 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -53,10 +46,10 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -96,25 +89,32 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -134,10 +134,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -160,13 +160,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -186,6 +179,13 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -212,14 +212,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unwanted-tiktok-reset-regain-access-and-videos/"><u>[New] 2024 Approved Unwanted TikTok Reset – Regain Access and Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-redefining-user-engagement-with-top-10-video-editors/"><u>2024 Approved Redefining User Engagement with Top 10 Video Editors</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/comment-retrouver-votre-informations-sur-un-toshiba-canvio-portable-perdu/"><u>Comment Retrouver Votre Informations Sur Un Toshiba Canvio Portable Perdu</u></a></li>
-<li><a href="https://fox-search.techidaily.com/die-einfache-methode-eine-bootbereite-nvme-ssd-einzurichten-eine-vollstandige-anleitung-fur-den-benutzer/"><u>Die Einfache Methode, Eine Bootbereite NVMe SSD Einzurichten – Eine Vollständige Anleitung Für Den Benutzer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-v30-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo V30 Pro Phone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-the-course-of-youtube-success-through-social-blade-analysis/"><u>In 2024, Charting the Course of YouTube Success Through Social Blade Analysis</u></a></li>
-<li><a href="https://fox-search.techidaily.com/no-more-locked-screens-mastering-iphone-unlock-methods-without-needing-an-apple-account/"><u>No More Locked Screens: Mastering iPhone Unlock Methods without Needing an Apple Account</u></a></li>
-<li><a href="https://fox-search.techidaily.com/reinstating-a-lost-windows-10-boot-drive-steps-and-tips-for-restoration/"><u>Reinstating a Lost Windows 10 Boot Drive: Steps and Tips for Restoration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplifying-video-editing-with-windows-movie-maker-for-windows-8-users/"><u>[New] Simplifying Video Editing with Windows Movie Maker for Windows 8 Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest/"><u>[Updated] A Comprehensive Guide to Turning Vids Into MP3 on Pinterest</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-como-duplicar-archivos-entre-dos-dispositivos-de-almacenamiento-en-red-synology-tecnicas-sencillas/"><u>1. Cómo Duplicar Archivos Entre Dos Dispositivos De Almacenamiento en Red Synology: Técnicas Sencillas</u></a></li>
+<li><a href="https://fox-search.techidaily.com/apricorn-ssd/"><u>完全ガイド：Apricorn SSDクローニングソフトウェアの最適な解決策を発見する</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-generer-un-package-dinstallation-pour-windows-server-2003/"><u>Comment Générer Un Package D'Installation Pour Windows Server 지원 2003?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-restaurer-des-fichiers-a-laide-dun-lecteur-flash-vierge-un-guide-complet-pour-debutants-et-experts/"><u>Comment Restaurer Des Fichiers À L'aide D'un Lecteur Flash Vierge : Un Guide Complet Pour Débutants Et Experts</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g84-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G84 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/das-geheimnis-einer-erfolgsorientierten-zusammenarbeit-partnering-with-aomei-backup-werkzeuge/"><u>Das Geheimnis Einer Erfolgsorientierten Zusammenarbeit: Partnering with AOMEI Backup-Werkzeuge</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-camon-20-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Camon 20 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-to-film-great-content-on-your-mac-for-youtube-beginners/"><u>Learn to Film Great Content on Your Mac for YouTube Beginners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vid-confessions-a-key-to-brand-success/"><u>Vid Confessions A Key to Brand Success?</u></a></li>
 </ul></div>
 
