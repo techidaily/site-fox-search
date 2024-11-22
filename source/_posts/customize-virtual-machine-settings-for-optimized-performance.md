@@ -1,7 +1,7 @@
 ---
 title: Customize Virtual Machine Settings for Optimized Performance
-date: 2024-10-04T16:53:44.961Z
-updated: 2024-10-10T22:54:23.104Z
+date: 2024-11-20T16:27:13.263Z
+updated: 2024-11-22T16:43:12.149Z
 tags:
   - user-guide
 categories:
@@ -54,11 +54,19 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit VM Profiles
 
 This page allows you to create and configure the profiles that will be used for virtual machine installations.
 
 ![VM Profile Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-vm-profile-dlg.png "VM Profile Dialog")  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Creating a new server connection
 
@@ -69,47 +77,31 @@ For **Other Servers** options there is a_Certificate_ field in which you must sp
 You can follow the [Repackaging an installation in Oracle VM VirtualBox](https://tools.techidaily.com/advancedinstaller/products/) article to find how to setup the server.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Creating a new profile
 
 Use the “New” context menu option or press the+ key while **localhost** or another custom defined server connection is selected in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Duplicating a profile
 
 Use the “Duplicate” context menu option or press the\* key while an existing profile is selected. This option comes in handy when you want to create a profile very similar to exiting one. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Setting a profile as active
 
 Use the “Set as active” context menu option. The profile that is **active** (current) is the one that will be used for the VM installation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Deleting a profile
 
 Use the “Delete” context menu option or press theDelete key while a profile is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Topics
@@ -152,14 +144,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-screen-recording-made-simple-methodical-guidebook/"><u>[New] In 2024, Screen Recording Made Simple Methodical Guidebook</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unveiling-the-secrets-maximizing-video-reach-on-igtv-with-horizinas/"><u>[Updated] In 2024, Unveiling the Secrets Maximizing Video Reach on IGTV with Horizinas</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-optimizing-your-viewing-experience-a-step-by-step-guide-to-adjusting-video-quality/"><u>1. Optimizing Your Viewing Experience: A Step-by-Step Guide to Adjusting Video Quality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/aerial-vehicles-a-taxonomy-for-2024/"><u>Aerial Vehicles A Taxonomy for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-top-rated-registries-near-you-with-our-easy-locator-tool/"><u>Discover Top-Rated Registries Near You with Our Easy Locator Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-pc-task-management-with-best-non-microsoft-schedulers/"><u>Effortless PC Task Management with Best Non-Microsoft Schedulers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-gadgets-and-hardware-from-toms-hardware/"><u>Expert Insights on Gadgets and Hardware From Tom's Hardware</u></a></li>
-<li><a href="https://fox-search.techidaily.com/future-proofing-your-estate-understanding-legacy-decisions/"><u>Future-Proofing Your Estate: Understanding Legacy Decisions</u></a></li>
-<li><a href="https://facebook.techidaily.com/sheryls-visionary-leadership-in-the-tech-sphere/"><u>Sheryl's Visionary Leadership in the Tech Sphere</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-free-vs-paid-discover-the-best-zoom-transcription-tools/"><u>[New] 2024 Approved Free vs Paid Discover the Best Zoom Transcription Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-diy-experts-approach-to-saving-web-radios/"><u>[Updated] 2024 Approved The DIY Expert's Approach to Saving Web Radios</u></a></li>
+<li><a href="https://fox-search.techidaily.com/audio-driver-recovery-techniques-navigating-sound-restoration/"><u>Audio Driver Recovery Techniques: Navigating Sound Restoration</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comprehensive-tutorial-backing-up-your-iphone-using-a-synology-network-attached-storage-device/"><u>Comprehensive Tutorial: Backing Up Your iPhone Using a Synology Network Attached Storage Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/driekwart-van-het-creeren-van-geprioriseerde-bestanden-in-windows-leerpunten-voor-windows-11-10-8-and-eindig-7-users/"><u>Driekwart Van Het Creëren Van Geprioriseerde Bestanden in Windows: Leerpunten Voor Windows 11, 10, 8 & Eindig 7-Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-leading-vpn-routers-for-secure-home-networks-2024-edition-cnet-guides/"><u>Expert Picks: Leading VPN Routers for Secure Home Networks, 2024 Edition - CNET Guides</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-ensuring-your-email-address-securely-listed-online/"><u>Guide: Ensuring Your Email Address Securely Listed Online</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-recover-your-locked-out-apple-account-on-itunes-and-app-store-a-guide-to-7-effective-fixes/"><u>How to Recover Your Locked-Out Apple Account on iTunes & App Store: A Guide to 7 Effective Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-k11-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo K11 5G</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-excellent-free-cam-snipping-software/"><u>In 2024, Excellent Free Cam Snipping Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-lenovo-p11-pro-tablet-a-solid-choice-despite-some-shortcomings/"><u>In-Depth Review of the Lenovo P11 Pro Tablet - A Solid Choice, Despite Some Shortcomings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/recuperation-des-donnees-une-solution-facile-et-rapide-apres-un-formatage/"><u>Récupération Des Données: Une Solution Facile Et Rapide Après Un Formatage</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/redefining-creativity-the-most-popular-anime-concepts-on-tiktok/"><u>Redefining Creativity The Most Popular Anime Concepts on TikTok</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tecnicas-para-recuperacion-exitosa-de-archivos-sobreescritos-en-almacenamientos-exteriores-un-paseo-por-dos-soluciones/"><u>Técnicas Para Recuperación Exitosa De Archivos Sobreescritos en Almacenamientos Exteriores: Un Paseo Por Dos Soluciones</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-3-methods-zum-umplatzieren-des-windows-betriebssystems-auf-eine-neue-festplatte/"><u>Top 3 Methods Zum Umplatzieren Des Windows-Betriebssystems Auf Eine Neue Festplatte</u></a></li>
+<li><a href="https://fox-search.techidaily.com/windows-server-2022-update-download-error-resolved-fix-for-0x800f0806-issue/"><u>Windows Server 2022 Update Download Error Resolved: Fix for 0X800F0806 Issue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Legal Summons Issued Against Individuals Involved in Email Phishing Scheme Targeting Minors
-date: 2024-10-04T17:02:19.371Z
-updated: 2024-10-11T05:31:35.617Z
+date: 2024-11-16T16:12:27.011Z
+updated: 2024-11-22T16:44:48.214Z
 tags:
   - product
   - antivirus
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Article Summary
 
 1. **What is it?** Summon To Court For Pedophilia Email is a fake message and the recipient is not actually being charged for a crime.
 2. **What to do?** Ignore and delete the message. Do not reply or download any file attachment.
 3. **How to stay safe?** You are good just by not taking any action. However, it is recommended to scan your device using powerful antivirus program. We recommend [TotalAV](https://tools.techidaily.com/malwarefox/products/) which has Identity Protection and Webshield.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Summon to Court for Pedophilia Email?
 
@@ -37,17 +45,7 @@ The “Summon To Court For Pedophilia” emails are a scam. In addition, the [Fr
 ![](https://www.malwarefox.com/wp-content/uploads/2023/01/summon-to-court-for-pedophilia-email-scam.webp "summon-to-court-for-pedophilia-email-scam")
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does Summon to Court for Pedophilia Email Scam Work?
@@ -63,10 +61,7 @@ The first goal of this email is to get the people who get it to start talking to
 This is similar to [GeekSquad Email Scam](https://tools.techidaily.com/malwarefox/products/) or [Apple ID Phishing scam](https://tools.techidaily.com/malwarefox/products/) which creates fictional situation to make their victim pay money to cyber criminals.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Threat Analysis
@@ -81,6 +76,10 @@ This is similar to [GeekSquad Email Scam](https://tools.techidaily.com/malwarefo
 | **Damage**              | Loss of confidential private data, financial loss, and identity theft.                                                                                                                                                                          |
 | **Solution**            | Ignore the email and delete any attachments if you have downloaded. If you want to make sure that there was no malicious activity - [Download MalwareFox](https://tools.techidaily.com/malwarefox/products/) to detect all possible Malware infections. |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to avoid Summon to Court Email Scam?
 
 If you got an email from “Law Enforcement/Police Officer” with a court summons and you think it’s a scam, you’ve already done half the work.
@@ -90,13 +89,6 @@ Do not send personal information through email or any other method. Also, do not
 Block the sender if you share your computer with someone else so they don’t fall for the scam by mistake.
 
 To sum up, the best way to avoid the Summon to Court for Pedophilia scam email is to ignore it and block the sender.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What to do if you became victim of this Scam?
 
@@ -123,20 +115,20 @@ If you have made any payments disguised as fine, inform your Bank / PayPal or Cr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ideal-mac-tools-to-record-your-workscreen/"><u>[Updated] 2024 Approved Ideal Mac Tools to Record Your Workscreen</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-enhancing-youtube-experience-with-a-structured-watch-later-plan/"><u>[Updated] Enhancing YouTube Experience with a Structured Watch Later Plan</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-streamlined-application-creation-with-thinapp-solutions/"><u>1. Streamlined Application Creation with ThinApp Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-your-creative-potential-with-windows-11-movie-maker/"><u>2024 Approved Unlock Your Creative Potential with Windows 11 Movie Maker</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/4-effective-ways-to-snip-screens-on-chromebook/"><u>4 Effective Ways to Snip Screens On Chromebook</u></a></li>
-<li><a href="https://fox-search.techidaily.com/convert-asf-files-to-mp4-quickly-with-these-free-online-solutions/"><u>Convert ASF Files to MP4 Quickly with These Free Online Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/customizing-your-interface-understanding-the-localization-preferences-window/"><u>Customizing Your Interface: Understanding the Localization Preferences Window</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-prime-property-listings-by-cab-properties-your-key-to-smart-investing/"><u>Discover Prime Property Listings by CAB Properties - Your Key to Smart Investing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/efficient-file-handling-techniques-on-the-file-explorer-interface/"><u>Efficient File Handling Techniques on the File Explorer Interface</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-14-textual-movement-illustrations/"><u>In 2024, Masterful 14 Textual Movement Illustrations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-and-timely-data-purging-made-easy-stellar-file-eraser-5-windows-scheduled-cleanup-tool/"><u>Secure and Timely Data Purging Made Easy - Stellar File Eraser 5 Windows Scheduled Cleanup Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-converting-and-managing-heic-files-in-windows-environment/"><u>Step-by-Step Guide: Converting and Managing HEIC Files in Windows Environment</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-5-ultimate-trojan-eliminators-proven-techniques-and-latest-updates/"><u>Top 5 Ultimate Trojan Eliminators: Proven Techniques & Latest Updates</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality/"><u>Updated In 2024, Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieving-youtube-financial-goals-via-viewer-statistics/"><u>[New] In 2024, Achieving Youtube Financial Goals via Viewer Statistics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfecting-your-photos-from-the-sky-how-to-select-the-right-drone-gimbal/"><u>[Updated] In 2024, Perfecting Your Photos From the Sky How To Select The Right Drone Gimbal</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-your-screen-real-estate-with-picture-in-picture-creation/"><u>2024 Approved Maximizing Your Screen Real Estate with Picture in Picture Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cold-climate-conquests-unveiling-beijings-olympic-flair-for-2024/"><u>Cold Climate Conquests Unveiling Beijing's Olympic Flair for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-on-seatechs-usb-enabled-blu-ray-writer-is-it-up-to-par/"><u>Expert Review on SeaTech's USB-Enabled Blu-Ray Writer - Is It Up to Par?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/expertentaugliche-methoden-zur-fehlerbeheilung-externer-datenspeichergerate-mit-sicherem-datenerhalt/"><u>Expertentaugliche Methoden Zur Fehlerbeheilung Externer Datenspeichergeräte Mit Sicherem Datenerhalt</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-viral-tactics-key-tags-for-boosting-youtube-short-clips/"><u>In 2024, Top Viral Tactics Key Tags for Boosting YouTube Short Clips</u></a></li>
+<li><a href="https://fox-search.techidaily.com/iphone-bilder-wiederherstellen-tipps-und-tricks-zum-entfernen-von-unerwunschten-fotos/"><u>IPhone Bilder Wiederherstellen - Tipps Und Tricks Zum Entfernen Von Unerwünschten Fotos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-join-avi-files-for-free-top-10-reliable-freeware-options-for-2024/"><u>New Join AVI Files for Free Top 10 Reliable Freeware Options for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/next-gen-screen-leaders-best-4k-tvs/"><u>Next-Gen Screen Leaders Best 4K TVs</u></a></li>
+<li><a href="https://fox-search.techidaily.com/solving-the-problem-of-unsuccessful-partitioning-with-rufus-tool/"><u>Solving the Problem of Unsuccessful Partitioning with Rufus Tool</u></a></li>
+<li><a href="https://fox-search.techidaily.com/transferer-et-importer-des-photos-de-votre-iphone-vers-un-pc-avec-windows-1110/"><u>Transférer Et Importer Des Photos De Votre iPhone Vers Un PC Avec Windows 11/10</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728510172603-windows-11usb/"><u>Windows 11上如何启用外置硬盘或USB驱动器的引导功能</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728480697185-windows-11/"><u>Windows 11における不正な起動ドライブを特定・解決するテクニック</u></a></li>
+<li><a href="https://fox-search.techidaily.com/windows-outlook2/"><u>Windows Outlookにおける古代電子メール情報バックアップ方法：効率的解決策2点</u></a></li>
 </ul></div>
 

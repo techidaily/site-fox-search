@@ -1,7 +1,7 @@
 ---
 title: Exploring Word Meanings & Definitions in the Comprehensive Dictionary Hub
-date: 2024-10-03T19:46:23.077Z
-updated: 2024-10-11T01:57:56.798Z
+date: 2024-11-18T16:47:13.571Z
+updated: 2024-11-22T16:45:30.649Z
 tags:
   - user-guide
 categories:
@@ -71,6 +71,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dictionaries Tab
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The information presented in this article can be applied in a similar fashion to **Dictionarie Tab** from [Visual Studio Extension Project](https://tools.techidaily.com/advancedinstaller/products/), [Merge Module Project](https://tools.techidaily.com/advancedinstaller/products/), [Updates Configuration Project](https://tools.techidaily.com/advancedinstaller/products/) and [Modification Package Project](https://tools.techidaily.com/advancedinstaller/products/).
@@ -81,19 +85,13 @@ The Dictionaries page allows you to manage, create and register translation dict
 * Custom (user added)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dictionaries
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Managing
@@ -103,13 +101,6 @@ The Dictionaries page allows you to manage, create and register translation dict
 Strings are searched by their localization identifiers in the dictionaries in a descending order. You can change the search order from the \[Move Up \] and \[Move Down \] buttons.
 
 You can add a custom dictionary by using the\[Add... \] button or you can remove it by using the\[Remove \] button.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Creating and Registering
 
@@ -125,10 +116,11 @@ This is the best way to translate packages into a new (unregistered) language:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)A dictionary file can contain more than one language. When importing, only the languages that are **not registered** are taken into consideration. The languages already registered are ignored. Also ignored are the "start" languages - they are marked to be ignored when the dictionary is generated.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### File Format
@@ -170,14 +162,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-detailed-breakdown-complete-test-of-gecata-tracker/"><u>[New] In 2024, Detailed Breakdown Complete Test of Gecata Tracker</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tiktokplusinstagram-social-media-fusion-guide/"><u>2024 Approved TikTok+Instagram Social Media Fusion Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024s-most-protective-aqua-resistant-mobile-covers-your-perfect-guide/"><u>2024'S Most Protective Aqua-Resistant Mobile Covers - Your Perfect Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-prime-video-destinations-the-ultimate-youtube-substitutes/"><u>Discover Prime Video Destinations: The Ultimate YouTube Substitutes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-best-online-junctions-providing-free-high-end-vector-artworks-and-graphics/"><u>In 2024, Best Online Junctions Providing Free, High-End Vector Artworks & Graphics</u></a></li>
-<li><a href="https://fox-search.techidaily.com/installation-prerequisites-checklist-your-step-by-step-resource/"><u>Installation Prerequisites Checklist: Your Step-by-Step Resource</u></a></li>
-<li><a href="https://fox-search.techidaily.com/limpieza-eficiente-de-ventanas-11-deshacerse-del-adware-y-pop-ups-con-herramientas-profesionales-de-malwarefox/"><u>Limpieza Eficiente De Ventanas 11: Deshacerse Del Adware Y Pop-Ups Con Herramientas Profesionales De MalwareFox</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-lenovo-thinkphone-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Lenovo ThinkPhone Phone Now with These Tips</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-ixml-file-format-a-comprehensive-guide/"><u>Understanding iXML File Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023s-most-popular-online-video-hub-on-facebook/"><u>[Updated] 2023'S Most Popular Online Video Hub on Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-become-an-influencer-grow-by-a-thousand-on-instagrammonth-for-2024/"><u>[Updated] Become an Influencer Grow by a Thousand on Instagram/Month for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-guia-simple-crear-una-copia-de-seguridad-completa-de-tu-correo-imap-mediante-outlook-365/"><u>1. [Guía Simple]: Crear Una Copia De Seguridad Completa De Tu Correo IMAP Mediante Outlook 365</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-free-methods-to-download-videos-from-youtube-essential-tips-and-tricks/"><u>1. Free Methods to Download Videos From YouTube: Essential Tips and Tricks</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728507480254-windows-server-2012/"><u>用易懂方式復制Windows Server 2012到新陣列</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-poco-f5-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Poco F5 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-you-ready-for-meta-ais-social-network-ambition/"><u>Are You Ready for Meta AI’s Social Network Ambition?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/essential-guide-preserve-your-iphone-information-with-these-3-key-backup-strategies-pre-upgrade/"><u>Essential Guide: Preserve Your iPhone Information with These 3 Key Backup Strategies Pre-Upgrade</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y100i-power-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y100i Power 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-language-popularity-top-15-ranking/"><u>Global Language Popularity: Top 15 Ranking</u></a></li>
+<li><a href="https://fox-search.techidaily.com/is-it-possible-to-copy-an-active-windows-drive/"><u>Is It Possible to Copy an Active Windows Drive?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-windows-10-restoration-bypass-the-limits-with-go-backless-techniques/"><u>Mastering Windows 10 Restoration: Bypass the Limits with Go-Backless Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-srt-download-from-youtube-with-3-tactics/"><u>Navigating SRT Download From YouTube with 3 Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-video-game-classics-on-a-budget-a-pi-story/"><u>Reviving Video Game Classics on a Budget - A Pi Story</u></a></li>
+<li><a href="https://fox-search.techidaily.com/solution-detaillee-pour-le-probleme-de-mis-a-jour-de-windows-section-1-advanced-problem-on-antigen-presenting-cells-apcs/"><u>Solution Détaillée Pour Le Problème De Mis À Jour De Windows # Section 1: Advanced Problem on Antigen-Presenting Cells (APCs)</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-restoring-irreversibly-lost-images-on-your-google-drive/"><u>Step-by-Step Guide: Restoring Irreversibly Lost Images on Your Google Drive</u></a></li>
+<li><a href="https://fox-search.techidaily.com/sudden-disappearance-of-files-in-folder-fix-it-now-with-these-7-methods/"><u>Sudden Disappearance of Files in Folder - Fix It Now with These 7 Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/uncomplicated-techniques-archiving-your-google-voice-calls-for-2024/"><u>Uncomplicated Techniques Archiving Your Google Voice Calls for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/0x800c5-windows-10/"><u>バックアップ失敗 0X8^ C5 エラーに対するWindows 10の簡単対策</u></a></li>
 </ul></div>
 

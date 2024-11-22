@@ -1,7 +1,7 @@
 ---
 title: Understanding INI Configuration on File Explorer's Properties
-date: 2024-10-08T20:49:09.223Z
-updated: 2024-10-11T05:30:15.449Z
+date: 2024-11-20T16:12:38.289Z
+updated: 2024-11-22T16:17:12.391Z
 tags:
   - user-guide
 categories:
@@ -85,6 +85,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## INI Files in the Files and Folders Page
 
 When adding an INI file to your package you have two options:
@@ -98,53 +102,35 @@ An INI file will always use the **encoding of an MSI**, set in [Configuration Se
 
 ![New INI File](https://cdn.advancedinstaller.com/img/toolbar/ini-new.png "New INI File")Use the \[New INI File \] toolbar button or the “New INI File” tree/list context menu item. The filenames should have valid filename specific ASCII characters only. The [INI File Editor - Edit INI File Dialog](https://tools.techidaily.com/advancedinstaller/products/) allows you to add, remove and change INI sections and keys. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Editing an existing INI file
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” list context menu item, press theEnter key while an INI file is selected in the “Files” panel or double click on an INI file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)INI files can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Name
 * Key
 * Value
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -186,18 +172,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-exploring-the-reasons-behind-blue-icons-in-facebooks-chat-communication/"><u>[Updated] 2024 Approved Exploring the Reasons Behind Blue Icons in Facebook’s Chat Communication</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/01618770-2024-approved-boost-your-visibility-with-a-cutting-edge-set-of-banners/"><u>2024 Approved Boost Your Visibility with a Cutting-Edge Set of Banners</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-bridging-format-gaps-with-srt-transformations/"><u>2024 Approved Bridging Format Gaps with SRT Transformations</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparative-review-the-battle-between-apple-tv-4k-and-roku-ultra-for-ultimate-viewing/"><u>Comparative Review: The Battle Between Apple TV 4K and Roku Ultra for Ultimate Viewing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/comprehensive-guide-the-best-mac-pdf-printers-of-2020-ranked-and-reviews/"><u>Comprehensive Guide: The Best Mac PDF Printers of 2020 Ranked and Reviews</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-pdf-manipulation-intuitive-pdf-text-editor-with-real-time-editing-features/"><u>Effortless PDF Manipulation: Intuitive PDF Text Editor with Real-Time Editing Features</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-lava-yuva-3-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Lava Yuva 3 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://fox-search.techidaily.com/innovative-insights-master-your-strategy-with-iadvinst-project/"><u>Innovative Insights: Master Your Strategy with iAdvinst Project</u></a></li>
-<li><a href="https://fox-search.techidaily.com/protect-yourself-from-facebook-messenger-threats-essential-safety-tips/"><u>Protect Yourself From Facebook Messenger Threats: Essential Safety Tips</u></a></li>
-<li><a href="https://fox-search.techidaily.com/quicksave-streamlined-shortcuts-for-efficient-workflow-management/"><u>QuickSave: Streamlined Shortcuts for Efficient Workflow Management</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-se-2020-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone SE (2020) without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-steps-for-syncing-your-device-when-iphone-phone-manager-fails-to-connect-with-itunes-121-update/"><u>Troubleshooting Steps for Syncing Your Device When iPhone Phone Manager Fails to Connect with iTunes 12.1 Update</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-top-strategies-for-high-fidelity-video-conversion-to-dvd/"><u>[New] In 2024, Top Strategies for High-Fidelity Video Conversion to DVD</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-discover-the-power-of-5-editors-beyond-youtubes-boundaries/"><u>[Updated] In 2024, Discover the Power of 5 Editors Beyond Youtube's Boundaries</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-srt-file-conversion-simplified-with-os-support/"><u>[Updated] SRT File Conversion Simplified with OS Support</u></a></li>
+<li><a href="https://fox-search.techidaily.com/descubre-el-software-de-sincronizacion-de-carpetas-mas-eficiente-para-windows-11-gratis-opcion/"><u>Descubre El Software De Sincronización De Carpetas Más Eficiente Para Windows 11: Gratis Opción</u></a></li>
+<li><a href="https://fox-search.techidaily.com/die-top-datenwiederherstellungslosungen-zur-beseitigung-von-doppelten-dateien-in-windows-111087-fonetool-empfiehlt/"><u>Die Top-Datenwiederherstellungslösungen Zur Beseitigung Von Doppelten Dateien in Windows 11/10/8/7 - FoneTool Empfiehlt</u></a></li>
+<li><a href="https://fox-search.techidaily.com/dokonany-tutorial-tworzenie-diskow-ratunkowych-dla-windows-11-i-winodwolej/"><u>Dokonany Tutorial: Tworzenie Disków Ratunkowych Dla Windows 11 I Winodwolej</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-overflowed-drafters-to-ordered-files-learn-to-edit-hefty-tiktok-content/"><u>From Overflowed Drafters to Ordered Files Learn to Edit Hefty TikTok Content</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximizing-money-via-online-video-platforms/"><u>Maximizing Money via Online Video Platforms</u></a></li>
+<li><a href="https://fox-search.techidaily.com/recuperation-de-fichiers-supprimes-par-robocopy-mir-deux-methodes-efficaces/"><u>Récupération De Fichiers Supprimés Par Robocopy /MIR : Deux Méthodes Efficaces</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/revive-files-anytime-everywhere-no-cost/"><u>Revive Files Anytime, Everywhere - No Cost</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/start-small-livestreaming-on-youtube-with-fewer-than-1k-followers-for-2024/"><u>Start Small Livestreaming on YouTube with Fewer Than 1K Followers for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-removing-unwanted-shortcut-icons-from-your-computer-desktop/"><u>Step-by-Step Guide: Removing Unwanted Shortcut Icons From Your Computer Desktop</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tutorial-lanjutan-pemeliharaan-dan-restorasi-data-interaksi-aplikasi-wechat/"><u>Tutorial Lanjutan: Pemeliharaan Dan Restorasi Data Interaksi Aplikasi WeChat</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-art-of-color-consistency-a-powerdirector-users-guide/"><u>Updated In 2024, The Art of Color Consistency A PowerDirector Users Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728488328564-win10/"><u>Win10磁盘分区恢复技巧：专家解说最好选项列表</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/xbox-one-photography-basics-how-to-screenshot-like-a-pro/"><u>Xbox One Photography Basics: How to Screenshot Like a Pro</u></a></li>
 </ul></div>
 

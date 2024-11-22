@@ -1,7 +1,7 @@
 ---
 title: "Localizing Your Java Application: Tips and Best Practices"
-date: 2024-10-07T21:08:48.258Z
-updated: 2024-10-11T05:57:00.515Z
+date: 2024-11-19T16:21:17.485Z
+updated: 2024-11-22T16:51:30.119Z
 tags:
   - user-guide
 categories:
@@ -76,13 +76,14 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Java Product Localization
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## General details
@@ -92,26 +93,17 @@ The localization of a Java Product implies the translation of the names of the E
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For any language, the name of the launcher and that of the configuration file may differ but without modifying the extension.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The default extensions (.exe and .ini) must be preserved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Mac OS X Java Application localization
@@ -158,20 +150,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/0-best-youtube-makeup-artists-you-must-have-heard/"><u>[New] 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-this-video-will-get-you-100000-views-on-youtube/"><u>[New] This Video Will Get You 100000 Views on YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-avoid-blur-and-clarity-issues-zooming-techniques-with-videoleap/"><u>[Updated] Avoid Blur and Clarity Issues Zooming Techniques with Videoleap</u></a></li>
-<li><a href="https://fox-search.techidaily.com/adaptable-personalization-techniques-for-windows/"><u>Adaptable Personalization Techniques for Windows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-nvidia-1080-graphics-card-drivers-on-windows-11-simple-steps/"><u>Download NVIDIA 1080 Graphics Card Drivers on Windows 11 - Simple Steps</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-guide-how-to-transfer-blu-ray-movies-onto-an-ipad-device/"><u>Effortless Guide: How to Transfer Blu-Ray Movies Onto an iPad Device</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-locate-and-modify-file-search-attributes/"><u>How to Locate and Modify File Search Attributes</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-modify-startup-settings-in-the-configuration-window/"><u>How to Modify Startup Settings in the Configuration Window</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-building-a-custom-google-cardboard-for-immersive-experience/"><u>In 2024, Building a Custom Google Cardboard for Immersive Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) without Passcode or Face ID</u></a></li>
-<li><a href="https://fox-search.techidaily.com/navigating-the-file-management-panel/"><u>Navigating the File Management Panel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-tsa-guidelines-for-wearable-tech-is-your-smart-ring-clear-for-flight/"><u>Navigating TSA Guidelines for Wearable Tech: Is Your Smart Ring Clear for Flight?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/safely-removing-fractureiser-malware-from-minecraft-secure-mod-installation-guide/"><u>Safely Removing Fractureiser Malware From Minecraft: Secure Mod Installation Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-bbc-iplayer-using-pcs-or-macs/"><u>Step-by-Step Guide: Recording Your Favorite Shows From BBC iPlayer Using PCs or Macs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-feature-music-seamlessly-on-instagram/"><u>[New] In 2024, How To Feature Music Seamlessly on Instagram</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elite-list-of-best-online-sound-capturing-devices-2023/"><u>[Updated] 2024 Approved Elite List of Best Online Sound Capturing Devices 2023</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-revive-your-device-no-apple-id-methods-to-activate-iphone-and-ipad/"><u>1. Revive Your Device: No-Apple-ID Methods to Activate iPhone and iPad</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/8-pioneering-open-source-platforms-revolutionizing-business-calls/"><u>8 Pioneering Open-Source Platforms Revolutionizing Business Calls</u></a></li>
+<li><a href="https://fox-search.techidaily.com/aomei-tools-kaufen-professionelle-losungen-fur-ihr-digitales-buro-finden/"><u>AOMEI Tools Kaufen - Professionelle Lösungen Für Ihr Digitales Büro Finden</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comprehensive-restoration-services-universal-solutions-for-every-need/"><u>Comprehensive Restoration Services: Universal Solutions for Every Need</u></a></li>
+<li><a href="https://fox-search.techidaily.com/crear-un-disco-o-memoria-usb-de-reparacion-gratuita-para-windows-10-and-11-guia-paso-a-paso/"><u>Crear Un Disco O Memoria USB De Reparación Gratuita Para Windows 10 & 11 - Guía Paso a Paso</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-secure-samsungs-free-gift-of-a-premium-65-inch-4k-tv-today-your-final-opportunity-to-take-advantage/"><u>Don't Miss Out: Secure Samsung’s Free Gift of a Premium 65-Inch 4K TV Today – Your Final Opportunity to Take Advantage!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/procedure-rapida-per-il-distribuzione-di-immagini-senza-sid-con-aomei-image-deploy/"><u>Procedure Rapida per Il Distribuzione Di Immagini Senza SID Con AOMEI Image Deploy</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quick-fix-solutions-for-accessing-data-after-a-sudden-pc-crash/"><u>Quick-Fix Solutions for Accessing Data After a Sudden PC Crash</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/simple-and-chic-enhance-yourself-with-our-user-friendly-online-makeup-photo-editor/"><u>Simple and Chic: Enhance Yourself With Our User-Friendly Online Makeup Photo Editor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-11-budget-friendly-creativity-for-youtube-names-for-2024/"><u>Unlock 11 Budget-Friendly Creativity for YouTube Names for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-the-secrets-to-a-flawless-overwatch-launch-eradicate-the-black-screen-dilemma/"><u>Unlocking the Secrets to a Flawless Overwatch Launch: Eradicate the Black Screen Dilemma</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Digitally Authenticating EXE, MSI & MSP Files for Enhanced Security"
-date: 2024-10-06T17:25:32.126Z
-updated: 2024-10-11T06:37:21.496Z
+date: 2024-11-19T16:41:57.747Z
+updated: 2024-11-22T16:19:53.839Z
 tags:
   - user-guide
 categories:
@@ -72,9 +72,17 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Digital Signature: Sign MSI, EXE and MSP files
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The following article uses options that are available starting with the [Professional](https://tools.techidaily.com/advancedinstaller/products/) edition and project type.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Advanced Installer can **digitally sign** all of the following files that it creates: EXE, MSI, MSP (patches) and CAB files. The **EXE, MSI and MSP files** are always signed while the CAB files are only signed if they are not embedded in the MSI.
 
@@ -83,30 +91,21 @@ You also can individually sign each file from your package by enabling this opti
 ![Digital signature](https://cdn.advancedinstaller.com/img/ui/digital-signature.png "Digital signature")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Signing utilities
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### SignTool.exe
 
 The default tool, available with the Windows SDK v8.0 or higher, used by Advanced Installer. The[SignTool.exe](https://tools.techidaily.com/advancedinstaller/products/) utility tool can be used only with certificates exported as PFX files. can be used only with certificates exported as PFX files. You can use either pvkimprt or pvk2pfx to create a PFX certificate from the SPC and PVK files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,22 +148,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-clearsightcapture-straightforward-desktop-to-video-conversion/"><u>[New] ClearSightCapture Straightforward Desktop to Video Conversion</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premium-webcam-guide-5-best-options-with-mic-integration/"><u>[Updated] Premium Webcam Guide 5 Best Options with Mic Integration</u></a></li>
-<li><a href="https://fox-search.techidaily.com/alternate-methods-for-capturing-screenshots-in-windows-10-games/"><u>Alternate Methods for Capturing Screenshots in Windows 10 Games</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-which-one-reigns-supreme/"><u>Comparing iPhone 15 Pro Max and Samsung Galaxy S24 Ultra: Which One Reigns Supreme?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/comprehensive-guide-for-automotive-enthusiasts-and-drivers/"><u>Comprehensive Guide for Automotive Enthusiasts and Drivers</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-guide-how-to-conduct-an-i-reg-entry-version-search/"><u>Easy Guide: How to Conduct an I-Reg Entry Version Search</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-use-of-ixmlfileinstall-for-streamlined-system-configuration/"><u>Effective Use of IXMLFileInstall for Streamlined System Configuration</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebook-fans-gain-more-with-streamed-content-sharing/"><u>Facebook Fans Gain More with Streamed Content Sharing</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100i-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/illustrative-sql-queries-a-comprehensive-guide/"><u>Illustrative SQL Queries: A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30i-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Hot 30i Phone Without Password?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/locate-your-running-microsoft-office-products-step-by-step-tips/"><u>Locate Your Running Microsoft Office Products: Step-by-Step Tips</u></a></li>
-<li><a href="https://fox-search.techidaily.com/simple-methods-to-stream-several-videos-together-effortlessly/"><u>Simple Methods to Stream Several Videos Together Effortlessly</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-extracting-audio-from-mp4-files-with-top-tools/"><u>Step-by-Step Guide: Extracting Audio From MP4 Files with Top Tools</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-ultimate-selection-of-addition-utility-apps-for-smartphones-ios-and-android-edition-2022/"><u>The Ultimate Selection of Addition Utility Apps for Smartphones - iOS and Android Edition, 2022</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/virtual-clarity-streamlining-backgrounds-for-smooth-screenshots/"><u>Virtual Clarity Streamlining Backgrounds for Smooth Screenshots</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-maximizing-impact-strategies-for-watermark-and-logo-insertion-in-yt-videos/"><u>[New] 2024 Approved Maximizing Impact Strategies for Watermark & Logo Insertion in YT Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-web-accessory-fb-stories-keeper/"><u>[New] 2024 Approved Web Accessory FB Stories Keeper</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-secret-snaps-clandestine-methods-for-unseen-image-recording-for-2024/"><u>[New] Secret Snaps Clandestine Methods for Unseen Image Recording for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-strategic-insights-into-procuring-a-mountain-of-videos-from-tiktok-for-2024/"><u>[New] Strategic Insights Into Procuring a Mountain of Videos From TikTok for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-premier-selection-of-vr-cycling-options/"><u>2024 Approved The Premier Selection of VR Cycling Options</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728493734157-windows-11-ssd/"><u>直擊 Windows 11 SSD 安裝手法：高效便利方式介紹</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-cloner-de-maniere-securisee-un-cartouche-memoire-sd-sur-pc/"><u>Comment Cloner De Manière Sécurisée Un Cartouche Mémoire (SD) Sur PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-the-hp-beats-audio-driver-glitch-for-optimal-performance-on-your-pc-running-windows-1187/"><u>Fixing the HP Beats Audio Driver Glitch for Optimal Performance on Your PC Running Windows 11/8/7</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728479121834-google/"><u>Googleドライブ上の重要ファイルが失われた?ここでは安全にデータ復元方法を学ぶ。</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862711835-lenovo-thinkpad-t14s-launches-with-stunning-features-qualcomm-snapdragon-x-elite-processor-impressive-32gb-ram-and-a-whopping-1tb-ssd/"><u>Lenovo ThinkPad T14s Launches with Stunning Features: Qualcomm Snapdragon X Elite Processor, Impressive 32GB RAM & a Whopping 1TB SSD!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728483659229-sd/"><u>SDカードのストレージ拡張方法 - 限界なしに空き容量確保</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/set-up-a-dynamic-fb-cover-for-2024/"><u>Set Up a Dynamic FB Cover for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-generating-a-usb-drive-image-on-windows-11-10-8-and-7/"><u>Step-by-Step Guide: Generating a USB Drive Image on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://fox-search.techidaily.com/strategie-perfette-per-il-backup-automatico-dei-file-pst-in-microsoft-outlook/"><u>Strategie Perfette per Il Backup Automatico Dei File PST in Microsoft Outlook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/supercharge-graphics-on-windows-10-with-latest-amd-radeon-hd-6950-update/"><u>Supercharge Graphics on Windows 10 with Latest AMD Radeon HD 6950 Update</u></a></li>
+<li><a href="https://fox-search.techidaily.com/udobnye-metody-perenosa-windows-obraza-na-novyj-nakopitel/"><u>Удобные Методы Переноса Windows Образа На Новый Нaкопитель</u></a></li>
 </ul></div>
 

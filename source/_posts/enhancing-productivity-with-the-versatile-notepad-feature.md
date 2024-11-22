@@ -1,7 +1,7 @@
 ---
 title: Enhancing Productivity with the Versatile Notepad Feature
-date: 2024-10-06T21:16:26.972Z
-updated: 2024-10-11T04:24:42.848Z
+date: 2024-11-18T16:52:54.665Z
+updated: 2024-11-22T16:32:30.125Z
 tags:
   - user-guide
 categories:
@@ -61,6 +61,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Notes Pane
 
 Sometimes, more than one developer is required to work on a project. Because of this it is hard to track all the changes and settings a developer adds to a project without proper support. Advanced Installer's Notes Pane helps you document every intricate detail of your project and thus improving the collaboration between developers.
@@ -74,10 +78,7 @@ The Notes view contains two panes:
 This pane is located on the left side. It will display all the notes added under the currently selected page. Each page has a**default** note with the selected page name._Ex:_Product Details if the [Product Details Tab](https://tools.techidaily.com/advancedinstaller/products/) is selected. This node can not be deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Add new note
@@ -86,24 +87,18 @@ For every resource (like prerequisites, files, file operations, custom actions, 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Notes cannot be added for elements that represent views: folders, registry keys, etc. Also, notes can not be added for**multiple** resources selected at once.
 
-![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Empty notes will not be saved. In order for a note to be saved, it must contain a comment.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Empty notes will not be saved. In order for a note to be saved, it must contain a comment.
 
 ### Delete note
 
 In order to delete an existing note, select it press the\[Remove... \] button, use the “Delete” context menu option or press the Delete key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Navigate to resource
@@ -111,10 +106,7 @@ In order to delete an existing note, select it press the\[Remove... \] button, u
 It is possible to navigate to the resource associated with the currently selected note by using the “Go to item” context menu option. Once this option is being used the resource will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comments Pane
@@ -161,14 +153,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-curated-igtv-channels-that-matter-today-for-2024/"><u>[New] Curated IGTV Channels That Matter Today for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-extensive-appraisal-a-look-into-bublcam-360-for-2024/"><u>[Updated] Extensive Appraisal A Look Into Bublcam 360 for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-zero-cost-malware-scrubbers-comprehensive-guide-to-keeping-your-devices-clean-with-malwarefox-and-others/"><u>Best Zero-Cost Malware Scrubbers : Comprehensive Guide to Keeping Your Devices Clean with MalwareFox and Others</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/decouvrez-le-codec-h265-gratuit-pour-une-lecture-video-en-haute-definition-4k-et-8k-sans-frais/"><u>Découvrez Le Codec H.265 Gratuit Pour Une Lecture Vidéo en Haute Définition 4K Et 8K Sans Frais</u></a></li>
-<li><a href="https://fox-search.techidaily.com/diy-digital-invitations-the-ultimate-online-card-creation-toolkit-and-comprehensive-step-by-step-tutorial/"><u>DIY Digital Invitations: The Ultimate Online Card Creation Toolkit & Comprehensive Step-by-Step Tutorial</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-8-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 8 Plus? How to Fix it?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/tweak-system-configurations-using-the-ini-editing-tool/"><u>Tweak System Configurations Using the Ini Editing Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-ini-configuration-on-file-explorers-properties/"><u>Understanding INI Configuration on File Explorer's Properties</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-audio-upgrade-how-to-elevate-speaker-volume-with-ease/"><u>Windows 11 Audio Upgrade: How to Elevate Speaker Volume with Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716070031170-updated-in-2024-maximizing-ipad-audio-record-best-tips/"><u>[Updated] In 2024, Maximizing iPad Audio Record Best Tips!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/3-wege-zum-sicherstellen-von-fotoubertragungen-von-android-zu-ipad/"><u>3 Wege Zum Sicherstellen Von Fotoübertragungen Von Android Zu iPad</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-12-proplus-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme 12 Pro+ 5G Device SIM</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effortless-steps-to-access-your-old-outlook-emails-with-pst-file-recovery/"><u>Effortless Steps to Access Your Old Outlook Emails with PST File Recovery</u></a></li>
+<li><a href="https://fox-search.techidaily.com/expert-tips-for-recovering-microsoft-sql-server-data-with-aomei-cyber-backup-software/"><u>Expert Tips for Recovering Microsoft SQL Server Data with AOMEI Cyber Backup Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/five-proven-techniques-for-recovering-missing-microsoft-outlook-documents/"><u>Five Proven Techniques for Recovering Missing Microsoft Outlook Documents</u></a></li>
+<li><a href="https://fox-search.techidaily.com/fixen-sie-das-problem-mit-der-unerwarteten-disappearance-von-festplatten-auf-dem-diagramm-effiziente-fehlerkorrektur/"><u>Fixen Sie Das Problem Mit Der Unerwarteten Disappearance Von Festplatten Auf Dem Diagramm - Effiziente Fehlerkorrektur</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-recover-deleted-apps-on-your-laptop-running-windows-11-10-8-or-navigating-windows-7/"><u>How to Recover Deleted Apps on Your Laptop Running Windows 11, 10, 8 or Navigating Windows 7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-dial-up-dominance-a-guide-to-visual-podcast-identity/"><u>In 2024, Dial-Up Dominance A Guide to Visual Podcast Identity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-premiered-screen-selections-for-ps5-aficionados/"><u>In 2024, Premiered Screen Selections for PS5 Aficionados</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-f23-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo F23 5G Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/inaccessible-boot-devicewindows-11ssd/"><u>Inaccessible Boot Deviceエラーを解消:Windows 11でSSD交換完了</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphoneandroid-edition-find-the-best-8-multimedia-editing-tools/"><u>IPhone/Android Edition Find the Best 8 Multimedia Editing Tools</u></a></li>
+<li><a href="https://fox-search.techidaily.com/online-photo-recovery-methods-a-comprehensive-guide-to-restoring-lost-images/"><u>Online Photo Recovery Methods: A Comprehensive Guide to Restoring Lost Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/peeling-back-the-layers-of-runtime-brokers-on-pcs/"><u>Peeling Back the Layers of Runtime Brokers on PCs</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-3-methods-to-convert-your-backup-partition-into-an-image-file-on-windows-11-10-8-and-7/"><u>Top 3 Methods to Convert Your Backup Partition Into an Image File on Windows (11, 10, 8 & 7)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/universal-setup-techniques-efficiently-managing-global-preferences/"><u>Universal Setup Techniques: Efficiently Managing Global Preferences</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Updated Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 15? | Dr.fone</u></a></li>
 </ul></div>
 

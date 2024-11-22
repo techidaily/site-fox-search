@@ -1,7 +1,7 @@
 ---
 title: Adjusting Property Settings in Edit Feature Panel
-date: 2024-10-05T22:29:39.034Z
-updated: 2024-10-11T04:02:05.683Z
+date: 2024-11-15T16:47:39.151Z
+updated: 2024-11-22T16:16:41.397Z
 tags:
   - user-guide
 categories:
@@ -75,6 +75,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit Features Properties Dialog
 
  This dialog enables you to edit properties for multiple features.
@@ -82,19 +86,17 @@ Table of Contents
 ![Edit multiple features](https://cdn.advancedinstaller.com/img/dialog/edit-feature-properties.png "Edit multiple features")  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Feature Tree
@@ -104,13 +106,6 @@ There are three options for the initial display of a feature:
 * Not Displayed - the feature will not be displayed to the user in any dialog
 * Display Collapsed - the feature will be displayed collapsed in the features tree from the Customize dialog
 * Display Expanded - the feature will be displayed expanded in the features tree.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Installation behavior
 
@@ -128,16 +123,7 @@ You can select one of the following install behavior for the feature base on a c
  You can set the install level based on a condition in the [Conditional Levels Dialog](https://tools.techidaily.com/advancedinstaller/products/). Use the\[Conditional install level \] link to edit conditional install levels.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Attributes
@@ -187,24 +173,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-youtube-intros-with-imovie-techniques/"><u>[Updated] 2024 Approved Mastering YouTube Intros with iMovie Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-straightforward-guide-switch-video-direction-in-vlc/"><u>[Updated] 2024 Approved Straightforward Guide Switch Video Direction in VLC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-add-youtube-melodies-in-imovie-without-hurdles-for-2024/"><u>[Updated] Add YouTube Melodies in iMovie Without Hurdles for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-breaking-down-youtube-short-barriers-for-2024/"><u>[Updated] Breaking Down YouTube Short Barriers for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-prime-video-destinations-the-ultimate-youtube-substitutes/"><u>Discover Prime Video Destinations: The Ultimate YouTube Substitutes</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-guide-to-mastering-your-apps-schedule-configuration/"><u>Easy Guide to Mastering Your App's Schedule Configuration</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-tutorial-on-how-to-make-a-screen-recording-with-screencast-o-matic-software/"><u>Easy Tutorial on How to Make a Screen Recording with Screencast-O-Matic Software</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>Elevate Views, Not Video Length Expert Guide to YT Desc Templates</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhancing-accessibility-on-iphones-the-ultimate-guide-to-visual-impairment-friendly-functions/"><u>Enhancing Accessibility on iPhones: The Ultimate Guide to Visual Impairment-Friendly Functions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>In 2024, Upgrade Your View Enabling YouTube's High-Quality AV1 Option</u></a></li>
-<li><a href="https://fox-search.techidaily.com/installation-prerequisites-checklist-your-step-by-step-resource/"><u>Installation Prerequisites Checklist: Your Step-by-Step Resource</u></a></li>
-<li><a href="https://fox-search.techidaily.com/limpieza-eficiente-de-ventanas-11-deshacerse-del-adware-y-pop-ups-con-herramientas-profesionales-de-malwarefox/"><u>Limpieza Eficiente De Ventanas 11: Deshacerse Del Adware Y Pop-Ups Con Herramientas Profesionales De MalwareFox</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/mastering-the-art-of-squaring-your-content-tips-for-optimizing-videos-on-instagram/"><u>Mastering the Art of Squaring Your Content: Tips for Optimizing Videos on Instagram</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/precision-in-online-viewing-a-zoomers-handbook-for-2024/"><u>Precision in Online Viewing A Zoomer's Handbook for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/quick-guide-temporary-file-handling-within-file-explorers-navigation-interface/"><u>Quick Guide: Temporary File Handling Within File Explorer’s Navigation Interface</u></a></li>
-<li><a href="https://fox-search.techidaily.com/simple-and-straightforward-methods-for-converting-pdf-documents-to-powerpoint-slideshows-on-android-a-2nd-guide/"><u>Simple and Straightforward Methods for Converting PDF Documents to PowerPoint Slideshows on Android - A 2nD Guide!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tomorrows-evaluation-creative-pathways/"><u>Tomorrow’s Evaluation Creative Pathways</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-rated-mobile-apps-for-flawless-haircutting-on-android-and-iphone/"><u>Top-Rated Mobile Apps for Flawless Haircutting on Android and iPhone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-ixml-file-format-a-comprehensive-guide/"><u>Understanding iXML File Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-10-ps5-external-hard-drives-you-can-find/"><u>[New] 2024 Approved Top 10 Ps5 External Hard Drives You Can Find</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-boost-your-e-commerce-strategy-with-these-top-15-fb-analyzers-for-2024/"><u>[New] Boost Your E-Commerce Strategy with These Top 15 FB Analyzers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-zoom-livestream-a-playbook-for-youtube-enthusiasts/"><u>2024 Approved Streamlining Your Zoom Livestream A Playbook for YouTube Enthusiasts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728481718348-ssd-windows-10/"><u>如何在安全啟動下，靈活運用SSD進行 Windows 10磁碟複制最佳方法</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-official-method-to-unlock-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Pro Max Official Method to Unlock Your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fox-search.techidaily.com/pop3outlook/"><u>POP3メールのバックアップ手順：Outlookで一番簡単に行える方法</u></a></li>
+<li><a href="https://fox-search.techidaily.com/safe-mode-startup-4-methods-for-running-your-lenovo-computer-with-windows-11/"><u>Safe Mode Startup: 4 Methods for Running Your Lenovo Computer with Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tunes-palette-for-video-storytelling/"><u>Top Tunes Palette for Video Storytelling</u></a></li>
+<li><a href="https://fox-search.techidaily.com/unraveling-data-protection-strategies-how-does-backup-contrast-with-replication-in-databases/"><u>Unraveling Data Protection Strategies: How Does Backup Contrast with Replication in Databases?</u></a></li>
 </ul></div>
 
