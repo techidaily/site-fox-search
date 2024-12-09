@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ & Video Editing Tool: Dextrose 3.6 Beta Release Now Live!"
-date: 2024-11-25T20:26:33.363Z
-updated: 2024-11-30T21:39:10.729Z
+date: 2024-12-03T02:43:20.893Z
+updated: 2024-12-08T19:39:57.370Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,22 +72,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/days-gone-a-riders-tale-of-survival-and-adventure-during-zombie-apocalypse/"><u>'Days Gone': A Rider's Tale of Survival and Adventure During Zombie Apocalypse</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-art-of-tweaking-soundtracks-in-youtube-videos/"><u>[New] The Art of Tweaking Soundtracks in YouTube Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-7-stardew-valley-enhancements-for-ultimate-farming-bliss/"><u>[New] Top 7 Stardew Valley Enhancements for Ultimate Farming Bliss</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-beginners-guide-to-inshot-and-laptop-editing/"><u>[Updated] A Beginner's Guide to Inshot and Laptop Editing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-grab-prime-day-offers-set-up-your-own-plex-media-streamer/"><u>1. Grab Prime Day Offers: Set Up Your Own Plex Media Streamer</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-streamlined-application-creation-with-thinapp-solutions/"><u>1. Streamlined Application Creation with ThinApp Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/customizing-your-interface-understanding-the-localization-preferences-window/"><u>Customizing Your Interface: Understanding the Localization Preferences Window</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-prime-property-listings-by-cab-properties-your-key-to-smart-investing/"><u>Discover Prime Property Listings by CAB Properties - Your Key to Smart Investing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-guide-how-to-conduct-an-i-reg-entry-version-search/"><u>Easy Guide: How to Conduct an I-Reg Entry Version Search</u></a></li>
-<li><a href="https://fox-search.techidaily.com/efficient-file-handling-techniques-on-the-file-explorer-interface/"><u>Efficient File Handling Techniques on the File Explorer Interface</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-best-9-choices-of-steam-deck-emulators/"><u>Explore the Best: 9 Choices of Steam Deck Emulators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hiding-the-language-indicator-in-a-smokescreen-on-win11/"><u>Hiding the Language Indicator in a Smokescreen on Win11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-understanding-the-mechanics-behind-altering-gender-in-snapchatfacebook-images/"><u>In 2024, Understanding the Mechanics Behind Altering Gender in Snapchat/Facebook Images</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-converting-and-managing-heic-files-in-windows-environment/"><u>Step-by-Step Guide: Converting and Managing HEIC Files in Windows Environment</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-ultimate-selection-of-addition-utility-apps-for-smartphones-ios-and-android-edition-2022/"><u>The Ultimate Selection of Addition Utility Apps for Smartphones - iOS and Android Edition, 2022</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-5-ultimate-trojan-eliminators-proven-techniques-and-latest-updates/"><u>Top 5 Ultimate Trojan Eliminators: Proven Techniques & Latest Updates</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unlocking-the-secrets-of-instagrams-saved-content/"><u>[New] In 2024, Unlocking the Secrets of Instagram's Saved Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ideal-audio-recording-equipment-for-idevices-enthusiasts-for-2024/"><u>[Updated] Ideal Audio Recording Equipment for iDevices Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-ways-to-add-music-to-imovie-from-youtube/"><u>[Updated] In 2024, Easy Ways to Add Music to iMovie From YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtubes-opposite-order-rearranging-videos-in-reverse-flow-for-2024/"><u>[Updated] Youtube's Opposite Order Rearranging Videos in Reverse Flow for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-crypto-compatible-wallets-top-picks-by-yl-computing-and-how-they-secure-your-digital-assets/"><u>Best Crypto-Compatible Wallets: Top Picks by YL Computing & How They Secure Your Digital Assets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cut-down-co2-a-revolutionary-application-for-real-time-tracking-of-personal-carbon-dioxide-emissions/"><u>Cut Down CO2: A Revolutionary Application for Real-Time Tracking of Personal Carbon Dioxide Emissions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-minimize-pre-installed-software-clutter-tips-and-strategies-yl-solutions/"><u>How to Minimize Pre-Installed Software Clutter: Tips & Strategies - YL Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-comedy-cornucopia-twitters-best/"><u>In 2024, Comedy Cornucopia Twitter's Best</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g23-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G23 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-extracting-aol-contacts-yl-computings-guide/"><u>Mastering the Art of Extracting AOL Contacts: YL Computing's Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/mastery-of-spotify-ad-formats-and-best-practices-for-2024/"><u>Mastery of Spotify Ad Formats and Best Practices for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/overcoming-launch-failures-in-applications-expertise-by-yl-computing/"><u>Overcoming Launch Failures in Applications: Expertise by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/securing-personal-information-while-engaging-in-crypto-transactions-expert-advice-from-yl-computing/"><u>Securing Personal Information While Engaging in Crypto Transactions: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/the-aftermath-of-the-opium-war-insights-and-outcomes-explored-by-yl-software-solutions/"><u>The Aftermath of the Opium War: Insights and Outcomes Explored by YL Software Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-12-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 12 Pro Max? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

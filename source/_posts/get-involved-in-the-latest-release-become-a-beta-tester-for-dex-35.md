@@ -1,7 +1,7 @@
 ---
 title: Get Involved in the Latest Release - Become a Beta Tester for DEX 3.5!
-date: 2024-11-29T17:00:11.449Z
-updated: 2024-11-30T19:26:31.062Z
+date: 2024-12-07T00:57:04.221Z
+updated: 2024-12-08T22:54:00.339Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,20 +91,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-smart-shopping-guide-to-best-5k-screens-8/"><u>[New] In 2024, Smart Shopping Guide to Best 5K Screens #8</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-disable-auto-recommended-podcast-features-in-spotify/"><u>[Updated] How to Disable Auto-Recommended Podcast Features in Spotify</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-overcoming-non-detectable-obs-camera-link/"><u>[Updated] Overcoming Non-Detectable OBS Camera Link</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728500206723-sd/"><u>「行方不明の映像を取り戻す - SDカード使用時におすすめの手順」</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aimp3-movavi/"><u>網路直接無限制地從AI到MP3的轉換 - 利用Movavi工具</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728482697546-png-6/"><u>重建刪除 PNG 影像：6 項全新免費修復方法</u></a></li>
-<li><a href="https://fox-search.techidaily.com/aomei-software-gratuita-de-despliegue-y-clonacion-de-imagenes-en-red/"><u>AOMEI Software: Gratuita De Despliegue Y Clonación De Imágenes en Red</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/effortless-sync-master-the-steps-for-pairing-your-google-pixel-device-with-a-pc-or-laptop/"><u>Effortless Sync: Master the Steps for Pairing Your Google Pixel Device With a PC or Laptop</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-efficiently-transfer-your-operating-system-partition-to-an-ssd-using-windows-11-or-10-tools/"><u>How to Efficiently Transfer Your Operating System Partition to an SSD Using Windows 11 or 10 Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-how-to-unlock-full-potential-with-iphone-hdr/"><u>In 2024, How to Unlock Full Potential with iPhone HDR</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-picshots-secrets-easy-peasy-collage-formation/"><u>In 2024, Picshot's Secrets Easy-Peasy Collage Formation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resetting-your-asus-device-to-factory-settings-via-the-built-in-recovery-option/"><u>Resetting Your ASUS Device to Factory Settings via the Built-In Recovery Option</u></a></li>
-<li><a href="https://fox-search.techidaily.com/transferir-todos-tus-datos-de-una-pc-a-otra-sin-coste-guia-paso-a-paso/"><u>Transferir Todos Tus Datos De Una PC a Otra Sin Coste: Guía Paso a Paso</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-10-innovative-4k-mirrorless-photographic-tools/"><u>[Updated] 2024 Approved Top 10 Innovative 4K Mirrorless Photographic Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-comprehensive-hdr-mastery-for-breathtaking-portraits/"><u>[Updated] In 2024, Comprehensive HDR Mastery for Breathtaking Portraits</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-ultimate-playbook-navigating-tools-for-vimeo-content-grabs/"><u>[Updated] In 2024, The Ultimate Playbook Navigating Tools for Vimeo Content Grabs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-what-lies-unseen-in-instagram-story-watching/"><u>[Updated] In 2024, What Lies Unseen in Instagram Story Watching</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-youtubes-video-comment-features-for-2024/"><u>[Updated] Mastering YouTube's Video Comment Features for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-tips-to-make-your-podcast-teasers-stand-out/"><u>2024 Approved Top 10 Tips to Make Your Podcast Teasers Stand Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computer-boot-issues-solved-a-guide-to-overcoming-initialization-hiccups/"><u>Computer Boot Issues Solved: A Guide to Overcoming Initialization Hiccups</u></a></li>
+<li><a href="https://fox-search.techidaily.com/detecting-and-troubleshooting-hardware-issues-with-ease-insights-by-yl-software/"><u>Detecting and Troubleshooting Hardware Issues with Ease - Insights by YL Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-tutorial-for-extracting-zip-archives-on-windows-by-yl-computing-experts/"><u>Easy Tutorial for Extracting ZIP Archives on Windows by YL Computing Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-fixes-resolving-issues-with-non-responsive-windows-defender-expert-tips-from-yl-computing/"><u>Effective Fixes: Resolving Issues with Non-Responsive Windows Defender - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-experience-updated-brother-printerscanner-drivers-for-windows-users/"><u>Enhance Your Experience: Updated Brother Printer/Scanner Drivers for Windows Users</u></a></li>
+<li><a href="https://fox-search.techidaily.com/extensive-compilation-of-doctor-who-image-gallery-exclusive-designs-from-yl-software-solutions/"><u>Extensive Compilation of Doctor Who Image Gallery - Exclusive Designs From YL Software Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-14-pro-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 14 Pro with 3 Methods</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-redefine-viewing-premium-platforms-for-videos/"><u>In 2024, Redefine Viewing Premium Platforms for Videos</u></a></li>
+<li><a href="https://fox-search.techidaily.com/navigating-the-uncertainties-of-crypto-assets-an-analysis-of-investment-threats-with-yl-software-expertise/"><u>Navigating the Uncertainties of Crypto Assets: An Analysis of Investment Threats with YL Software Expertise</u></a></li>
+<li><a href="https://fox-search.techidaily.com/sound-card-diagnostics-ensuring-proper-functionality-with-simple-tips-and-tricks/"><u>Sound Card Diagnostics: Ensuring Proper Functionality with Simple Tips & Tricks</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tackling-scan-errors-without-easy-fixes-innovative-strategies-by-yl-software-experts/"><u>Tackling Scan Errors Without Easy Fixes: Innovative Strategies by YL Software Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-tools-for-evaluating-your-systems-hardware-insights-from-an-it-expert-at-yl-computing/"><u>Top-Rated Tools for Evaluating Your System’s Hardware: Insights From an IT Expert at YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/yl-softwares-ultimate-selection-of-classic-retro-hd-wallpapers-and-scenic-photos-for-your-desktop-display/"><u>YL Software's Ultimate Selection of Classic Retro HD Wallpapers and Scenic Photos for Your Desktop Display</u></a></li>
 </ul></div>
 

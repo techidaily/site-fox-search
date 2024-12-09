@@ -1,7 +1,7 @@
 ---
 title: Discover New Features in LYRX v1.10.2 - Latest Update From PCDJ's Karaoke Suite
-date: 2024-11-25T18:33:38.332Z
-updated: 2024-11-30T18:37:38.994Z
+date: 2024-12-05T21:07:42.849Z
+updated: 2024-12-08T22:03:17.686Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’re thrilled to introduce the latest iteration of our top karaoke show hosti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Duplicate Entries in Singer History!
@@ -33,7 +33,7 @@ One of the standout changes included in this free update is a significant improv
 **NOTE:** Duplicates will initially display in singer history. Once you re-play a song that was previously written to a singer’s history, LYRX will then remove all duplicates, leaving only the one song entry in their history.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Key Changes in LYRX 1.10.2 include:
@@ -44,7 +44,7 @@ One of the standout changes included in this free update is a significant improv
 In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke hosting to new heights – download it today! We thank you for your continued trust and support. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All Updates Included in LYRX 1.10.2
@@ -62,7 +62,7 @@ In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke host
 _Have questions about the latest 1.10.2 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,22 +84,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2023/08/lyrx1102.jpg?fit=1176%2C68
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-revolutionize-your-mobile-viewing-experience/"><u>[New] In 2024, Revolutionize Your Mobile Viewing Experience</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-podcast-pioneers-effortless-livestream-tips-for-2024/"><u>[New] Podcast Pioneers Effortless Livestream Tips for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-dominate-igtv-with-follower-growth-essential-techniques-reviewed-for-2024/"><u>[Updated] Dominate IGTV With Follower Growth Essential Techniques Reviewed for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-youtube-video-dimension-standards/"><u>[Updated] YouTube Video Dimension Standards</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-10-free-and-premium-replacements-for-teracopy-on-windows-a-comprehensive-guide/"><u>Best 10 Free & Premium Replacements for Teracopy on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/configuration-dune-sauvegarde-preemptive-activee-par-des-conditions-specifiques/"><u>Configuration D’une Sauvegarde Préemptive Activée Par Des Conditions Spécifiques</u></a></li>
-<li><a href="https://fox-search.techidaily.com/einfach-sicher-professionelle-tipps-zur-absicherung-ihrer-hyper-v-vms-eine-umfassende-anleitung/"><u>Einfach Sicher! Professionelle Tipps Zur Absicherung Ihrer Hyper-V VMs - Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://fox-search.techidaily.com/essential-reasons-for-regularly-backing-up-your-website-and-database-content/"><u>Essential Reasons for Regularly Backing Up Your Website & Database Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exciting-unveilings-at-the-next-apple-gathering-m4-powered-mac-minis-advanced-ipads-and-smart-innovations-insights-from-zdnet/"><u>Exciting Unveilings at the Next Apple Gathering: M4 Powered Mac Minis, Advanced iPads & Smart Innovations | Insights From ZDNet</u></a></li>
-<li><a href="https://fox-search.techidaily.com/expert-tutorial-for-transferring-data-from-hdd-to-intel-solid-state-drives-in-various-windows-environments/"><u>Expert Tutorial for Transferring Data From HDD to Intel Solid State Drives in Various Windows Environments</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube-for-2024/"><u>Exploring How TSeries Harnesses Revenue From Online Viewer Base (YouTube) for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Zero 30 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-tecno-spark-go-2023-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Tecno Spark Go (2023) Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/tutorial-completo-sobre-como-desactivar-una-eliminacion-en-la-computadora-guia-de-2024/"><u>Tutorial Completo Sobre Cómo Desactivar Una Eliminación en La Computadora (Guía De 2024)</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ultimate-iphone-backup-strategy-secure-your-data-on-devices-from-iphone-x-to-iphone-6/"><u>Ultimate iPhone Backup Strategy: Secure Your Data on Devices From iPhone X to iPhone 6!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/wie-kann-ich-geloschte-dateien-ohne-sicherungsdatei-wiederherstellen/"><u>Wie Kann Ich Gelöschte Dateien Ohne Sicherungsdatei Wiederherstellen?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-3-innovative-ways-to-record-on-your-ipad/"><u>[New] In 2024, 3 Innovative Ways to Record on Your iPad</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-snapshot-surge-no-money-required-image-uplift/"><u>[Updated] 2024 Approved Snapshot Surge No Money Required Image Uplift</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-visual-simplification-in-hybrid-workspaces-with-zoom-and-google-meet/"><u>[Updated] In 2024, Visual Simplification in Hybrid Workspaces with Zoom & Google Meet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-iphone-2024-voice-memo-capturer/"><u>[Updated] IPhone 2024 Voice Memo Capturer</u></a></li>
+<li><a href="https://fox-search.techidaily.com/diagnosing-non-detectable-storage-issues-insights-and-solutions-by-yl-technology-experts/"><u>Diagnosing Non-Detectable Storage Issues: Insights and Solutions by YL Technology Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/dynamic-roaring-lion-theme-high-resolution-walls-backgrounds-and-imagery-by-yl-computing/"><u>Dynamic Roaring Lion Theme - High-Resolution Walls, Backgrounds & Imagery by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/fast-fixes-for-a-lazy-launch-solving-slow-startup-woes-with-yl-software-your-guide-by-yl-computing/"><u>Fast Fixes for a Lazy Launch: Solving Slow Startup Woes with YL Software – Your Guide by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-fix-issues-with-your-computers-main-board-tips-by-yl-technicians/"><u>How to Fix Issues with Your Computer's Main Board, Tips by YL Technicians</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/is-your-pcs-main-board-failing-diagnosing-and-confirming-motherboard-issues-with-yl-computing-solutions/"><u>Is Your PC's Main Board Failing? Diagnosing and Confirming Motherboard Issues with YL Computing Solutions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leading-the-pack-2023s-8-facebook-movie-downloads/"><u>Leading the Pack 2023'S #8 Facebook Movie Downloads</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maximize-performance-with-a-new-cpu-expert-tips-from-yl-software/"><u>Maximize Performance with a New CPU - Expert Tips From YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-computer-how-to-tame-unwarranted-system-load-caused-by-infrastructure-shell-on-windowslinux/"><u>Reviving Your Computer: How to Tame Unwarranted System Load Caused By Infrastructure Shell on Windows/Linux</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tracking-cryptocurrency-holdings-easy-steps-to-check-balances-using-yl-software-tools/"><u>Tracking Cryptocurrency Holdings: Easy Steps to Check Balances Using YL Software Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-claude-pros-unique-offerings-compared-to-gptplus/"><u>Understanding Claude Pro's Unique Offerings Compared to GPT+</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Change Waveform Colors in DEX 3 Version 3.9 & Later: A Comprehensive Guide for Pioneer DJ Users"
-date: 2024-11-28T21:22:11.057Z
-updated: 2024-11-30T18:10:24.706Z
+date: 2024-12-03T21:59:48.520Z
+updated: 2024-12-08T23:51:45.150Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ DEX 3 is our **top DJ mixing software** solution for today’s versatile DJ that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How-To Edit DEX 3 Waveform Colors
 
 **1)** You will need to access the DEX 3 XML skin file you wish to edit. The skin files for DEX 3 are located in the DEX 3 program folder.
@@ -45,12 +41,16 @@ If you’re on a MAC the skin files are located inside the application itself. Y
   
 [VIEW LARGER IMAGE ![DEX 3 Skins Folder Location](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=300%2C195&ssl=1 "DEX 3 Skins Folder Location")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=1030%2C669&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Inside of the DEX 3 Skins folder you will find XML files for each DEX 3 skin variation. The 4-deck default skin will be labeled “dex38\_4” and the default (main) 2-deck default skin is labeled “dex38\_2”. You will need to right-click (Ctrl + Click on MAC) and open the XML file with a standard text editor such as Notepad on Windows or TextWrangler, Atom, Xcode, etc on MAC.
 
 [VIEW LARGER IMAGE ![Open DEX 3 XML skin files in notepad or text editor](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=300%2C195&ssl=1 "Open DEX 3 XML skin files in notepad or text editor")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=1030%2C671&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Once you’ve opened up the Skin XML file in a text editor, locate the text section (near the bottom) titled “Sound Display”. It’s in this section where you can edit the color codes for each DEX 3 deck. It’s shown highlighted in the image to the right. 
@@ -58,7 +58,7 @@ If you’re on a MAC the skin files are located inside the application itself. Y
 [VIEW LARGER IMAGE ![DEX 3 sound display section](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=300%2C169&ssl=1 "DEX 3 sound display section")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** The color codes (HEX) you can edit for each deck (Note: we are demonstrating with the 4-deck XML file) are outlined in the image to the right.
@@ -70,20 +70,20 @@ You can simply type in or copy and paste in the color code you wish to use, repl
   
 [VIEW LARGER IMAGe ![DEX 3 color codes to edit for waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=300%2C169&ssl=1 "DEX 3 color codes to edit for waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Once you’ve edited the waveform color codes to your preference you can simply save the XML (via the text editor you’re using to edit the color codes) back into the skins folder, replacing the existing XML file already there. Make sure you just SAVE, and do not change the format of the skin file (It needs to remain an XML file). That should do it — launch DEX 3 after saving the XML file and your waveform color edits will be active!
 
 #### Here’s an edit I made to DEX 3’s deck A and deck C waveform colors for demonstration purposes:
 
 [VIEW LARGER IMAGE ![DEX 3 with colored waveforms](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1 "DEX 3 with colored waveforms")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _Have questions about **editing the waveform colors** in DEX 3 **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -105,20 +105,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/editingwaveformcolors.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-ultra-quick-fortnite-image-design/"><u>[New] In 2024, Ultra-Quick Fortnite Image Design</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>[New] The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-countdown-configuration-guide-for-obs-enthusiasts/"><u>[Updated] In 2024, Countdown Configuration Guide for OBS Enthusiasts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-pcandroid-friendly-methods-to-post-videos-on-facebook-successfully/"><u>[Updated] PC/Android-Friendly Methods to Post Videos on Facebook Successfully</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-wrapping-the-world-in-one-frame-not-two-sides/"><u>[Updated] Wrapping the World in One Frame, Not Two Sides</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-gopros-capabilities-for-capturing-dynamic-time-lapse-videos/"><u>2024 Approved Unveiling GoPro's Capabilities for Capturing Dynamic Time-Lapse Videos</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/aomei-backupper-fehlerbehebung-fur-nicht-gefundene-seiten-error-404-losungen-und-tipps/"><u>AOMEI Backupper: Fehlerbehebung Für Nicht Gefundene Seiten (Error 404) - Lösungen Und Tipps</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-strategies-for-automating-your-outlook-2016-data-sync-and-backup/"><u>Effective Strategies for Automating Your Outlook 2016 Data Sync and Backup</u></a></li>
-<li><a href="https://fox-search.techidaily.com/four-strategies-for-seamless-sql-server-database-auto-backup-solutions/"><u>Four Strategies for Seamless SQL Server Database Auto-Backup Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ouvrir-et-lire-les-journaux-daomei-backupper-methode-facile/"><u>Ouvrir Et Lire Les Journaux D'AOMEI Backupper - Méthode Facile</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oneplus-12r-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your OnePlus 12R Phone Now with These Tips</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ricovera-facili-per-i-tuoi-file-perduti-dopo-il-passaggio-a-windows-11-scopri-questi-5-metodi/"><u>Ricovera Facili per I Tuoi File Perduti Dopo Il Passaggio a Windows 11: Scopri Questi 5 Metodi</u></a></li>
-<li><a href="https://extra-support.techidaily.com/secrets-of-9-high-quality-webcam-enhancements-for-2024/"><u>Secrets of 9 High-Quality Webcam Enhancements for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-strategies-for-restoring-lost-documents-via-parted-magic-is-there-a-more-user-friendly-option/"><u>Step-by-Step Strategies for Restoring Lost Documents via Parted Magic: Is There a More User-Friendly Option?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-techniques-for-eliminating-flicker-from-your-hp-notebooks-screen-on-windows-11-systems/"><u>Troubleshooting Techniques for Eliminating Flicker From Your HP Notebook's Screen on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-new-to-telegram-heres-your-guide-to-getting-started-with-marketing/"><u>[New] 2024 Approved New to Telegram? Here's Your Guide to Getting Started with Marketing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-shutter-societys-top-six-elite-4k-dslr-picks/"><u>[Updated] 2024 Approved Shutter Society's Top Six Elite 4K DSLR Picks</u></a></li>
+<li><a href="https://fox-search.techidaily.com/adjusting-your-displays-font-size-a-step-by-step-guide-tech-solutions-with-yl/"><u>Adjusting Your Display's Font Size: A Step-by-Step Guide - Tech Solutions with YL</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/behind-the-code-meet-ildiko-gera-leading-software-developer-at-abbyys-innovative-timeline-project/"><u>Behind the Code: Meet Ildikó Gera, Leading Software Developer at ABBYY's Innovative Timeline Project</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-insignia-ns-pcy5bma2-printer-drivers-compatible-with-windows-11-10-and-7/"><u>Free Insignia NS-PCY5BMA2 Printer Drivers: Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/global-photography-breakthrough-stellar-debuts-revolutionary-software-for-restoring-lost-images/"><u>Global Photography Breakthrough: Stellar Debuts Revolutionary Software for Restoring Lost Images</u></a></li>
+<li><a href="https://fox-search.techidaily.com/gorgeous-high-definition-wallpaper-pack-unlimited-ring-backgrounds-from-yl-software/"><u>Gorgeous High-Definition Wallpaper Pack: Unlimited Ring Backgrounds From YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-play-8t-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Play 8T Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oneplus-11r-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on OnePlus 11R FRP Bypass</u></a></li>
+<li><a href="https://fox-search.techidaily.com/solving-the-mystery-of-your-pcs-noisy-fan-expert-tips-from-yl-computing/"><u>Solving the Mystery of Your PC's Noisy Fan: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/stunning-beach-wallsavers-and-image-banks-quality-visuals-from-yl-software/"><u>Stunning Beach Wallsavers & Image Banks - Quality Visuals From YL Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/stunning-high-resolution-milky-way-galaxy-wallpapers-and-hd-space-themes-download-now-at-yl-computing/"><u>Stunning High-Resolution Milky Way Galaxy Wallpapers & HD Space Themes - Download Now at YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-guide-fixing-your-pcs-cooling-fan-problem-tips-from-yl-computing/"><u>Troubleshooting Guide: Fixing Your PC's Cooling Fan Problem - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-your-non-printing-printer-common-issues-and-solutions-yl-computing/"><u>Troubleshooting Your Non-Printing Printer: Common Issues and Solutions - YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ultimate-doctor-who-visuals-stunning-background-graphics-widescreen-wallpapers-and-more-from-yl-software/"><u>Ultimate Doctor Who Visuals: Stunning Background Graphics, Widescreen Wallpapers & More From YL Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unveiling-the-upgraded-2023-samsung-bd-j5900-for-2024/"><u>Unveiling the Upgraded 2023 Samsung BD-J5900 for 2024</u></a></li>
 </ul></div>
 
