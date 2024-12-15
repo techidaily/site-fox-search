@@ -1,7 +1,7 @@
 ---
 title: 探究宋朝时期文景之治在中国历史上的地位与作用
-date: 2024-12-07T20:05:52.970Z
-updated: 2024-12-08T16:34:45.898Z
+date: 2024-12-08T22:32:40.179Z
+updated: 2024-12-15T03:56:29.066Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,24 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-search.techidaily.com/1-master-your-typing-experience-tailor-your-keyboard-setup-with-yl-software/"><u>1. Master Your Typing Experience: Tailor Your Keyboard Setup with YL Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-lava-yuva-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Lava Yuva 2 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beating-the-chatgpt-at-capacity-hurdle-in-windows-computers/"><u>Beating the 'ChatGPT at Capacity' Hurdle in Windows Computers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/crafting-content-that-captivates-for-virality-on-ig/"><u>Crafting Content that Captivates for Virality on IG</u></a></li>
-<li><a href="https://fox-search.techidaily.com/decoding-tech-jargon-understanding-blockchain-versus-distributed-ledgers-with-yl-software-insights/"><u>Decoding Tech Jargon: Understanding Blockchain Versus Distributed Ledgers with YL Software Insights</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-hardware-care-strategies-for-windows-pcs-insights-from-yl-computings-expertise/"><u>Effective Hardware Care Strategies for Windows PCs: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-resolve-undetected-printer-device-issue-in-windows-installation-expert-advice-from-yl-software/"><u>How To Resolve 'Undetected Printer Device' Issue in Windows Installation – Expert Advice From YL Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-m6-pro-4g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/integrating-youtube-into-your-imovie-projects-for-2024/"><u>Integrating YouTube Into Your iMovie Projects for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/personalizing-content-in-yl-computings-control-panel-step-by-step-instructions-for-optimal-user-experience/"><u>Personalizing Content in YL Computing's Control Panel - Step-by-Step Instructions for Optimal User Experience</u></a></li>
-<li><a href="https://fox-search.techidaily.com/personalizing-yl-computings-dashboard-a-guide-to-adjusting-the-settings-perfectly/"><u>Personalizing YL Computing's Dashboard: A Guide to Adjusting the Settings Perfectly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-methods-to-update-your-asus-maximus-x-heros-drivers-effectively/"><u>Quick and Easy Methods to Update Your ASUS Maximus X Hero's Drivers Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-12-transcodificadores-mp4-mais-populares-e-livres-em-2024-ampla-compatibilidade-com-computador-e-dispositivo-movel/"><u>Top 12 Transcodificadores MP4 Mais Populares E Livres Em 2024: Ampla Compatibilidade Com Computador E Dispositivo Móvel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-experience-the-ultimate-audio-quality-with-a-50-discount-on-best-buys-top-rated-speakers-zdnet-review/"><u>Unbeatable Deal: Experience the Ultimate Audio Quality with a 50% Discount on Best Buy's Top-Rated Speakers – ZDNet Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-fusion-of-cost-effective-and-premium-video-collage-for-android-devices/"><u>[Updated] Best Fusion of Cost-Effective and Premium Video Collage for Android Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-iphones-video-fix-combat-blurry-facebook-videos/"><u>[Updated] In 2024, IPhone's Video Fix Combat Blurry Facebook Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-cutting-edge-design-top-5-3d-intro-makers/"><u>2024 Approved Cutting-Edge Design Top 5 3D Intro Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-image-editors-your-ultimate-text-companion/"><u>2024 Approved Innovative Image Editors Your Ultimate Text Companion</u></a></li>
+<li><a href="https://games-able.techidaily.com/cpu-vs-gpu-upgrade-sequence-for-maximum-benefit/"><u>CPU Vs. GPU: Upgrade Sequence for Maximum Benefit</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/essential-elements-to-evaluate-when-choosing-a-non-carrier-locked-phone/"><u>Essential Elements to Evaluate When Choosing a Non-Carrier Locked Phone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-different-cryptocurrencies-insights-from-yl-computing/"><u>Exploring Different Cryptocurrencies: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-factors-that-lead-to-hardware-incompatibility-a-perspective-from-yl-software-experts/"><u>Exploring Factors That Lead To Hardware Incompatibility - A Perspective From YL Software Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/from-photo-to-film-the-cinematic-edge-of-iphone-x-for-2024/"><u>From Photo to Film The Cinematic Edge of iPhone X for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/from-turntables-to-tap-playlists-how-downloads-and-streaming-dominate-todays-music-consumption-over-vinyl/"><u>From Turntables to Tap Playlists: How Downloads and Streaming Dominate Today's Music Consumption over Vinyl</u></a></li>
+<li><a href="https://fox-search.techidaily.com/identifying-and-resolving-windows-registry-errors-with-ease-a-comprehensive-guide-by-yl-computing/"><u>Identifying and Resolving Windows Registry Errors with Ease: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/identifying-motherboard-issues-expert-guide-from-yl-computing/"><u>Identifying Motherboard Issues: Expert Guide From YL Computing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-15-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 15 and iPad Securely</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-tailor-made-youtube-url-strategies-an-easier-approach/"><u>In 2024, Tailor-Made YouTube URL Strategies An Easier Approach</u></a></li>
+<li><a href="https://fox-search.techidaily.com/next-level-mixing-expert-djs-share-top-tips-on-song-selection-and-harmonic-pairing-with-the-ultimate-crate-hack-guide/"><u>Next-Level Mixing: Expert DJs Share Top Tips on Song Selection and Harmonic Pairing with the Ultimate Crate Hack Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/personalizing-your-experience-tailor-windows-appearance-with-yl-software-solutions/"><u>Personalizing Your Experience: Tailor Windows Appearance with YL Software Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/setting-your-preferred-application-as-the-default-handler-for-specific-file-types-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Setting Your Preferred Application as the Default Handler for Specific File Types on Windows - A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://discover-help.techidaily.com/verifying-scanner-driver-compatibility-for-windows-operating-systems-tips-from-yl-computing/"><u>Verifying Scanner Driver Compatibility for Windows Operating Systems - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/windows-registry-protection-guide-securely-saving-and-recovering-with-step-by-step-instructions-from-yl-software/"><u>Windows Registry Protection Guide: Securely Saving and Recovering with Step-by-Step Instructions From YL Software</u></a></li>
 </ul></div>
 

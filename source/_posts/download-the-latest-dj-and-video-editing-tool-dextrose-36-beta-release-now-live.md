@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ & Video Editing Tool: Dextrose 3.6 Beta Release Now Live!"
-date: 2024-12-03T02:43:20.893Z
-updated: 2024-12-08T19:39:57.370Z
+date: 2024-12-12T18:31:37.288Z
+updated: 2024-12-15T04:23:13.633Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,20 +72,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unlocking-the-secrets-of-instagrams-saved-content/"><u>[New] In 2024, Unlocking the Secrets of Instagram's Saved Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ideal-audio-recording-equipment-for-idevices-enthusiasts-for-2024/"><u>[Updated] Ideal Audio Recording Equipment for iDevices Enthusiasts for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-ways-to-add-music-to-imovie-from-youtube/"><u>[Updated] In 2024, Easy Ways to Add Music to iMovie From YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youtubes-opposite-order-rearranging-videos-in-reverse-flow-for-2024/"><u>[Updated] Youtube's Opposite Order Rearranging Videos in Reverse Flow for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-crypto-compatible-wallets-top-picks-by-yl-computing-and-how-they-secure-your-digital-assets/"><u>Best Crypto-Compatible Wallets: Top Picks by YL Computing & How They Secure Your Digital Assets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cut-down-co2-a-revolutionary-application-for-real-time-tracking-of-personal-carbon-dioxide-emissions/"><u>Cut Down CO2: A Revolutionary Application for Real-Time Tracking of Personal Carbon Dioxide Emissions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-minimize-pre-installed-software-clutter-tips-and-strategies-yl-solutions/"><u>How to Minimize Pre-Installed Software Clutter: Tips & Strategies - YL Solutions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-comedy-cornucopia-twitters-best/"><u>In 2024, Comedy Cornucopia Twitter's Best</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g23-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G23 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-extracting-aol-contacts-yl-computings-guide/"><u>Mastering the Art of Extracting AOL Contacts: YL Computing's Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/mastery-of-spotify-ad-formats-and-best-practices-for-2024/"><u>Mastery of Spotify Ad Formats and Best Practices for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/overcoming-launch-failures-in-applications-expertise-by-yl-computing/"><u>Overcoming Launch Failures in Applications: Expertise by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/securing-personal-information-while-engaging-in-crypto-transactions-expert-advice-from-yl-computing/"><u>Securing Personal Information While Engaging in Crypto Transactions: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-aftermath-of-the-opium-war-insights-and-outcomes-explored-by-yl-software-solutions/"><u>The Aftermath of the Opium War: Insights and Outcomes Explored by YL Software Solutions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-12-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 12 Pro Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-enhance-networked-stream-quality-with-vlc/"><u>[New] How to Enhance Networked Stream Quality with VLC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-sundae-surveillance-insightful-review-of-frozen-film-software/"><u>[New] In 2024, Sundae Surveillance Insightful Review of Frozen Film Software</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-tube-top-ten-the-most-viewed-tweets-on-social-media/"><u>[Updated] 2024 Approved Tube Top Ten The Most Viewed Tweets on Social Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unveiling-the-most-effective-obs-studio-edits-methods/"><u>[Updated] In 2024, Unveiling the Most Effective OBS Studio Edits Methods</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-responding-to-criticism-with-confidence-on-youtube/"><u>[Updated] Responding to Criticism with Confidence on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-technological-trendsetters-exclusive-picks-for-2024/"><u>[Updated] Technological Trendsetters - Exclusive Picks for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-10-gratuitous-online-transformers-for-srt-files/"><u>Best 10 Gratuitous Online Transformers for Srt Files</u></a></li>
+<li><a href="https://fox-search.techidaily.com/diagnosing-non-detectable-storage-issues-insights-and-solutions-by-yl-technology-experts/"><u>Diagnosing Non-Detectable Storage Issues: Insights and Solutions by YL Technology Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/dynamic-roaring-lion-theme-high-resolution-walls-backgrounds-and-imagery-by-yl-computing/"><u>Dynamic Roaring Lion Theme - High-Resolution Walls, Backgrounds & Imagery by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/fast-fixes-for-a-lazy-launch-solving-slow-startup-woes-with-yl-software-your-guide-by-yl-computing/"><u>Fast Fixes for a Lazy Launch: Solving Slow Startup Woes with YL Software – Your Guide by YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-7-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 7 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/is-your-pcs-main-board-failing-diagnosing-and-confirming-motherboard-issues-with-yl-computing-solutions/"><u>Is Your PC's Main Board Failing? Diagnosing and Confirming Motherboard Issues with YL Computing Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maximize-performance-with-a-new-cpu-expert-tips-from-yl-software/"><u>Maximize Performance with a New CPU - Expert Tips From YL Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-why-your-computer-may-halt-exploring-causes-with-yl-software-experts/"><u>Understanding Why Your Computer May Halt: Exploring Causes with YL Software Experts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-11-how-to-easily-fix-a-bad-pool-caller-problem/"><u>Windows 11: How to Easily Fix a Bad Pool Caller Problem</u></a></li>
 </ul></div>
 

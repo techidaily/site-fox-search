@@ -1,7 +1,7 @@
 ---
 title: Discover New Features in LYRX v1.10.2 - Latest Update From PCDJ's Karaoke Suite
-date: 2024-12-05T21:07:42.849Z
-updated: 2024-12-08T22:03:17.686Z
+date: 2024-12-13T20:00:14.158Z
+updated: 2024-12-15T03:57:10.826Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’re thrilled to introduce the latest iteration of our top karaoke show hosti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Duplicate Entries in Singer History!
@@ -33,7 +33,7 @@ One of the standout changes included in this free update is a significant improv
 **NOTE:** Duplicates will initially display in singer history. Once you re-play a song that was previously written to a singer’s history, LYRX will then remove all duplicates, leaving only the one song entry in their history.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Key Changes in LYRX 1.10.2 include:
@@ -44,7 +44,7 @@ One of the standout changes included in this free update is a significant improv
 In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke hosting to new heights – download it today! We thank you for your continued trust and support. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All Updates Included in LYRX 1.10.2
@@ -62,7 +62,7 @@ In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke host
 _Have questions about the latest 1.10.2 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,20 +84,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2023/08/lyrx1102.jpg?fit=1176%2C68
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-3-innovative-ways-to-record-on-your-ipad/"><u>[New] In 2024, 3 Innovative Ways to Record on Your iPad</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-snapshot-surge-no-money-required-image-uplift/"><u>[Updated] 2024 Approved Snapshot Surge No Money Required Image Uplift</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-visual-simplification-in-hybrid-workspaces-with-zoom-and-google-meet/"><u>[Updated] In 2024, Visual Simplification in Hybrid Workspaces with Zoom & Google Meet</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-iphone-2024-voice-memo-capturer/"><u>[Updated] IPhone 2024 Voice Memo Capturer</u></a></li>
-<li><a href="https://fox-search.techidaily.com/diagnosing-non-detectable-storage-issues-insights-and-solutions-by-yl-technology-experts/"><u>Diagnosing Non-Detectable Storage Issues: Insights and Solutions by YL Technology Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/dynamic-roaring-lion-theme-high-resolution-walls-backgrounds-and-imagery-by-yl-computing/"><u>Dynamic Roaring Lion Theme - High-Resolution Walls, Backgrounds & Imagery by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/fast-fixes-for-a-lazy-launch-solving-slow-startup-woes-with-yl-software-your-guide-by-yl-computing/"><u>Fast Fixes for a Lazy Launch: Solving Slow Startup Woes with YL Software – Your Guide by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-fix-issues-with-your-computers-main-board-tips-by-yl-technicians/"><u>How to Fix Issues with Your Computer's Main Board, Tips by YL Technicians</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/is-your-pcs-main-board-failing-diagnosing-and-confirming-motherboard-issues-with-yl-computing-solutions/"><u>Is Your PC's Main Board Failing? Diagnosing and Confirming Motherboard Issues with YL Computing Solutions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/leading-the-pack-2023s-8-facebook-movie-downloads/"><u>Leading the Pack 2023'S #8 Facebook Movie Downloads</u></a></li>
-<li><a href="https://fox-search.techidaily.com/maximize-performance-with-a-new-cpu-expert-tips-from-yl-software/"><u>Maximize Performance with a New CPU - Expert Tips From YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-computer-how-to-tame-unwarranted-system-load-caused-by-infrastructure-shell-on-windowslinux/"><u>Reviving Your Computer: How to Tame Unwarranted System Load Caused By Infrastructure Shell on Windows/Linux</u></a></li>
-<li><a href="https://fox-search.techidaily.com/tracking-cryptocurrency-holdings-easy-steps-to-check-balances-using-yl-software-tools/"><u>Tracking Cryptocurrency Holdings: Easy Steps to Check Balances Using YL Software Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-claude-pros-unique-offerings-compared-to-gptplus/"><u>Understanding Claude Pro's Unique Offerings Compared to GPT+</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-lens-innovative-techniques-using-hero5-black/"><u>Behind the Lens Innovative Techniques Using Hero5 Black</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comparative-analysis-cryptocurrency-vs-conventional-money-insights-from-yl-computings-expertise/"><u>Comparative Analysis: Cryptocurrency Vs. Conventional Money - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-search.techidaily.com/diagnosing-a-sluggish-graphics-card-expert-advice-by-yl-software-team/"><u>Diagnosing a Sluggish Graphics Card - Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/explore-rbuk-felicity-themed-wallpapers-and-backgrounds-with-high-quality-visuals-by-yl-computing/"><u>Explore RBUK Felicity Themed Wallpapers & Backgrounds with High-Quality Visuals by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oppo-find-x6-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Oppo Find X6 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://fox-search.techidaily.com/identifying-and-troubleshooting-power-supply-problems-a-comprehensive-guide-by-yl-computing/"><u>Identifying and Troubleshooting Power Supply Problems: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-a2-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo A2 Pattern Lock Screen</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfecting-the-science-of-converting-speech-to-text-with-google/"><u>In 2024, Perfecting the Science of Converting Speech to Text with Google</u></a></li>
+<li><a href="https://fox-search.techidaily.com/professional-aquatic-mist-graphics-for-design-projects-elegant-droplet-backdrops-from-yl-software-collection/"><u>Professional Aquatic Mist Graphics for Design Projects - Elegant Droplet Backdrops From YL Software Collection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-s23-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after S23 has been deleted.</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-safe-graphics-card-removal-explained-by-yl-computing/"><u>Step-by-Step Guide: Safe Graphics Card Removal Explained by YL Computing</u></a></li>
 </ul></div>
 

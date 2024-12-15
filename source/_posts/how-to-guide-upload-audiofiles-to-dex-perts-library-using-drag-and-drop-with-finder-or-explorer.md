@@ -1,7 +1,7 @@
 ---
 title: How-To Guide - Upload Audio/Files to DEX Pert's Library Using Drag and Drop with Finder or Explorer
-date: 2024-12-01T23:14:55.641Z
-updated: 2024-12-09T04:11:05.870Z
+date: 2024-12-12T23:15:49.706Z
+updated: 2024-12-14T19:44:24.768Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-a-beginners-guide-to-quantum-hdr-systems/"><u>[New] A Beginner’s Guide to Quantum HDR Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-guide-to-growing-groups-of-great-guests-subscribers-on-youtube/"><u>[New] The Guide to Growing Groups of Great Guests (Subscribers) on Youtube</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-facebook-tutorial-how-to-create-facebook-account/"><u>[Updated] 2024 Approved Facebook Tutorial How to Create Facebook Account</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-photo-perfection-in-pixels-a-compreran-guide-to-polarrs-features/"><u>2024 Approved Photo Perfection in Pixels A Compreran Guide to Polarr’s Features</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-v27e-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo V27e Phone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/accelerate-your-computer-effective-techniques-for-removing-unnecessary-files-tips-from-yl-software/"><u>Accelerate Your Computer: Effective Techniques for Removing Unnecessary Files - Tips From YL Software</u></a></li>
-<li><a href="https://fox-search.techidaily.com/boost-your-computers-efficiency-top-strategies-from-yl-computing-and-yl-software/"><u>Boost Your Computer's Efficiency: Top Strategies From YL Computing and YL Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-av1-video-compression-gain-speed-boosts-without-hardware-acceleration/"><u>Can AV1 Video Compression Gain Speed Boosts without Hardware Acceleration?</u></a></li>
-<li><a href="https://games-able.techidaily.com/fate-of-ps-plus-games-after-cancellation/"><u>Fate of PS Plus Games After Cancellation</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-determine-your-windows-11-version-expert-tips-from-yl-computing/"><u>How to Determine Your Windows 11 Version: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a58-4g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A58 4G</u></a></li>
-<li><a href="https://fox-search.techidaily.com/navigating-the-world-of-crypto-exchanges-with-ease-yl-softwares-step-by-step-tutorial/"><u>Navigating the World of Crypto Exchanges with Ease - YL Software's Step-by-Step Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionizing-video-snippet-harvesting-with-gpus/"><u>Revolutionizing Video Snippet Harvesting with GPUs</u></a></li>
-<li><a href="https://fox-search.techidaily.com/solving-the-mystery-of-sporadic-system-crashes-with-yls-expertise-in-computing/"><u>Solving the Mystery of Sporadic System Crashes with YL's Expertise in Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/stunning-calumon-collection-high-quality-backgrounds-and-wallpapers-by-yl-computing/"><u>Stunning Calumon Collection: High-Quality Backgrounds & Wallpapers by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-unrecognized-network-cards-in-windows-step-by-step-guide-by-yl-computing/"><u>Troubleshooting Unrecognized Network Cards in Windows - Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-confucius-impact-on-traditional-chinese-societal-norms-and-governmental-practices-insights-from-yl-software/"><u>Understanding Confucius' Impact on Traditional Chinese Societal Norms and Governmental Practices - Insights From YL Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-insights-the-best-apps-to-supercharge-your-profile/"><u>[New] 2024 Approved Instagram Insights The Best Apps to Supercharge Your Profile</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-photo-editing-unveiling-background-eraser-in-adobe-photoshop/"><u>[New] Mastering Photo Editing Unveiling Background Eraser in Adobe Photoshop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029507902-windows-78/"><u>「Windows 7・8」ビデオファイルを静止画に変換する簡単な手法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-safely-obtain-vlc-player-at-no-charge-on-macos/"><u>2024 Approved How to Safely Obtain VLC Player at No Charge on MacOS</u></a></li>
+<li><a href="https://fox-search.techidaily.com/adjust-your-screen-configuration-with-ease-tips-from-yl-computings-latest-update/"><u>Adjust Your Screen Configuration with Ease - Tips From YL Computing's Latest Update!</u></a></li>
+<li><a href="https://games-able.techidaily.com/behemoth-performance-2500-msi-raider-hx-showdown/"><u>Behemoth Performance: $2500 MSI Raider HX Showdown</u></a></li>
+<li><a href="https://fox-search.techidaily.com/bridging-continents-through-peace-china-and-africa-unite-at-the-3rd-national-defense-forum-exclusive-coverage-by-yl-software/"><u>Bridging Continents Through Peace: China & Africa Unite at the 3Rd National Defense Forum - Exclusive Coverage by YL Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-gratuite-de-fichiers-wtv-en-format-mkv-avec-movavi-facile-et-rapide/"><u>Conversion Gratuite De Fichiers WTV en Format MKV Avec Movavi - Facile Et Rapide !</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-audio-converter-mp3-and-wav-formats-by-movavi/"><u>Free Online Audio Converter - MP3 & WAV Formats by Movavi</u></a></li>
+<li><a href="https://fox-search.techidaily.com/graphics-card-detection-issues-diagnosing-why-your-gpu-isnt-showing-up-on-windows-device-manager-with-help-from-yl-software-experts/"><u>Graphics Card Detection Issues: Diagnosing Why Your GPU Isn't Showing Up on Windows Device Manager with Help From YL Software Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-can-i-check-and-update-my-graphics-card-drivers-on-windows-and-macos-tips-from-yl-computing/"><u>How Can I Check and Update My Graphics Card Drivers on Windows & macOS - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/identifying-cpu-health-issues-symptoms-and-solutions-with-yl-software-expertise/"><u>Identifying CPU Health Issues: Symptoms & Solutions with YL Software Expertise</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-12-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus 12 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/optimizing-visual-clarity-screen-resolution-settings-explained-tips-from-yl-software/"><u>Optimizing Visual Clarity: Screen Resolution Settings Explained - Tips From YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/pop-up-blocker-software-remove-persistent-ads-with-the-advanced-adware-eliminator-by-malwarefox/"><u>Pop-Up Blocker Software: Remove Persistent Ads with the Advanced Adware Eliminator by MalwareFox</u></a></li>
+<li><a href="https://fox-search.techidaily.com/premium-hd-russell-westbrook-wallpaper-collection-crisp-photos-and-images-from-yl-computings-exclusive-library/"><u>Premium HD Russell Westbrook Wallpaper Collection - Crisp Photos and Images From YL Computing's Exclusive Library</u></a></li>
+<li><a href="https://fox-search.techidaily.com/unlocking-the-secrets-of-professional-dj-stances-and-moves-on-your-controller/"><u>Unlocking the Secrets of Professional DJ Stances & Moves on Your Controller</u></a></li>
 </ul></div>
 
