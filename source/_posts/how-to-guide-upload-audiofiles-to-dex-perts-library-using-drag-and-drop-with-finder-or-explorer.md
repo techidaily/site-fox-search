@@ -1,7 +1,7 @@
 ---
 title: How-To Guide - Upload Audio/Files to DEX Pert's Library Using Drag and Drop with Finder or Explorer
-date: 2024-12-12T23:15:49.706Z
-updated: 2024-12-14T19:44:24.768Z
+date: 2024-12-21T01:16:19.672Z
+updated: 2024-12-23T22:52:07.014Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-insights-the-best-apps-to-supercharge-your-profile/"><u>[New] 2024 Approved Instagram Insights The Best Apps to Supercharge Your Profile</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-photo-editing-unveiling-background-eraser-in-adobe-photoshop/"><u>[New] Mastering Photo Editing Unveiling Background Eraser in Adobe Photoshop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029507902-windows-78/"><u>「Windows 7・8」ビデオファイルを静止画に変換する簡単な手法</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-safely-obtain-vlc-player-at-no-charge-on-macos/"><u>2024 Approved How to Safely Obtain VLC Player at No Charge on MacOS</u></a></li>
-<li><a href="https://fox-search.techidaily.com/adjust-your-screen-configuration-with-ease-tips-from-yl-computings-latest-update/"><u>Adjust Your Screen Configuration with Ease - Tips From YL Computing's Latest Update!</u></a></li>
-<li><a href="https://games-able.techidaily.com/behemoth-performance-2500-msi-raider-hx-showdown/"><u>Behemoth Performance: $2500 MSI Raider HX Showdown</u></a></li>
-<li><a href="https://fox-search.techidaily.com/bridging-continents-through-peace-china-and-africa-unite-at-the-3rd-national-defense-forum-exclusive-coverage-by-yl-software/"><u>Bridging Continents Through Peace: China & Africa Unite at the 3Rd National Defense Forum - Exclusive Coverage by YL Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversion-gratuite-de-fichiers-wtv-en-format-mkv-avec-movavi-facile-et-rapide/"><u>Conversion Gratuite De Fichiers WTV en Format MKV Avec Movavi - Facile Et Rapide !</u></a></li>
-<li><a href="https://win-blog.techidaily.com/free-online-audio-converter-mp3-and-wav-formats-by-movavi/"><u>Free Online Audio Converter - MP3 & WAV Formats by Movavi</u></a></li>
-<li><a href="https://fox-search.techidaily.com/graphics-card-detection-issues-diagnosing-why-your-gpu-isnt-showing-up-on-windows-device-manager-with-help-from-yl-software-experts/"><u>Graphics Card Detection Issues: Diagnosing Why Your GPU Isn't Showing Up on Windows Device Manager with Help From YL Software Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-can-i-check-and-update-my-graphics-card-drivers-on-windows-and-macos-tips-from-yl-computing/"><u>How Can I Check and Update My Graphics Card Drivers on Windows & macOS - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/identifying-cpu-health-issues-symptoms-and-solutions-with-yl-software-expertise/"><u>Identifying CPU Health Issues: Symptoms & Solutions with YL Software Expertise</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-12-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus 12 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/optimizing-visual-clarity-screen-resolution-settings-explained-tips-from-yl-software/"><u>Optimizing Visual Clarity: Screen Resolution Settings Explained - Tips From YL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/pop-up-blocker-software-remove-persistent-ads-with-the-advanced-adware-eliminator-by-malwarefox/"><u>Pop-Up Blocker Software: Remove Persistent Ads with the Advanced Adware Eliminator by MalwareFox</u></a></li>
-<li><a href="https://fox-search.techidaily.com/premium-hd-russell-westbrook-wallpaper-collection-crisp-photos-and-images-from-yl-computings-exclusive-library/"><u>Premium HD Russell Westbrook Wallpaper Collection - Crisp Photos and Images From YL Computing's Exclusive Library</u></a></li>
-<li><a href="https://fox-search.techidaily.com/unlocking-the-secrets-of-professional-dj-stances-and-moves-on-your-controller/"><u>Unlocking the Secrets of Professional DJ Stances & Moves on Your Controller</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-simplified-steps-for-crafting-professional-srt-files-for-2024/"><u>[Updated] Simplified Steps for Crafting Professional SRT Files for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-6800-xt-graphics-card-drivers-latest-version-and-download-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6800 XT Graphics Card Drivers: Latest Version & Download for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-y55s-5g-2023-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo Y55s 5G (2023) to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/beginners-ultimate-guide-to-cryptocurrency-markets-by-yl-software-experts/"><u>Beginner's Ultimate Guide to Cryptocurrency Markets by YL Software Experts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-s17-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo S17 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-techniques-for-eradicating-malware-from-your-pc-insights-by-yl-computing/"><u>Effective Techniques for Eradicating Malware From Your PC - Insights by YL Computing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-14-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi 14 Prowith/without a PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-pro-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 Pro 4G Users</u></a></li>
+<li><a href="https://fox-search.techidaily.com/is-microsofts-windows-defender-free-of-extra-charges-insights-from-yl-computing-blog/"><u>Is Microsoft's Windows Defender Free of Extra Charges? Insights From YL Computing Blog</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/1723262389474-save-700-on-your-new-aurora-r16-pc-with-the-ultimate-alienware-bundle-deal-plus-grab-a-stunning-34-oled-monitor/"><u>Save $700 on Your New Aurora R16 PC with the Ultimate Alienware Bundle Deal - Plus, Grab a Stunning 34 OLED Monitor!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tailoring-your-input-devices-a-guide-to-personalizing-mouse-and-keyboard-preferences-by-yl-tech-solutions/"><u>Tailoring Your Input Devices: A Guide to Personalizing Mouse & Keyboard Preferences - By YL Tech Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029310589-top-rated-ogg-to-mp3-transcoder-ultimate-guide-for-pc-and-mac-users-updated/"><u>Top Rated OGG to MP3 Transcoder: Ultimate Guide for PC & Mac Users (Updated )</u></a></li>
+<li><a href="https://fox-search.techidaily.com/unmasking-impersonation-frauds-in-the-world-of-cryptocurrency-insights-by-yl-computing/"><u>Unmasking Impersonation Frauds in the World of Cryptocurrency - Insights by YL Computing</u></a></li>
 </ul></div>
 

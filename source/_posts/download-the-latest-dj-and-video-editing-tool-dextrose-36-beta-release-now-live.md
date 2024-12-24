@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ & Video Editing Tool: Dextrose 3.6 Beta Release Now Live!"
-date: 2024-12-12T18:31:37.288Z
-updated: 2024-12-15T04:23:13.633Z
+date: 2024-12-20T17:47:34.112Z
+updated: 2024-12-24T04:36:07.316Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,20 +72,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-how-to-enhance-networked-stream-quality-with-vlc/"><u>[New] How to Enhance Networked Stream Quality with VLC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-sundae-surveillance-insightful-review-of-frozen-film-software/"><u>[New] In 2024, Sundae Surveillance Insightful Review of Frozen Film Software</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-tube-top-ten-the-most-viewed-tweets-on-social-media/"><u>[Updated] 2024 Approved Tube Top Ten The Most Viewed Tweets on Social Media</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unveiling-the-most-effective-obs-studio-edits-methods/"><u>[Updated] In 2024, Unveiling the Most Effective OBS Studio Edits Methods</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-responding-to-criticism-with-confidence-on-youtube/"><u>[Updated] Responding to Criticism with Confidence on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-technological-trendsetters-exclusive-picks-for-2024/"><u>[Updated] Technological Trendsetters - Exclusive Picks for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-10-gratuitous-online-transformers-for-srt-files/"><u>Best 10 Gratuitous Online Transformers for Srt Files</u></a></li>
-<li><a href="https://fox-search.techidaily.com/diagnosing-non-detectable-storage-issues-insights-and-solutions-by-yl-technology-experts/"><u>Diagnosing Non-Detectable Storage Issues: Insights and Solutions by YL Technology Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/dynamic-roaring-lion-theme-high-resolution-walls-backgrounds-and-imagery-by-yl-computing/"><u>Dynamic Roaring Lion Theme - High-Resolution Walls, Backgrounds & Imagery by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/fast-fixes-for-a-lazy-launch-solving-slow-startup-woes-with-yl-software-your-guide-by-yl-computing/"><u>Fast Fixes for a Lazy Launch: Solving Slow Startup Woes with YL Software – Your Guide by YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-7-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 7 Plus With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/is-your-pcs-main-board-failing-diagnosing-and-confirming-motherboard-issues-with-yl-computing-solutions/"><u>Is Your PC's Main Board Failing? Diagnosing and Confirming Motherboard Issues with YL Computing Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/maximize-performance-with-a-new-cpu-expert-tips-from-yl-software/"><u>Maximize Performance with a New CPU - Expert Tips From YL Software</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-why-your-computer-may-halt-exploring-causes-with-yl-software-experts/"><u>Understanding Why Your Computer May Halt: Exploring Causes with YL Software Experts</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-how-to-easily-fix-a-bad-pool-caller-problem/"><u>Windows 11: How to Easily Fix a Bad Pool Caller Problem</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-first-look-at-organizing-zoom-session-rooms/"><u>[Updated] In 2024, First Look at Organizing Zoom Session Rooms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-free-timers-for-daily-use/"><u>[Updated] Ultimate Free Timers for Daily Use</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-exploring-soft-cessation-of-audio-tracks-with-audacity/"><u>2024 Approved Exploring Soft Cessation of Audio Tracks with Audacity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726030402841-2024top6/"><u>2024年向け推奨動画編集ソフトウェアTOP6: すべてフリー版で試せる</u></a></li>
+<li><a href="https://fox-search.techidaily.com/decoding-tech-jargon-understanding-blockchain-versus-distributed-ledgers-with-yl-software-insights/"><u>Decoding Tech Jargon: Understanding Blockchain Versus Distributed Ledgers with YL Software Insights</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discreetly-concealing-files-on-your-pc-with-windows-10-a-step-by-step-guide-yl-computing/"><u>Discreetly Concealing Files on Your PC with Windows 10: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-edge-40-neo-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Edge 40 Neo Device SIM</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-hardware-care-strategies-for-windows-pcs-insights-from-yl-computings-expertise/"><u>Effective Hardware Care Strategies for Windows PCs: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-windows-non-recognition-of-wireless-card-tl-wn7ebx-722n-success-story/"><u>Fixing Window's Non-Recognition of Wireless Card: TL-WN7ebx 722N Success Story</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-v30-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo V30 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/high-resolution-fantasy-landscapes-stunning-hd-backgrounds-by-yl-software/"><u>High-Resolution Fantasy Landscapes: Stunning HD Backgrounds by YL Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-microphone-step-by-step-guide/"><u>How To Repair Your iPhone's Microphone: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/personalizing-content-in-yl-computings-control-panel-step-by-step-instructions-for-optimal-user-experience/"><u>Personalizing Content in YL Computing's Control Panel - Step-by-Step Instructions for Optimal User Experience</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-game-lags-how-your-graphics-card-can-be-the-culprit-insights-by-yl-computing/"><u>Troubleshooting Game Lags: How Your Graphics Card Can Be the Culprit - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/yl-computings-exquisite-blooming-flames-unique-fire-infused-floral-wallpaper-collections/"><u>YL Computing's Exquisite Blooming Flames: Unique Fire-Infused Floral Wallpaper Collections</u></a></li>
 </ul></div>
 

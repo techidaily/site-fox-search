@@ -1,7 +1,7 @@
 ---
 title: 探究宋朝时期文景之治在中国历史上的地位与作用
-date: 2024-12-08T22:32:40.179Z
-updated: 2024-12-15T03:56:29.066Z
+date: 2024-12-23T07:12:37.704Z
+updated: 2024-12-23T22:14:55.706Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,18 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-best-fusion-of-cost-effective-and-premium-video-collage-for-android-devices/"><u>[Updated] Best Fusion of Cost-Effective and Premium Video Collage for Android Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-iphones-video-fix-combat-blurry-facebook-videos/"><u>[Updated] In 2024, IPhone's Video Fix Combat Blurry Facebook Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-cutting-edge-design-top-5-3d-intro-makers/"><u>2024 Approved Cutting-Edge Design Top 5 3D Intro Makers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-image-editors-your-ultimate-text-companion/"><u>2024 Approved Innovative Image Editors Your Ultimate Text Companion</u></a></li>
-<li><a href="https://games-able.techidaily.com/cpu-vs-gpu-upgrade-sequence-for-maximum-benefit/"><u>CPU Vs. GPU: Upgrade Sequence for Maximum Benefit</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/essential-elements-to-evaluate-when-choosing-a-non-carrier-locked-phone/"><u>Essential Elements to Evaluate When Choosing a Non-Carrier Locked Phone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exploring-different-cryptocurrencies-insights-from-yl-computing/"><u>Exploring Different Cryptocurrencies: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exploring-factors-that-lead-to-hardware-incompatibility-a-perspective-from-yl-software-experts/"><u>Exploring Factors That Lead To Hardware Incompatibility - A Perspective From YL Software Experts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/from-photo-to-film-the-cinematic-edge-of-iphone-x-for-2024/"><u>From Photo to Film The Cinematic Edge of iPhone X for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/from-turntables-to-tap-playlists-how-downloads-and-streaming-dominate-todays-music-consumption-over-vinyl/"><u>From Turntables to Tap Playlists: How Downloads and Streaming Dominate Today's Music Consumption over Vinyl</u></a></li>
-<li><a href="https://fox-search.techidaily.com/identifying-and-resolving-windows-registry-errors-with-ease-a-comprehensive-guide-by-yl-computing/"><u>Identifying and Resolving Windows Registry Errors with Ease: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/identifying-motherboard-issues-expert-guide-from-yl-computing/"><u>Identifying Motherboard Issues: Expert Guide From YL Computing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-15-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 15 and iPad Securely</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-tailor-made-youtube-url-strategies-an-easier-approach/"><u>In 2024, Tailor-Made YouTube URL Strategies An Easier Approach</u></a></li>
-<li><a href="https://fox-search.techidaily.com/next-level-mixing-expert-djs-share-top-tips-on-song-selection-and-harmonic-pairing-with-the-ultimate-crate-hack-guide/"><u>Next-Level Mixing: Expert DJs Share Top Tips on Song Selection and Harmonic Pairing with the Ultimate Crate Hack Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/personalizing-your-experience-tailor-windows-appearance-with-yl-software-solutions/"><u>Personalizing Your Experience: Tailor Windows Appearance with YL Software Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/setting-your-preferred-application-as-the-default-handler-for-specific-file-types-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Setting Your Preferred Application as the Default Handler for Specific File Types on Windows - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-help.techidaily.com/verifying-scanner-driver-compatibility-for-windows-operating-systems-tips-from-yl-computing/"><u>Verifying Scanner Driver Compatibility for Windows Operating Systems - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/windows-registry-protection-guide-securely-saving-and-recovering-with-step-by-step-instructions-from-yl-software/"><u>Windows Registry Protection Guide: Securely Saving and Recovering with Step-by-Step Instructions From YL Software</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elevate-editing-excellence-cutting-edge-strategies-for-vimeo-video-reduction/"><u>[New] 2024 Approved Elevate Editing Excellence Cutting-Edge Strategies for Vimeo Video Reduction</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-prime-capture-device-your-ally-in-youtube-ventures/"><u>[New] Prime Capture Device Your Ally in YouTube Ventures</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-14-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 14? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-instructions-on-implementing-new-fonts-in-windows-settings-yls-comprehve-guide/"><u>Easy Instructions on Implementing New Fonts in Windows Settings - YL's Comprehve Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/enhance-clarity-in-social-video-downloads-for-smartphonestablets-for-2024/"><u>Enhance Clarity in Social Video Downloads for Smartphones/Tablets for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-logitech-g510-joystick-drivers-compatible-with-windows-operating-systems-7-10/"><u>Install Logitech G510 Joystick Drivers: Compatible with Windows Operating Systems 7-10</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ipad-dj-dex-trial-opportunity-help-us-perfect-the-ultimate-music-mixing-app/"><u>IPad DJ DEX Trial Opportunity - Help Us Perfect the Ultimate Music Mixing App!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maximize-pc-performance-by-clearing-up-storage-essential-tips-from-yl-computing/"><u>Maximize PC Performance by Clearing Up Storage: Essential Tips From YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essence-of-dji-inspire-2-distilled/"><u>The Essence of DJI Inspire 2 Distilled</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-common-scanner-issues-and-errors-with-yl-software-expertise/"><u>Troubleshooting Common Scanner Issues and Errors with YL Software Expertise</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-why-your-computer-may-halt-exploring-causes-with-yl-software-experts/"><u>Understanding Why Your Computer May Halt: Exploring Causes with YL Software Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/usb-osiso/"><u>USBに直接保存: OSで簡単なISOファイル作り手順</u></a></li>
+<li><a href="https://fox-search.techidaily.com/why-wont-my-computer-show-pictures-unveiling-diagnosis-and-fixes-with-yl-software-insights/"><u>Why Won't My Computer Show Pictures? Unveiling Diagnosis & Fixes with YL Software Insights</u></a></li>
 </ul></div>
 
