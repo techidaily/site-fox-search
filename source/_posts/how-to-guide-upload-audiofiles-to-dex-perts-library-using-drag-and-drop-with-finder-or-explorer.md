@@ -1,7 +1,7 @@
 ---
 title: How-To Guide - Upload Audio/Files to DEX Pert's Library Using Drag and Drop with Finder or Explorer
-date: 2024-12-21T01:16:19.672Z
-updated: 2024-12-23T22:52:07.014Z
+date: 2024-12-26T20:07:41.928Z
+updated: 2024-12-29T18:45:43.812Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-simplified-steps-for-crafting-professional-srt-files-for-2024/"><u>[Updated] Simplified Steps for Crafting Professional SRT Files for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-6800-xt-graphics-card-drivers-latest-version-and-download-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6800 XT Graphics Card Drivers: Latest Version & Download for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-y55s-5g-2023-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo Y55s 5G (2023) to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/beginners-ultimate-guide-to-cryptocurrency-markets-by-yl-software-experts/"><u>Beginner's Ultimate Guide to Cryptocurrency Markets by YL Software Experts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-s17-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo S17 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-techniques-for-eradicating-malware-from-your-pc-insights-by-yl-computing/"><u>Effective Techniques for Eradicating Malware From Your PC - Insights by YL Computing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-14-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi 14 Prowith/without a PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-pro-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 Pro 4G Users</u></a></li>
-<li><a href="https://fox-search.techidaily.com/is-microsofts-windows-defender-free-of-extra-charges-insights-from-yl-computing-blog/"><u>Is Microsoft's Windows Defender Free of Extra Charges? Insights From YL Computing Blog</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/1723262389474-save-700-on-your-new-aurora-r16-pc-with-the-ultimate-alienware-bundle-deal-plus-grab-a-stunning-34-oled-monitor/"><u>Save $700 on Your New Aurora R16 PC with the Ultimate Alienware Bundle Deal - Plus, Grab a Stunning 34 OLED Monitor!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/tailoring-your-input-devices-a-guide-to-personalizing-mouse-and-keyboard-preferences-by-yl-tech-solutions/"><u>Tailoring Your Input Devices: A Guide to Personalizing Mouse & Keyboard Preferences - By YL Tech Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029310589-top-rated-ogg-to-mp3-transcoder-ultimate-guide-for-pc-and-mac-users-updated/"><u>Top Rated OGG to MP3 Transcoder: Ultimate Guide for PC & Mac Users (Updated )</u></a></li>
-<li><a href="https://fox-search.techidaily.com/unmasking-impersonation-frauds-in-the-world-of-cryptocurrency-insights-by-yl-computing/"><u>Unmasking Impersonation Frauds in the World of Cryptocurrency - Insights by YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-zoom-session-division-for-starters-for-2024/"><u>[Updated] Zoom Session Division for Starters for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/adjusting-your-displays-font-size-a-step-by-step-guide-tech-solutions-with-yl/"><u>Adjusting Your Display's Font Size: A Step-by-Step Guide - Tech Solutions with YL</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-examination-editrite-pro-suite-the-final-word-2023-for-2024/"><u>Comprehensive Examination EditRite Pro Suite – The Final Word, 2023 for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/estimated-time-needed-to-fully-update-your-apple-music-collection/"><u>Estimated Time Needed to Fully Update Your Apple Music Collection</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-effortlessly-best-tech-for-vacations/"><u>Explore Effortlessly: Best Tech for Vacations</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-missing-d3dx9tld-error-expert-tips-for-quick-recovery/"><u>Fixing Missing D3dx9_tld Error: Expert Tips for Quick Recovery</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-determine-your-windows-11-version-expert-tips-from-yl-computing/"><u>How to Determine Your Windows 11 Version: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-send-faxes-without-spending-the-ultimate-guide/"><u>How To Send Faxes Without Spending: The Ultimate Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/navigating-the-world-of-crypto-exchanges-with-ease-yl-softwares-step-by-step-tutorial/"><u>Navigating the World of Crypto Exchanges with Ease - YL Software's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-s-top-rated-free-music-recording-programs-a-comprehensive-list/"><u>New In 2024, S Top-Rated Free Music Recording Programs A Comprehensive List</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/proven-techniques-for-uploading-and-displaying-imovie-films-on-vimeo-for-2024/"><u>Proven Techniques for Uploading and Displaying iMovie Films on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/red-mobile-dj-software-update-introducing-dex-3-rered-edition-the-ultimate-red-mixing-suite/"><u>RED Mobile DJ Software Update: Introducing DEX 3 Re(red Edition) - The Ultimate Red Mixing Suite</u></a></li>
+<li><a href="https://fox-search.techidaily.com/solving-the-mystery-of-your-pcs-noisy-fan-expert-tips-from-yl-computing/"><u>Solving the Mystery of Your PC's Noisy Fan: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/stunning-beach-wallsavers-and-image-banks-quality-visuals-from-yl-software/"><u>Stunning Beach Wallsavers & Image Banks - Quality Visuals From YL Software</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y200-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y200 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-your-non-printing-printer-common-issues-and-solutions-yl-computing/"><u>Troubleshooting Your Non-Printing Printer: Common Issues and Solutions - YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-confucius-impact-on-traditional-chinese-societal-norms-and-governmental-practices-insights-from-yl-software/"><u>Understanding Confucius' Impact on Traditional Chinese Societal Norms and Governmental Practices - Insights From YL Software</u></a></li>
 </ul></div>
 

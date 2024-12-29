@@ -1,7 +1,7 @@
 ---
 title: "How to Change Waveform Colors in DEX 3 Version 3.9 & Later: A Comprehensive Guide for Pioneer DJ Users"
-date: 2024-12-20T20:34:42.011Z
-updated: 2024-12-24T02:05:38.235Z
+date: 2024-12-27T19:38:03.055Z
+updated: 2024-12-29T21:42:36.718Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 is our **top DJ mixing software** solution for today’s versatile DJ that
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How-To Edit DEX 3 Waveform Colors
@@ -46,24 +46,16 @@ If you’re on a MAC the skin files are located inside the application itself. Y
 [VIEW LARGER IMAGE ![DEX 3 Skins Folder Location](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=300%2C195&ssl=1 "DEX 3 Skins Folder Location")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=1030%2C669&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Inside of the DEX 3 Skins folder you will find XML files for each DEX 3 skin variation. The 4-deck default skin will be labeled “dex38\_4” and the default (main) 2-deck default skin is labeled “dex38\_2”. You will need to right-click (Ctrl + Click on MAC) and open the XML file with a standard text editor such as Notepad on Windows or TextWrangler, Atom, Xcode, etc on MAC.
 
 [VIEW LARGER IMAGE ![Open DEX 3 XML skin files in notepad or text editor](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=300%2C195&ssl=1 "Open DEX 3 XML skin files in notepad or text editor")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=1030%2C671&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Once you’ve opened up the Skin XML file in a text editor, locate the text section (near the bottom) titled “Sound Display”. It’s in this section where you can edit the color codes for each DEX 3 deck. It’s shown highlighted in the image to the right. 
 
 [VIEW LARGER IMAGE ![DEX 3 sound display section](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=300%2C169&ssl=1 "DEX 3 sound display section")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** The color codes (HEX) you can edit for each deck (Note: we are demonstrating with the 4-deck XML file) are outlined in the image to the right.
 
@@ -74,6 +66,10 @@ You can simply type in or copy and paste in the color code you wish to use, repl
   
 [VIEW LARGER IMAGe ![DEX 3 color codes to edit for waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=300%2C169&ssl=1 "DEX 3 color codes to edit for waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Once you’ve edited the waveform color codes to your preference you can simply save the XML (via the text editor you’re using to edit the color codes) back into the skins folder, replacing the existing XML file already there. Make sure you just SAVE, and do not change the format of the skin file (It needs to remain an XML file). That should do it — launch DEX 3 after saving the XML file and your waveform color edits will be active!
 
 #### Here’s an edit I made to DEX 3’s deck A and deck C waveform colors for demonstration purposes:
@@ -81,10 +77,14 @@ You can simply type in or copy and paste in the color code you wish to use, repl
 [VIEW LARGER IMAGE ![DEX 3 with colored waveforms](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1 "DEX 3 with colored waveforms")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about **editing the waveform colors** in DEX 3 **DJ mixing software**? Please leave them in the comments section below!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -105,16 +105,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/editingwaveformcolors.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-improve-browser-performance-fb-vids-chrome/"><u>[New] 2024 Approved Improve Browser Performance FB Vids, Chrome</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-streamlining-your-monetization-mastering-youtube-adsense/"><u>[New] In 2024, Streamlining Your Monetization Mastering YouTube AdSense</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-how-to-use-movie-maker-on-windows-11/"><u>[Updated] How to Use Movie Maker on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-adding-apple-music-to-video/"><u>2024 Approved Adding Apple Music to Video</u></a></li>
-<li><a href="https://fox-search.techidaily.com/deciphering-the-mystery-of-non-reactive-video-cards-with-yl-software-insights/"><u>Deciphering the Mystery of Non-Reactive Video Cards with YL Software Insights</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-yl-computings-exclusive-in-house-creation-signonchain/"><u>Discover YL Computing's Exclusive In-House Creation: SignOnChain!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-review-the-safest-and-most-reliable-phones-for-children-zdnet/"><u>Expert Review: The Safest & Most Reliable Phones for Children (ZDNet)</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-fix-uneven-color-discrepancies-on-your-screen-expert-tips-by-yl-computing/"><u>How to Fix Uneven Color Discrepancies on Your Screen - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-13-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 13 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/solving-screen-sluggishness-how-to-fix-a-non-responsive-mouse-pointer-with-expert-advice-from-yl-software/"><u>Solving Screen Sluggishness: How to Fix a Non-Responsive Mouse Pointer with Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-securing-your-files-and-folders-with-passwords-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Securing Your Files and Folders with Passwords on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-optimize-audio-capture-top-5-windows-11-strategies/"><u>[New] In 2024, How to Optimize Audio Capture Top 5 Windows 11 Strategies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-transform-your-farm-life-with-the-best-7-14-upgrades-for-2024/"><u>[Updated] Transform Your Farm Life with the Best #7-14 Upgrades for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-live-broadcast-precision-introducing-an-effective-timer/"><u>2024 Approved Live Broadcast Precision Introducing an Effective Timer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-preservation-101-digitalization-of-ancestral-prints/"><u>2024 Approved Photo Preservation 101 Digitalization of Ancestral Prints</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-mac-compatible-video-editors-the-ultimate-top-10-list/"><u>Best Mac-Compatible Video Editors: The Ultimate Top 10 List</u></a></li>
+<li><a href="https://fox-search.techidaily.com/boost-your-computers-power-strategies-for-optimal-performance-from-yl-digital-services/"><u>Boost Your Computer's Power: Strategies for Optimal Performance From YL Digital Services</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/cut-the-red-tape-simplify-xboxfb-broadcasting-for-2024/"><u>Cut the Red Tape Simplify Xbox/FB Broadcasting for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-factors-that-lead-to-hardware-incompatibility-a-perspective-from-yl-software-experts/"><u>Exploring Factors That Lead To Hardware Incompatibility - A Perspective From YL Software Experts</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/free-demo-of-advanced-video-converter-unlock-full-features-with-trialpay/"><u>Free Demo of Advanced Video Converter - Unlock Full Features with TrialPay</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-c67-4g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme C67 4G?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/identifying-motherboard-issues-expert-guide-from-yl-computing/"><u>Identifying Motherboard Issues: Expert Guide From YL Computing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-best-sony-vegas-alternatives-for-windows/"><u>New Unleash Your Creativity Best Sony Vegas Alternatives for Windows</u></a></li>
+<li><a href="https://fox-search.techidaily.com/next-level-mixing-expert-djs-share-top-tips-on-song-selection-and-harmonic-pairing-with-the-ultimate-crate-hack-guide/"><u>Next-Level Mixing: Expert DJs Share Top Tips on Song Selection and Harmonic Pairing with the Ultimate Crate Hack Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/resolving-audio-hardware-glitches-with-third-party-tools-guidance-from-yl-computings-yl-software-experts/"><u>Resolving Audio Hardware Glitches with Third-Party Tools: Guidance From YL Computing's YL Software Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/reviving-your-lost-windows-scanners-a-step-by-step-guide-by-yl-software/"><u>Reviving Your Lost Windows Scanners: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/setting-your-preferred-application-as-the-default-handler-for-specific-file-types-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Setting Your Preferred Application as the Default Handler for Specific File Types on Windows - A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-net-not-installed-app-warning/"><u>Solving Windows' .NET Not Installed App Warning</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-trending-dj-mixes-and-beats-download-the-hottest-songs-from-the-video-pool/"><u>Top Trending DJ Mixes & Beats: Download the Hottest Songs From The Video Pool</u></a></li>
+<li><a href="https://fox-search.techidaily.com/yl-softwares-captivating-animal-wallpapers-for-pc-and-mobile-feline-and-canine-imagery-collection/"><u>YL Software's Captivating Animal Wallpapers for PC and Mobile: Feline and Canine Imagery Collection</u></a></li>
 </ul></div>
 

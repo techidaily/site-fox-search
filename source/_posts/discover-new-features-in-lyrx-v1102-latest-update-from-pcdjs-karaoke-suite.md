@@ -1,7 +1,7 @@
 ---
 title: Discover New Features in LYRX v1.10.2 - Latest Update From PCDJ's Karaoke Suite
-date: 2024-12-23T04:21:33.724Z
-updated: 2024-12-24T06:04:21.422Z
+date: 2024-12-22T21:09:35.664Z
+updated: 2024-12-29T17:33:52.899Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’re thrilled to introduce the latest iteration of our top karaoke show hosti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Duplicate Entries in Singer History!
@@ -33,7 +33,7 @@ One of the standout changes included in this free update is a significant improv
 **NOTE:** Duplicates will initially display in singer history. Once you re-play a song that was previously written to a singer’s history, LYRX will then remove all duplicates, leaving only the one song entry in their history.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Key Changes in LYRX 1.10.2 include:
@@ -44,7 +44,7 @@ One of the standout changes included in this free update is a significant improv
 In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke hosting to new heights – download it today! We thank you for your continued trust and support. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All Updates Included in LYRX 1.10.2
@@ -62,7 +62,7 @@ In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke host
 _Have questions about the latest 1.10.2 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,18 +84,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2023/08/lyrx1102.jpg?fit=1176%2C68
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-an-experts-blueprint-for-calculating-your-videos-impact-and-income-for-2024/"><u>[Updated] An Expert's Blueprint for Calculating Your Video's Impact & Income for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-mastering-digital-compositing-a-complete-kinemaster-green-screen-tutorial/"><u>2024 Approved Mastering Digital Compositing A Complete Kinemaster Green Screen Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-future-unveiled-a-comprehemail-protected-date-insights-and-latest-buzz/"><u>Apple's Future Unveiled: A Compreh([email Protected] Date Insights & Latest Buzz</u></a></li>
-<li><a href="https://article-files.techidaily.com/asus-proart-pa-329q-professional-4k-monitor-review/"><u>Asus ProArt PA 329Q Professional 4K Monitor Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/comprehensively-guide-to-transferring-videos-onto-facebook-from-pc-and-android/"><u>Comprehensively Guide to Transferring Videos Onto Facebook From PC & Android</u></a></li>
-<li><a href="https://fox-search.techidaily.com/identifying-the-reasons-behind-your-sound-cards-audio-issues-static-distortion-and-more-insights-from-yl-computing/"><u>Identifying the Reasons Behind Your Sound Card's Audio Issues: Static, Distortion & More - Insights From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro/"><u>New 2024 Approved How to Find Free Sites for Sound Effect and Add Them in Final Cut Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protect-your-chatbots-from-unauthorized-inquiry/"><u>Protect Your Chatbots From Unauthorized Inquiry</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resolving-screen-driver-problems-expert-advice-from-yl-computing/"><u>Resolving Screen Driver Problems: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/solving-display-interruptions-unveiling-causes-with-yl-software-solutions/"><u>Solving Display Interruptions: Unveiling Causes with YL Software Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/uncover-the-culprits-whats-dragging-down-your-computers-performance-tips-by-yl-computing/"><u>Uncover the Culprits: What's Dragging Down Your Computer's Performance - Tips by YL Computing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unlocking-steam-gameplay-footage-secrets/"><u>Unlocking Steam Gameplay Footage Secrets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-logitech-cam-enhancement-techniques-for-detailed-edits/"><u>[New] Logitech Cam Enhancement - Techniques for Detailed Edits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-apex-of-general-knowledge-trivia-channels-in-24/"><u>[New] Navigating the Apex of General Knowledge Trivia Channels in '24</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-masterful-14-textual-movement-illustrations-for-2024/"><u>[Updated] Masterful 14 Textual Movement Illustrations for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unique-video-identity-designing-personalized-thumbnails/"><u>2024 Approved Unique Video Identity Designing Personalized Thumbnails</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-zte-blade-a73-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-low-power-options-for-better-battery-life/"><u>Adjusting Low-Power Options for Better Battery Life</u></a></li>
+<li><a href="https://fox-search.techidaily.com/boost-your-computers-performance-by-cleaning-the-registry-a-step-by-step-guide-tips-from-yl-computing/"><u>Boost Your Computer's Performance by Cleaning the Registry: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/boost-your-pcs-efficiency-the-essential-guide-to-disk-defragmentation-by-yl-software-experts/"><u>Boost Your PC’s Efficiency: The Essential Guide to Disk Defragmentation by YL Software Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/bridging-continents-through-peace-china-and-africa-unite-at-the-3rd-national-defense-forum-exclusive-coverage-by-yl-software/"><u>Bridging Continents Through Peace: China & Africa Unite at the 3Rd National Defense Forum - Exclusive Coverage by YL Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/can-refreshing-your-os-improve-computer-performance-discover-tips-from-yl-computings-expert-guide/"><u>Can Refreshing Your OS Improve Computer Performance? Discover Tips From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/determining-expansion-card-compatibility-in-your-pc-tips-and-tricks-from-yl-computing/"><u>Determining Expansion Card Compatibility in Your PC - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-can-i-check-and-update-my-graphics-card-drivers-on-windows-and-macos-tips-from-yl-computing/"><u>How Can I Check and Update My Graphics Card Drivers on Windows & macOS - Tips From YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-easily-unlock-xiaomi-screen-by-drfone-android/"><u>How To Easily Unlock Xiaomi Screen?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-would-you-rate-your-computers-efficiency-today-discover-tips-at-yl-computing/"><u>How Would You Rate Your Computer's Efficiency Today? Discover Tips at YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-lava-yuva-3-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Lava Yuva 3 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-crypto-security-top-strategies-from-yl-computing-to-guard-your-virtual-fortunes/"><u>Mastering Crypto Security: Top Strategies From YL Computing to Guard Your Virtual Fortunes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/optimizing-visual-clarity-screen-resolution-settings-explained-tips-from-yl-software/"><u>Optimizing Visual Clarity: Screen Resolution Settings Explained - Tips From YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-xs-stuck-gaming-nightm-cooked-manual-eject-remedy/"><u>Series X's Stuck Gaming Nightm Cooked! Manual Eject Remedy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-guide-to-the-newest-innovations-at-apples-wwdc-2025/"><u>Your Guide to the Newest Innovations at Apple's WWDC 2025</u></a></li>
 </ul></div>
 

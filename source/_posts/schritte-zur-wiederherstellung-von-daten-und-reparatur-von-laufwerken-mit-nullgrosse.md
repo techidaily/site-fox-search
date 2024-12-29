@@ -1,7 +1,7 @@
 ---
 title: Schritte Zur Wiederherstellung Von Daten Und Reparatur Von Laufwerken Mit Nullgröße
-date: 2024-12-17T00:00:12.702Z
-updated: 2024-12-24T02:05:11.566Z
+date: 2024-12-28T17:58:50.755Z
+updated: 2024-12-29T16:43:43.014Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72c9734029cc19974bbea9ac3.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
@@ -53,6 +49,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -70,7 +70,7 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
@@ -78,7 +78,7 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -135,10 +135,6 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -152,6 +148,10 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -199,10 +199,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -216,6 +212,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -237,10 +237,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -251,6 +247,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -259,11 +259,11 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,21 +280,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-essential-lessons-apt-color-adjustment-tips/"><u>[New] 2024 Approved Essential Lessons Apt Color Adjustment Tips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unlock-the-potential-of-livestreaming-on-ios-and-android/"><u>[Updated] Unlock the Potential of Livestreaming on iOS and Android</u></a></li>
-<li><a href="https://fox-search.techidaily.com/beginners-ultimate-guide-to-cryptocurrency-markets-by-yl-software-experts/"><u>Beginner's Ultimate Guide to Cryptocurrency Markets by YL Software Experts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breaking-barriers-strategies-to-enhance-multicultural-communication/"><u>Breaking Barriers: Strategies to Enhance Multicultural Communication</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-partner-in-conducting-productive-online-team-sessions/"><u>ChatGPT as Your Partner in Conducting Productive Online Team Sessions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/complete-guide-adding-and-removing-applications-via-windows-control-panel-tips-from-yl-computing/"><u>Complete Guide: Adding & Removing Applications via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-techniques-for-eradicating-malware-from-your-pc-insights-by-yl-computing/"><u>Effective Techniques for Eradicating Malware From Your PC - Insights by YL Computing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-insights-top-30-hidden-windows-11-tips-uncovered-for-2024/"><u>Exclusive Insights Top 30 Hidden Windows 11 Tips Uncovered for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-battery-life-to-final-cut-a-drone-editors-journey/"><u>From Battery Life to Final Cut A Drone Editor's Journey</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/is-microsofts-windows-defender-free-of-extra-charges-insights-from-yl-computing-blog/"><u>Is Microsoft's Windows Defender Free of Extra Charges? Insights From YL Computing Blog</u></a></li>
-<li><a href="https://fox-search.techidaily.com/tailoring-your-input-devices-a-guide-to-personalizing-mouse-and-keyboard-preferences-by-yl-tech-solutions/"><u>Tailoring Your Input Devices: A Guide to Personalizing Mouse & Keyboard Preferences - By YL Tech Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/techniques-avancees-pour-compresser-parfaitement-vos-videos-mp4-sans-sacrifier-la-qualite-visuelle/"><u>Techniques Avancées Pour Compresser Parfaitement Vos Vidéos MP4 Sans Sacrifier La Qualité Visuelle</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-professional-vfx-software-the-leading-10-options-reviewed/"><u>Ultimate Guide to Professional VFX Software: The Leading 10 Options Reviewed</u></a></li>
-<li><a href="https://fox-search.techidaily.com/unmasking-impersonation-frauds-in-the-world-of-cryptocurrency-insights-by-yl-computing/"><u>Unmasking Impersonation Frauds in the World of Cryptocurrency - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/yl-computings-exquisite-blooming-flames-unique-fire-infused-floral-wallpaper-collections/"><u>YL Computing's Exquisite Blooming Flames: Unique Fire-Infused Floral Wallpaper Collections</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-youtube-tagging-for-content-visibility/"><u>[New] 2024 Approved Mastering YouTube Tagging for Content Visibility</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-facebook-profile-pictures-with-these-expert-creators/"><u>[New] In 2024, Mastering Facebook Profile Pictures with These Expert Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-the-color-grading-revolution-with-lightrooms-best-10-luts/"><u>[New] Leading the Color Grading Revolution with LightRoom’s Best 10 LUTs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-inside-the-cut-an-in-depth-look-at-d500-4k/"><u>[Updated] 2024 Approved Inside the Cut An In-Depth Look at D500 4K</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-broadcast-repeat-looping-youtube-video-magic-for-your-setup/"><u>[Updated] Broadcast Repeat Looping YouTube Video Magic for Your Setup</u></a></li>
+<li><a href="https://fox-search.techidaily.com/a-step-by-step-guide-to-modifying-windows-power-options-using-the-control-panel-expertise-by-yl-software/"><u>A Step-by-Step Guide to Modifying Windows Power Options Using the Control Panel – Expertise by YL Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pros-finest-10-iconic-films-for-2024/"><u>Final Cut Pros Finest 10 Iconic Films for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/fukushima-nuclear-wastewater-release-triggers-outrage-in-china-rising-demands-for-japanese-product-boycott-and-surge-in-essential-goods-purchases-insights-b36/"><u>Fukushima Nuclear Wastewater Release Triggers Outrage in China: Rising Demands for Japanese Product Boycott & Surge in Essential Goods Purchases - Insights by YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/life-beyond-chatting-and-tweeting/"><u>Life Beyond Chatting and Tweeting?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maintaining-pc-performance-should-you-frequently-dust-off-your-ram/"><u>Maintaining PC Performance: Should You Frequently Dust Off Your RAM?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-uplighting-for-your-dj-set-up-tips-from-brian-s-redd-at-pcdj/"><u>Mastering UpLighting for Your DJ Set-Up - Tips From Brian S Redd at PCDJ</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/maximizing-your-broadcast-obs-on-android-devices/"><u>Maximizing Your Broadcast OBS on Android Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-5-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 5 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/resolve-inactive-antivirus-issues-on-windows-pcs-with-yl-software-solutions/"><u>Resolve Inactive Antivirus Issues on Windows PCs with YL Software Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-11-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 11 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/topmost-diagnostic-instruments-for-detecting-ram-issues-in-windows-environments-insights-by-yl-computing/"><u>Topmost Diagnostic Instruments for Detecting RAM Issues in Windows Environments - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-and-repair-guide-resolving-psu-problems-with-expert-tips-from-yl-computing/"><u>Troubleshooting & Repair Guide: Resolving PSU Problems with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ultimate-doctor-who-visuals-stunning-background-graphics-widescreen-wallpapers-and-more-from-yl-software/"><u>Ultimate Doctor Who Visuals: Stunning Background Graphics, Widescreen Wallpapers & More From YL Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/verifying-your-scanners-performance-a-guide-by-yl-computing/"><u>Verifying Your Scanner's Performance: A Guide by YL Computing</u></a></li>
 </ul></div>
 

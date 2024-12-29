@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ & Video Editing Tool: Dextrose 3.6 Beta Release Now Live!"
-date: 2024-12-20T17:47:34.112Z
-updated: 2024-12-24T04:36:07.316Z
+date: 2024-12-22T17:59:40.300Z
+updated: 2024-12-29T20:41:19.807Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,20 +72,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-first-look-at-organizing-zoom-session-rooms/"><u>[Updated] In 2024, First Look at Organizing Zoom Session Rooms</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-free-timers-for-daily-use/"><u>[Updated] Ultimate Free Timers for Daily Use</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-exploring-soft-cessation-of-audio-tracks-with-audacity/"><u>2024 Approved Exploring Soft Cessation of Audio Tracks with Audacity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726030402841-2024top6/"><u>2024年向け推奨動画編集ソフトウェアTOP6: すべてフリー版で試せる</u></a></li>
-<li><a href="https://fox-search.techidaily.com/decoding-tech-jargon-understanding-blockchain-versus-distributed-ledgers-with-yl-software-insights/"><u>Decoding Tech Jargon: Understanding Blockchain Versus Distributed Ledgers with YL Software Insights</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discreetly-concealing-files-on-your-pc-with-windows-10-a-step-by-step-guide-yl-computing/"><u>Discreetly Concealing Files on Your PC with Windows 10: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-edge-40-neo-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Edge 40 Neo Device SIM</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-hardware-care-strategies-for-windows-pcs-insights-from-yl-computings-expertise/"><u>Effective Hardware Care Strategies for Windows PCs: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fixing-windows-non-recognition-of-wireless-card-tl-wn7ebx-722n-success-story/"><u>Fixing Window's Non-Recognition of Wireless Card: TL-WN7ebx 722N Success Story</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-v30-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo V30 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/high-resolution-fantasy-landscapes-stunning-hd-backgrounds-by-yl-software/"><u>High-Resolution Fantasy Landscapes: Stunning HD Backgrounds by YL Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-microphone-step-by-step-guide/"><u>How To Repair Your iPhone's Microphone: Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/personalizing-content-in-yl-computings-control-panel-step-by-step-instructions-for-optimal-user-experience/"><u>Personalizing Content in YL Computing's Control Panel - Step-by-Step Instructions for Optimal User Experience</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-game-lags-how-your-graphics-card-can-be-the-culprit-insights-by-yl-computing/"><u>Troubleshooting Game Lags: How Your Graphics Card Can Be the Culprit - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/yl-computings-exquisite-blooming-flames-unique-fire-infused-floral-wallpaper-collections/"><u>YL Computing's Exquisite Blooming Flames: Unique Fire-Infused Floral Wallpaper Collections</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-comprehensive-vlc-use-manual-for-mac-users-for-2024/"><u>[New] Comprehensive VLC Use Manual for Mac Users for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-engaging-oratory-insights-part-8/"><u>[New] Engaging Oratory Insights Part 8</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-lens-of-loom-perfecting-your-video-weave/"><u>[New] In 2024, Lens of Loom Perfecting Your Video Weave</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-new-worlds-an-in-depth-study-of-6-metaverse-models/"><u>[Updated] Navigating New Worlds An In-Depth Study of 6 Metaverse Models</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhancing-your-creative-vision-iphones-new-camera-tools/"><u>2024 Approved Enhancing Your Creative Vision IPhone's New Camera Tools</u></a></li>
+<li><a href="https://fox-search.techidaily.com/boost-your-computers-power-strategies-for-optimal-performance-from-yl-digital-services/"><u>Boost Your Computer's Power: Strategies for Optimal Performance From YL Digital Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-502-bad-gateway-mistake-strategies-for-resolution/"><u>Decoding the 502 Bad Gateway Mistake: Strategies for Resolution</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-factors-that-lead-to-hardware-incompatibility-a-perspective-from-yl-software-experts/"><u>Exploring Factors That Lead To Hardware Incompatibility - A Perspective From YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-package-retrieval-with-doordash-a-complete-guide-no-delivery-fees-involved/"><u>Free Package Retrieval with DoorDash: A Complete Guide - No Delivery Fees Involved!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/identifying-motherboard-issues-expert-guide-from-yl-computing/"><u>Identifying Motherboard Issues: Expert Guide From YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-2-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 2 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-a25-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy A25 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/next-level-mixing-expert-djs-share-top-tips-on-song-selection-and-harmonic-pairing-with-the-ultimate-crate-hack-guide/"><u>Next-Level Mixing: Expert DJs Share Top Tips on Song Selection and Harmonic Pairing with the Ultimate Crate Hack Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/resolving-audio-hardware-glitches-with-third-party-tools-guidance-from-yl-computings-yl-software-experts/"><u>Resolving Audio Hardware Glitches with Third-Party Tools: Guidance From YL Computing's YL Software Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/reviving-your-lost-windows-scanners-a-step-by-step-guide-by-yl-software/"><u>Reviving Your Lost Windows Scanners: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/setting-your-preferred-application-as-the-default-handler-for-specific-file-types-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Setting Your Preferred Application as the Default Handler for Specific File Types on Windows - A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2035652-9781608683314-the-calm-center/"><u>The Calm Center | Free Book</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-trending-dj-mixes-and-beats-download-the-hottest-songs-from-the-video-pool/"><u>Top Trending DJ Mixes & Beats: Download the Hottest Songs From The Video Pool</u></a></li>
+<li><a href="https://fox-search.techidaily.com/yl-softwares-captivating-animal-wallpapers-for-pc-and-mobile-feline-and-canine-imagery-collection/"><u>YL Software's Captivating Animal Wallpapers for PC and Mobile: Feline and Canine Imagery Collection</u></a></li>
 </ul></div>
 
