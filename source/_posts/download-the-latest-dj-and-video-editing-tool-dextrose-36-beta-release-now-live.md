@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ & Video Editing Tool: Dextrose 3.6 Beta Release Now Live!"
-date: 2024-12-22T17:59:40.300Z
-updated: 2024-12-29T20:41:19.807Z
+date: 2025-01-03T04:30:27.203Z
+updated: 2025-01-08T22:42:53.401Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,24 +72,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-comprehensive-vlc-use-manual-for-mac-users-for-2024/"><u>[New] Comprehensive VLC Use Manual for Mac Users for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-engaging-oratory-insights-part-8/"><u>[New] Engaging Oratory Insights Part 8</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-lens-of-loom-perfecting-your-video-weave/"><u>[New] In 2024, Lens of Loom Perfecting Your Video Weave</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-navigating-new-worlds-an-in-depth-study-of-6-metaverse-models/"><u>[Updated] Navigating New Worlds An In-Depth Study of 6 Metaverse Models</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-enhancing-your-creative-vision-iphones-new-camera-tools/"><u>2024 Approved Enhancing Your Creative Vision IPhone's New Camera Tools</u></a></li>
-<li><a href="https://fox-search.techidaily.com/boost-your-computers-power-strategies-for-optimal-performance-from-yl-digital-services/"><u>Boost Your Computer's Power: Strategies for Optimal Performance From YL Digital Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-502-bad-gateway-mistake-strategies-for-resolution/"><u>Decoding the 502 Bad Gateway Mistake: Strategies for Resolution</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exploring-factors-that-lead-to-hardware-incompatibility-a-perspective-from-yl-software-experts/"><u>Exploring Factors That Lead To Hardware Incompatibility - A Perspective From YL Software Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-package-retrieval-with-doordash-a-complete-guide-no-delivery-fees-involved/"><u>Free Package Retrieval with DoorDash: A Complete Guide - No Delivery Fees Involved!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/identifying-motherboard-issues-expert-guide-from-yl-computing/"><u>Identifying Motherboard Issues: Expert Guide From YL Computing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-2-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 2 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-a25-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy A25 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/next-level-mixing-expert-djs-share-top-tips-on-song-selection-and-harmonic-pairing-with-the-ultimate-crate-hack-guide/"><u>Next-Level Mixing: Expert DJs Share Top Tips on Song Selection and Harmonic Pairing with the Ultimate Crate Hack Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resolving-audio-hardware-glitches-with-third-party-tools-guidance-from-yl-computings-yl-software-experts/"><u>Resolving Audio Hardware Glitches with Third-Party Tools: Guidance From YL Computing's YL Software Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/reviving-your-lost-windows-scanners-a-step-by-step-guide-by-yl-software/"><u>Reviving Your Lost Windows Scanners: A Step-by-Step Guide by YL Software</u></a></li>
-<li><a href="https://fox-search.techidaily.com/setting-your-preferred-application-as-the-default-handler-for-specific-file-types-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Setting Your Preferred Application as the Default Handler for Specific File Types on Windows - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2035652-9781608683314-the-calm-center/"><u>The Calm Center | Free Book</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-trending-dj-mixes-and-beats-download-the-hottest-songs-from-the-video-pool/"><u>Top Trending DJ Mixes & Beats: Download the Hottest Songs From The Video Pool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/yl-softwares-captivating-animal-wallpapers-for-pc-and-mobile-feline-and-canine-imagery-collection/"><u>YL Software's Captivating Animal Wallpapers for PC and Mobile: Feline and Canine Imagery Collection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-camera-to-canvas-getting-started-with-lunapic/"><u>2024 Approved From Camera to Canvas Getting Started with LunaPic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/directly-watching-avi-videos-on-an-ipad-no-format-change-required/"><u>Directly Watching AVI Videos on an iPad - No Format Change Required</u></a></li>
+<li><a href="https://fox-search.techidaily.com/download-new-dex-3-skin-packs-ultimate-selection-for-your-dj-software/"><u>Download New DEX 3 Skin Packs – Ultimate Selection for Your DJ Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/extensive-compilation-of-doctor-who-image-gallery-exclusive-designs-from-yl-software-solutions/"><u>Extensive Compilation of Doctor Who Image Gallery - Exclusive Designs From YL Software Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/flac-youtube/"><u>FLACへの変換! YouTubeやその他ビデオから音楽ファイル無料でダウンロード</u></a></li>
+<li><a href="https://fox-search.techidaily.com/guide-to-finding-system-updates-via-control-panel-with-expert-tips-by-yl-software/"><u>Guide to Finding System Updates via Control Panel with Expert Tips by YL Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-new-vloggers-guide-to-top-10-youtube-editing-techniques/"><u>In 2024, New Vloggers' Guide to Top 10 YouTube Editing Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-protective-recording-strategies-to-mask-personal-information/"><u>In 2024, Protective Recording Strategies to Mask Personal Information</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/navigating-the-uncertainties-of-crypto-assets-an-analysis-of-investment-threats-with-yl-software-expertise/"><u>Navigating the Uncertainties of Crypto Assets: An Analysis of Investment Threats with YL Software Expertise</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precise-process-efficient-graphics-driver-removal/"><u>Precise Process: Efficient Graphics Driver Removal</u></a></li>
+<li><a href="https://fox-search.techidaily.com/resolving-system-malfunctions-updating-drivers-insights-from-yl-computing/"><u>Resolving System Malfunctions: Updating Drivers - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tackling-scan-errors-without-easy-fixes-innovative-strategies-by-yl-software-experts/"><u>Tackling Scan Errors Without Easy Fixes: Innovative Strategies by YL Software Experts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-champions-guide-to-martial-arts-gaming/"><u>The Champion's Guide to Martial Arts Gaming</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-tools-for-evaluating-your-systems-hardware-insights-from-an-it-expert-at-yl-computing/"><u>Top-Rated Tools for Evaluating Your System’s Hardware: Insights From an IT Expert at YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/transforming-storytelling-into-cinematic-art/"><u>Transforming Storytelling Into Cinematic Art</u></a></li>
 </ul></div>
 

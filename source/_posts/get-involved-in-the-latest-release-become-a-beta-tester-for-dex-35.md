@@ -1,7 +1,7 @@
 ---
 title: Get Involved in the Latest Release - Become a Beta Tester for DEX 3.5!
-date: 2024-12-28T19:17:32.323Z
-updated: 2024-12-29T19:45:21.620Z
+date: 2025-01-08T05:40:02.563Z
+updated: 2025-01-09T05:39:58.305Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,24 +91,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-comprehensive-analysis-mycams-video-capture-technology/"><u>[New] In 2024, A Comprehensive Analysis MyCam's Video Capture Technology</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-perfect-your-content-with-top-tier-title-tactics/"><u>[New] Perfect Your Content with Top-Tier Title Tactics</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-fb-videos-to-audible-pleasures-online-mp3-creation-secrets/"><u>[Updated] FB Videos to Audible Pleasures Online MP3 Creation Secrets</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-finding-opportunities-where-youtube-collaborations-thrive/"><u>[Updated] In 2024, Finding Opportunities Where YouTube Collaborations Thrive</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-crypto-compatible-wallets-top-picks-by-yl-computing-and-how-they-secure-your-digital-assets/"><u>Best Crypto-Compatible Wallets: Top Picks by YL Computing & How They Secure Your Digital Assets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cross-service-harmonization-a-playlist-perspective/"><u>Cross-Service Harmonization A Playlist Perspective</u></a></li>
-<li><a href="https://fox-search.techidaily.com/decoding-cryptos-edge-over-fiat-unveiling-key-advantages-with-yl-software-expertise/"><u>Decoding Crypto's Edge Over Fiat: Unveiling Key Advantages with YL Software Expertise</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/couch-to-chart-topper-skyrocketing-your-channels-views/"><u>From Couch to Chart-Topper Skyrocketing Your Channel's Views</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-minimize-pre-installed-software-clutter-tips-and-strategies-yl-solutions/"><u>How to Minimize Pre-Installed Software Clutter: Tips & Strategies - YL Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-a15-4g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy A15 4G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-titles-to-lengthen-viewing-times-within-limit/"><u>Innovative Titles to Lengthen Viewing Times (Within Limit)</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-extracting-aol-contacts-yl-computings-guide/"><u>Mastering the Art of Extracting AOL Contacts: YL Computing's Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/overcoming-launch-failures-in-applications-expertise-by-yl-computing/"><u>Overcoming Launch Failures in Applications: Expertise by YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-problems-solved-how-to-successfully-start-valorant-amidst-2024-glitches/"><u>PC Gaming Problems Solved: How to Successfully Start Valorant Amidst 2024 Glitches</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resolving-driver-corruption-a-step-by-step-guide-by-yl-computing/"><u>Resolving Driver Corruption: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-virtualboxs-0x80004005-failure-message/"><u>Resolving Virtualbox's 0X80004005 Failure Message</u></a></li>
-<li><a href="https://fox-search.techidaily.com/securing-personal-information-while-engaging-in-crypto-transactions-expert-advice-from-yl-computing/"><u>Securing Personal Information While Engaging in Crypto Transactions: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-rise-of-the-ccp-unveiling-the-strategies-behind-chinas-political-dominance/"><u>The Rise of the CCP: Unveiling the Strategies Behind China's Political Dominance</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-guide-steps-to-fix-a-malfunctioning-graphics-card-expert-tips-from-yl-software/"><u>Troubleshooting Guide: Steps to Fix a Malfunctioning Graphics Card - Expert Tips From YL Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-decoding-digital-domain-dynamics-metaverse-edition-for-2024/"><u>[Updated] Decoding Digital Domain Dynamics Metaverse Edition for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-ephemeral-video-wizard/"><u>[Updated] Ephemeral Video Wizard</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elevating-your-visuals-mastering-instagram-edits-in-fcpx/"><u>[Updated] In 2024, Elevating Your Visuals Mastering Instagram Edits in FCPX</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-expedite-excitement-fast-video-on-android/"><u>[Updated] In 2024, Expedite Excitement Fast Video on Android</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-soloing-videos-discarding-unwanted-audio-in-mp4-formats/"><u>2024 Approved Soloing Videos Discarding Unwanted Audio in MP4 Formats</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cinematic-slow-motion-top-video-editors-for-dramatic-effects/"><u>Cinematic Slow Motion Top Video Editors for Dramatic Effects</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-instructions-on-implementing-new-fonts-in-windows-settings-yls-comprehve-guide/"><u>Easy Instructions on Implementing New Fonts in Windows Settings - YL's Comprehve Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hoops-radio-slam-dunk-full-coverage-of-ncaa-tournament-and-road-to-the-final-four/"><u>Hoops Radio Slam Dunk: Full Coverage of NCAA Tournament & Road to the Final Four!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lenovo-thinkphone-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Lenovo ThinkPhone support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maximize-pc-performance-by-clearing-up-storage-essential-tips-from-yl-computing/"><u>Maximize PC Performance by Clearing Up Storage: Essential Tips From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-common-scanner-issues-and-errors-with-yl-software-expertise/"><u>Troubleshooting Common Scanner Issues and Errors with YL Software Expertise</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-why-your-computer-may-halt-exploring-causes-with-yl-software-experts/"><u>Understanding Why Your Computer May Halt: Exploring Causes with YL Software Experts</u></a></li>
 </ul></div>
 

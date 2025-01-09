@@ -1,7 +1,7 @@
 ---
 title: 探究宋朝时期文景之治在中国历史上的地位与作用
-date: 2024-12-24T20:07:53.956Z
-updated: 2024-12-29T17:13:10.534Z
+date: 2025-01-07T00:47:03.509Z
+updated: 2025-01-08T20:22:59.696Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,16 +56,18 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-optimal-sound-systems-under-100-for-immersive-gameplay/"><u>[Updated] In 2024, Optimal Sound Systems Under $100 for Immersive Gameplay</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-pros-and-cons-of-samsung-photo-editor/"><u>[Updated] Unveiling the Pros & Cons of Samsung PHOTO EDITOR</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-audio-alchemy-transforming-instagram-videos-with-sound/"><u>2024 Approved Audio Alchemy Transforming Instagram Videos with Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bust-your-headphones-quietness-restoring-sound-to-conexant-smartaudio-hd-on-windows-10-systems/"><u>Bust Your Headphones' Quietness! Restoring Sound to Conexant SmartAudio HD on Windows 10 Systems</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-fix-uneven-color-discrepancies-on-your-screen-expert-tips-by-yl-computing/"><u>How to Fix Uneven Color Discrepancies on Your Screen - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-spot-problematic-cpu-performance-and-troubleshooting-tips-yl-digital-insights/"><u>How to Spot Problematic CPU Performance and Troubleshooting Tips - YL Digital Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roku-free-ways-to-access-and-enjoy-content-on-the-roku-channel/"><u>Roku-Free Ways to Access and Enjoy Content on The Roku Channel</u></a></li>
-<li><a href="https://fox-search.techidaily.com/solving-wi-fi-printing-problems-a-step-by-step-guide-by-yl-computing/"><u>Solving Wi-Fi Printing Problems: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-securing-your-files-and-folders-with-passwords-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Securing Your Files and Folders with Passwords on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/yl-software-reveals-top-strategies-for-retrieving-deleted-data-on-windows-systems/"><u>YL Software Reveals Top Strategies for Retrieving Deleted Data on Windows Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-what-is-a-parody-and-how-to-make-a-parody-video/"><u>[New] 2024 Approved What Is a Parody and How to Make a Parody Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simplified-obs-settings-for-economical-systems/"><u>[New] Simplified OBS Settings for Economical Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-virtual-reality-walking-platforms-an-in-depth-look/"><u>[Updated] In 2024, Virtual Reality Walking Platforms An In-Depth Look</u></a></li>
+<li><a href="https://fox-search.techidaily.com/boost-pc-speed-and-save-space-effective-strategies-from-yl-software-experts/"><u>Boost PC Speed & Save Space: Effective Strategies From YL Software Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdmp4windows11/"><u>DVDからMP4へ簡単変換！Windows11対応フリーツール・ダウンロード不要のオンラインソリューション</u></a></li>
+<li><a href="https://fox-search.techidaily.com/essential-strategies-for-identity-safeguard-in-the-world-of-cryptocurrency-insights-by-yl-software-experts/"><u>Essential Strategies for Identity Safeguard in the World of Cryptocurrency - Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/handy-techniques-to-fix-the-opaque-screens-on-your-fallout-narrative-adventure/"><u>Handy Techniques to Fix the Opaque Screens on Your Fallout Narrative Adventure</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-change-waveform-colors-in-dex-3-version-39-and-later-a-comprehensive-guide-for-pioneer-dj-users/"><u>How to Change Waveform Colors in DEX 3 Version 3.9 & Later: A Comprehensive Guide for Pioneer DJ Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-lenovo-ideapad-320-stunning-aesthetics-and-mobility-combined-with-a-renowned-keyboard-layout/"><u>In-Depth Analysis of the Lenovo IdeaPad 320: Stunning Aesthetics & Mobility Combined with a Renowned Keyboard Layout</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-windows-and-graphics-card-mismatches-tips-by-yl-software-experts/"><u>Troubleshooting Windows and Graphics Card Mismatches: Tips by YL Software Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/unveiling-historical-impacts-the-significant-results-following-the-sino-japanese-conflict-expert-perspectives-from-yl-computing/"><u>Unveiling Historical Impacts: The Significant Results Following the Sino-Japanese Conflict – Expert Perspectives From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/yl-softwares-gallery-of-calming-desktop-images-and-pictures-premium-walls-digital-artwork-and-relaxing-visual-themes-for-optimal-productivity/"><u>YL Software's Gallery of Calming Desktop Images and Pictures: Premium Walls, Digital Artwork, and Relaxing Visual Themes for Optimal Productivity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How-To Guide - Upload Audio/Files to DEX Pert's Library Using Drag and Drop with Finder or Explorer
-date: 2024-12-26T20:07:41.928Z
-updated: 2024-12-29T18:45:43.812Z
+date: 2025-01-01T22:08:09.174Z
+updated: 2025-01-09T01:46:55.984Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-zoom-session-division-for-starters-for-2024/"><u>[Updated] Zoom Session Division for Starters for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/adjusting-your-displays-font-size-a-step-by-step-guide-tech-solutions-with-yl/"><u>Adjusting Your Display's Font Size: A Step-by-Step Guide - Tech Solutions with YL</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-examination-editrite-pro-suite-the-final-word-2023-for-2024/"><u>Comprehensive Examination EditRite Pro Suite – The Final Word, 2023 for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/estimated-time-needed-to-fully-update-your-apple-music-collection/"><u>Estimated Time Needed to Fully Update Your Apple Music Collection</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/explore-effortlessly-best-tech-for-vacations/"><u>Explore Effortlessly: Best Tech for Vacations</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-missing-d3dx9tld-error-expert-tips-for-quick-recovery/"><u>Fixing Missing D3dx9_tld Error: Expert Tips for Quick Recovery</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-determine-your-windows-11-version-expert-tips-from-yl-computing/"><u>How to Determine Your Windows 11 Version: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-send-faxes-without-spending-the-ultimate-guide/"><u>How To Send Faxes Without Spending: The Ultimate Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/navigating-the-world-of-crypto-exchanges-with-ease-yl-softwares-step-by-step-tutorial/"><u>Navigating the World of Crypto Exchanges with Ease - YL Software's Step-by-Step Tutorial</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-s-top-rated-free-music-recording-programs-a-comprehensive-list/"><u>New In 2024, S Top-Rated Free Music Recording Programs A Comprehensive List</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/proven-techniques-for-uploading-and-displaying-imovie-films-on-vimeo-for-2024/"><u>Proven Techniques for Uploading and Displaying iMovie Films on Vimeo for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/red-mobile-dj-software-update-introducing-dex-3-rered-edition-the-ultimate-red-mixing-suite/"><u>RED Mobile DJ Software Update: Introducing DEX 3 Re(red Edition) - The Ultimate Red Mixing Suite</u></a></li>
-<li><a href="https://fox-search.techidaily.com/solving-the-mystery-of-your-pcs-noisy-fan-expert-tips-from-yl-computing/"><u>Solving the Mystery of Your PC's Noisy Fan: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/stunning-beach-wallsavers-and-image-banks-quality-visuals-from-yl-software/"><u>Stunning Beach Wallsavers & Image Banks - Quality Visuals From YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y200-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y200 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-your-non-printing-printer-common-issues-and-solutions-yl-computing/"><u>Troubleshooting Your Non-Printing Printer: Common Issues and Solutions - YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-confucius-impact-on-traditional-chinese-societal-norms-and-governmental-practices-insights-from-yl-software/"><u>Understanding Confucius' Impact on Traditional Chinese Societal Norms and Governmental Practices - Insights From YL Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/an-youtube-sub4sub-really-enhance-viewing-experience-for-2024/"><u>[New] Can YouTube Sub4Sub Really Enhance Viewing Experience for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-precision-screen-recorders-for-xbox-gamers-explained/"><u>[Updated] 2024 Approved Precision Screen Recorders for Xbox Gamers Explained</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-rewind-and-play-an-in-depth-look-at-snapchats-reversal-feature/"><u>[Updated] 2024 Approved Rewind & Play An In-Depth Look at Snapchat's Reversal Feature</u></a></li>
+<li><a href="https://fox-search.techidaily.com/detecting-and-troubleshooting-hardware-issues-with-ease-insights-by-yl-software/"><u>Detecting and Troubleshooting Hardware Issues with Ease - Insights by YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-asus-mobo-drivers-comprehensive-guide-for-windows-users/"><u>Download & Setup ASUS Mobo Drivers: Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://fox-search.techidaily.com/download-stunning-kim-possible-themes-and-wallpapers-enhance-your-pc-with-yl-computings-selection/"><u>Download Stunning Kim Possible Themes & Wallpapers: Enhance Your PC with YL Computing's Selection</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/downloadgratuitfr-votre-guide-ultime-pour-decrypter-tous-les-types-de-dvd-sans-limites/"><u>Downloadgratuit.fr : Votre Guide Ultime Pour Décrypter Tous Les Types De DVD Sans Limites</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-tutorial-for-extracting-zip-archives-on-windows-by-yl-computing-experts/"><u>Easy Tutorial for Extracting ZIP Archives on Windows by YL Computing Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-fixes-resolving-issues-with-non-responsive-windows-defender-expert-tips-from-yl-computing/"><u>Effective Fixes: Resolving Issues with Non-Responsive Windows Defender - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/expert-tips-boosting-system-performance-by-yl-computing-best-optimization-techniques/"><u>Expert Tips: Boosting System Performance by YL Computing - Best Optimization Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a59-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-resolve-cannot-perform-version-check-in-final-fantasy-xiv/"><u>How to Resolve 'Cannot Perform Version Check' In Final Fantasy XIV</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/safeguard-your-e-cash-essential-strategies-by-yl-computing-for-enhanced-online-protection/"><u>Safeguard Your E-Cash: Essential Strategies by YL Computing for Enhanced Online Protection</u></a></li>
+<li><a href="https://fox-search.techidaily.com/sound-card-diagnostics-ensuring-proper-functionality-with-simple-tips-and-tricks/"><u>Sound Card Diagnostics: Ensuring Proper Functionality with Simple Tips & Tricks</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-tools-for-evaluating-your-systems-hardware-insights-from-an-it-expert-at-yl-computing/"><u>Top-Rated Tools for Evaluating Your System’s Hardware: Insights From an IT Expert at YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-convenience-the-ultimate-tutorial-on-leveraging-your-android-for-google-tv-navigation/"><u>Unlocking Convenience: The Ultimate Tutorial on Leveraging Your Android for Google TV Navigation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-conversion-made-simple-the-best-flv-tools-for-youtube/"><u>Video Conversion Made Simple The Best Flv Tools for YouTube</u></a></li>
+<li><a href="https://fox-search.techidaily.com/yl-softwares-ultimate-selection-of-classic-retro-hd-wallpapers-and-scenic-photos-for-your-desktop-display/"><u>YL Software's Ultimate Selection of Classic Retro HD Wallpapers and Scenic Photos for Your Desktop Display</u></a></li>
 </ul></div>
 
