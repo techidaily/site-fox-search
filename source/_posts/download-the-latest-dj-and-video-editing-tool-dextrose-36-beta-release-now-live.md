@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ & Video Editing Tool: Dextrose 3.6 Beta Release Now Live!"
-date: 2025-01-03T04:30:27.203Z
-updated: 2025-01-08T22:42:53.401Z
+date: 2025-01-09T21:23:27.733Z
+updated: 2025-01-14T19:35:53.236Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,21 +72,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-camera-to-canvas-getting-started-with-lunapic/"><u>2024 Approved From Camera to Canvas Getting Started with LunaPic</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/directly-watching-avi-videos-on-an-ipad-no-format-change-required/"><u>Directly Watching AVI Videos on an iPad - No Format Change Required</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-new-dex-3-skin-packs-ultimate-selection-for-your-dj-software/"><u>Download New DEX 3 Skin Packs – Ultimate Selection for Your DJ Software</u></a></li>
-<li><a href="https://fox-search.techidaily.com/extensive-compilation-of-doctor-who-image-gallery-exclusive-designs-from-yl-software-solutions/"><u>Extensive Compilation of Doctor Who Image Gallery - Exclusive Designs From YL Software Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/flac-youtube/"><u>FLACへの変換! YouTubeやその他ビデオから音楽ファイル無料でダウンロード</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guide-to-finding-system-updates-via-control-panel-with-expert-tips-by-yl-software/"><u>Guide to Finding System Updates via Control Panel with Expert Tips by YL Software</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-new-vloggers-guide-to-top-10-youtube-editing-techniques/"><u>In 2024, New Vloggers' Guide to Top 10 YouTube Editing Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-protective-recording-strategies-to-mask-personal-information/"><u>In 2024, Protective Recording Strategies to Mask Personal Information</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/navigating-the-uncertainties-of-crypto-assets-an-analysis-of-investment-threats-with-yl-software-expertise/"><u>Navigating the Uncertainties of Crypto Assets: An Analysis of Investment Threats with YL Software Expertise</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precise-process-efficient-graphics-driver-removal/"><u>Precise Process: Efficient Graphics Driver Removal</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resolving-system-malfunctions-updating-drivers-insights-from-yl-computing/"><u>Resolving System Malfunctions: Updating Drivers - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/tackling-scan-errors-without-easy-fixes-innovative-strategies-by-yl-software-experts/"><u>Tackling Scan Errors Without Easy Fixes: Innovative Strategies by YL Software Experts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-champions-guide-to-martial-arts-gaming/"><u>The Champion's Guide to Martial Arts Gaming</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-rated-tools-for-evaluating-your-systems-hardware-insights-from-an-it-expert-at-yl-computing/"><u>Top-Rated Tools for Evaluating Your System’s Hardware: Insights From an IT Expert at YL Computing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/transforming-storytelling-into-cinematic-art/"><u>Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-audio-capture-guide-best-ten-for-spotify-enthusiasts/"><u>[New] 2024 Approved Ultimate Audio Capture Guide Best Ten for Spotify Enthusiasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-ppt-transformers-to-vimeo/"><u>[New] In 2024, Expert PPT Transformers to Vimeo</u></a></li>
+<li><a href="https://fox-search.techidaily.com/usb-ipod-iphone/"><u>逐步指南：用 USB 異機型介面將文件從一部 iPod iPhone 轉移到另一台</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/acid-pro-a-deep-dive-and-competitive-matchups-for-2024/"><u>ACID Pro A Deep Dive & Competitive Matchups for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/dependence-on-premium-market-segment-pineapple-primarily-targets-the-premium-market-segment-which-may-limit-its-growth-potential-compared-to-competitors-who281/"><u>Dependence on Premium Market Segment: PineApple Primarily Targets the Premium Market Segment, Which May Limit Its Growth Potential Compared to Competitors Who Cater to Both High-End and Midrange Customers.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-must-watch-shows-on-leading-streaming-services-tailored-for-anime-lovers/"><u>Discover Must-Watch Shows on Leading Streaming Services Tailored for Anime Lovers</u></a></li>
+<li><a href="https://fox-search.techidaily.com/guia-paso-a-paso-para-rescatar-tu-diario-de-chats-en-wechat-como-recuperar-mensajes-viejos-o-borrados/"><u>Guía Paso a Paso Para Rescatar Tu Diario De Chats en WeChat: Cómo Recuperar Mensajes Viejos O Borrados</u></a></li>
+<li><a href="https://fox-search.techidaily.com/guia-practica-para-clonar-una-unidad-ssd-msata-con-facilidad-en-5-fases-clave/"><u>Guía Práctica Para Clonar Una Unidad SSD mSATA Con Facilidad en 5 Fases Clave</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-the-persistent-system-error-5-issue-across-various-windows-versions-fixed/"><u>How to Address the Persistent 'System Error 5' Issue Across Various Windows Versions [Fixed]</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nubia-red-magic-8s-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nubia Red Magic 8S Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-phantom-v-flip-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Phantom V Flip Is Unlocked</u></a></li>
+<li><a href="https://fox-search.techidaily.com/seamless-data-protection-with-aomei-backupper-expert-level-ease-of-use-and-universal-restoration-for-all-windows-systems/"><u>Seamless Data Protection with AOMEI Backupper - Expert-Level Ease of Use and Universal Restoration for All Windows Systems</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-removing-unwanted-shortcut-icons-from-your-computer-desktop/"><u>Step-by-Step Guide: Removing Unwanted Shortcut Icons From Your Computer Desktop</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-instagram-filters/"><u>The Ultimate Guide to Instagram Filters</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tutorial-lanjutan-pemeliharaan-dan-restorasi-data-interaksi-aplikasi-wechat/"><u>Tutorial Lanjutan: Pemeliharaan Dan Restorasi Data Interaksi Aplikasi WeChat</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-jump-cut-like-a-pro-expert-techniques-for-final-cut-pro-x-editors/"><u>Updated In 2024, Jump Cut Like a Pro Expert Techniques for Final Cut Pro X Editors</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728508909482-pcssd/"><u>スムーズかつ高速：PC用の新しいSSDへデータ転送手順ガイド</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728509692865-windowsssd/"><u>どのバージョンのWindowsでも簡単にSSDにディスクをコピーして利用する完全ガイド</u></a></li>
 </ul></div>
 

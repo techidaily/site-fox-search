@@ -1,7 +1,7 @@
 ---
 title: How-To Guide - Upload Audio/Files to DEX Pert's Library Using Drag and Drop with Finder or Explorer
-date: 2025-01-01T22:08:09.174Z
-updated: 2025-01-09T01:46:55.984Z
+date: 2025-01-11T18:35:48.123Z
+updated: 2025-01-14T23:58:23.803Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/an-youtube-sub4sub-really-enhance-viewing-experience-for-2024/"><u>[New] Can YouTube Sub4Sub Really Enhance Viewing Experience for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-precision-screen-recorders-for-xbox-gamers-explained/"><u>[Updated] 2024 Approved Precision Screen Recorders for Xbox Gamers Explained</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-rewind-and-play-an-in-depth-look-at-snapchats-reversal-feature/"><u>[Updated] 2024 Approved Rewind & Play An In-Depth Look at Snapchat's Reversal Feature</u></a></li>
-<li><a href="https://fox-search.techidaily.com/detecting-and-troubleshooting-hardware-issues-with-ease-insights-by-yl-software/"><u>Detecting and Troubleshooting Hardware Issues with Ease - Insights by YL Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-asus-mobo-drivers-comprehensive-guide-for-windows-users/"><u>Download & Setup ASUS Mobo Drivers: Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-stunning-kim-possible-themes-and-wallpapers-enhance-your-pc-with-yl-computings-selection/"><u>Download Stunning Kim Possible Themes & Wallpapers: Enhance Your PC with YL Computing's Selection</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/downloadgratuitfr-votre-guide-ultime-pour-decrypter-tous-les-types-de-dvd-sans-limites/"><u>Downloadgratuit.fr : Votre Guide Ultime Pour Décrypter Tous Les Types De DVD Sans Limites</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-tutorial-for-extracting-zip-archives-on-windows-by-yl-computing-experts/"><u>Easy Tutorial for Extracting ZIP Archives on Windows by YL Computing Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-fixes-resolving-issues-with-non-responsive-windows-defender-expert-tips-from-yl-computing/"><u>Effective Fixes: Resolving Issues with Non-Responsive Windows Defender - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/expert-tips-boosting-system-performance-by-yl-computing-best-optimization-techniques/"><u>Expert Tips: Boosting System Performance by YL Computing - Best Optimization Techniques</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a59-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-resolve-cannot-perform-version-check-in-final-fantasy-xiv/"><u>How to Resolve 'Cannot Perform Version Check' In Final Fantasy XIV</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/safeguard-your-e-cash-essential-strategies-by-yl-computing-for-enhanced-online-protection/"><u>Safeguard Your E-Cash: Essential Strategies by YL Computing for Enhanced Online Protection</u></a></li>
-<li><a href="https://fox-search.techidaily.com/sound-card-diagnostics-ensuring-proper-functionality-with-simple-tips-and-tricks/"><u>Sound Card Diagnostics: Ensuring Proper Functionality with Simple Tips & Tricks</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-rated-tools-for-evaluating-your-systems-hardware-insights-from-an-it-expert-at-yl-computing/"><u>Top-Rated Tools for Evaluating Your System’s Hardware: Insights From an IT Expert at YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-convenience-the-ultimate-tutorial-on-leveraging-your-android-for-google-tv-navigation/"><u>Unlocking Convenience: The Ultimate Tutorial on Leveraging Your Android for Google TV Navigation</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-conversion-made-simple-the-best-flv-tools-for-youtube/"><u>Video Conversion Made Simple The Best Flv Tools for YouTube</u></a></li>
-<li><a href="https://fox-search.techidaily.com/yl-softwares-ultimate-selection-of-classic-retro-hd-wallpapers-and-scenic-photos-for-your-desktop-display/"><u>YL Software's Ultimate Selection of Classic Retro HD Wallpapers and Scenic Photos for Your Desktop Display</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-spark-interest-and-boost-views-on-instagram-videos/"><u>[Updated] In 2024, How to Spark Interest & Boost Views on Instagram Videos</u></a></li>
+<li><a href="https://techidaily.com/all-about-wsus-the-definitive-insight-into-windows-server-updates/"><u>All About WSUS: The Definitive Insight Into Windows Server Updates</u></a></li>
+<li><a href="https://fox-search.techidaily.com/guide-complet-pour-effectuer-un-demarrage-du-systeme-windows-aturfax-en-mode-sans-echec/"><u>Guide Complet Pour Effectuer Un Démarrage Du Système Windows Aturfax en Mode Sans Échec</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-scanjet-driver-upgrade-manual-free-software-download-and-installation-steps-for-windows-10-8-7/"><u>HP Scanjet Driver Upgrade Manual: Free Software Download & Installation Steps for Windows 10, 8, 7</u></a></li>
+<li><a href="https://fox-search.techidaily.com/les-fichiers-supprimes-ou-se-dirigent-ils-sur-un-disque-dur-externe-reponse-detaillee/"><u>Les Fichiers Supprimés: Où Se Dirigent-Ils Sur Un Disque Dur Externe? [Réponse Détaillée]</u></a></li>
+<li><a href="https://fox-search.techidaily.com/retrieve-and-rebuild-effective-methods-for-retrieving-deleted-ext3-partitions-in-windows-11-10/"><u>Retrieve and Rebuild: Effective Methods for Retrieving Deleted Ext3 Partitions in Windows 11, 10</u></a></li>
+<li><a href="https://fox-search.techidaily.com/schritte-zur-wiederherstellung-von-daten-und-reparatur-von-laufwerken-mit-nullgrosse/"><u>Schritte Zur Wiederherstellung Von Daten Und Reparatur Von Laufwerken Mit Nullgröße</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simultaneous-cloning-of-windows-operating-system-across-various-pcs/"><u>Simultaneous Cloning of Windows Operating System Across Various PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/siris-text-voice-feature-demystified-a-comprehensive-guide-for-ios-and-mac-users/"><u>Siri's Text Voice Feature Demystified – A Comprehensive Guide for iOS and Mac Users</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-boost-your-computers-performance-with-effective-optimization-yl-computing-solutions/"><u>Step-by-Step Guide: Boost Your Computer's Performance with Effective Optimization - YL Computing Solutions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-importance-of-periodically-updating-your-visual-processor-drivers-advice-from-yl-software-experts/"><u>The Importance of Periodically Updating Your Visual Processor Drivers: Advice From YL Software Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover New Features in LYRX v1.10.2 - Latest Update From PCDJ's Karaoke Suite
-date: 2025-01-03T03:04:09.352Z
-updated: 2025-01-08T19:09:52.295Z
+date: 2025-01-13T17:13:32.558Z
+updated: 2025-01-14T20:33:04.318Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’re thrilled to introduce the latest iteration of our top karaoke show hosti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Duplicate Entries in Singer History!
@@ -33,7 +33,7 @@ One of the standout changes included in this free update is a significant improv
 **NOTE:** Duplicates will initially display in singer history. Once you re-play a song that was previously written to a singer’s history, LYRX will then remove all duplicates, leaving only the one song entry in their history.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Key Changes in LYRX 1.10.2 include:
@@ -44,7 +44,7 @@ One of the standout changes included in this free update is a significant improv
 In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke hosting to new heights – download it today! We thank you for your continued trust and support. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All Updates Included in LYRX 1.10.2
@@ -62,7 +62,7 @@ In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke host
 _Have questions about the latest 1.10.2 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,19 +84,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2023/08/lyrx1102.jpg?fit=1176%2C68
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/isualizing-the-most-influential-23-social-trends-for-2024/"><u>[New] Visualizing the Most Influential '23 Social Trends for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-avoiding-unwanted-shaking-in-dynamic-gopro-footage/"><u>2024 Approved Avoiding Unwanted Shaking in Dynamic GoPro Footage</u></a></li>
-<li><a href="https://fox-search.techidaily.com/a-comprehensive-guide-to-prevalent-gi-system-malfunctions-by-yl-software-professionals/"><u>A Comprehensive Guide to Prevalent GI System Malfunctions by YL Software Professionals</u></a></li>
-<li><a href="https://fox-search.techidaily.com/assessing-the-health-status-of-your-hard-disk-using-windows-tools-guidance-by-yl-software/"><u>Assessing the Health Status of Your Hard Disk Using Windows Tools - Guidance by YL Software</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/creative-holiday-fun-engaging-christmas-projects-for-children-and-learners/"><u>Creative Holiday Fun: Engaging Christmas Projects for Children & Learners</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elevate-your-gameplay-with-the-12-unmatched-tycoon-experiences/"><u>Elevate Your Gameplay with the #12 Unmatched Tycoon Experiences</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exploring-hardware-issue-resolution-does-microsoft-windows-offer-built-in-diagnostics-tools/"><u>Exploring Hardware Issue Resolution: Does Microsoft Windows Offer Built-In Diagnostics Tools?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-software-for-your-epson-xp-310-printer-free-download-options/"><u>Get the Latest Software for Your Epson XP 310 Printer: Free Download Options</u></a></li>
-<li><a href="https://review-topics.techidaily.com/redmi-note-12t-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Redmi Note 12T Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://fox-search.techidaily.com/solving-speed-issues-on-your-laptop-or-desktop-a-comprehvew-by-yl-software-experts/"><u>Solving Speed Issues on Your Laptop or Desktop: A Comprehvew by YL Software Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-the-reasons-behind-graphics-card-failure-expert-insights-by-yl-computing/"><u>Understanding the Reasons Behind Graphics Card Failure - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/unveiling-social-dynamics-in-china-analyzing-the-consequences-of-a-single-child-per-family-mandate-insights-from-yl-software/"><u>Unveiling Social Dynamics in China: Analyzing the Consequences of a Single Child Per Family Mandate – Insights From YL Software</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-2024-approved-top-9-choices-for-video-auto-translate/"><u>Updated 2024 Approved Top 9 Choices for Video Auto Translate</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elevate-your-mobile-music-collection-with-inshot-for-2024/"><u>[New] Elevate Your Mobile Music Collection with InShot for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-superior-ai-friends-in-virtual-space/"><u>[Updated] In 2024, Superior AI Friends in Virtual Space</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-effortlessly-convertopen-heic-files-on-macos-without-cost/"><u>How to Effortlessly Convert/Open HEIC Files on macOS Without Cost</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-a14-4g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy A14 4G online without jailbreak</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macos-fix-trash-empty-failure-case/"><u>MacOS: Fix Trash Empty Failure Case</u></a></li>
+<li><a href="https://fox-search.techidaily.com/navigating-the-manage-relationships-interface-insights-into-the-dependency-tab-features/"><u>Navigating the Manage Relationships Interface: Insights Into the Dependency Tab Features</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/revealing-10-hidden-viewers-of-stories/"><u>Revealing 10 Hidden Viewers of Stories</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-desktop-and-mobile-background-eraser-applications-of-2022/"><u>Top-Rated Desktop & Mobile Background Eraser Applications of 2022</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-internet-shortcut-settings-window/"><u>Understanding the Internet Shortcut Settings Window</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secret-a-simple-guide-to-access-r-rated-videos-on-youtube-without-age-verification/"><u>Unlocking the Secret: A Simple Guide to Access R-Rated Videos on YouTube Without Age Verification</u></a></li>
 </ul></div>
 

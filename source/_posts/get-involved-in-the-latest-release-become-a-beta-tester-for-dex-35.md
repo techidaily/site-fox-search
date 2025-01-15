@@ -1,7 +1,7 @@
 ---
 title: Get Involved in the Latest Release - Become a Beta Tester for DEX 3.5!
-date: 2025-01-08T05:40:02.563Z
-updated: 2025-01-09T05:39:58.305Z
+date: 2025-01-09T00:33:54.404Z
+updated: 2025-01-14T18:30:19.630Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,17 +91,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-decoding-digital-domain-dynamics-metaverse-edition-for-2024/"><u>[Updated] Decoding Digital Domain Dynamics Metaverse Edition for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-ephemeral-video-wizard/"><u>[Updated] Ephemeral Video Wizard</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elevating-your-visuals-mastering-instagram-edits-in-fcpx/"><u>[Updated] In 2024, Elevating Your Visuals Mastering Instagram Edits in FCPX</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-expedite-excitement-fast-video-on-android/"><u>[Updated] In 2024, Expedite Excitement Fast Video on Android</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-soloing-videos-discarding-unwanted-audio-in-mp4-formats/"><u>2024 Approved Soloing Videos Discarding Unwanted Audio in MP4 Formats</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cinematic-slow-motion-top-video-editors-for-dramatic-effects/"><u>Cinematic Slow Motion Top Video Editors for Dramatic Effects</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-instructions-on-implementing-new-fonts-in-windows-settings-yls-comprehve-guide/"><u>Easy Instructions on Implementing New Fonts in Windows Settings - YL's Comprehve Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hoops-radio-slam-dunk-full-coverage-of-ncaa-tournament-and-road-to-the-final-four/"><u>Hoops Radio Slam Dunk: Full Coverage of NCAA Tournament & Road to the Final Four!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lenovo-thinkphone-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Lenovo ThinkPhone support - Turn Off Screen Lock.</u></a></li>
-<li><a href="https://fox-search.techidaily.com/maximize-pc-performance-by-clearing-up-storage-essential-tips-from-yl-computing/"><u>Maximize PC Performance by Clearing Up Storage: Essential Tips From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-common-scanner-issues-and-errors-with-yl-software-expertise/"><u>Troubleshooting Common Scanner Issues and Errors with YL Software Expertise</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-why-your-computer-may-halt-exploring-causes-with-yl-software-experts/"><u>Understanding Why Your Computer May Halt: Exploring Causes with YL Software Experts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-from-obscurity-to-popularity-harnessing-tiktok-hashtags/"><u>[New] 2024 Approved From Obscurity to Popularity Harnessing TikTok Hashtags</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-practices-in-converting-videos-for-twitter/"><u>[New] Best Practices in Converting Videos for Twitter</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-effective-ways-for-home-based-podcasting-for-2024/"><u>[New] Effective Ways for Home-Based Podcasting for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-picart-privacy-filter-no-more-recognizable-faces/"><u>2024 Approved PicArt Privacy Filter No More Recognizable Faces</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2024s-ultimate-selection-of-miniature-mobile-devices-for-tech-enthusiasts/"><u>2024'S Ultimate Selection of Miniature Mobile Devices for Tech Enthusiasts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/fast-and-easy-methods-to-reduce-file-size-of-mpeg-videos/"><u>Fast and Easy Methods to Reduce File Size of MPEG Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-step-by-step-for-attaching-tunes-in-instagram-media/"><u>In 2024, Step-by-Step for Attaching Tunes in Instagram Media</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209794927-9781942125617-love-for-the-future/"><u>Love for the Future | Free Book</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-integrating-subtitles-and-captions-into-your-videos/"><u>Step-by-Step Guide: Integrating Subtitles and Captions Into Your Videos</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-tutorial-setting-up-your-gaming-channel-on-twitch/"><u>Step-by-Step Tutorial: Setting Up Your Gaming Channel on Twitch</u></a></li>
+<li><a href="https://fox-search.techidaily.com/the-ultimate-trick-for-recovering-lost-messages-from-your-ios-device/"><u>The Ultimate Trick for Recovering Lost Messages From Your iOS Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-cybersecurity-roles-a-guide-to-identifying-white-black-gray-and-other-categories-of-hackers/"><u>Understanding Cybersecurity Roles: A Guide to Identifying White, Black, Gray, and Other Categories of Hackers</u></a></li>
 </ul></div>
 
