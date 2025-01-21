@@ -1,7 +1,7 @@
 ---
 title: How-To Guide - Upload Audio/Files to DEX Pert's Library Using Drag and Drop with Finder or Explorer
-date: 2025-01-11T18:35:48.123Z
-updated: 2025-01-14T23:58:23.803Z
+date: 2025-01-15T23:48:29.359Z
+updated: 2025-01-20T23:45:29.436Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,16 +50,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-spark-interest-and-boost-views-on-instagram-videos/"><u>[Updated] In 2024, How to Spark Interest & Boost Views on Instagram Videos</u></a></li>
-<li><a href="https://techidaily.com/all-about-wsus-the-definitive-insight-into-windows-server-updates/"><u>All About WSUS: The Definitive Insight Into Windows Server Updates</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guide-complet-pour-effectuer-un-demarrage-du-systeme-windows-aturfax-en-mode-sans-echec/"><u>Guide Complet Pour Effectuer Un Démarrage Du Système Windows Aturfax en Mode Sans Échec</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-scanjet-driver-upgrade-manual-free-software-download-and-installation-steps-for-windows-10-8-7/"><u>HP Scanjet Driver Upgrade Manual: Free Software Download & Installation Steps for Windows 10, 8, 7</u></a></li>
-<li><a href="https://fox-search.techidaily.com/les-fichiers-supprimes-ou-se-dirigent-ils-sur-un-disque-dur-externe-reponse-detaillee/"><u>Les Fichiers Supprimés: Où Se Dirigent-Ils Sur Un Disque Dur Externe? [Réponse Détaillée]</u></a></li>
-<li><a href="https://fox-search.techidaily.com/retrieve-and-rebuild-effective-methods-for-retrieving-deleted-ext3-partitions-in-windows-11-10/"><u>Retrieve and Rebuild: Effective Methods for Retrieving Deleted Ext3 Partitions in Windows 11, 10</u></a></li>
-<li><a href="https://fox-search.techidaily.com/schritte-zur-wiederherstellung-von-daten-und-reparatur-von-laufwerken-mit-nullgrosse/"><u>Schritte Zur Wiederherstellung Von Daten Und Reparatur Von Laufwerken Mit Nullgröße</u></a></li>
-<li><a href="https://fox-search.techidaily.com/simultaneous-cloning-of-windows-operating-system-across-various-pcs/"><u>Simultaneous Cloning of Windows Operating System Across Various PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/siris-text-voice-feature-demystified-a-comprehensive-guide-for-ios-and-mac-users/"><u>Siri's Text Voice Feature Demystified – A Comprehensive Guide for iOS and Mac Users</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-boost-your-computers-performance-with-effective-optimization-yl-computing-solutions/"><u>Step-by-Step Guide: Boost Your Computer's Performance with Effective Optimization - YL Computing Solutions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-importance-of-periodically-updating-your-visual-processor-drivers-advice-from-yl-software-experts/"><u>The Importance of Periodically Updating Your Visual Processor Drivers: Advice From YL Software Experts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-influencing-instagram-step-by-step-tutorial/"><u>[New] Influencing Instagram Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-simplify-coordination-blending-zoom-into-your-gmail-schedule-for-2024/"><u>[Updated] Simplify Coordination Blending Zoom Into Your Gmail Schedule for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/5yy65zplusf5pww5o2u5oqi5pwr5pa55rov77ya6yen5bu65lii5asx55qe56ob5yy65lplush5ogv/"><u>区域数据抢救方法：重建丢失的磁区信息</u></a></li>
+<li><a href="https://fox-search.techidaily.com/como-restaurar-tu-computadora-windows-a-una-fecha-anterior-metodos-efectivos-para-sistemas-win11-10-8-y-7/"><u>Cómo Restaurar Tu Computadora Windows a Una Fecha Anterior: Métodos Efectivos Para Sistemas Win11, 10, 8 Y 7</u></a></li>
+<li><a href="https://fox-search.techidaily.com/die-top-datenwiederherstellungslosungen-zur-beseitigung-von-doppelten-dateien-in-windows-111087-fonetool-empfiehlt/"><u>Die Top-Datenwiederherstellungslösungen Zur Beseitigung Von Doppelten Dateien in Windows 11/10/8/7 - FoneTool Empfiehlt</u></a></li>
+<li><a href="https://fox-search.techidaily.com/fehlerbehebung-fur-dateiversionsprotokoll-unter-windows-10-element-nicht-gefunden/"><u>Fehlerbehebung Für Dateiversionsprotokoll Unter Windows 10 - Element Nicht Gefunden</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-common-obstacles-in-downloading-steam-updates-correctly/"><u>How to Overcome Common Obstacles in Downloading Steam Updates Correctly</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/immediate-countermeasures-for-the-w10-photos-crash-dilemnas/"><u>Immediate Countermeasures for the W10 Photos Crash Dilemnas</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-assessment-the-dji-quadcopter-model-3/"><u>In 2024, In-Depth Assessment The DJI Quadcopter Model 3</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no-cost-screen-record-the-ultimate-win11-tools-1-5-listing/"><u>No-Cost Screen Record The Ultimate Win11 Tools #1-5 Listing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/recuperation-de-fichiers-supprimes-par-robocopy-mir-deux-methodes-efficaces/"><u>Récupération De Fichiers Supprimés Par Robocopy /MIR : Deux Méthodes Efficaces</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-the-the-process-ended-abruptly-error-on-windows/"><u>Understanding and Fixing the 'The Process Ended Abruptly' Error on Windows</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728488328564-win10/"><u>Win10磁盘分区恢复技巧：专家解说最好选项列表</u></a></li>
 </ul></div>
 

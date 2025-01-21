@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ & Video Editing Tool: Dextrose 3.6 Beta Release Now Live!"
-date: 2025-01-09T21:23:27.733Z
-updated: 2025-01-14T19:35:53.236Z
+date: 2025-01-18T02:36:57.142Z
+updated: 2025-01-20T18:20:22.159Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,24 +72,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-audio-capture-guide-best-ten-for-spotify-enthusiasts/"><u>[New] 2024 Approved Ultimate Audio Capture Guide Best Ten for Spotify Enthusiasts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-ppt-transformers-to-vimeo/"><u>[New] In 2024, Expert PPT Transformers to Vimeo</u></a></li>
-<li><a href="https://fox-search.techidaily.com/usb-ipod-iphone/"><u>逐步指南：用 USB 異機型介面將文件從一部 iPod iPhone 轉移到另一台</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/acid-pro-a-deep-dive-and-competitive-matchups-for-2024/"><u>ACID Pro A Deep Dive & Competitive Matchups for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/dependence-on-premium-market-segment-pineapple-primarily-targets-the-premium-market-segment-which-may-limit-its-growth-potential-compared-to-competitors-who281/"><u>Dependence on Premium Market Segment: PineApple Primarily Targets the Premium Market Segment, Which May Limit Its Growth Potential Compared to Competitors Who Cater to Both High-End and Midrange Customers.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-must-watch-shows-on-leading-streaming-services-tailored-for-anime-lovers/"><u>Discover Must-Watch Shows on Leading Streaming Services Tailored for Anime Lovers</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guia-paso-a-paso-para-rescatar-tu-diario-de-chats-en-wechat-como-recuperar-mensajes-viejos-o-borrados/"><u>Guía Paso a Paso Para Rescatar Tu Diario De Chats en WeChat: Cómo Recuperar Mensajes Viejos O Borrados</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guia-practica-para-clonar-una-unidad-ssd-msata-con-facilidad-en-5-fases-clave/"><u>Guía Práctica Para Clonar Una Unidad SSD mSATA Con Facilidad en 5 Fases Clave</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-the-persistent-system-error-5-issue-across-various-windows-versions-fixed/"><u>How to Address the Persistent 'System Error 5' Issue Across Various Windows Versions [Fixed]</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nubia-red-magic-8s-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nubia Red Magic 8S Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-phantom-v-flip-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Phantom V Flip Is Unlocked</u></a></li>
-<li><a href="https://fox-search.techidaily.com/seamless-data-protection-with-aomei-backupper-expert-level-ease-of-use-and-universal-restoration-for-all-windows-systems/"><u>Seamless Data Protection with AOMEI Backupper - Expert-Level Ease of Use and Universal Restoration for All Windows Systems</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-removing-unwanted-shortcut-icons-from-your-computer-desktop/"><u>Step-by-Step Guide: Removing Unwanted Shortcut Icons From Your Computer Desktop</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-instagram-filters/"><u>The Ultimate Guide to Instagram Filters</u></a></li>
-<li><a href="https://fox-search.techidaily.com/tutorial-lanjutan-pemeliharaan-dan-restorasi-data-interaksi-aplikasi-wechat/"><u>Tutorial Lanjutan: Pemeliharaan Dan Restorasi Data Interaksi Aplikasi WeChat</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-jump-cut-like-a-pro-expert-techniques-for-final-cut-pro-x-editors/"><u>Updated In 2024, Jump Cut Like a Pro Expert Techniques for Final Cut Pro X Editors</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728508909482-pcssd/"><u>スムーズかつ高速：PC用の新しいSSDへデータ転送手順ガイド</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728509692865-windowsssd/"><u>どのバージョンのWindowsでも簡単にSSDにディスクをコピーして利用する完全ガイド</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-expertly-ranked-editing-software-on-iphones-and-android-devices/"><u>[New] 2024 Approved Expertly Ranked Editing Software on iPhones and Android Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-from-bland-to-breatited-the-ultimate-video-title-guide-for-2024/"><u>[New] From Bland to Breatited The Ultimate Video Title Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-convert-twitter-video-to-audiomp4webm/"><u>2024 Approved Convert Twitter Video to Audio/MP4/WebM</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-the-secrets-of-video-editing-on-youtube/"><u>2024 Approved Unveiling the Secrets of Video Editing on YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boosting-your-sites-performance-with-the-advanced-features-of-cookiebot-technology/"><u>Boosting Your Site's Performance with the Advanced Features of Cookiebot Technology</u></a></li>
+<li><a href="https://fox-search.techidaily.com/expertentaugliche-methoden-zur-fehlerbeheilung-externer-datenspeichergerate-mit-sicherem-datenerhalt/"><u>Expertentaugliche Methoden Zur Fehlerbeheilung Externer Datenspeichergeräte Mit Sicherem Datenerhalt</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 8</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/iphone-bilder-wiederherstellen-tipps-und-tricks-zum-entfernen-von-unerwunschten-fotos/"><u>IPhone Bilder Wiederherstellen - Tipps Und Tricks Zum Entfernen Von Unerwünschten Fotos</u></a></li>
+<li><a href="https://fox-search.techidaily.com/solving-the-problem-of-unsuccessful-partitioning-with-rufus-tool/"><u>Solving the Problem of Unsuccessful Partitioning with Rufus Tool</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728510172603-windows-11usb/"><u>Windows 11上如何启用外置硬盘或USB驱动器的引导功能</u></a></li>
+<li><a href="https://fox-search.techidaily.com/windows-outlook2/"><u>Windows Outlookにおける古代電子メール情報バックアップ方法：効率的解決策2点</u></a></li>
 </ul></div>
 

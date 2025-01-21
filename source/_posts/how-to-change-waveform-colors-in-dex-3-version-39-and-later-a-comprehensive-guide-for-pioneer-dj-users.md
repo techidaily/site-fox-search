@@ -1,7 +1,7 @@
 ---
 title: "How to Change Waveform Colors in DEX 3 Version 3.9 & Later: A Comprehensive Guide for Pioneer DJ Users"
-date: 2025-01-12T20:01:58.234Z
-updated: 2025-01-15T00:31:16.453Z
+date: 2025-01-13T22:51:28.641Z
+updated: 2025-01-20T21:10:07.549Z
 tags:
   - product
 categories:
@@ -28,6 +28,10 @@ DEX 3 is our **top DJ mixing software** solution for today’s versatile DJ that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How-To Edit DEX 3 Waveform Colors
 
 **1)** You will need to access the DEX 3 XML skin file you wish to edit. The skin files for DEX 3 are located in the DEX 3 program folder.
@@ -41,16 +45,12 @@ If you’re on a MAC the skin files are located inside the application itself. Y
   
 [VIEW LARGER IMAGE ![DEX 3 Skins Folder Location](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=300%2C195&ssl=1 "DEX 3 Skins Folder Location")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=1030%2C669&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Inside of the DEX 3 Skins folder you will find XML files for each DEX 3 skin variation. The 4-deck default skin will be labeled “dex38\_4” and the default (main) 2-deck default skin is labeled “dex38\_2”. You will need to right-click (Ctrl + Click on MAC) and open the XML file with a standard text editor such as Notepad on Windows or TextWrangler, Atom, Xcode, etc on MAC.
 
 [VIEW LARGER IMAGE ![Open DEX 3 XML skin files in notepad or text editor](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=300%2C195&ssl=1 "Open DEX 3 XML skin files in notepad or text editor")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=1030%2C671&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Once you’ve opened up the Skin XML file in a text editor, locate the text section (near the bottom) titled “Sound Display”. It’s in this section where you can edit the color codes for each DEX 3 deck. It’s shown highlighted in the image to the right. 
@@ -58,7 +58,7 @@ If you’re on a MAC the skin files are located inside the application itself. Y
 [VIEW LARGER IMAGE ![DEX 3 sound display section](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=300%2C169&ssl=1 "DEX 3 sound display section")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** The color codes (HEX) you can edit for each deck (Note: we are demonstrating with the 4-deck XML file) are outlined in the image to the right.
@@ -71,7 +71,7 @@ You can simply type in or copy and paste in the color code you wish to use, repl
 [VIEW LARGER IMAGe ![DEX 3 color codes to edit for waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=300%2C169&ssl=1 "DEX 3 color codes to edit for waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Once you’ve edited the waveform color codes to your preference you can simply save the XML (via the text editor you’re using to edit the color codes) back into the skins folder, replacing the existing XML file already there. Make sure you just SAVE, and do not change the format of the skin file (It needs to remain an XML file). That should do it — launch DEX 3 after saving the XML file and your waveform color edits will be active!
@@ -83,7 +83,7 @@ You can simply type in or copy and paste in the color code you wish to use, repl
 _Have questions about **editing the waveform colors** in DEX 3 **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -105,17 +105,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/editingwaveformcolors.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-combat-profiles-hitbox-vs-streamer-supremacy/"><u>[New] In 2024, Combat Profiles Hitbox vs Streamer Supremacy</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-elevate-your-imagery-top-lights-tactics-on-iphones/"><u>[New] In 2024, Elevate Your Imagery Top Lights Tactics on iPhones</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-frenzy-fest-the-ultimate-list-of-outrageous-tiktok-games/"><u>2024 Approved Frenzy Fest The Ultimate List of Outrageous TikTok Games</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-tips-to-effortlessly-insert-music-into-video-editing-sessions/"><u>2024 Approved Tips to Effortlessly Insert Music Into Video Editing Sessions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-7-iphoneipad-pdf-readers-in-2020-vision-modify-and-additional-features-for-mobile-documents/"><u>Best 7 iPhone/iPad PDF Readers in 2020: Vision, Modify & Additional Features for Mobile Documents</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-logitech-brio-webcam-driver-suite-for-modern-windows-systems/"><u>Easy Installation: Logitech BRIO Webcam Driver Suite for Modern Windows Systems</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-professional-grade-sound-capture-with-ubuntus-top-audio-recording-tool/"><u>Effortless Professional-Grade Sound Capture with Ubuntu's Top Audio Recording Tool</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhance-your-workflow-with-advanced-navigation-tabs/"><u>Enhance Your Workflow with Advanced Navigation Tabs</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-imsm-file-enrollment-comprehensive-strategies-and-tips/"><u>Mastering IMSM File Enrollment: Comprehensive Strategies and Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revamping-your-casted-content-backgrounds-effortlessly/"><u>Revamping Your Casted Content Backgrounds Effortlessly</u></a></li>
-<li><a href="https://fox-search.techidaily.com/streamlined-environment-configurator-interactive-selection-tool/"><u>Streamlined Environment Configurator: Interactive Selection Tool</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mcb-template-pack-download-now/"><u>[New] 2024 Approved MCB Template Pack Download Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-12-ultimate-relaxing-pc-titles/"><u>[Updated] Top 12 Ultimate Relaxing PC Titles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hero-4-vs-hero-5-performance-face-off/"><u>2024 Approved Hero 4 VS Hero 5 Performance Face-Off</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-find-a-niche-market-on-youtube-for-2024/"><u>How to Find A Niche Market on YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-effortless-screen-recording-on-modern-pcs/"><u>In 2024, Effortless Screen Recording on Modern PCs</u></a></li>
+<li><a href="https://fox-search.techidaily.com/optimize-page-thickness-and-dimensions-in-control-flipping-books-before-uploading-to-flipbuilder/"><u>Optimize Page Thickness & Dimensions in Control Flipping Books Before Uploading to FlipBuilder</u></a></li>
+<li><a href="https://fox-search.techidaily.com/seamlessly-update-book-cover-images-with-flipbuilder-a-comprehensive-guide/"><u>Seamlessly Update Book Cover Images with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/transform-your-text-documents-into-interactive-flipbooks-with-easy-graphics-insertion-discover-how-with-flipbuilder/"><u>Transform Your Text Documents Into Interactive Flipbooks with Easy Graphics Insertion: Discover How with FlipBuilder</u></a></li>
+<li><a href="https://fox-search.techidaily.com/update-guide-for-flipbuilder-how-to-install-the-most-recent-version/"><u>Update Guide for FlipBuilder: How to Install the Most Recent Version</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-to-purchase-post-apples-iphone-13-and-15-pro-retirement-expert-recommendations-tech-insights-by-zdnet/"><u>What to Purchase Post-Apple's iPhone 13 and 15 Pro Retirement - Expert Recommendations | Tech Insights by ZDNET</u></a></li>
 </ul></div>
 

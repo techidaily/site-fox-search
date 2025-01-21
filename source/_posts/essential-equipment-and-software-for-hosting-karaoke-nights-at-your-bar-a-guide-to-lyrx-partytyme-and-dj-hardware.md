@@ -1,7 +1,7 @@
 ---
 title: "Essential Equipment and Software for Hosting Karaoke Nights at Your Bar: A Guide to LYRX, PartyTyme, and DJ Hardware"
-date: 2025-01-10T21:20:31.750Z
-updated: 2025-01-14T23:46:20.310Z
+date: 2025-01-17T18:55:40.817Z
+updated: 2025-01-21T03:49:26.874Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ One item, and the most important piece of ‘equipment’ you’ll need, is a qu
 
 ## Karaoke System for a Bar | The Essentials
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Laptop/Computer Specifications
 
 First, you’re going to need a proper laptop, either MAC or Windows, that’s capable of running karaoke software efficiently and problem free. Here are the minimum system requirements we recommend:
@@ -55,7 +51,7 @@ First, you’re going to need a proper laptop, either MAC or Windows, that’s c
 No one brand sticks out above the others, but you also don’t want bargain basement and otherwise entry level machines. You need something that can hold up to the rigors of weekly abuse. If you allow smoking in your venue, especially.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Karaoke Software
@@ -65,7 +61,7 @@ No one brand sticks out above the others, but you also don’t want bargain base
 [LEARN MORE ABOUT LYRX ![LYRX karaoke player for MAC](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/03/MacBook_Pro_lyrx-withsinger-tv.png?fit=300%2C162&ssl=1 "LYRX karaoke player for MAC")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You would run the ‘lyrics-only’ output from your laptop (MAC/Windows) via HDMI into the ‘singers display’. The singers will only be able to view the lyrics on their screen while the KJ mans LYRX on the laptop screen. If you have multiple displays in your venue you can run to an HDMI splitter like [this one.](https://www.amazon.com/Expert-Connect-Splitter-Ultra-input/dp/B010BZ8VX6/)
@@ -75,7 +71,7 @@ LYRX is a one-off purchase that will provide you with activation for three diffe
 The [LYRX karaoke software](http://www.lyrxkaraoke.com/) provides all the karaoke tools needed to search, add to rotation, and play karaoke songs — but where do you get the music, and just as importantly, how do you stay current with new karaoke music without having to scour the web weekly?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Karaoke Music
@@ -91,6 +87,10 @@ The legal Party Tyme Karaoke subscription service is $99-a-month, which undoubte
 The best thing about Party Tyme Karaoke is the seamless integration with LYRX. You subscribe, login, access, search and stream from the Party Tyme catalog directly within the LYRX browser — so you never leave the application. What also makes the Party Tyme Karaoke subscription service unique is that you can download the entire catalog for offline use. That means that even if internet in your venue goes out one night the karaoke show can go on. [_Learn More about Party Tyme Karaoke_](https://tools.techidaily.com/pcdj/products/)
 
 Now that you’ve got the karaoke player (LYRX) and the karaoke music (Party Tyme) sorted, what else are you going to need to host a proper karaoke night?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Karaoke Hardware
 
@@ -113,7 +113,7 @@ With all these items combined you’ll be up and running with a **karaoke system
 **Still have questions? Call a PCDJ product specialist at 877-999-7235 x 1 to discuss!**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -135,19 +135,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2019/01/karaoke-for-a-bar.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-youtube-calendar-events-beyond-vidcon/"><u>[New] The Ultimate Youtube Calendar Events Beyond VidCon</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-professional-techniques-for-iphone-picture-inversion/"><u>[Updated] 2024 Approved Professional Techniques for iPhone Picture Inversion</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-revolutionize-your-webcam-experience-now/"><u>2024 Approved Revolutionize Your Webcam Experience Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advanced-gemini-vs-chatgpt-plus-a-comprehensive-comparison/"><u>Advanced Gemini Vs. ChatGPT Plus: A Comprehensive Comparison</u></a></li>
-<li><a href="https://fox-search.techidaily.com/decoding-cryptos-edge-over-fiat-unveiling-key-advantages-with-yl-software-expertise/"><u>Decoding Crypto's Edge Over Fiat: Unveiling Key Advantages with YL Software Expertise</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-minimize-pre-installed-software-clutter-tips-and-strategies-yl-solutions/"><u>How to Minimize Pre-Installed Software Clutter: Tips & Strategies - YL Solutions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-reverse-the-norm-creative-methods-for-backward-youtube-watching/"><u>In 2024, Reverse the Norm Creative Methods for Backward Youtube Watching</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tricks-for-smooth-animation-with-movie-maker/"><u>In 2024, Tricks for Smooth Animation with Movie Maker</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/newest-update-available-get-your-dj-controller-skills-sharper-with-the-latest-pioneer-ddj-sx3-mapping-guide/"><u>Newest Update Available! Get Your DJ Controller Skills Sharper with the Latest Pioneer DDJ-SX3 Mapping Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resolving-driver-corruption-a-step-by-step-guide-by-yl-computing/"><u>Resolving Driver Corruption: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/should-you-switch-to-the-new-iphone-16-pro-expert-review-and-comparison-with-iphone-14-pro-gadgetcentral/"><u>Should You Switch to the New iPhone 16 Pro? Expert Review & Comparison with iPhone 14 Pro | GadgetCentral</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-rise-of-the-ccp-unveiling-the-strategies-behind-chinas-political-dominance/"><u>The Rise of the CCP: Unveiling the Strategies Behind China's Political Dominance</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-guide-steps-to-fix-a-malfunctioning-graphics-card-expert-tips-from-yl-software/"><u>Troubleshooting Guide: Steps to Fix a Malfunctioning Graphics Card - Expert Tips From YL Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-boosting-remote-meeting-effectiveness-through-optimized-zoom-recordings/"><u>[Updated] Boosting Remote Meeting Effectiveness Through Optimized Zoom Recordings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-complete-critique-the-ultimate-review-for-bublcam-360-camera/"><u>[Updated] Complete Critique The Ultimate Review for Bublcam 360 Camera</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-transforming-viewership-a-proven-guide-to-implementing-youtubes-featured-listings-for-2024/"><u>[Updated] Transforming Viewership A Proven Guide to Implementing Youtube's Featured Listings for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/3-effective-steps-for-a-complete-ipad-reset-at-no-cost-a-comprehensive-guide/"><u>3 Effective Steps for a Complete iPad Reset at No Cost: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/5-effective-methods-for-uploading-your-sd-card-data-to-google-drive-a-comprehensive-guide/"><u>5 Effective Methods for Uploading Your SD Card Data to Google Drive: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/astuces-rapides-comment-diagnostiquer-et-reparer-windows-server-2008-r2-via-cmd/"><u>Astuces Rapides : Comment Diagnostiquer Et Réparer Windows Server 2008 R2 via CMD ?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/efficient-file-migration-a-guide-to-smoothly-handling-large-transfers-within-windows-11-ecosystem/"><u>Efficient File Migration: A Guide to Smoothly Handling Large Transfers Within Windows 11 Ecosystem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-razer-mamba-drivers-fast-instant-downloads-available/"><u>Get Your Razer Mamba Drivers Fast: Instant Downloads Available</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-recover-deleted-files-on-windows-1011-using-essential-methods/"><u>How to Recover Deleted Files on Windows 10/11 Using Essential Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-the-art-of-audio-driver-refresh-in-windows-11/"><u>Master the Art of Audio Driver Refresh in Windows 11</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maximize-performance-top-strategies-to-boost-windows-server-2019-file-transfer-speeds/"><u>Maximize Performance: Top Strategies to Boost Windows Server 2019 File Transfer Speeds</u></a></li>
+<li><a href="https://fox-search.techidaily.com/qnap-backups-mit-rsync-auf-alternativem-nas-durchfuhren-anleitung-und-tipps/"><u>QNAP Backups Mit RSync Auf Alternativem NAS Durchführen – Anleitung Und Tipps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/superior-imaging-editing-solution/"><u>Superior Imaging Editing Solution</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/transforma-audio-mp3-gratuitamente-a-ogg-utilizando-la-herramienta-online-de-movavi/"><u>Transforma Audio MP3 Gratuitamente a OGG Utilizando La Herramienta Online De Movavi</u></a></li>
 </ul></div>
 
