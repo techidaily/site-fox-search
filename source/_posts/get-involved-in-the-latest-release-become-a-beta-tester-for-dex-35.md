@@ -1,7 +1,7 @@
 ---
 title: Get Involved in the Latest Release - Become a Beta Tester for DEX 3.5!
-date: 2025-01-17T22:21:24.405Z
-updated: 2025-01-20T19:32:38.159Z
+date: 2025-01-24T16:16:10.205Z
+updated: 2025-01-27T00:50:25.199Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ If you meet the BETA Tester requirements below please fill out the form at the b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.5 Beta Team Requirements
@@ -69,7 +69,7 @@ Multichannel Core Audio soundcard
 If you meet these requirements please submit the form below. A PCDJ production team member will get back to you. (**NOTE:** _Not all testers will be accepted as we have limited space on the BETA testing team_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,18 +91,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/dex35betatest-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-iosandroid-playback-silent-youtube-autoplay-tips/"><u>[Updated] 2024 Approved IOS/Android Playback Silent YouTube Autoplay Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>[Updated] Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-avoid-common-pitfalls-in-ppt-recording/"><u>2024 Approved Avoid Common Pitfalls in PPT Recording</u></a></li>
-<li><a href="https://fox-search.techidaily.com/creative-tims-nuxt-and-larvel-integration-mastering-the-argon-admin-template/"><u>Creative Tim's Nuxt and Larvel Integration: Mastering the Argon Admin Template</u></a></li>
-<li><a href="https://fox-search.techidaily.com/creative-tims-premier-storefront-discover-the-ultimate-1-shopify-theme-and-template-collection/"><u>Creative Tim's Premier Storefront: Discover the Ultimate 1 Shopify Theme & Template Collection!</u></a></li>
-<li><a href="https://article-posts.techidaily.com/effortlessly-enable-picture-in-picture-mode-on-ios-youtube-app/"><u>Effortlessly Enable Picture In Picture Mode on iOS YouTube App</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhance-vuejs-applications-using-the-premium-vue-material-kit-by-creative-tim-now-with-bootstrap-ncompatibility/"><u>Enhance VueJS Applications Using the Premium Vue Material Kit by Creative Tim, Now with Bootstrap nCompatibility!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exclusive-material-dashboard-pro-elite-bootstrap-5-framework-for-admins-and-dashboards-by-creative-tim/"><u>Exclusive Material Dashboard PRO: Elite Bootstrap 5 Framework for Admins & Dashboards by Creative Tim</u></a></li>
-<li><a href="https://fox-search.techidaily.com/explore-diverse-react-native-blueprints-on-the-web-with-creative-tims-library-of-more-than-8-options-for-your-mobile-project/"><u>Explore Diverse React Native Blueprints on the Web with Creative Tim's Library of More Than 8 Options for Your Mobile Project.</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-x-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone X and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/noise-free-ai-transcription-technology-for-2024/"><u>Noise-Free AI Transcription Technology for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/roku-tv-troubleshooting-how-to-navigate-without-a-physical-remote/"><u>Roku TV Troubleshooting: How to Navigate Without a Physical Remote</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-v27e-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo V27e</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-triller-unveiled-the-non-tiktok-tiktok-alternatives-secrets/"><u>[New] 2024 Approved Triller Unveiled The Non-TikTok, TikTok Alternative's Secrets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[New] In 2024, Expert Picks Top 12 Screen Recording Software, No Time Limit</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-steps-for-efficiently-storing-whatsapp-audio-transcripts/"><u>2024 Approved Steps for Efficiently Storing WhatsApp Audio Transcripts</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effortless-printer-setup-for-your-pc-or-mac-expert-advice-by-yl-software-professionals/"><u>Effortless Printer Setup for Your PC or Mac: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://fox-search.techidaily.com/eliminating-pause-in-sound-overcoming-audio-jitter-while-enjoying-games-with-yl-software-solutions/"><u>Eliminating Pause in Sound: Overcoming Audio Jitter While Enjoying Games with YL Software Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/high-definition-picture-gallery-exquisite-wallpapers-and-fullscreen-graphics-from-yl-software-solutions/"><u>High Definition Picture Gallery - Exquisite Wallpapers & Fullscreen Graphics From YL Software Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-prevent-lags-in-your-gameplay-of-guilty-gear-strive/"><u>How to Fix and Prevent Lags in Your Gameplay of Guilty Gear Strive</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-fix-uneven-color-discrepancies-on-your-screen-expert-tips-by-yl-computing/"><u>How to Fix Uneven Color Discrepancies on Your Screen - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-spot-problematic-cpu-performance-and-troubleshooting-tips-yl-digital-insights/"><u>How to Spot Problematic CPU Performance and Troubleshooting Tips - YL Digital Insights</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-elevate-to-a-custom-hashtag-mastery-on-tiktok/"><u>In 2024, Elevate to a Custom Hashtag Mastery on TikTok</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mac-movie-magic-how-to-bring-your-vision-to-life-for-2024/"><u>New Mac Movie Magic How to Bring Your Vision to Life for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/premium-hd-nature-backgrounds-and-images-the-official-yl-software-suite/"><u>Premium HD Nature Backgrounds & Images - The Official YL Software Suite</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/quick-kinemaster-techniques-for-memelore-for-2024/"><u>Quick KineMaster Techniques for Memelore for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/solving-wi-fi-printing-problems-a-step-by-step-guide-by-yl-computing/"><u>Solving Wi-Fi Printing Problems: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-youtube-music-replay-tracks-2023-for-2024/"><u>The Ultimate YouTube Music Replay Tracks, 2023 for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/unmasking-impersonation-frauds-in-the-world-of-cryptocurrency-insights-by-yl-computing/"><u>Unmasking Impersonation Frauds in the World of Cryptocurrency - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/yl-software-reveals-top-strategies-for-retrieving-deleted-data-on-windows-systems/"><u>YL Software Reveals Top Strategies for Retrieving Deleted Data on Windows Systems</u></a></li>
 </ul></div>
 
