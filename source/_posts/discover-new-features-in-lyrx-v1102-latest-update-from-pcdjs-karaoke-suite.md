@@ -1,7 +1,7 @@
 ---
 title: Discover New Features in LYRX v1.10.2 - Latest Update From PCDJ's Karaoke Suite
-date: 2025-01-21T18:02:29.124Z
-updated: 2025-01-26T23:08:34.216Z
+date: 2025-02-06T19:56:38.728Z
+updated: 2025-02-08T17:57:26.777Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’re thrilled to introduce the latest iteration of our top karaoke show hosti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Duplicate Entries in Singer History!
@@ -33,7 +33,7 @@ One of the standout changes included in this free update is a significant improv
 **NOTE:** Duplicates will initially display in singer history. Once you re-play a song that was previously written to a singer’s history, LYRX will then remove all duplicates, leaving only the one song entry in their history.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Key Changes in LYRX 1.10.2 include:
@@ -44,7 +44,7 @@ One of the standout changes included in this free update is a significant improv
 In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke hosting to new heights – download it today! We thank you for your continued trust and support. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All Updates Included in LYRX 1.10.2
@@ -62,7 +62,7 @@ In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke host
 _Have questions about the latest 1.10.2 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,18 +84,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2023/08/lyrx1102.jpg?fit=1176%2C68
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-revolutionary-additions-to-windows-11/"><u>[New] Revolutionary Additions to Windows 11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-hands-free-tricks-capturing-gotomeetings-on-the-fly/"><u>[Updated] 2024 Approved Hands-Free Tricks Capturing GoToMeetings on the Fly</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-adjust-your-scanners-dpi-settings-a-comprehensive-guide/"><u>1. Adjust Your Scanner's DPI Settings: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-search.techidaily.com/10-pc-expert-tips-by-yl-computing-and-software/"><u>10 PC - Expert Tips by YL Computing & Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp3aac-movavi/"><u>移行期間中の無料MP3からAACへのオンライン変換 -Movavi</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-fix-your-printer-when-drivers-cause-disruption-tips-by-yl-software-experts/"><u>How to Fix Your Printer When Drivers Cause Disruption - Tips by YL Software Experts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-y56-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo Y56 5G Easily?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/labor-day-discount-get-10-off-on-professional-dj-and-karaoke-apps-by-pcdj/"><u>Labor Day Discount: Get 10% Off on Professional DJ & Karaoke Apps by PCDJ</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/professional-video-resizer-suite/"><u>Professional Video Resizer Suite</u></a></li>
-<li><a href="https://fox-search.techidaily.com/registry-recovery-strategies-expert-tips-from-yl-computing-learn-how-to-fix-issues-with-your-systems-core/"><u>Registry Recovery Strategies: Expert Tips From YL Computing - Learn How to Fix Issues with Your System's Core</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-to-detecting-and-fixing-your-pcs-gpu-issues-with-yl-software-assistance/"><u>Step-by-Step Guide to Detecting and Fixing Your PC's GPU Issues with YL Software Assistance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackle-freezing-xbox-apps-in-windows-easily/"><u>Tackle Freezing Xbox Apps in Windows Easily</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-alternative-discover-the-ultimate-non-vizio-non-jbl-audio-experience-in-our-latest-tests-tech-insights/"><u>Top-Ranking Alternative: Discover the Ultimate Non-Vizio, Non-JBL Audio Experience in Our Latest Tests | Tech Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-transition-from-standard-to-intelligent-hdr-imaging/"><u>[Updated] 2024 Approved Transition From Standard to Intelligent HDR Imaging</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturing-screens-a-laptops-webcam-journey/"><u>[Updated] In 2024, Capturing Screens A Laptop's Webcam Journey</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-como-duplicar-archivos-entre-dos-dispositivos-de-almacenamiento-en-red-synology-tecnicas-sencillas/"><u>1. Cómo Duplicar Archivos Entre Dos Dispositivos De Almacenamiento en Red Synology: Técnicas Sencillas</u></a></li>
+<li><a href="https://fox-search.techidaily.com/hddtop3/"><u>過去のデータを回復するための外部HDD修復ツールTOP3: 使い勝手が素晴らしい！</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-restaurer-des-fichiers-a-laide-dun-lecteur-flash-vierge-un-guide-complet-pour-debutants-et-experts/"><u>Comment Restaurer Des Fichiers À L'aide D'un Lecteur Flash Vierge : Un Guide Complet Pour Débutants Et Experts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971982461-easy-guide-to-downloading-logitech-k400-plus-peripheral-drivers-for-optimal-performance/"><u>Easy Guide to Downloading Logitech K400 Plus Peripheral Drivers for Optimal Performance.</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-genshin-impact-on-your-windows-or-mac-computer/"><u>How to Fix Persistent Crashes in Genshin Impact on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/problemlos-fehlende-daten-wiederherstellen-tipps-und-tricks-fur-windows-11-nutzer/"><u>Problemlos Fehlende Daten Wiederherstellen: Tipps Und Tricks Für Windows 11-Nutzer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-tecno-pop-8-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Tecno Pop 8 Phones</u></a></li>
 </ul></div>
 
