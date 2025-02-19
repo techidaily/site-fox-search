@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Show Off Custom Images & Messages In-Screen Using JammText on Your Deck's Display"
-date: 2025-02-07T20:31:16.263Z
-updated: 2025-02-08T21:16:52.885Z
+date: 2025-02-15T20:27:35.756Z
+updated: 2025-02-18T18:45:18.688Z
 tags:
   - product
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
 
 ![JammText Picture](https://i2.wp.com/www.mixcityinc.com/images/emails/email_banner_wedding.jpg?w=1500&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Special offer: 1 month FREE trial – no obligation!  
 Sign up with promo code PCDJ2016
 
@@ -35,7 +39,7 @@ Use Promo Code PCDJ2016
 ![Display](https://i1.wp.com/mixcityinc.com/images/emails/jt_screenshot_pic_wedding.jpg?w=1500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Guests share pictures and messages on screen
@@ -47,7 +51,7 @@ Use the same hashtag as the wedding (e.g. “#JackAndDiane”). As guests hashta
 ![Skinny Jimmy](https://i1.wp.com/mixcityinc.com/images/jammtext-testimonials/skinny_jimmy-min.jpg?w=1500)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Case Study: DJ Skinny Jimmy
@@ -64,7 +68,7 @@ Union, NJ
 After the reception, give the bride and groom the pictures collected. No waiting for a photographer. Offer the couple the instant gratification that they want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use in conjunction with photo booths
@@ -72,10 +76,6 @@ After the reception, give the bride and groom the pictures collected. No waiting
 Many photobooths now share pictures on Instagram automatically. Use the same hashtag and show photobooth pictures as they are taken.
 
 Great for concerts, sweet sixteens, bar mitzvahs, conferences, bars, nightclubs, and more!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## PCDJ customers get one month FREE!
 
@@ -88,11 +88,11 @@ Sign up with promo code PCDJ2016 today
 
 ![JammText Picture](https://i0.wp.com/www.mixcityinc.com/images/JammText-3-Screen-image.jpg?w=1500&ssl=1)
 
-_**Promo code PCDJ2016 is good for one free month of either the JammText Base plan or the JammText Pro plan. Subsequent months are billed at the regular rate.**_
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+_**Promo code PCDJ2016 is good for one free month of either the JammText Base plan or the JammText Pro plan. Subsequent months are billed at the regular rate.**_
 
 ### _Related_
 
@@ -113,16 +113,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-search.techidaily.com/128gb-ssd25ngb-ssdwindows-1110874/"><u>克隆128GB SSD到更大的25nGB SSD——适用Windows 11、10、8/7版本的完整4阶段说明</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-steps-installing-windows-11-on-an-m2-ssd-via-usb-two-effective-methods/"><u>Effortless Steps: Installing Windows 11 on an M.2 SSD via USB - Two Effective Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/gear-up-level-up-enhancing-your-game-experience/"><u>Gear Up, Level Up: Enhancing Your Game Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-article-purging-cached-data-on-leading-internet-browsers-simplified/"><u>How-To Article: Purging Cached Data on Leading Internet Browsers Simplified</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-blueprint-for-broadcasting-logging-roblox-games-via-your-mac-hardware/"><u>In 2024, Blueprint for Broadcasting Logging Roblox Games via Your Mac Hardware</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-incremental-data-protection-for-windows-server-prise-2012-with-these-2-strategies/"><u>Mastering Incremental Data Protection for Windows Server Prise 2012 with These 2 Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-a-slow-safari-on-ios-devices-discover-4-effective-strategies/"><u>Quick Fixes for a Slow Safari on iOS Devices - Discover 4 Effective Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016525693-silent-cyberpunk-2077-heres-how-to-turn-up-the-volume-on-your-pc/"><u>Silent Cyberpunk 2077? Here's How to Turn Up the Volume on Your PC</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ssd-da-inizializzare-pre-clona-consigli-e-protocolli-essenziali/"><u>SSD Da Inizializzare Pre-Clona: Consigli E Protocolli Essenziali</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-7-fixes-for-when-your-iphone-cant-update-via-icloud/"><u>Top 7 Fixes for When Your iPhone Can't Update via iCloud</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209684215-9781547589180-une-nuit-dans-lannwn/"><u>Une nuit dans l'Annwn | Free Book</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mobilizing-audience-engagement-igtv-and-fb-synchronization/"><u>[New] In 2024, Mobilizing Audience Engagement IGTV and FB Synchronization</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-rise-to-the-top-mastering-youtube-descriptions-with-customizable-templates/"><u>[Updated] Rise to the Top Mastering YouTube Descriptions with Customizable Templates</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tactics-to-determine-igtv-viewership-success-for-2024/"><u>[Updated] Tactics to Determine IGTV Viewership Success for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/cute-and-captivating-staring-cat-wallpapers-by-yl-computing-unique-imagery-collection/"><u>Cute & Captivating Staring Cat Wallpapers by YL Computing: Unique Imagery Collection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-problem-why-your-iphone-might-not-be-receiving-sms/"><u>Fixing the Problem: Why Your iPhone Might Not Be Receiving SMS</u></a></li>
+<li><a href="https://games-able.techidaily.com/heat-haze-the-dangerous-overclock-route/"><u>Heat Haze: The Dangerous Overclock Route</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-decrease-impact-from-background-processes-expert-tips-by-yl-computing/"><u>How to Decrease Impact From Background Processes: Expert Tips by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-fix-audio-glitches-tackling-stutters-and-skips-in-your-sound-card-insights-from-yl-computing/"><u>How to Fix Audio Glitches: Tackling Stutters and Skips in Your Sound Card - Insights From YL Computing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-quit-auto-capture-on-apples-recorder/"><u>In 2024, How To Quit Auto-Capture on Apple's Recorder</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-laughter-ledger-ranking-the-highest-viral-jokes/"><u>In 2024, Laughter Ledger Ranking the Highest Viral Jokes</u></a></li>
+<li><a href="https://facebook.techidaily.com/peek-into-facebook-bonds-history-of-connections/"><u>Peek Into Facebook Bonds: History of Connections</u></a></li>
+<li><a href="https://fox-search.techidaily.com/resolving-undetected-graphics-cards-in-windows-expert-tips-from-yl-computing/"><u>Resolving Undetected Graphics Cards in Windows: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/smart-strategies-for-evaluating-cryptocurrency-projects-insights-from-yl-software/"><u>Smart Strategies for Evaluating Cryptocurrency Projects - Insights From YL Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/solving-driver-issues-on-your-pc-a-guide-from-yl-computing/"><u>Solving Driver Issues on Your PC: A Guide From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/troubleshooting-your-sound-card-issues-with-expert-tips-by-yl-computing/"><u>Troubleshooting Your Sound Card Issues with Expert Tips by YL Computing</u></a></li>
 </ul></div>
 

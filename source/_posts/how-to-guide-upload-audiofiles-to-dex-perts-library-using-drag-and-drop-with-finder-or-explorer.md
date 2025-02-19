@@ -1,7 +1,7 @@
 ---
 title: How-To Guide - Upload Audio/Files to DEX Pert's Library Using Drag and Drop with Finder or Explorer
-date: 2025-02-07T21:54:34.781Z
-updated: 2025-02-08T21:00:23.820Z
+date: 2025-02-18T01:51:53.876Z
+updated: 2025-02-18T22:28:47.458Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unearthing-old-facebook-tales-an-easy-to-follow-device-method/"><u>[New] 2024 Approved Unearthing Old Facebook Tales An Easy-to-Follow Device Method</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-overcoming-video-limitations-on-instagram-platform/"><u>[Updated] 2024 Approved Overcoming Video Limitations on Instagram Platform</u></a></li>
-<li><a href="https://fox-search.techidaily.com/a-step-by-step-guide-to-modifying-windows-power-options-using-the-control-panel-expertise-by-yl-software/"><u>A Step-by-Step Guide to Modifying Windows Power Options Using the Control Panel – Expertise by YL Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/elevate-your-presence-mastering-ig-video-borders/"><u>Elevate Your Presence Mastering IG Video Borders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/engaging-internet-games-perfect-for-youngsters-a-list-of-7/"><u>Engaging Internet Games Perfect for Youngsters - A List of 7</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/free-online-conversion-swiftly-transform-swf-files-into-flv-format-with-movavi/"><u>Free Online Conversion: Swiftly Transform SWF Files Into FLV Format with Movavi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/google-pixel-4a-review-just-enough-smartphone-for-most/"><u>Google Pixel 4a Review: Just Enough Smartphone for Most</u></a></li>
-<li><a href="https://fox-search.techidaily.com/maintaining-pc-performance-should-you-frequently-dust-off-your-ram/"><u>Maintaining PC Performance: Should You Frequently Dust Off Your RAM?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-purchases-wisdom-straight-from-toms-hardware-experts/"><u>Mastering Gadget Purchases: Wisdom Straight From Tom's Hardware Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-uplighting-for-your-dj-set-up-tips-from-brian-s-redd-at-pcdj/"><u>Mastering UpLighting for Your DJ Set-Up - Tips From Brian S Redd at PCDJ</u></a></li>
-<li><a href="https://fox-search.techidaily.com/topmost-diagnostic-instruments-for-detecting-ram-issues-in-windows-environments-insights-by-yl-computing/"><u>Topmost Diagnostic Instruments for Detecting RAM Issues in Windows Environments - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/verifying-your-scanners-performance-a-guide-by-yl-computing/"><u>Verifying Your Scanner's Performance: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-showtime-media-centre-all-media-in-one-app/"><u>[Updated] 2024 Approved SHOWTIME Media Centre All Media in One App</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-dual-domain-delight-posting-videos-across-social-platforms/"><u>[Updated] Dual-Domain Delight Posting Videos Across Social Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-insights-into-tunefabs-recording-capabilities/"><u>[Updated] Expert Insights Into Tunefab's Recording Capabilities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://fox-search.techidaily.com/customize-virtual-machine-settings-for-optimized-performance/"><u>Customize Virtual Machine Settings for Optimized Performance</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-and-effective-ways-to-transform-vimeo-content-into-high-quality-mp3-files/"><u>Easy and Effective Ways to Transform Vimeo Content Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effortless-chromebook-video-capture-a-beginners-guide-to-quick-and-easy-recording/"><u>Effortless Chromebook Video Capture: A Beginner's Guide to Quick and Easy Recording</u></a></li>
+<li><a href="https://fox-search.techidaily.com/enhancing-productivity-with-the-versatile-notepad-feature/"><u>Enhancing Productivity with the Versatile Notepad Feature</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-magic-5-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Magic 5 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quick-and-effective-methods-to-strip-watermarks-off-reels-videos-2021-edition/"><u>Quick and Effective Methods to Strip Watermarks Off Reel's Videos - 2021 Edition</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-most-downloaded-android-apps-of-the-month/"><u>Updated In 2024, Most-Downloaded Android Apps of the Month</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-of-emporia-energy-smart-ev-charger-enhanced-performance-at-an-economical-cost/"><u>ZDNet's In-Depth Analysis of Emporia Energy Smart EV Charger: Enhanced Performance at an Economical Cost</u></a></li>
 </ul></div>
 

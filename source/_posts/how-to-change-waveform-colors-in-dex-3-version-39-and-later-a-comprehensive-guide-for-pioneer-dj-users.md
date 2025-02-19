@@ -1,7 +1,7 @@
 ---
 title: "How to Change Waveform Colors in DEX 3 Version 3.9 & Later: A Comprehensive Guide for Pioneer DJ Users"
-date: 2025-02-06T16:24:25.828Z
-updated: 2025-02-08T20:03:51.365Z
+date: 2025-02-16T21:20:36.812Z
+updated: 2025-02-18T16:12:12.839Z
 tags:
   - product
 categories:
@@ -28,6 +28,10 @@ DEX 3 is our **top DJ mixing software** solution for today’s versatile DJ that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How-To Edit DEX 3 Waveform Colors
 
 **1)** You will need to access the DEX 3 XML skin file you wish to edit. The skin files for DEX 3 are located in the DEX 3 program folder.
@@ -41,21 +45,17 @@ If you’re on a MAC the skin files are located inside the application itself. Y
   
 [VIEW LARGER IMAGE ![DEX 3 Skins Folder Location](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=300%2C195&ssl=1 "DEX 3 Skins Folder Location")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=1030%2C669&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Inside of the DEX 3 Skins folder you will find XML files for each DEX 3 skin variation. The 4-deck default skin will be labeled “dex38\_4” and the default (main) 2-deck default skin is labeled “dex38\_2”. You will need to right-click (Ctrl + Click on MAC) and open the XML file with a standard text editor such as Notepad on Windows or TextWrangler, Atom, Xcode, etc on MAC.
 
 [VIEW LARGER IMAGE ![Open DEX 3 XML skin files in notepad or text editor](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=300%2C195&ssl=1 "Open DEX 3 XML skin files in notepad or text editor")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=1030%2C671&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Once you’ve opened up the Skin XML file in a text editor, locate the text section (near the bottom) titled “Sound Display”. It’s in this section where you can edit the color codes for each DEX 3 deck. It’s shown highlighted in the image to the right. 
 
 [VIEW LARGER IMAGE ![DEX 3 sound display section](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=300%2C169&ssl=1 "DEX 3 sound display section")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** The color codes (HEX) you can edit for each deck (Note: we are demonstrating with the 4-deck XML file) are outlined in the image to the right.
 
@@ -67,7 +67,7 @@ You can simply type in or copy and paste in the color code you wish to use, repl
 [VIEW LARGER IMAGe ![DEX 3 color codes to edit for waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=300%2C169&ssl=1 "DEX 3 color codes to edit for waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Once you’ve edited the waveform color codes to your preference you can simply save the XML (via the text editor you’re using to edit the color codes) back into the skins folder, replacing the existing XML file already there. Make sure you just SAVE, and do not change the format of the skin file (It needs to remain an XML file). That should do it — launch DEX 3 after saving the XML file and your waveform color edits will be active!
@@ -77,13 +77,13 @@ You can simply type in or copy and paste in the color code you wish to use, repl
 [VIEW LARGER IMAGE ![DEX 3 with colored waveforms](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1 "DEX 3 with colored waveforms")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about **editing the waveform colors** in DEX 3 **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -105,19 +105,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/editingwaveformcolors.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-elite-mac-gif-recorders-top-picks-list/"><u>[New] Elite Mac GIF Recorders Top Picks List</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-premium-video-capture-without-extras/"><u>[Updated] In 2024, Premium Video Capture Without Extras</u></a></li>
-<li><a href="https://fox-access.techidaily.com/benq-sw320-monitor-reveal-a-spectacle-in-4k-technology-for-2024/"><u>BenQ SW320 Monitor Reveal A Spectacle in 4K Technology for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-nokia-130-music-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia 130 Music Fingerprint Lock</u></a></li>
-<li><a href="https://fox-search.techidaily.com/expert-tips-for-recovering-microsoft-sql-server-data-with-aomei-cyber-backup-software/"><u>Expert Tips for Recovering Microsoft SQL Server Data with AOMEI Cyber Backup Software</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-recover-deleted-apps-on-your-laptop-running-windows-11-10-8-or-navigating-windows-7/"><u>How to Recover Deleted Apps on Your Laptop Running Windows 11, 10, 8 or Navigating Windows 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 Pro 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-gionee-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Gionee FRP</u></a></li>
-<li><a href="https://fox-search.techidaily.com/inaccessible-boot-devicewindows-11ssd/"><u>Inaccessible Boot Deviceエラーを解消:Windows 11でSSD交換完了</u></a></li>
-<li><a href="https://fox-search.techidaily.com/online-photo-recovery-methods-a-comprehensive-guide-to-restoring-lost-images/"><u>Online Photo Recovery Methods: A Comprehensive Guide to Restoring Lost Images</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/perfect-pair-merging-your-youtube-video-library/"><u>Perfect Pair Merging Your YouTube Video Library</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/side-by-side-analysis-how-triller-measures-up-to-tiktok-max-156-chars/"><u>Side by Side Analysis How Triller Measures Up to TikTok? (Max 156 Chars)</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-3-methods-to-convert-your-backup-partition-into-an-image-file-on-windows-11-10-8-and-7/"><u>Top 3 Methods to Convert Your Backup Partition Into an Image File on Windows (11, 10, 8 & 7)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unplugged-potential-steps-for-getting-a-non-detecting-mac-to-see-an-extra-screen/"><u>Unplugged Potential: Steps for Getting a Non-Detecting Mac to See an Extra Screen</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-step-by-step-guide-removing-photo-backdrops/"><u>[Updated] In 2024, Step-by-Step Guide Removing Photo Backdrops</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pivotal-ideas-in-tech-driven-story-weaving/"><u>[Updated] Pivotal Ideas in Tech-Driven Story Weaving</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-lava-blaze-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Lava Blaze Pro 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/5o6i56m25a6l5pyd5pe25pyf5pah5pmv5lml5rk75zyo5lit5zu95y6g5yplusy5lik55qe5zyw5l2n5lio5l2c55so/"><u>探究宋朝时期文景之治在中国历史上的地位与作用</u></a></li>
+<li><a href="https://fox-search.techidaily.com/are-parental-controls-a-built-in-function-of-windows-defender-exploring-features-with-yl-computing/"><u>Are Parental Controls a Built-In Function of Windows Defender? – Exploring Features with YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/bypassing-specific-files-in-windows-defender-scans-a-guide-with-yl-solutions/"><u>Bypassing Specific Files in Windows Defender Scans - A Guide with YL Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/dex3-dj-mixer-pro-version-get-the-latest-375-free-update-for-pcdj-and-more/"><u>DEX3 DJ Mixer Pro Version - Get the Latest 3.7.5 Free Update for PCDJ & More!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-quality-of-docoolers-12-megapixel-usb-20-an-honest-review-for-photography-enthusiasts/"><u>Evaluating the Quality of Docooler's 12 Megapixel USB 2.0: An Honest Review for Photography Enthusiasts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95910651-9781941394267-for-love-of-the-real/"><u>For Love of the Real | Free Book</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-personalize-windows-defenders-configuration-options-a-guide-by-yl-software/"><u>How to Personalize Windows Defender's Configuration Options: A Guide by YL Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-battle-for-best-action-camera-sony-fdr-x1000v-meets-hero-4-black/"><u>In 2024, Battle for Best Action Camera Sony FDR-X1000V Meets Hero 4 Black</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-s23-fe-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy S23 FE to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maximizing-pc-efficiency-unveiling-the-advantages-of-latest-driver-installation-for-windows-systems-with-yl-software-tips/"><u>Maximizing PC Efficiency: Unveiling the Advantages of Latest Driver Installation for Windows Systems with YL Software Tips</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maximizing-your-income-with-digital-coins-insights-from-yl-software-experts/"><u>Maximizing Your Income with Digital Coins: Insights From YL Software Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-detecting-and-removing-malware-from-your-pc-tips-by-yl-tech-solutions/"><u>Step-by-Step Guide: Detecting & Removing Malware From Your PC - Tips by YL Tech Solutions</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-generating-the-roll-safe-think-about-it-meme/"><u>Updated Generating the Roll Safe-Think About It Meme</u></a></li>
 </ul></div>
 

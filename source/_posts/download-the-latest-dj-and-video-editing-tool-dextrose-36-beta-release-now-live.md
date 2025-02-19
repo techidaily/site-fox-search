@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ & Video Editing Tool: Dextrose 3.6 Beta Release Now Live!"
-date: 2025-02-03T17:17:09.938Z
-updated: 2025-02-08T18:07:54.938Z
+date: 2025-02-15T21:35:29.844Z
+updated: 2025-02-18T17:23:30.876Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,22 +72,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-googles-audio-to-text-translations-a-comprehensible-guide/"><u>[New] 2024 Approved Mastering Google's Audio to Text Translations A Comprehensible Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-tips-and-tricks-for-professional-gamers-on-youtube/"><u>[New] In 2024, Tips & Tricks for Professional Gamers on Youtube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-crafting-intriguing-youtube-intros-without-spending/"><u>2024 Approved Crafting Intriguing YouTube Intros Without Spending</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-listen-and-direct-voice-control-without-payment/"><u>2024 Approved Listen and Direct Voice Control Without Payment</u></a></li>
-<li><a href="https://fox-search.techidaily.com/2024imap/"><u>2024年度最強IMAPメールバックアップツール：信頼性抜群の安全な選択肢</u></a></li>
-<li><a href="https://fox-search.techidaily.com/cloning-in-different-industries-real-deal-or-mimicry/"><u>Cloning in Different Industries: Real Deal or Mimicry?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/industrys-mightiest-drone-fleet-compilation-for-2024/"><u>Industry's Mightiest Drone Fleet Compilation for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-harmony-a-comprehensive-song-selection-methodology-for-2024/"><u>Instagram Harmony A Comprehensive Song Selection Methodology for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/instant-guide-step-by-step-process-of-upgrading-your-ps3-with-an-ssd/"><u>Instant Guide: Step-by-Step Process of Upgrading Your PS3 with an SSD</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-uploading-srt-text-in-digital-communities/"><u>Mastering the Art of Uploading SRT Text in Digital Communities</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-virtual-reality-with-top-bike-simulators-for-2024/"><u>Mastering Virtual Reality with Top Bike Simulators for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/meilleure-application-logicielle-de-deploiement-des-donnees-pour-ssds-toshiba-sur-windows-111087/"><u>Meilleure Application Logicielle De Déploiement Des Données Pour SSDs Toshiba Sur Windows 11/10/8/7</u></a></li>
-<li><a href="https://fox-search.techidaily.com/recuperacion-facil-de-correos-viejos-y-olvidados-tu-guia-completa-para-rescatar-mensajes/"><u>Recuperación Fácil De Correos Viejos Y Olvidados: Tu Guía Completa Para Rescatar Mensajes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-steam-from-freezing-and-crashing-in-no-time/"><u>Stop Steam From Freezing and Crashing in No Time!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/wie-man-gmail-nachrichten-erfolgreich-wiederherstellt-ein-umfassender-backupschlussel/"><u>Wie Man Gmail-Nachrichten Erfolgreich Wiederherstellt: Ein Umfassender Backupschlüssel</u></a></li>
-<li><a href="https://fox-search.techidaily.com/win7-disk-partitioning-issue-how-to-recover-missing-partitions/"><u>Win7 Disk Partitioning Issue: How to Recover Missing Partitions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728463869081-onedrive/"><u>データ損失を防ぐ: OneDriveリンク解除後、あなたのファイルはどうなったか？再生方法ベストセレクション</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-steps-to-document-lol-encounters-for-2024/"><u>[New] Ultimate Steps to Document LOL Encounters for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-videographers-choice-top-audio-for-unboxing-experiences/"><u>[New] Videographers' Choice Top Audio for Unboxing Experiences</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-techniques-for-reducing-bmp-file-size-without-losing-quality/"><u>Effective Techniques for Reducing BMP File Size Without Losing Quality</u></a></li>
+<li><a href="https://fox-search.techidaily.com/efficient-file-handling-mastering-ifile-component-usage/"><u>Efficient File Handling: Mastering iFile Component Usage</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/fix-your-pcs-graphics-card-woes-with-yl-computings-expert-advice-for-windows-users/"><u>Fix Your PC's Graphics Card Woes with YL Computing's Expert Advice for Windows Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-add-music-to-instagram-videos-and-stories/"><u>How to Add Music to Instagram Videos and Stories</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-honor-100-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-photo-and-video-streaming-from-android-to-iphone/"><u>In 2024, Photo & Video Streaming From Android to iPhone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/intuitive-file-search-tool-find-documents-faster/"><u>Intuitive File Search Tool - Find Documents Faster</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-taking-snaps-a-mac-users-handbook/"><u>Mastering the Art of Taking Snaps: A Mac User's Handbook</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-fix-admin-restricted-feature-settings-in-windows-11/"><u>Method to Fix Admin-Restricted Feature Settings in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-the-world-of-apples-spatial-videos-in-virtual-reality-with-a-meta-quest-device-guidance-from-zdnet/"><u>Navigate the World of Apple's Spatial Videos in Virtual Reality with a Meta Quest Device | Guidance From ZDNet</u></a></li>
+<li><a href="https://fox-search.techidaily.com/optimizing-service-upkeep-with-template-based-interaction-scripts/"><u>Optimizing Service Upkeep with Template-Based Interaction Scripts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/personalized-property-settings-tailor-your-experience/"><u>Personalized Property Settings: Tailor Your Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-allure-of-video-crafting-filmoras-top-edits-explained-for-2024/"><u>The Allure of Video Crafting Filmora’s Top Edits Explained for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-ranked-pdf-page-flipping-apps-of-2020-find-the-simplest-way-to-navigate-your-documents/"><u>Top-Ranked PDF Page Flipping Apps of 2020: Find the Simplest Way to Navigate Your Documents</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-ranking-software-solutions-for-effortlessly-eliminating-objects-from-images/"><u>Top-Ranking Software Solutions for Effortlessly Eliminating Objects From Images</u></a></li>
 </ul></div>
 
