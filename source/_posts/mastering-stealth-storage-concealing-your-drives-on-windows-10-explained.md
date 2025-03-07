@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stealth Storage: Concealing Your Drives on Windows 10 Explained"
-date: 2025-02-11T22:23:05.883Z
-updated: 2025-02-18T22:01:41.396Z
+date: 2025-03-04T10:42:56.586Z
+updated: 2025-03-07T07:48:48.057Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3680a7b81ad5a795bcf8c9ff.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -47,10 +43,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -69,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -97,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -108,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -169,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -198,16 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-mastering-digital-creation-complete-guide-to-picsart-for-2024/"><u>[New] Mastering Digital Creation Complete Guide to PicsArt for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-perfecting-tiktok-videos-efficient-techniques-for-numerical-edits-for-2024/"><u>[New] Perfecting TikTok Videos Efficient Techniques for Numerical Edits for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-prime-places-for-accessible-outstanding-vector-design-tools-for-2024/"><u>[New] Prime Places for Accessible, Outstanding Vector Design Tools for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-a-comprehensive-review-of-the-hp-envy-27s-4k-tech/"><u>[Updated] 2024 Approved A Comprehensive Review of the HP Envy 27'S 4K Tech</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-low-cost-footage-source-directory/"><u>[Updated] In 2024, Essential Low-Cost Footage Source Directory</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ssdwindows-113/"><u>「高速で効率的な方法：限られたスペースのSSDへWindows 11をコピーする上位3ツール」</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-practices-for-constructing-incremental-backups-on-windows-server-2008-r2/"><u>Best Practices for Constructing Incremental Backups on Windows Server 2008 R2</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-connect-an-xbox-one-controller-to-a-pc-2024-guide/"><u>How to Connect an Xbox One Controller to a PC - 2024 Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-guaranteeing-your-stream-uninterrupted-by-ads-on-fb/"><u>In 2024, Guaranteeing Your Stream Uninterrupted by Ads on FB</u></a></li>
-<li><a href="https://fox-search.techidaily.com/schritt-fur-schritt-anleitung-zum-verschieben-von-iphones-kontakten-mithilfe-von-icloud/"><u>Schritt-Für-Schritt Anleitung Zum Verschieben Von iPhones Kontakten Mithilfe Von iCloud</u></a></li>
-<li><a href="https://fox-search.techidaily.com/solution-pour-le-probleme-de-chargement-de-terraria-sans-sauvegarde-detectee/"><u>Solution Pour Le Problème De Chargement De Terraria Sans Sauvegarde Détectée</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-essential-strategies-for-profitable-youtube-videos/"><u>[Updated] 2024 Approved Essential Strategies for Profitable YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-expertly-select-the-fastest-5-chrome-plugins-for-fb-video-downloads/"><u>[Updated] Expertly Select The Fastest 5 Chrome Plugins for FB Video Downloads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unleashing-classic-psp-gaming-best-ios-emulators-ranked-for-2024/"><u>[Updated] Unleashing Classic PSP Gaming Best iOS Emulators Ranked for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-unlocking-flipbuilder-access-a-step-by-step-guide-to-retrieving-your-enterprise-license-code/"><u>1) Unlocking FlipBuilder Access: A Step-by-Step Guide to Retrieving Your Enterprise License Code</u></a></li>
+<li><a href="https://fox-search.techidaily.com/adding-multiple-image-types-to-your-personalized-flipbook-with-flipbuilder-a-step-by-step-guide/"><u>Adding Multiple Image Types to Your Personalized FlipBook with FlipBuilder – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/checking-for-book-covers-are-they-featured-in-flipbooks-from-flipbuildercom/"><u>Checking for Book Covers - Are They Featured in FlipBooks From FlipBuilder.com?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/diy-photo-collections-transformed-into-beautiful-photo-books-unveiling-simple-techniques-using-flipbuildercom/"><u>DIY Photo Collections Transformed Into Beautiful Photo Books – Unveiling Simple Techniques Using FlipBuilder.com</u></a></li>
+<li><a href="https://fox-search.techidaily.com/enhance-your-study-experience-mastering-full-screen-flash-effects-for-technical-guides-with-flipbuilders-innovative-tools/"><u>Enhance Your Study Experience: Mastering Full-Screen Flash Effects for Technical Guides with FlipBuilder's Innovative Tools</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-additional-navigational-controls-for-flip-book-interfaces-on-flipbuildercom/"><u>Exploring Additional Navigational Controls for Flip Book Interfaces on FlipBuilder.com</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-add-music-tracks-in-your-flipbook-creation-a-guide-on-sound-integration-with-flipbuilder/"><u>How to Add Music Tracks in Your FlipBook Creation: A Guide on Sound Integration with FlipBuilder</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-add-your-brands-logo-as-a-watermark-in-every-page-of-your-digital-brochure-with-flipbuilder/"><u>How to Add Your Brand's Logo as a Watermark in Every Page of Your Digital Brochure with FlipBuilder</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nokia-c300-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nokia C300? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-sites-where-your-presents-stand-out-in-a-sea-of-boxes-for-2024/"><u>Prime Sites Where Your Presents Stand Out in a Sea of Boxes for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-valorant-voice-communication-issues-a-step-by-step-guide/"><u>Solving Your Valorant Voice Communication Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fcpx-survival-guide-overcoming-common-obstacles-and-challenges/"><u>Updated 2024 Approved FCPX Survival Guide Overcoming Common Obstacles and Challenges</u></a></li>
 </ul></div>
 

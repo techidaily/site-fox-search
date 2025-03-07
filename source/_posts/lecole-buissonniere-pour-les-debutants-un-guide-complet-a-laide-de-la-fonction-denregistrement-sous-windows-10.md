@@ -1,7 +1,7 @@
 ---
 title: "L'école Buissonnière Pour Les Débutants: Un Guide Complet À L'aide De La Fonction D'enregistrement Sous Windows 10"
-date: 2025-02-16T23:52:14.836Z
-updated: 2025-02-19T01:44:36.027Z
+date: 2025-02-27T21:43:26.140Z
+updated: 2025-03-07T04:32:38.984Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad741629d15f6a884c70afa9d.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -79,10 +75,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
 
 ### Restore Image with Norton Ghost
@@ -105,15 +97,7 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -144,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -157,10 +137,6 @@ Take disk backup as an example. Follow the step below to backup your computer di
 Select the corresponding backup methods if you want to backup system, partition or individual files.
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
@@ -175,19 +151,11 @@ Select the corresponding backup methods if you want to backup system, partition 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Restore Disk & Files
 
 If you have created a backup with AOMEI Backupper, you can easily perform a restore anytime you want. You can choose to [restore hard disk drive](https://tools.techidaily.com/ubackup/products/), the system, partition or files/folders to the point you ever made a backup.
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -195,14 +163,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 * If you don't create a file backup but you want to perform [hard disk image file restore](https://tools.techidaily.com/ubackup/products/) or from other backup types, try the **Explore image** feature. It requires a professional version as well.
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Hard Drive
 
@@ -298,24 +258,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-overcoming-the-2023-facebook-security-breach/"><u>[New] 2024 Approved Overcoming the 2023 Facebook Security Breach</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-your-ultimate-guide-to-youtube-shorts/"><u>[New] 2024 Approved Your Ultimate Guide to YouTube Shorts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-drive-more-traffic-effective-strategies-for-youtube-outros/"><u>[New] In 2024, Drive More Traffic Effective Strategies for YouTube Outros</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fastest-on-ice-olympic-highlights-in-short-track-events/"><u>2024 Approved Fastest on Ice Olympic Highlights in Short Track Events</u></a></li>
-<li><a href="https://fox-search.techidaily.com/5o6i56m25a6l5pyd5pe25pyf5pah5pmv5lml5rk75zyo5lit5zu95y6g5yplusy5lik55qe5zyw5l2n5lio5l2c55so/"><u>探究宋朝时期文景之治在中国历史上的地位与作用</u></a></li>
-<li><a href="https://fox-search.techidaily.com/are-parental-controls-a-built-in-function-of-windows-defender-exploring-features-with-yl-computing/"><u>Are Parental Controls a Built-In Function of Windows Defender? – Exploring Features with YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/bypassing-specific-files-in-windows-defender-scans-a-guide-with-yl-solutions/"><u>Bypassing Specific Files in Windows Defender Scans - A Guide with YL Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-restoration-of-computer-settings-with-control-panel-backups-insights-by-yl-software-experts/"><u>Effortless Restoration of Computer Settings with Control Panel Backups – Insights by YL Software Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhance-your-dj-setups-use-pcdj-karaoke-feature-with-free-songbookdb-access/"><u>Enhance Your DJ Setups: Use PCDJ Karaoké Feature with Free SongbookDB Access</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/explore-the-ultimate-guide-to-virtual-webcams-and-online-broadcast-tools/"><u>Explore the Ultimate Guide to Virtual Webcams and Online Broadcast Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/master-network-management-on-your-desktop-with-our-pro-tips-from-yl-software-experts/"><u>Master Network Management on Your Desktop with Our Pro Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/maximize-system-performance-by-removing-temporary-files-discover-strategies-from-yl-tech-experts/"><u>Maximize System Performance by Removing Temporary Files - Discover Strategies From YL Tech Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-asmrs-influence-on-your-life-for-2024/"><u>Navigating ASMR’s Influence on Your Life for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionizing-readers-habits-with-the-high-quality-kobo-forma-tablet/"><u>Revolutionizing Readers' Habits with the High-Quality Kobo Forma Tablet</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-detecting-and-removing-malware-from-your-pc-tips-by-yl-tech-solutions/"><u>Step-by-Step Guide: Detecting & Removing Malware From Your PC - Tips by YL Tech Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-highly-rated-audible-mp3-players-the-ultimate-list/"><u>Top 5 Highly-Rated Audible MP3 Players: The Ultimate List</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-audio-problems-in-windows-a-comprehensive-guide-by-yl-computing/"><u>Troubleshooting Audio Problems in Windows: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-complete-zoomers-guide-achieving-exceptional-video-and-audio-recordings-on-zoom/"><u>[New] The Complete Zoomer's Guide Achieving Exceptional Video & Audio Recordings on Zoom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-quick-and-easy-steps-to-efficient-free-clock-use/"><u>[Updated] 2024 Approved Quick and Easy Steps to Efficient Free Clock Use</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-demystifying-the-world-of-youtube-shorts/"><u>[Updated] Demystifying the World of YouTube Shorts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-concevoir-et-implementer-un-logo-personnalise-pour-votre-compagnie-avec-le-bloc-notes-sous-windows-versions-11-10-8-ou-7/"><u>1. Concevoir Et Implémenter Un Logo Personnalisé Pour Votre Compagnie Avec Le Bloc-Notes Sous Windows (Versions 11, 10, 8 Ou 7)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-leading-cloud-services-with-best-price/"><u>2024 Approved The Leading Cloud Services with Best Price</u></a></li>
+<li><a href="https://fox-search.techidaily.com/windows-11-uefi-usb-3/"><u>创建 Windows 11 UEFI 支持的便捷 USB 引导设备：3种方式</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-interpolation-of-frames-enhancing-fps-and-smooth-video-transitions/"><u>AI Interpolation of Frames: Enhancing FPS and Smooth Video Transitions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/bluetooth-restricciones-en-windows-server-explicadas-y-soluciones-alternativas/"><u>Bluetooth Restricciones en Windows Server Explicadas Y Soluciones Alternativas</u></a></li>
+<li><a href="https://fox-search.techidaily.com/complete-guide-restoring-lost-information-on-your-iphone-without-a-previous-backup/"><u>Complete Guide: Restoring Lost Information on Your iPhone Without a Previous Backup</u></a></li>
+<li><a href="https://fox-search.techidaily.com/die-anleitung-zum-einstellen-einer-leichtgewichtigen-sysimg-aufnahme-in-windows-11-kostenlose-methoden-erklart/"><u>Die Anleitung Zum Einstellen Einer Leichtgewichtigen Sysimg-Aufnahme in Windows 11: Kostenlose Methoden Erklärt</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effizientes-video-umwandeln-mit-winx-hd-beschleunigte-konvertierung-und-verbesserte-videobehandlung-durch-gpu-unterstutzung/"><u>Effizientes Video Umwandeln Mit WinX HD - Beschleunigte Konvertierung Und Verbesserte Videobehandlung Durch GPU Unterstützung</u></a></li>
+<li><a href="https://fox-search.techidaily.com/fehlerbehebung-fur-intel-datenwanderungssoftware-losungen-und-ratschlage/"><u>Fehlerbehebung Für Intel-Datenwanderungssoftware - Lösungen Und Ratschläge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-guide-to-selecting-the-perfect-high-performance-cpu/"><u>Gamers' Guide to Selecting the Perfect High-Performance CPU</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leverage-online-platform-features-to-spread-your-music/"><u>In 2024, Leverage Online Platform Features to Spread Your Music</u></a></li>
+<li><a href="https://fox-search.techidaily.com/master-the-switch-step-by-step-instructions-for-duplicating-your-steam-decks-sd-card-content-onto-a-new-memory-unit/"><u>Master the Switch: Step-by-Step Instructions for Duplicating Your Steam Deck's SD Card Content Onto a New Memory Unit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-first-journey-expert-picks-on-the-ideal-travel-credit-cards-for-novices/"><u>Mastering Your First Journey: Expert Picks on the Ideal Travel Credit Cards for Novices</u></a></li>
+<li><a href="https://fox-search.techidaily.com/pc-freundliche-kontaktubertragung-aus-dem-smartphone-erfahre-5-bewahrte-methoden-zum-wechseln-und-sichern-ihrer-adressen/"><u>PC-Freundliche Kontaktübertragung Aus Dem Smartphone: Erfahre 5 Bewährte Methoden Zum Wechseln Und Sichern Ihrer Adressen.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionarer-ansatz-des-abbyy-sdks-zur-verbesserung-der-mobilgerate-onboarding-erfahrungen/"><u>Revolutionärer Ansatz Des ABBYY-SDKs Zur Verbesserung Der Mobilgeräte-Onboarding-Erfahrungen</u></a></li>
+<li><a href="https://fox-search.techidaily.com/soluciones-practicas-y-faciles-de-implementar-para-solucionar-problemas-al-intentar-acceder-a-una-carpeta-ost-en-outlook/"><u>Soluciones Prácticas Y Fáciles De Implementar Para Solucionar Problemas Al Intentar Acceder a Una Carpeta OST en Outlook</u></a></li>
 </ul></div>
 

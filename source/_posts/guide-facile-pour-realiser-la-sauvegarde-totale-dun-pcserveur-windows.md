@@ -1,7 +1,7 @@
 ---
 title: Guide Facile Pour Réaliser La Sauvegarde Totale D'un PC/Serveur Windows
-date: 2025-02-12T22:33:17.334Z
-updated: 2025-02-18T18:27:32.837Z
+date: 2025-03-02T11:41:46.756Z
+updated: 2025-03-07T11:14:11.786Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03454856c62819bb5612b0808.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
@@ -31,10 +27,6 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -55,10 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -96,14 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -113,10 +93,6 @@ The how to recover ransomware encrypted files guide is instructed as follows. Yo
 Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit **Backup and Restore (Windows 7)**.
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
@@ -141,14 +117,6 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -186,10 +154,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -237,10 +201,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -256,24 +216,19 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-versamix-suite-mac-and-pc/"><u>[New] 2024 Approved VersaMix Suite - Mac & PC</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation-for-2024/"><u>[New] Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-can-you-challenge-facebooks-video-copyright-holdouts/"><u>[New] In 2024, Can You Challenge Facebook’s Video Copyright Holdouts?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-quick-click-compilation-top-10-fastest-phone-and-pc-apps/"><u>[New] In 2024, Quick Click Compilation Top 10 Fastest Phone & PC Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ios-screen-recording-a-no-nonsense-approach-for-2024/"><u>[New] IOS Screen Recording A No-Nonsense Approach for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/comprehensive-guide-on-using-the-benq-x50n-projection-screen-for-unparalleled-gaming-experience-against-your-wall/"><u>Comprehensive Guide on Using the BenQ X50n Projection Screen for Unparalleled Gaming Experience Against Your Wall</u></a></li>
-<li><a href="https://fox-search.techidaily.com/cute-and-captivating-staring-cat-wallpapers-by-yl-computing-unique-imagery-collection/"><u>Cute & Captivating Staring Cat Wallpapers by YL Computing: Unique Imagery Collection</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-fix-audio-glitches-tackling-stutters-and-skips-in-your-sound-card-insights-from-yl-computing/"><u>How to Fix Audio Glitches: Tackling Stutters and Skips in Your Sound Card - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-fix-issues-with-your-computers-main-board-tips-by-yl-technicians/"><u>How to Fix Issues with Your Computer's Main Board, Tips by YL Technicians</u></a></li>
-<li><a href="https://fox-search.techidaily.com/identifying-the-reasons-behind-a-noisy-computer-fan-insights-from-yl-computings-expertise/"><u>Identifying the Reasons Behind a Noisy Computer Fan - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Tecno Camon 20 Pro 5G Phone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/is-your-pcs-main-board-failing-diagnosing-and-confirming-motherboard-issues-with-yl-computing-solutions/"><u>Is Your PC's Main Board Failing? Diagnosing and Confirming Motherboard Issues with YL Computing Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resolving-undetected-graphics-cards-in-windows-expert-tips-from-yl-computing/"><u>Resolving Undetected Graphics Cards in Windows: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/restoring-audio-to-your-minecraft-experience-a-guide-for-players-with-no-sound-issues/"><u>Restoring Audio to Your Minecraft Experience: A Guide for Players with No Sound Issues</u></a></li>
-<li><a href="https://fox-search.techidaily.com/solving-driver-issues-on-your-pc-a-guide-from-yl-computing/"><u>Solving Driver Issues on Your PC: A Guide From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-poco-c51-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/tracking-cryptocurrency-holdings-easy-steps-to-check-balances-using-yl-software-tools/"><u>Tracking Cryptocurrency Holdings: Easy Steps to Check Balances Using YL Software Tools</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-your-sound-card-issues-with-expert-tips-by-yl-computing/"><u>Troubleshooting Your Sound Card Issues with Expert Tips by YL Computing</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-investigating-the-pinnacle-of-sound-design-software-assessing-the-merits-of-magix-samplitude/"><u>Updated 2024 Approved Investigating the Pinnacle of Sound Design Software Assessing the Merits of MAGIX Samplitude</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-year-in-the-market-top-15-finance-videos/"><u>[Updated] A Year in the Market Top 15 Finance Videos</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-assurer-la-surete-des-donnees-avec-une-efficiente-restoration-de-fichiers-en-ligne/"><u>Comment Assurer La Sûreté Des Données Avec Une Efficiente Restoration De Fichiers en Ligne</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-sauvegarder-avec-echec-de-plan-en-preparation-du-format-dans-windows-version-11-10-et-versions-anterieures/"><u>Comment Sauvegarder Avec Echec De Plan en Préparation Du Format Dans Windows (Version 11, 10 Et Versions Antérieures)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-utilizar-el-efecto-desplazamiento-en-capturas-de-pantalla-tecnica-detallada-para-usuarios-de-windows-11/"><u>Cómo Utilizar El Efecto Desplazamiento en Capturas De Pantalla: Técnica Detallada Para Usuarios De Windows ˈ11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-how-to-go-frame-by-frame-on-youtube-video-5-methods/"><u>In 2024, How to Go Frame by Frame on YouTube Video? [5 Methods]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/live-streaming-duel-pitting-obs-against-shadowgl-for-2024/"><u>Live Streaming Duel Pitting OBS Against ShadowGL for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-data-restoration-on-laptop-ssd-the-definitive-step-by-step-handbook/"><u>Mastering Data Restoration on Laptop SSD: The Definitive Step-by-Step Handbook</u></a></li>
+<li><a href="https://fox-search.techidaily.com/passo-a-passo-recuperacao-de-arquivos-apagados-no-servidor-windows-server-2012-r2-tutoriais/"><u>Passo a Passo: Recuperação De Arquivos Apagados No Servidor Windows Server 2012 R2 - Tutoriais</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simple-steps-to-modify-screen-capture-on-macos-for-2024/"><u>Simple Steps to Modify Screen Capture on macOS for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/systemback-profi-personliche-systemwiederherstellung-und-optimierung-mit-aomei-onekey/"><u>Systemback-Profi: Persönliche Systemwiederherstellung Und -Optimierung Mit AOMEI OneKey</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unfulfilled-promises-of-social-media-five-times-facebook-failed-its-base/"><u>The Unfulfilled Promises of Social Media: Five Times Facebook Failed Its Base</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/unveiling-the-historical-importance-decoding-the-great-walls-impact-discovered-by-yl-tech-experts/"><u>Unveiling the Historical Importance: Decoding the Great Wall's Impact - Discovered by YL Tech Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/alothak-altlkaya-bkfaaaa-maa-ahd-afdl-aladoat-mganya-lttbyk-alkrs-alslb/"><u>الوثائق التلقائية بكفاءة - مع أحد أفضل الأدوات مجانية لتطبيق القرص الصلب</u></a></li>
 </ul></div>
 

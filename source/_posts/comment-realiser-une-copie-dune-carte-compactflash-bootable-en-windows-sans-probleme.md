@@ -1,7 +1,7 @@
 ---
 title: Comment Réaliser Une Copie D'Une Carte CompactFlash Bootable en Windows Sans Problème?
-date: 2025-01-14T18:04:23.632Z
-updated: 2025-01-20T17:46:45.414Z
+date: 2025-03-04T18:37:50.331Z
+updated: 2025-03-06T16:43:23.085Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b573c02ea17e5760889c684fa1.jpg
@@ -27,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -69,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -92,10 +84,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -117,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -136,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,24 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/treamers-financial-compliance-check-for-2024/"><u>[New] Streamer's Financial Compliance Check for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-boosting-channel-success-scaling-for-a-million-viewers/"><u>[Updated] Boosting Channel Success Scaling for a Million Viewers</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-seamless-steps-moving-your-tunes-from-usb-to-ios-devices/"><u>1. Seamless Steps: Moving Your Tunes From USB to iOS Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bcm2045a0-drivers-fixed-in-no-time-now-working-smoothly/"><u>BCM2045A0 Drivers Fixed in No Time - Now Working Smoothly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-libera-aiff-a-wmv-su-internet-utilizzando-movavi-il-processo-facile/"><u>Conversione Libera AIFF a WMV Su Internet Utilizzando Movavi - Il Processo Facile!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/detecting-and-troubleshooting-hardware-issues-with-ease-insights-by-yl-software/"><u>Detecting and Troubleshooting Hardware Issues with Ease - Insights by YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Oppo K11 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/download-stunning-kim-possible-themes-and-wallpapers-enhance-your-pc-with-yl-computings-selection/"><u>Download Stunning Kim Possible Themes & Wallpapers: Enhance Your PC with YL Computing's Selection</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-tutorial-for-extracting-zip-archives-on-windows-by-yl-computing-experts/"><u>Easy Tutorial for Extracting ZIP Archives on Windows by YL Computing Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effective-fixes-resolving-issues-with-non-responsive-windows-defender-expert-tips-from-yl-computing/"><u>Effective Fixes: Resolving Issues with Non-Responsive Windows Defender - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/expert-tips-boosting-system-performance-by-yl-computing-best-optimization-techniques/"><u>Expert Tips: Boosting System Performance by YL Computing - Best Optimization Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/how-to-enjoy-every-goal-the-free-football-broadcast-guide-for-2024/"><u>How to Enjoy Every Goal The FREE Football Broadcast Guide for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-zoom-mastering-virtual-meeting-planning/"><u>In 2024, Zoom Mastering Virtual Meeting Planning</u></a></li>
-<li><a href="https://fox-search.techidaily.com/safeguard-your-e-cash-essential-strategies-by-yl-computing-for-enhanced-online-protection/"><u>Safeguard Your E-Cash: Essential Strategies by YL Computing for Enhanced Online Protection</u></a></li>
-<li><a href="https://fox-search.techidaily.com/sound-card-diagnostics-ensuring-proper-functionality-with-simple-tips-and-tricks/"><u>Sound Card Diagnostics: Ensuring Proper Functionality with Simple Tips & Tricks</u></a></li>
-<li><a href="https://fox-search.techidaily.com/unveiling-potential-reasons-behind-your-computers-cpu-heat-spike-insights-from-yl-computing/"><u>Unveiling Potential Reasons Behind Your Computer's CPU Heat Spike - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/yl-softwares-ultimate-selection-of-classic-retro-hd-wallpapers-and-scenic-photos-for-your-desktop-display/"><u>YL Software's Ultimate Selection of Classic Retro HD Wallpapers and Scenic Photos for Your Desktop Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-step-by-step-guide-to-top-notch-webcam-filming/"><u>[New] In 2024, Step-by-Step Guide to Top-Notch Webcam Filming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-essential-list-of-premium-free-srt-translators/"><u>[New] The Essential List of Premium FREE SRT Translators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-improving-zoom-hd-quality-quick-fixes/"><u>2024 Approved Improving Zoom HD Quality Quick Fixes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-s17-pro-frp-bypass-by-drfone-android/"><u>About Vivo S17 Pro FRP Bypass</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-strategies-for-moving-music-files-to-your-samsung-galaxy-note-2/"><u>Effective Strategies for Moving Music Files to Your Samsung Galaxy Note 2</u></a></li>
+<li><a href="https://fox-search.techidaily.com/guide-to-editing-windows-internet-shortcut-attributes/"><u>Guide to Editing Windows Internet Shortcut Attributes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-customize-java-vm-settings-via-the-configuration-dialog/"><u>How to Customize Java VM Settings via the Configuration Dialog</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-dvd-player-roundup-top-picks-for-windows-10/"><u>New 2024 Approved Free DVD Player Roundup Top Picks for Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-smart-8-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Smart 8 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-bbc-iplayer-using-pcs-or-macs/"><u>Step-by-Step Guide: Recording Your Favorite Shows From BBC iPlayer Using PCs or Macs</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-no-cost-audio-capture-tools-available-on-windows-8-platforms/"><u>Top No-Cost Audio Capture Tools Available on Windows 8 Platforms</u></a></li>
 </ul></div>
 

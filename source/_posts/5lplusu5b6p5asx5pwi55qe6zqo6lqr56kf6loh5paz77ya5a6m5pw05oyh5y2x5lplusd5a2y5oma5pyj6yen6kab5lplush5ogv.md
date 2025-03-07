@@ -1,7 +1,7 @@
 ---
 title: 修復失效的隨身碟資料：完整指南保存所有重要信息
-date: 2025-02-18T03:10:49.743Z
-updated: 2025-02-19T02:50:45.169Z
+date: 2025-03-05T04:42:03.252Z
+updated: 2025-03-06T17:06:27.030Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c757bf8e50b4e15a0eac70eb2.jpg
@@ -24,10 +24,6 @@ Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finde
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
@@ -42,10 +38,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -57,10 +49,6 @@ Vor der dauerhaften Löschung kann der Papierkorb gelöschte Dateien und Ordner 
 Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie werden weiterhin den begrenzten Speicherplatz belegen.
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
@@ -78,10 +66,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
@@ -89,10 +73,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -134,10 +114,6 @@ Sicherer Download
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
 Angesichts der Bedeutung von Sicherheitsmaßnahmen wie regelmäßigen Backups, um Datenverlust zu vermeiden, fragen Sie sich vielleicht, ob es spezielle Software zur Datenverlustprävention für Windows-Computer gibt.
@@ -165,19 +141,11 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -210,10 +178,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -268,17 +232,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/a-complete-guide-to-steam-switch-controller-use/"><u>A Complete Guide to Steam Switch Controller Use</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accuracy-at-hand-editing-tiktoks-personal-info/"><u>Accuracy at Hand Editing TikTok's Personal Info</u></a></li>
-<li><a href="https://fox-search.techidaily.com/bluetooth-restricciones-en-windows-server-explicadas-y-soluciones-alternativas/"><u>Bluetooth Restricciones en Windows Server Explicadas Y Soluciones Alternativas</u></a></li>
-<li><a href="https://fox-search.techidaily.com/fehlerbehebung-fur-intel-datenwanderungssoftware-losungen-und-ratschlage/"><u>Fehlerbehebung Für Intel-Datenwanderungssoftware - Lösungen Und Ratschläge</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-open-phone-without-pin-by-drfone-android/"><u>How to Unlock OnePlus Open Phone without PIN</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-magic-6-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor Magic 6 Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/introducing-windows-xps-media-production-hub-for-2024/"><u>Introducing Windows XP's Media Production Hub for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/media-text-producer/"><u>Multimedia Text Producer</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-10-best-voice-recording-apps-for-android-devices-free-included/"><u>New 10 Best Voice Recording Apps for Android Devices Free Included</u></a></li>
-<li><a href="https://fox-search.techidaily.com/pc-freundliche-kontaktubertragung-aus-dem-smartphone-erfahre-5-bewahrte-methoden-zum-wechseln-und-sichern-ihrer-adressen/"><u>PC-Freundliche Kontaktübertragung Aus Dem Smartphone: Erfahre 5 Bewährte Methoden Zum Wechseln Und Sichern Ihrer Adressen.</u></a></li>
-<li><a href="https://fox-search.techidaily.com/soluciones-practicas-y-faciles-de-implementar-para-solucionar-problemas-al-intentar-acceder-a-una-carpeta-ost-en-outlook/"><u>Soluciones Prácticas Y Fáciles De Implementar Para Solucionar Problemas Al Intentar Acceder a Una Carpeta OST en Outlook</u></a></li>
-<li><a href="https://driver-install.techidaily.com/y470-ideapad-device-drivers-win7-update/"><u>Y470 IdeaPad Device Drivers Win7 Update</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-methods-from-youtube-to-mpeg-encoding/"><u>[New] Prime Methods From YouTube to MPEG Encoding</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-webcasts-on-demand-a-straightforward-recording-technique-for-2024/"><u>[New] Webcasts On Demand A Straightforward Recording Technique for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtube-content-creators-optimal-stabilizer-companies/"><u>[Updated] 2024 Approved YouTube Content Creators Optimal Stabilizer Companies</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-understanding-crypto-valuation-a-deep-dive-into-how-prices-are-set-by-yl-computing/"><u>1. Understanding Crypto Valuation: A Deep Dive Into How Prices Are Set - By YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-audio-fading-in-lumafusion-software/"><u>2024 Approved Step-by-Step Audio Fading in Lumafusion Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/constructing-authenticity-in-documentaries-for-2024/"><u>Constructing Authenticity in Documentaries for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-v29-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from V29</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exclusive-deal-unlock-your-ultimate-singing-experience-with-95plus-karaoke-songs-on-the-premium-karaokecloud-pro-join-now/"><u>Exclusive Deal: Unlock Your Ultimate Singing Experience with 95+ Karaoke Songs on the Premium KaraokeCloud Pro - Join Now!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-do-i-understand-and-remove-iphones-aae-files-effectively/"><u>How Do I Understand & Remove iPhone's AAE Files Effectively?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-zoom-in-google-meet-for-2024/"><u>How to Zoom In Google Meet for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/identifying-your-printer-model-a-guide-by-yl-software/"><u>Identifying Your Printer Model: A Guide by YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/introducing-digital-fortunes-the-definitive-explication-of-crypto-wallets-with-yl-software/"><u>Introducing Digital Fortunes: The Definitive Explication of Crypto Wallets with YL Software</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-network-protection-a-guide-to-adjusting-firewall-and-securing-online-presence-tips-from-yl-software-experts/"><u>Mastering Network Protection: A Guide to Adjusting Firewall and Securing Online Presence - Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quick-tips-clear-up-your-pcs-hard-drive-to-boost-performance-guides-by-yl-computing/"><u>Quick Tips: Clear Up Your PC's Hard Drive to Boost Performance - Guides by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quick-tips-creating-fast-file-access-shortcuts-on-your-windows-pc-expert-advice-from-yl-computing/"><u>Quick Tips: Creating Fast File Access Shortcuts on Your Windows PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/uncovering-potential-pitfalls-and-security-threats-in-cryptocurrency-guidance-by-yl-software-experts/"><u>Uncovering Potential Pitfalls and Security Threats in Cryptocurrency - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/yls-guide-to-expanding-your-pcs-capacity-and-boosting-performance-free-up-storage-today/"><u>YL's Guide to Expanding Your PC’s Capacity & Boosting Performance: Free up Storage Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Change Waveform Colors in DEX 3 Version 3.9 & Later: A Comprehensive Guide for Pioneer DJ Users"
-date: 2025-02-16T21:20:36.812Z
-updated: 2025-02-18T16:12:12.839Z
+date: 2025-03-01T10:25:25.371Z
+updated: 2025-03-07T12:16:16.728Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ DEX 3 is our **top DJ mixing software** solution for today’s versatile DJ that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How-To Edit DEX 3 Waveform Colors
 
 **1)** You will need to access the DEX 3 XML skin file you wish to edit. The skin files for DEX 3 are located in the DEX 3 program folder.
@@ -44,10 +40,6 @@ If you’re on a MAC the skin files are located inside the application itself. Y
 
   
 [VIEW LARGER IMAGE ![DEX 3 Skins Folder Location](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=300%2C195&ssl=1 "DEX 3 Skins Folder Location")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=1030%2C669&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Inside of the DEX 3 Skins folder you will find XML files for each DEX 3 skin variation. The 4-deck default skin will be labeled “dex38\_4” and the default (main) 2-deck default skin is labeled “dex38\_2”. You will need to right-click (Ctrl + Click on MAC) and open the XML file with a standard text editor such as Notepad on Windows or TextWrangler, Atom, Xcode, etc on MAC.
 
@@ -66,25 +58,13 @@ You can simply type in or copy and paste in the color code you wish to use, repl
   
 [VIEW LARGER IMAGe ![DEX 3 color codes to edit for waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=300%2C169&ssl=1 "DEX 3 color codes to edit for waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Once you’ve edited the waveform color codes to your preference you can simply save the XML (via the text editor you’re using to edit the color codes) back into the skins folder, replacing the existing XML file already there. Make sure you just SAVE, and do not change the format of the skin file (It needs to remain an XML file). That should do it — launch DEX 3 after saving the XML file and your waveform color edits will be active!
 
 #### Here’s an edit I made to DEX 3’s deck A and deck C waveform colors for demonstration purposes:
 
 [VIEW LARGER IMAGE ![DEX 3 with colored waveforms](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1 "DEX 3 with colored waveforms")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _Have questions about **editing the waveform colors** in DEX 3 **DJ mixing software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -105,22 +85,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/editingwaveformcolors.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-step-by-step-guide-removing-photo-backdrops/"><u>[Updated] In 2024, Step-by-Step Guide Removing Photo Backdrops</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pivotal-ideas-in-tech-driven-story-weaving/"><u>[Updated] Pivotal Ideas in Tech-Driven Story Weaving</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-lava-blaze-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Lava Blaze Pro 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/5o6i56m25a6l5pyd5pe25pyf5pah5pmv5lml5rk75zyo5lit5zu95y6g5yplusy5lik55qe5zyw5l2n5lio5l2c55so/"><u>探究宋朝时期文景之治在中国历史上的地位与作用</u></a></li>
-<li><a href="https://fox-search.techidaily.com/are-parental-controls-a-built-in-function-of-windows-defender-exploring-features-with-yl-computing/"><u>Are Parental Controls a Built-In Function of Windows Defender? – Exploring Features with YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/bypassing-specific-files-in-windows-defender-scans-a-guide-with-yl-solutions/"><u>Bypassing Specific Files in Windows Defender Scans - A Guide with YL Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/dex3-dj-mixer-pro-version-get-the-latest-375-free-update-for-pcdj-and-more/"><u>DEX3 DJ Mixer Pro Version - Get the Latest 3.7.5 Free Update for PCDJ & More!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-quality-of-docoolers-12-megapixel-usb-20-an-honest-review-for-photography-enthusiasts/"><u>Evaluating the Quality of Docooler's 12 Megapixel USB 2.0: An Honest Review for Photography Enthusiasts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95910651-9781941394267-for-love-of-the-real/"><u>For Love of the Real | Free Book</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/gtx-950-error-43-fix-guide-a-comprehensive-solution-for-windows-11-users/"><u>GTX 950 'Error 43' Fix Guide: A Comprehensive Solution for Windows 11 Users</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-personalize-windows-defenders-configuration-options-a-guide-by-yl-software/"><u>How to Personalize Windows Defender's Configuration Options: A Guide by YL Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-battle-for-best-action-camera-sony-fdr-x1000v-meets-hero-4-black/"><u>In 2024, Battle for Best Action Camera Sony FDR-X1000V Meets Hero 4 Black</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-s23-fe-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy S23 FE to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/maximizing-pc-efficiency-unveiling-the-advantages-of-latest-driver-installation-for-windows-systems-with-yl-software-tips/"><u>Maximizing PC Efficiency: Unveiling the Advantages of Latest Driver Installation for Windows Systems with YL Software Tips</u></a></li>
-<li><a href="https://fox-search.techidaily.com/maximizing-your-income-with-digital-coins-insights-from-yl-software-experts/"><u>Maximizing Your Income with Digital Coins: Insights From YL Software Experts</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-detecting-and-removing-malware-from-your-pc-tips-by-yl-tech-solutions/"><u>Step-by-Step Guide: Detecting & Removing Malware From Your PC - Tips by YL Tech Solutions</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-generating-the-roll-safe-think-about-it-meme/"><u>Updated Generating the Roll Safe-Think About It Meme</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/kyrocket-your-channels-reach-secure-a-10k-views-milestone-for-2024/"><u>[New] Skyrocket Your Channel's Reach Secure a 10K Views Milestone for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-thriving-thumbnails-the-20-most-recommended-youtube-fonts/"><u>[Updated] 2024 Approved Thriving Thumbnails The 20 Most Recommended YouTube Fonts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-comment-recuperer-lacces-a-votre-compte-instagram-perdu/"><u>1. Comment Récupérer L'accès À Votre Compte Instagram Perdu ?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/windows-10117superduper/"><u>最適合Windows 10/11/7使用者的SuperDuper優質異軍而來的夥伴</u></a></li>
+<li><a href="https://fox-search.techidaily.com/come-installare-e-aggiornare-il-programma-di-backup-piu-recente-aomei-backupper/"><u>Come Installare E Aggiornare Il Programma Di Backup Più Recente AOMEI Backupper</u></a></li>
+<li><a href="https://fox-search.techidaily.com/come-trasferire-i-file-da-un-disco-rigido-di-windows-7-a-un-nuovo-computer-senza-installazione/"><u>Come Trasferire I File Da Un Disco Rigido Di Windows 7 a Un Nuovo Computer Senza Installazione</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-when-your-ipad-refuses-to-locate-and-utilize-the-printer/"><u>How to Resolve When Your iPad Refuses to Locate and Utilize the Printer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-s23-tactical-edition-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy S23 Tactical Edition Without PUK Codes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-x100-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo X100 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-improve-video-loading-times-in-instagram/"><u>In 2024, Improve Video Loading Times in Instagram</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-a78-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo A78 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-windows-upgrades-home-to-pro-pathway/"><u>Mastering Windows Upgrades: Home to Pro Pathway</u></a></li>
+<li><a href="https://fox-search.techidaily.com/probleme-beim-aktualisieren-von-windows-update-kb4n-effiziente-behebung-mit-dem-tool-myrecover-professionelle-losungsstrategien/"><u>Probleme Beim Aktualisieren Von Windows Update KB4n: Effiziente Behebung Mit Dem Tool MyRecover – Professionelle Lösungsstrategien</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-spotify-listening-swiftly-but-safely/"><u>Streamlining Spotify Listening - Swiftly but Safely</u></a></li>
+<li><a href="https://fox-search.techidaily.com/transfer-your-computer-to-cloud-storage-seamlessly-under-windows-11-with-these-no-cost-techniques/"><u>Transfer Your Computer to Cloud Storage Seamlessly Under Windows 11 with These No-Cost Techniques</u></a></li>
 </ul></div>
 

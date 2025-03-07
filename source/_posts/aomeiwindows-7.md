@@ -1,7 +1,7 @@
 ---
 title: AOMEI软件专业教程：如何简单转移Windows 7到新硬盘
-date: 2025-02-12T01:58:32.652Z
-updated: 2025-02-19T03:22:40.519Z
+date: 2025-03-01T16:36:37.857Z
+updated: 2025-03-06T21:21:24.140Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f8786bd477dd4066192a8852.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -65,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -93,17 +85,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -178,10 +154,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,19 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-efficiently-record-your-periscope-experience-now/"><u>[Updated] 2024 Approved Efficiently Record Your Periscope Experience Now</u></a></li>
-<li><a href="https://fox-search.techidaily.com/6yen5paw5yplusr546w5bey5yig6zmk56ob55uy5lik55qe5pah5lu277ya5yig5lqr5pyj5pwi55qe5pplusl5omplus5oqa5ben/"><u>重新发现已删除磁盘上的文件：分享有效的查找技巧</u></a></li>
-<li><a href="https://fox-search.techidaily.com/file-recovery-tutorial-with-autopsy-how-to-restore-deleted-files/"><u>File Recovery Tutorial with Autopsy: How to Restore Deleted Files</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-easy-obs-youtube-live-streaming-guide/"><u>In 2024, Easy OBS YouTube Live Streaming Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y100-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y100</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-spotlight-on-professional-shoots-innovative-lighting-techniques/"><u>In 2024, Spotlight on Professional Shoots Innovative Lighting Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-syncopate-screen-a-beginners-guide-to-mobile-video-making/"><u>In 2024, Syncopate Screen A Beginner's Guide to Mobile Video Making</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/keep-your-ipad-iphone-and-macbook-energized-and-cool-using-our-recommended-3-in-1-magsafe-charger-insights/"><u>Keep Your iPad, iPhone & MacBook Energized and Cool Using Our Recommended 3-in-1 MagSafe Charger - Insights</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-ultimate-guide-for-the-10-leading-slow-motion-cameras-for-2024/"><u>New The Ultimate Guide for the 10 Leading Slow-Motion Cameras for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/restaurieren-sie-ihren-asus-laptop-auf-die-ursprunglichen-werkseinstellungen-unter-windows-11-schritt-fur-schritt/"><u>Restaurieren Sie Ihren Asus Laptop Auf Die Ursprünglichen Werkseinstellungen Unter Windows 11 – Schritt Für Schritt</u></a></li>
-<li><a href="https://fox-search.techidaily.com/transferez-et-protegez-vos-emails-de-microsoft-outlook-vers-google-drive-guide-pratique-en-2-etapes/"><u>Transférez Et Protégez Vos Emails De Microsoft Outlook Vers Google Drive : Guide Pratique en 2 Étapes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-the-art-of-soundscape-alteration-on-digital-media/"><u>Updated Mastering the Art of Soundscape Alteration on Digital Media</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/what-is-youtube-tag-and-how-to-find-great-tags-for-your-videos-in-2024/"><u>What Is YouTube Tag and How to Find Great Tags For Your Videos, In 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/windows-11-10-7-xp445/"><u>Windows 11, 10, 7, XP用シンプルな手順でポート445クローズガイド</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-aspect-ratios-your-pathway-to-youtube-excellence/"><u>[New] Unveiling Aspect Ratios Your Pathway to YouTube Excellence</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-efficient-digital-voice-alteration-for-vtubers/"><u>[Updated] 2024 Approved Efficient Digital Voice Alteration for VTubers</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-free-compact-button-rich-templates-available-now-on-flipbuildercom/"><u>1. Free Compact Button-Rich Templates Available Now on FlipBuilder.com</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-lightroom-on-android-platforms/"><u>2024 Approved Unveiling the Secrets of Lightroom on Android Platforms</u></a></li>
+<li><a href="https://fox-search.techidaily.com/build-tailored-user-manuals-with-advanced-template-tech-discover-how-at-flipbuildercom/"><u>Build Tailored User Manuals with Advanced Template Tech - Discover How at FlipBuilder.com</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-approach-to-unhandled-exception-in-windows-apps/"><u>Comprehensive Approach to Unhandled Exception in Windows Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/excellent-camcorders-with-facing-panel-for-2024/"><u>Excellent Camcorders with Facing Panel for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-itel-p40-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Itel P40 Phone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-multimedia-conversion-how-to-turn-your-ppts-into-engaging-page-turning-flash-animations-using-flipbuilder/"><u>Mastering Multimedia Conversion: How to Turn Your PPTs Into Engaging Page-Turning Flash Animations Using FlipBuilder</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ready-to-enhance-your-browsing-experience-uninstall-flipbuilder-toolbar-now/"><u>Ready to Enhance Your Browsing Experience? Uninstall FlipBuilder Toolbar Now!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-creating-flipbooks-from-pdfs-and-incorporating-watermarks-using-flipbuilder/"><u>Step-by-Step Guide: Creating Flipbooks From PDFs and Incorporating Watermarks Using FlipBuilder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-advantages-of-using-chatgpt-on-your-iphone-or-ipad/"><u>Top 6 Advantages of Using ChatGPT on Your iPhone or iPad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-airtag-wallets-in-2er-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated AirTag Wallets in 2Er 2024 - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-flipbuilder-share-button-a-comprehensive-guide/"><u>Understanding the FlipBuilder Share Button: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/unlock-the-potential-of-your-data-which-formats-are-compatible-for-conversion-with-flip-office/"><u>Unlock the Potential of Your Data: Which Formats Are Compatible for Conversion with Flip Office?</u></a></li>
 </ul></div>
 

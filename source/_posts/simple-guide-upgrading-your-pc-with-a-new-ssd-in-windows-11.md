@@ -1,7 +1,7 @@
 ---
 title: "Simple Guide: Upgrading Your PC with a New SSD in Windows 11"
-date: 2025-02-17T01:31:10.425Z
-updated: 2025-02-18T16:08:53.905Z
+date: 2025-03-01T21:55:46.379Z
+updated: 2025-03-07T15:02:54.148Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c78d797b177e528ae8e24bb4.jpg
@@ -24,17 +24,9 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -50,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -93,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -104,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -124,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -148,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,22 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-reverse-image-search-facebook/"><u>[New] 2024 Approved How to Reverse Image Search Facebook</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-lightning-fast-method-to-claim-tiktok-treasures/"><u>[New] 2024 Approved Lightning-Fast Method to Claim TikTok Treasures</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-cultivating-a-supportive-community-on-youtube/"><u>[Updated] Cultivating a Supportive Community on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ten-practical-ways-to-prevent-vr-sickness/"><u>[Updated] Ten Practical Ways to Prevent VR Sickness</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-strategies-for-print-problem-resolution-in-windows/"><u>Effective Strategies for Print Problem Resolution in Windows</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exclusive-material-dashboard-pro-elite-bootstrap-5-framework-for-admins-and-dashboards-by-creative-tim/"><u>Exclusive Material Dashboard PRO: Elite Bootstrap 5 Framework for Admins & Dashboards by Creative Tim</u></a></li>
-<li><a href="https://fox-search.techidaily.com/explore-diverse-react-native-blueprints-on-the-web-with-creative-tims-library-of-more-than-8-options-for-your-mobile-project/"><u>Explore Diverse React Native Blueprints on the Web with Creative Tim's Library of More Than 8 Options for Your Mobile Project.</u></a></li>
-<li><a href="https://fox-search.techidaily.com/explore-the-new-creatively-inspired-no-cost-vuetify-dashboard-templates-for-vuejs-applications/"><u>Explore the New Creatively-Inspired, No-Cost Vuetify Dashboard Templates for VueJS Applications</u></a></li>
-<li><a href="https://fox-search.techidaily.com/free-aspnet-design-assets-and-starter-kits-from-creative-tim-get-inspired/"><u>Free ASP.NET Design Assets & Starter Kits From Creative Tim - Get Inspired!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/free-bootstrap-ready-design-kit-from-impact-by-creative-tim-enhance-your-web-projects-now/"><u>Free Bootstrap-Ready Design Kit From Impact by Creative Tim – Enhance Your Web Projects Now!</u></a></li>
-<li><a href="https://fox-search.techidaily.com/free-essential-administrative-tool-the-react-and-material-ui-integrated-argon-dashboard-by-creative-tim/"><u>Free Essential Administrative Tool: The React & Material-UI Integrated Argon Dashboard by Creative Tim</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-asus-rog-phone-8-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Asus ROG Phone 8 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-of-morphvox-sound-adjustment/"><u>In 2024, Unveiling the Secrets of MorphVOX Sound Adjustment</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-laravel-headless-a-step-by-step-journey-with-creativetims-expert-tips-on-json-apis/"><u>Mastering Laravel Headless: A Step-by-Step Journey with @CreativeTim's Expert Tips on JSON APIs</u></a></li>
-<li><a href="https://fox-search.techidaily.com/nextjs-and-figma-seamlessly-combined-with-horizon-ai-by-creative-tim-cutting-edge-web-development-tools/"><u>NextJS & Figma Seamlessly Combined with Horizon AI by Creative Tim – Cutting-Edge Web Development Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/smartphone-lifespan-how-often-should-you-consider-an-upgrade/"><u>Smartphone Lifespan: How Often Should You Consider an Upgrade?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unleash-your-creativity-with-12-cel-mai-buns-cutting-edge-complimentary-3d-animator-software-get-the-new-202-update/"><u>Unleash Your Creativity with 12 Cel Mai Bun's Cutting-Edge, Complimentary 3D Animator Software - Get the New 202^ Update</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-scriptwriting-secrets-for-a-captivating-and-authentic-storyline/"><u>[Updated] 2024 Approved Scriptwriting Secrets for a Captivating and Authentic Storyline</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-crafting-a-cinematic-look-ken-burns-in-camtasa/"><u>[Updated] Crafting a Cinematic Look Ken Burns in Camtasa</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-engaging-vids-with-template-magic-for-2024/"><u>[Updated] Crafting Engaging Vids with Template Magic for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-disrupt-bot-patterns-for-natural-viewer-increase/"><u>[Updated] In 2024, Disrupt Bot Patterns for Natural Viewer Increase</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-exploring-the-law-recording-youtube-content-playback/"><u>[Updated] In 2024, Exploring the Law Recording YouTube Content Playback</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-restaurer-naturellement-vos-fichiers-effaces-sous-windows-10-8-ou-7-sans-frais/"><u>Comment Restaurer Naturellement Vos Fichiers Effacés Sous Windows 10, 8 Ou 7 Sans Frais</u></a></li>
+<li><a href="https://fox-http.techidaily.com/detailed-synopsis-googles-podcast-platform-explored/"><u>Detailed Synopsis Google's Podcast Platform Explored</u></a></li>
+<li><a href="https://fox-search.techidaily.com/faltante-winloadefi-despues-del-clonado-sintomas-y-remedios-detallados-en-4-puntos-plus-un-tipo-mas-para-evitarlo/"><u>Faltante Winload.efi Después Del Clonado, Síntomas Y Remedios Detallados en 4 Puntos + Un Tipo Más Para Evitarlo</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hdr-techniques-for-photoshop-pros-a-step-by-step-guide/"><u>In 2024, HDR Techniques for Photoshop Pros A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-basics-of-langchain-llm-an-introductory-journey-for-newcomers/"><u>Mastering the Basics of LangChain LLM: An Introductory Journey for Newcomers</u></a></li>
+<li><a href="https://fox-search.techidaily.com/next-gen-nvme-duplication-tech-elevate-your-data-handling-capabilities/"><u>Next-Gen NVMe Duplication Tech: Elevate Your Data Handling Capabilities</u></a></li>
+<li><a href="https://fox-search.techidaily.com/schnelle-migration-von-windows-11-auf-einen-ssd-mehrstufige-anleitung-ohne-komplette-neugestaltung/"><u>Schnelle Migration Von Windows 11 Auf Einen SSD - Mehrstufige Anleitung Ohne Komplette Neugestaltung</u></a></li>
+<li><a href="https://fox-search.techidaily.com/sichere-drei-methoden-zum-speichern-von-windows-11-auf-einer-externen-festplatte-eine-genaue-anleitung/"><u>Sichere Drei Methoden Zum Speichern Von Windows 11 Auf Einer Externen Festplatte - Eine Genaue Anleitung</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-issues-with-your-sennheiser-gaming-headset-microphone-a-step-by-nstep-guide/"><u>Solving Issues with Your Sennheiser Gaming Headset Microphone: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tips-pernyataan-bantu-anda-mempop-gunungnya-cara-restorasi-file-yang-dipertemukan-oleh-ccleaner/"><u>Tips Pernyataan Bantu Anda Mempop Gunungnya: Cara Restorasi File Yang Dipertemukan OLEH CCleaner</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-apps-pour-recouvrer-ses-messages-whatsapp-en-2024-solutions-iphone-et-android/"><u>Top Apps Pour Recouvrer Ses Messages WhatsApp en 2024 : Solutions iPhone Et Android</u></a></li>
+<li><a href="https://fox-search.techidaily.com/transferring-windows-10-system-image-to-a-differentnew-pc/"><u>Transferring Windows 10 System Image to a Different/New PC</u></a></li>
+<li><a href="https://fox-search.techidaily.com/zero-cost-solutions-for-thoroughly-refreshing-your-ipad-top-3-strategies-explored-in-depth/"><u>Zero-Cost Solutions for Thoroughly Refreshing Your iPad: Top 3 Strategies Explored in Depth</u></a></li>
 </ul></div>
 

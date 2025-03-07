@@ -1,7 +1,7 @@
 ---
 title: How-To Guide - Upload Audio/Files to DEX Pert's Library Using Drag and Drop with Finder or Explorer
-date: 2025-02-18T01:51:53.876Z
-updated: 2025-02-18T22:28:47.458Z
+date: 2025-03-03T06:12:17.840Z
+updated: 2025-03-07T00:34:56.764Z
 tags:
   - product
 categories:
@@ -27,10 +27,6 @@ I’m sure many DJs will prefer using this method to populate the DEX 3 library 
 
 #### Video Tutorial: Drag And Drop Files From Finder Or Explorer Into DEX 3’s Library
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-07-31 12:29:262018-10-03 15:34:37Video Tutorial | Drag And Drop Files Into The DEX 3 Library From Finder Or Explorer}
@@ -50,17 +46,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/draganddrop-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-showtime-media-centre-all-media-in-one-app/"><u>[Updated] 2024 Approved SHOWTIME Media Centre All Media in One App</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-dual-domain-delight-posting-videos-across-social-platforms/"><u>[Updated] Dual-Domain Delight Posting Videos Across Social Platforms</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-insights-into-tunefabs-recording-capabilities/"><u>[Updated] Expert Insights Into Tunefab's Recording Capabilities</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Pro Max Without a Passcode</u></a></li>
-<li><a href="https://fox-search.techidaily.com/customize-virtual-machine-settings-for-optimized-performance/"><u>Customize Virtual Machine Settings for Optimized Performance</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-and-effective-ways-to-transform-vimeo-content-into-high-quality-mp3-files/"><u>Easy and Effective Ways to Transform Vimeo Content Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://fox-search.techidaily.com/effortless-chromebook-video-capture-a-beginners-guide-to-quick-and-easy-recording/"><u>Effortless Chromebook Video Capture: A Beginner's Guide to Quick and Easy Recording</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhancing-productivity-with-the-versatile-notepad-feature/"><u>Enhancing Productivity with the Versatile Notepad Feature</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-honor-magic-5-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Magic 5 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/quick-and-effective-methods-to-strip-watermarks-off-reels-videos-2021-edition/"><u>Quick and Effective Methods to Strip Watermarks Off Reel's Videos - 2021 Edition</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-most-downloaded-android-apps-of-the-month/"><u>Updated In 2024, Most-Downloaded Android Apps of the Month</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-analysis-of-emporia-energy-smart-ev-charger-enhanced-performance-at-an-economical-cost/"><u>ZDNet's In-Depth Analysis of Emporia Energy Smart EV Charger: Enhanced Performance at an Economical Cost</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-subtitle-tactics-for-instagrams-video-feed/"><u>2024 Approved Subtitle Tactics for Instagram's Video Feed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-note-30i-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Note 30i</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-steps-to-watch-tv-shows-and-movies-with-video-on-demand-vod-apps-on-your-android-device/"><u>Easy Steps to Watch TV Shows and Movies with Video-On-Demand (VOD) Apps on Your Android Device</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-factors-that-lead-to-hardware-incompatibility-a-perspective-from-yl-software-experts/"><u>Exploring Factors That Lead To Hardware Incompatibility - A Perspective From YL Software Experts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/from-turntables-to-tap-playlists-how-downloads-and-streaming-dominate-todays-music-consumption-over-vinyl/"><u>From Turntables to Tap Playlists: How Downloads and Streaming Dominate Today's Music Consumption over Vinyl</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-note-50-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/identifying-and-resolving-windows-registry-errors-with-ease-a-comprehensive-guide-by-yl-computing/"><u>Identifying and Resolving Windows Registry Errors with Ease: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/locating-elusive-documents-on-windows-easily-a-guide-to-preventing-common-search-blunders-with-copernic-software-solutions/"><u>Locating Elusive Documents on Windows Easily: A Guide to Preventing Common Search Blunders with Copernic Software Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/next-level-mixing-expert-djs-share-top-tips-on-song-selection-and-harmonic-pairing-with-the-ultimate-crate-hack-guide/"><u>Next-Level Mixing: Expert DJs Share Top Tips on Song Selection and Harmonic Pairing with the Ultimate Crate Hack Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/personalizing-your-experience-tailor-windows-appearance-with-yl-software-solutions/"><u>Personalizing Your Experience: Tailor Windows Appearance with YL Software Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/setting-your-preferred-application-as-the-default-handler-for-specific-file-types-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Setting Your Preferred Application as the Default Handler for Specific File Types on Windows - A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/windows-registry-protection-guide-securely-saving-and-recovering-with-step-by-step-instructions-from-yl-software/"><u>Windows Registry Protection Guide: Securely Saving and Recovering with Step-by-Step Instructions From YL Software</u></a></li>
 </ul></div>
 

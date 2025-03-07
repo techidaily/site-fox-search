@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Installing Windows 1 the Operating System Onto a Lenovo Device Using USB Boot Methods in WIndows 11
-date: 2025-01-19T17:29:57.190Z
-updated: 2025-01-21T00:16:06.387Z
+date: 2025-03-05T18:33:45.844Z
+updated: 2025-03-07T04:58:41.816Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad741629d15f6a884c70afa9d.jpg
@@ -34,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -101,17 +93,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -120,14 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -144,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -198,17 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-insightful-approaches-to-recognizing-genuine-facebook-advocates/"><u>[Updated] 2024 Approved Insightful Approaches to Recognizing Genuine Facebook Advocates</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-twitch-content-integration-boosting-engagement-with-fb-sharing/"><u>[Updated] 2024 Approved Twitch Content Integration Boosting Engagement with FB Sharing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/adjusting-your-displays-font-size-a-step-by-step-guide-tech-solutions-with-yl/"><u>Adjusting Your Display's Font Size: A Step-by-Step Guide - Tech Solutions with YL</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-g54-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does G54 5G support MKV video files?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/gorgeous-high-definition-wallpaper-pack-unlimited-ring-backgrounds-from-yl-software/"><u>Gorgeous High-Definition Wallpaper Pack: Unlimited Ring Backgrounds From YL Software</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-105-classic-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia 105 Classic Phones with/without a PC</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/maximize-account-performance-with-these-premier-tiktok-metrics/"><u>Maximize Account Performance with These Premier TikTok Metrics</u></a></li>
-<li><a href="https://fox-search.techidaily.com/stunning-high-resolution-milky-way-galaxy-wallpapers-and-hd-space-themes-download-now-at-yl-computing/"><u>Stunning High-Resolution Milky Way Galaxy Wallpapers & HD Space Themes - Download Now at YL Computing</u></a></li>
-<li><a href="https://fox-search.techidaily.com/troubleshooting-guide-fixing-your-pcs-cooling-fan-problem-tips-from-yl-computing/"><u>Troubleshooting Guide: Fixing Your PC's Cooling Fan Problem - Tips From YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-netflix-issues-on-your-xbox-one/"><u>Troubleshooting Guide: How to Fix Netflix Issues on Your Xbox One</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rising-stars-choices-top-5-hmds-for-drone-enthusiasts/"><u>[New] Rising Stars' Choices Top 5 HMDs for Drone Enthusiasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elite-file-sender-mp4-to-social/"><u>[Updated] 2024 Approved Elite File Sender MP4 to Social</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unlocking-google-chromes-pip-potential-on-all-platforms/"><u>[Updated] In 2024, Unlocking Google Chrome's PIP Potential on All Platforms</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/big-names-reinstated-on-platforms-after-warnerchappell-amends-karaoke-exclusions-list/"><u>Big Names Reinstated on Platforms After Warner/Chappell Amends Karaoke Exclusions List</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-prime-video-destinations-the-ultimate-youtube-substitutes/"><u>Discover Prime Video Destinations: The Ultimate YouTube Substitutes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/easy-tutorial-on-how-to-make-a-screen-recording-with-screencast-o-matic-software/"><u>Easy Tutorial on How to Make a Screen Recording with Screencast-O-Matic Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715688245045-how-to-fix-obs-studio-drop-frames-issue/"><u>How To Fix OBS Studio Drop Frames Issue</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-a15-4g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy A15 4G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/installation-prerequisites-checklist-your-step-by-step-resource/"><u>Installation Prerequisites Checklist: Your Step-by-Step Resource</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/italian-conversational-starters-for-an-immersive-experience/"><u>Italian Conversational Starters for an Immersive Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-multimedia-with-samsung-galaxy-tab-s4-a-complete-android-tablet-review/"><u>Mastering Multimedia with Samsung Galaxy Tab S4: A Complete Android Tablet Review</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quick-guide-temporary-file-handling-within-file-explorers-navigation-interface/"><u>Quick Guide: Temporary File Handling Within File Explorer’s Navigation Interface</u></a></li>
+<li><a href="https://fox-search.techidaily.com/seamless-itunes-format-converter-turn-any-video-into-itunes-ready-media-files/"><u>Seamless iTunes Format Converter: Turn Any Video Into iTunes Ready Media Files</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simple-and-straightforward-methods-for-converting-pdf-documents-to-powerpoint-slideshows-on-android-a-2nd-guide/"><u>Simple and Straightforward Methods for Converting PDF Documents to PowerPoint Slideshows on Android - A 2nD Guide!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-mobile-apps-for-flawless-haircutting-on-android-and-iphone/"><u>Top-Rated Mobile Apps for Flawless Haircutting on Android and iPhone</u></a></li>
 </ul></div>
 

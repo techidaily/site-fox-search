@@ -1,7 +1,7 @@
 ---
 title: "Looking Back at 2020 with PCDJ: The Best and Most Memorable Music Moments"
-date: 2025-02-13T23:20:11.973Z
-updated: 2025-02-18T17:33:44.694Z
+date: 2025-03-05T10:13:10.290Z
+updated: 2025-03-07T14:02:00.198Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ Our development teams also stayed busy in 2020 with progress made across our ent
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2020 PCDJ Milestones
 
 * [DEX 3](https://tools.techidaily.com/pcdj/products/) received various upgrades included karaoke singer search, [Beatport and Beatsource LINK](https://tools.techidaily.com/pcdj/products/) streaming support (providing in-app access to millions of songs), [new key detection and key mixing features](https://tools.techidaily.com/pcdj/products/), and support for various [DJ controllers](https://tools.techidaily.com/pcdj/products/): Numark DJ2Go2 Touch and Mixtrack Platinum FX, Reloop DJ Touch (with full native display support), Hercules DJControl Starlight, Inpulse 200, Inpulse 300, and Inpulse 500.
@@ -47,10 +43,6 @@ Our development teams also stayed busy in 2020 with progress made across our ent
 With 2020 in the books we’re anxiously looking forward to building on our momentum in 2021\. New features, new services, and a more is on the way for our software lineup.
 
 _**Happy New Year — and here’s to a healthy and prosperous 2021!**_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -71,17 +63,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/year-in-review.jpg?fit=164
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-immediate-visuals-the-fastest-4-ways-to-snip-on-chrome-os/"><u>[Updated] In 2024, Immediate Visuals The Fastest 4 Ways To Snip on Chrome OS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-perfect-the-art-of-note-taking-mematic-way/"><u>[Updated] In 2024, Perfect the Art of Note-Taking - Mematic Way</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unbeatable-upvotes-reddits-hottest-threads-from-history/"><u>2024 Approved Unbeatable Upvotes Reddit's Hottest Threads From History</u></a></li>
-<li><a href="https://blog-min.techidaily.com/macx-hd-windows/"><u>公式MacX HD ビデオ変換プログラム(Windows)で安心してライセンスコードを購入・登録する方法</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/deciding-between-gmail-and-outlook-an-in-depth-review-of-which-is-better-for-you/"><u>Deciding Between Gmail & Outlook - An In-Depth Review of Which Is Better For You</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-fix-windows-server-2019-update-issues-expert-guidelines/"><u>How to Fix Windows Server 2019 Update Issues? (Expert Guidelines)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-epitome-of-engagement-celebrating-the-most-voted-posts-10/"><u>In 2024, The Epitome of Engagement Celebrating the Most-Voted Posts (10)</u></a></li>
-<li><a href="https://fox-search.techidaily.com/in-depth-guide-understanding-the-features-of-aomei-fonebackup/"><u>In-Depth Guide: Understanding the Features of AOMEI FoneBackup</u></a></li>
-<li><a href="https://fox-search.techidaily.com/pemulihan-jadwal-lama-melalui-tujuh-metode-menghadapi-berkas-perencaraan-terbaik/"><u>Pemulihan Jadwal Lama Melalui Tujuh Metode Menghadapi Berkas: Perencaraan Terbaik</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728504072809-robocopy/"><u>Robocopyを活用したファイル圧縮と移行方法【初心者にもわかりやすい】</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ssdwindows-osssd/"><u>SSDアップグレード：Windows OSを安全に大容量SSDに移行する方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-bypassing-tpm-with-rufus/"><u>Unlocking Windows 11: Bypassing TPM with Rufus</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-solvedhow-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] In 2024, Solved How to Blur Faces or Objects in YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-resolving-no-video-issue-on-sony-a6400-device-for-2024/"><u>[Updated] Resolving No-Video Issue on Sony A6400 Device for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-7-grand-strategy-masterpieces-for-epic-battles/"><u>2024 Approved Top 7 Grand Strategy Masterpieces for Epic Battles</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-zero-cost-malware-scrubbers-comprehensive-guide-to-keeping-your-devices-clean-with-malwarefox-and-others/"><u>Best Zero-Cost Malware Scrubbers : Comprehensive Guide to Keeping Your Devices Clean with MalwareFox and Others</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/detailed-analysis-unveiling-the-lenovo-yoga-a940s-capabilities/"><u>Detailed Analysis: Unveiling the Lenovo Yoga A940's Capabilities</u></a></li>
+<li><a href="https://fox-search.techidaily.com/exploring-word-meanings-and-definitions-in-the-comprehensive-dictionary-hub/"><u>Exploring Word Meanings & Definitions in the Comprehensive Dictionary Hub</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-motorola-moto-g34-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Motorola Moto G34 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-redmi-note-12-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi Redmi Note 12 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-liquid-hazards-the-aquatic-abilities-of-the-iphone-13/"><u>Navigating Liquid Hazards: The Aquatic Abilities of the iPhone 13</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tweak-system-configurations-using-the-ini-editing-tool/"><u>Tweak System Configurations Using the Ini Editing Tool</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-ini-configuration-on-file-explorers-properties/"><u>Understanding INI Configuration on File Explorer's Properties</u></a></li>
 </ul></div>
 
